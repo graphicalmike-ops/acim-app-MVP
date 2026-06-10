@@ -1,0 +1,258 @@
+{
+  "books": [
+    {
+      "id": "mft",
+      "component": "title-l1",
+      "title": "Manual para el Maestro",
+      "children": [
+        {
+          "id": "supplement-mft-intro",
+          "component": "item",
+          "title": "Introducción"
+        },
+        {
+          "id": "supplement-mft-ch1",
+          "component": "item",
+          "title": "Capítulo 1",
+          "subtitle": "¿Quiénes son los maestros de Dios?"
+        },
+        {
+          "id": "supplement-mft-ch2",
+          "component": "item",
+          "title": "Capítulo 2",
+          "subtitle": "¿Quiénes son sus alumnos?"
+        },
+        {
+          "id": "supplement-mft-ch3",
+          "component": "item",
+          "title": "Capítulo 3",
+          "subtitle": "¿Cuáles son los niveles de enseñanza?"
+        },
+        {
+          "id": "supplement-mft-ch4",
+          "component": "accordion",
+          "title": "Capítulo 4",
+          "subtitle": "¿Cuáles son las características de los maestros de Dios?",
+          "children": [
+            { "id": "supplement-mft-ch4", "component": "item", "title": "¿Cuáles son las características de los maestros de Dios?" },
+            { "id": "supplement-mft-ch4-s1", "component": "item", "title": "I. Confianza" },
+            { "id": "supplement-mft-ch4-s1a", "component": "item", "title": "A. El desarrollo de la confianza" },
+            { "id": "supplement-mft-ch4-s2", "component": "item", "title": "II. Honestidad" },
+            { "id": "supplement-mft-ch4-s3", "component": "item", "title": "III. Tolerancia" },
+            { "id": "supplement-mft-ch4-s4", "component": "item", "title": "IV. Mansedumbre" },
+            { "id": "supplement-mft-ch4-s5", "component": "item", "title": "V. Júbilo" },
+            { "id": "supplement-mft-ch4-s6", "component": "item", "title": "VI. Indefensión" },
+            { "id": "supplement-mft-ch4-s7", "component": "item", "title": "VII. Generosidad" },
+            { "id": "supplement-mft-ch4-s8", "component": "item", "title": "VIII. Paciencia" },
+            { "id": "supplement-mft-ch4-s9", "component": "item", "title": "IX. Fe" },
+            { "id": "supplement-mft-ch4-s10", "component": "item", "title": "X. Mentalidad abierta" }
+          ]
+        },
+        {
+          "id": "supplement-mft-ch5",
+          "component": "accordion",
+          "title": "Capítulo 5",
+          "subtitle": "¿Cómo se logra la curación?",
+          "children": [
+            { "id": "supplement-mft-ch5", "component": "item", "title": "¿Cómo se logra la curación?" },
+            { "id": "supplement-mft-ch5-s1", "component": "item", "title": "I. El propósito de la enfermedad" },
+            { "id": "supplement-mft-ch5-s2", "component": "item", "title": "II. Un cambio de percepción" },
+            { "id": "supplement-mft-ch5-s3", "component": "item", "title": "III. La función del maestro de Dios" }
+          ]
+        },
+        {
+          "id": "supplement-mft-ch6",
+          "component": "item",
+          "title": "Capítulo 6",
+          "subtitle": "¿Tiene siempre lugar la curación?"
+        },
+        {
+          "id": "supplement-mft-ch7",
+          "component": "item",
+          "title": "Capítulo 7",
+          "subtitle": "¿Debe repetirse la curación?"
+        },
+        {
+          "id": "supplement-mft-ch8",
+          "component": "item",
+          "title": "Capítulo 8",
+          "subtitle": "¿Cómo puede evitarse la percepción de grados de dificultad?"
+        },
+        {
+          "id": "supplement-mft-ch9",
+          "component": "item",
+          "title": "Capítulo 9",
+          "subtitle": "¿Se requieren cambios en las condiciones de vida de los maestros de Dios?"
+        },
+        {
+          "id": "supplement-mft-ch10",
+          "component": "item",
+          "title": "Capítulo 10",
+          "subtitle": "¿Cómo se deja de juzgar?"
+        },
+        {
+          "id": "supplement-mft-ch11",
+          "component": "item",
+          "title": "Capítulo 11",
+          "subtitle": "¿Es posible la paz en este mundo?"
+        },
+        {
+          "id": "supplement-mft-ch12",
+          "component": "item",
+          "title": "Capítulo 12",
+          "subtitle": "¿Cuántos maestros de Dios se necesitan para salvar al mundo?"
+        },
+        {
+          "id": "supplement-mft-ch13",
+          "component": "item",
+          "title": "Capítulo 13",
+          "subtitle": "¿Cuál es el verdadero significado del sacrificio?"
+        },
+        {
+          "id": "supplement-mft-ch14",
+          "component": "item",
+          "title": "Capítulo 14",
+          "subtitle": "¿Cómo acabará el mundo?"
+        },
+        {
+          "id": "supplement-mft-ch15",
+          "component": "item",
+          "title": "Capítulo 15",
+          "subtitle": "¿Será cada uno de nosotros juzgado al final?"
+        },
+        {
+          "id": "supplement-mft-ch16",
+          "component": "item",
+          "title": "Capítulo 16",
+          "subtitle": "¿Cómo debe pasar el día el maestro de Dios?"
+        },
+        {
+          "id": "supplement-mft-ch17",
+          "component": "item",
+          "title": "Capítulo 17",
+          "subtitle": "¿Cómo lidian los maestros de Dios con los pensamientos mágicos?"
+        },
+        {
+          "id": "supplement-mft-ch18",
+          "component": "item",
+          "title": "Capítulo 18",
+          "subtitle": "¿Cómo se lleva a cabo la corrección?"
+        },
+        {
+          "id": "supplement-mft-ch19",
+          "component": "item",
+          "title": "Capítulo 19",
+          "subtitle": "¿Qué es la justicia?"
+        },
+        {
+          "id": "supplement-mft-ch20",
+          "component": "item",
+          "title": "Capítulo 20",
+          "subtitle": "¿Qué es la Paz de Dios?"
+        },
+        {
+          "id": "supplement-mft-ch21",
+          "component": "item",
+          "title": "Capítulo 21",
+          "subtitle": "¿Qué papel desempeñan las palabras en el proceso de curación?"
+        },
+        {
+          "id": "supplement-mft-ch22",
+          "component": "item",
+          "title": "Capítulo 22",
+          "subtitle": "¿Qué relación existe entre la curación y la Expiación?"
+        },
+        {
+          "id": "supplement-mft-ch23",
+          "component": "item",
+          "title": "Capítulo 23",
+          "subtitle": "¿Desempeña Jesús un papel especial en la curación?"
+        },
+        {
+          "id": "supplement-mft-ch24",
+          "component": "item",
+          "title": "Capítulo 24",
+          "subtitle": "¿Existe la reencarnación?"
+        },
+        {
+          "id": "supplement-mft-ch25",
+          "component": "item",
+          "title": "Capítulo 25",
+          "subtitle": "¿Son deseables los poderes \"psíquicos\"?"
+        },
+        {
+          "id": "supplement-mft-ch26",
+          "component": "item",
+          "title": "Capítulo 26",
+          "subtitle": "¿Es posible llegar a Dios directamente?"
+        },
+        {
+          "id": "supplement-mft-ch27",
+          "component": "item",
+          "title": "Capítulo 27",
+          "subtitle": "¿Qué es la muerte?"
+        },
+        {
+          "id": "supplement-mft-ch28",
+          "component": "item",
+          "title": "Capítulo 28",
+          "subtitle": "¿Qué es la resurrección?"
+        },
+        {
+          "id": "supplement-mft-ch29",
+          "component": "item",
+          "title": "Capítulo 29",
+          "subtitle": "En cuanto a lo demás..."
+        },
+        {
+          "id": "supplement-mft-clarification",
+          "component": "title-l2",
+          "title": "Clarificación de Términos",
+          "children": [
+            {
+              "id": "supplement-mft-clarification-intro",
+              "anchor": "supplement-mft-clarification",
+              "component": "item",
+              "title": "Introducción"
+            },
+            {
+              "id": "supplement-mft-clarification-t1",
+              "component": "item",
+              "title": "1. Mente – Espíritu"
+            },
+            {
+              "id": "supplement-mft-clarification-t2",
+              "component": "item",
+              "title": "2. El ego – El Milagro"
+            },
+            {
+              "id": "supplement-mft-clarification-t3",
+              "component": "item",
+              "title": "3. El perdón – La Faz de Cristo"
+            },
+            {
+              "id": "supplement-mft-clarification-t4",
+              "component": "item",
+              "title": "4. La percepción verdadera – El Conocimiento"
+            },
+            {
+              "id": "supplement-mft-clarification-t5",
+              "component": "item",
+              "title": "5. Jesús – Cristo"
+            },
+            {
+              "id": "supplement-mft-clarification-t6",
+              "component": "item",
+              "title": "6. El Espíritu Santo"
+            },
+            {
+              "id": "supplement-mft-epilogo",
+              "component": "item",
+              "title": "Epílogo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

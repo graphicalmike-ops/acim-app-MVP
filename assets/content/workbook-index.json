@@ -1,0 +1,1111 @@
+{
+  "books": [
+    {
+      "id": "workbook",
+      "component": "title-l1",
+      "title": "Libro de Ejercicios",
+      "children": [
+        {
+          "id": "workbook-part1",
+          "component": "title-l2",
+          "title": "Parte I",
+          "children": [
+            {
+              "id": "workbook-intro",
+              "component": "item",
+              "title": "Introducción"
+            },
+            {
+              "id": "workbook-part1-lessons1-50",
+              "component": "accordion",
+              "title": "Lecciones 1 al 50",
+              "children": [
+                {
+                  "id": "workbook-l1",
+                  "component": "item",
+                  "title": "Lección 1",
+                  "subtitle": "Nada de lo que veo en esta habitación... tiene significado."
+                },
+                {
+                  "id": "workbook-l2",
+                  "component": "item",
+                  "title": "Lección 2",
+                  "subtitle": "Le he dado a todo lo que veo en esta habitación... todo el significado que tiene para mí."
+                },
+                {
+                  "id": "workbook-l3",
+                  "component": "item",
+                  "title": "Lección 3",
+                  "subtitle": "No entiendo nada de lo que veo en esta habitación..."
+                },
+                {
+                  "id": "workbook-l4",
+                  "component": "item",
+                  "title": "Lección 4",
+                  "subtitle": "Estos pensamientos no significan nada."
+                },
+                {
+                  "id": "workbook-l5",
+                  "component": "item",
+                  "title": "Lección 5",
+                  "subtitle": "Nunca estoy disgustado por la razón que creo."
+                },
+                {
+                  "id": "workbook-l6",
+                  "component": "item",
+                  "title": "Lección 6",
+                  "subtitle": "Estoy disgustado porque veo algo que no está ahí."
+                },
+                {
+                  "id": "workbook-l7",
+                  "component": "item",
+                  "title": "Lección 7",
+                  "subtitle": "Solo veo el pasado."
+                },
+                {
+                  "id": "workbook-l8",
+                  "component": "item",
+                  "title": "Lección 8",
+                  "subtitle": "Mi mente está absorbida con pensamientos del pasado."
+                },
+                {
+                  "id": "workbook-l9",
+                  "component": "item",
+                  "title": "Lección 9",
+                  "subtitle": "No veo nada tal como es ahora."
+                },
+                {
+                  "id": "workbook-l10",
+                  "component": "item",
+                  "title": "Lección 10",
+                  "subtitle": "Mis pensamientos no significan nada."
+                },
+                {
+                  "id": "workbook-l11",
+                  "component": "item",
+                  "title": "Lección 11",
+                  "subtitle": "Mis pensamientos sin significado me muestran un mundo sin significado."
+                },
+                {
+                  "id": "workbook-l12",
+                  "component": "item",
+                  "title": "Lección 12",
+                  "subtitle": "Estoy disgustado porque veo un mundo que no tiene significado."
+                },
+                {
+                  "id": "workbook-l13",
+                  "component": "item",
+                  "title": "Lección 13",
+                  "subtitle": "Un mundo sin significado engendra temor."
+                },
+                {
+                  "id": "workbook-l14",
+                  "component": "item",
+                  "title": "Lección 14",
+                  "subtitle": "Dios no creó un mundo sin significado."
+                },
+                {
+                  "id": "workbook-l15",
+                  "component": "item",
+                  "title": "Lección 15",
+                  "subtitle": "Mis pensamientos son imágenes que yo mismo he fabricado."
+                },
+                {
+                  "id": "workbook-l16",
+                  "component": "item",
+                  "title": "Lección 16",
+                  "subtitle": "No tengo pensamientos neutros."
+                },
+                {
+                  "id": "workbook-l17",
+                  "component": "item",
+                  "title": "Lección 17",
+                  "subtitle": "No veo cosas neutras."
+                },
+                {
+                  "id": "workbook-l18",
+                  "component": "item",
+                  "title": "Lección 18",
+                  "subtitle": "No soy el único que experimenta los efectos de mi manera de ver."
+                },
+                {
+                  "id": "workbook-l19",
+                  "component": "item",
+                  "title": "Lección 19",
+                  "subtitle": "No soy el único que experimenta los efectos de mis pensamientos."
+                },
+                {
+                  "id": "workbook-l20",
+                  "component": "item",
+                  "title": "Lección 20",
+                  "subtitle": "Estoy decidido a ver."
+                },
+                {
+                  "id": "workbook-l21",
+                  "component": "item",
+                  "title": "Lección 21",
+                  "subtitle": "Estoy decidido a ver las cosas de otra manera."
+                },
+                {
+                  "id": "workbook-l22",
+                  "component": "item",
+                  "title": "Lección 22",
+                  "subtitle": "Lo que veo es una forma de venganza."
+                },
+                {
+                  "id": "workbook-l23",
+                  "component": "item",
+                  "title": "Lección 23",
+                  "subtitle": "Puedo escaparme del mundo que veo renunciando a los pensamientos de ataque."
+                },
+                {
+                  "id": "workbook-l24",
+                  "component": "item",
+                  "title": "Lección 24",
+                  "subtitle": "No percibo lo que más me conviene."
+                },
+                {
+                  "id": "workbook-l25",
+                  "component": "item",
+                  "title": "Lección 25",
+                  "subtitle": "No sé cuál es el propósito de nada."
+                },
+                {
+                  "id": "workbook-l26",
+                  "component": "item",
+                  "title": "Lección 26",
+                  "subtitle": "Mis pensamientos de ataque atacan mi invulnerabilidad."
+                },
+                {
+                  "id": "workbook-l27",
+                  "component": "item",
+                  "title": "Lección 27",
+                  "subtitle": "Por encima de todo quiero ver."
+                },
+                {
+                  "id": "workbook-l28",
+                  "component": "item",
+                  "title": "Lección 28",
+                  "subtitle": "Por encima de todo quiero ver las cosas de otra manera."
+                },
+                {
+                  "id": "workbook-l29",
+                  "component": "item",
+                  "title": "Lección 29",
+                  "subtitle": "Dios está en todo lo que veo."
+                },
+                {
+                  "id": "workbook-l30",
+                  "component": "item",
+                  "title": "Lección 30",
+                  "subtitle": "Dios está en todo lo que veo porque Dios está en mi mente."
+                },
+                {
+                  "id": "workbook-l31",
+                  "component": "item",
+                  "title": "Lección 31",
+                  "subtitle": "No soy víctima del mundo que veo."
+                },
+                {
+                  "id": "workbook-l32",
+                  "component": "item",
+                  "title": "Lección 32",
+                  "subtitle": "He inventado el mundo que veo."
+                },
+                {
+                  "id": "workbook-l33",
+                  "component": "item",
+                  "title": "Lección 33",
+                  "subtitle": "Hay otra manera de ver el mundo."
+                },
+                {
+                  "id": "workbook-l34",
+                  "component": "item",
+                  "title": "Lección 34",
+                  "subtitle": "Podría ver paz en lugar de esto."
+                },
+                {
+                  "id": "workbook-l35",
+                  "component": "item",
+                  "title": "Lección 35",
+                  "subtitle": "Mi mente es parte de la de Dios. Soy muy santo."
+                },
+                {
+                  "id": "workbook-l36",
+                  "component": "item",
+                  "title": "Lección 36",
+                  "subtitle": "Mi santidad envuelve todo lo que veo."
+                },
+                {
+                  "id": "workbook-l37",
+                  "component": "item",
+                  "title": "Lección 37",
+                  "subtitle": "Mi santidad bendice al mundo."
+                },
+                {
+                  "id": "workbook-l38",
+                  "component": "item",
+                  "title": "Lección 38",
+                  "subtitle": "No hay nada que mi santidad no pueda hacer."
+                },
+                {
+                  "id": "workbook-l39",
+                  "component": "item",
+                  "title": "Lección 39",
+                  "subtitle": "Mi santidad es mi salvación."
+                },
+                {
+                  "id": "workbook-l40",
+                  "component": "item",
+                  "title": "Lección 40",
+                  "subtitle": "Soy bendito por ser un Hijo de Dios."
+                },
+                {
+                  "id": "workbook-l41",
+                  "component": "item",
+                  "title": "Lección 41",
+                  "subtitle": "Dios va conmigo dondequiera que yo voy."
+                },
+                {
+                  "id": "workbook-l42",
+                  "component": "item",
+                  "title": "Lección 42",
+                  "subtitle": "Dios es mi Fortaleza. La visión es Su regalo."
+                },
+                {
+                  "id": "workbook-l43",
+                  "component": "item",
+                  "title": "Lección 43",
+                  "subtitle": "Dios es mi Fuente. No puedo ver separado de Él."
+                },
+                {
+                  "id": "workbook-l44",
+                  "component": "item",
+                  "title": "Lección 44",
+                  "subtitle": "Dios es la Luz en la que veo."
+                },
+                {
+                  "id": "workbook-l45",
+                  "component": "item",
+                  "title": "Lección 45",
+                  "subtitle": "Dios es la Mente con la que pienso."
+                },
+                {
+                  "id": "workbook-l46",
+                  "component": "item",
+                  "title": "Lección 46",
+                  "subtitle": "Dios es el Amor en el que perdono."
+                },
+                {
+                  "id": "workbook-l47",
+                  "component": "item",
+                  "title": "Lección 47",
+                  "subtitle": "Dios es la Fortaleza en la que confío."
+                },
+                {
+                  "id": "workbook-l48",
+                  "component": "item",
+                  "title": "Lección 48",
+                  "subtitle": "No hay nada que temer."
+                },
+                {
+                  "id": "workbook-l49",
+                  "component": "item",
+                  "title": "Lección 49",
+                  "subtitle": "La Voz de Dios me habla durante todo el día."
+                },
+                {
+                  "id": "workbook-l50",
+                  "component": "item",
+                  "title": "Lección 50",
+                  "subtitle": "El Amor de Dios es mi sustento."
+                }
+              ]
+            },
+            {
+              "id": "workbook-part1-review1",
+              "component": "accordion",
+              "title": "Primer repaso",
+              "children": [
+                {
+                  "id": "workbook-part1-review1-intro",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                {
+                  "id": "workbook-l51",
+                  "component": "item",
+                  "title": "Lección 51",
+                  "subtitle": "Repaso (1–5)"
+                },
+                {
+                  "id": "workbook-l52",
+                  "component": "item",
+                  "title": "Lección 52",
+                  "subtitle": "Repaso (6–10)"
+                },
+                {
+                  "id": "workbook-l53",
+                  "component": "item",
+                  "title": "Lección 53",
+                  "subtitle": "Repaso (11–15)"
+                },
+                {
+                  "id": "workbook-l54",
+                  "component": "item",
+                  "title": "Lección 54",
+                  "subtitle": "Repaso (16–20)"
+                },
+                {
+                  "id": "workbook-l55",
+                  "component": "item",
+                  "title": "Lección 55",
+                  "subtitle": "Repaso (21–25)"
+                },
+                {
+                  "id": "workbook-l56",
+                  "component": "item",
+                  "title": "Lección 56",
+                  "subtitle": "Repaso (26–30)"
+                },
+                {
+                  "id": "workbook-l57",
+                  "component": "item",
+                  "title": "Lección 57",
+                  "subtitle": "Repaso (31–35)"
+                },
+                {
+                  "id": "workbook-l58",
+                  "component": "item",
+                  "title": "Lección 58",
+                  "subtitle": "Repaso (36–40)"
+                },
+                {
+                  "id": "workbook-l59",
+                  "component": "item",
+                  "title": "Lección 59",
+                  "subtitle": "Repaso (41–45)"
+                },
+                {
+                  "id": "workbook-l60",
+                  "component": "item",
+                  "title": "Lección 60",
+                  "subtitle": "Repaso (46–50)"
+                }
+              ]
+            },
+            {
+              "id": "workbook-part1-lessons61-80",
+              "component": "accordion",
+              "title": "Lecciones 61 al 80",
+              "children": [
+                {
+                  "id": "workbook-l61",
+                  "component": "item",
+                  "title": "Lección 61",
+                  "subtitle": "Soy la luz del mundo."
+                },
+                {
+                  "id": "workbook-l62",
+                  "component": "item",
+                  "title": "Lección 62",
+                  "subtitle": "Perdonar es mi función por ser la luz del mundo."
+                },
+                {
+                  "id": "workbook-l63",
+                  "component": "item",
+                  "title": "Lección 63",
+                  "subtitle": "La luz del mundo brinda paz a todas las mentes a través de mi perdón."
+                },
+                {
+                  "id": "workbook-l64",
+                  "component": "item",
+                  "title": "Lección 64",
+                  "subtitle": "Que no me olvide de mi función."
+                },
+                {
+                  "id": "workbook-l65",
+                  "component": "item",
+                  "title": "Lección 65",
+                  "subtitle": "Mi única función es la que Dios me dio."
+                },
+                {
+                  "id": "workbook-l66",
+                  "component": "item",
+                  "title": "Lección 66",
+                  "subtitle": "Mi función y mi felicidad son una."
+                },
+                {
+                  "id": "workbook-l67",
+                  "component": "item",
+                  "title": "Lección 67",
+                  "subtitle": "El Amor me creó a Su Semejanza."
+                },
+                {
+                  "id": "workbook-l68",
+                  "component": "item",
+                  "title": "Lección 68",
+                  "subtitle": "El amor no abriga resentimientos."
+                },
+                {
+                  "id": "workbook-l69",
+                  "component": "item",
+                  "title": "Lección 69",
+                  "subtitle": "Mis resentimientos ocultan la luz del mundo de mí."
+                },
+                {
+                  "id": "workbook-l70",
+                  "component": "item",
+                  "title": "Lección 70",
+                  "subtitle": "Mi salvación procede de mí."
+                },
+                {
+                  "id": "workbook-l71",
+                  "component": "item",
+                  "title": "Lección 71",
+                  "subtitle": "Solo el plan de Dios para la salvación tendrá éxito."
+                },
+                {
+                  "id": "workbook-l72",
+                  "component": "item",
+                  "title": "Lección 72",
+                  "subtitle": "Abrigar resentimientos es un ataque contra el plan de Dios para la salvación."
+                },
+                {
+                  "id": "workbook-l73",
+                  "component": "item",
+                  "title": "Lección 73",
+                  "subtitle": "Mi voluntad es que se haga la luz."
+                },
+                {
+                  "id": "workbook-l74",
+                  "component": "item",
+                  "title": "Lección 74",
+                  "subtitle": "No hay más voluntad que la de Dios."
+                },
+                {
+                  "id": "workbook-l75",
+                  "component": "item",
+                  "title": "Lección 75",
+                  "subtitle": "La luz ha llegado."
+                },
+                {
+                  "id": "workbook-l76",
+                  "component": "item",
+                  "title": "Lección 76",
+                  "subtitle": "No me gobiernan otras leyes que las de Dios."
+                },
+                {
+                  "id": "workbook-l77",
+                  "component": "item",
+                  "title": "Lección 77",
+                  "subtitle": "Tengo derecho a los milagros."
+                },
+                {
+                  "id": "workbook-l78",
+                  "component": "item",
+                  "title": "Lección 78",
+                  "subtitle": "¡Que los milagros reemplacen todos mis resentimientos!"
+                },
+                {
+                  "id": "workbook-l79",
+                  "component": "item",
+                  "title": "Lección 79",
+                  "subtitle": "Que reconozca el problema para que pueda ser resuelto."
+                },
+                {
+                  "id": "workbook-l80",
+                  "component": "item",
+                  "title": "Lección 80",
+                  "subtitle": "Que reconozca que mis problemas se han resuelto."
+                }
+              ]
+            },
+            {
+              "id": "workbook-part1-review2",
+              "component": "accordion",
+              "title": "Segundo repaso",
+              "children": [
+                {
+                  "id": "workbook-part1-review2-intro",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                { "id": "workbook-l81", "component": "item", "title": "Lección 81", "subtitle": "Repaso (61 y 62)" },
+                { "id": "workbook-l82", "component": "item", "title": "Lección 82", "subtitle": "Repaso (63 y 64)" },
+                { "id": "workbook-l83", "component": "item", "title": "Lección 83", "subtitle": "Repaso (65 y 66)" },
+                { "id": "workbook-l84", "component": "item", "title": "Lección 84", "subtitle": "Repaso (67 y 68)" },
+                { "id": "workbook-l85", "component": "item", "title": "Lección 85", "subtitle": "Repaso (69 y 70)" },
+                { "id": "workbook-l86", "component": "item", "title": "Lección 86", "subtitle": "Repaso (71 y 72)" },
+                { "id": "workbook-l87", "component": "item", "title": "Lección 87", "subtitle": "Repaso (73 y 74)" },
+                { "id": "workbook-l88", "component": "item", "title": "Lección 88", "subtitle": "Repaso (75 y 76)" },
+                { "id": "workbook-l89", "component": "item", "title": "Lección 89", "subtitle": "Repaso (77 y 78)" },
+                { "id": "workbook-l90", "component": "item", "title": "Lección 90", "subtitle": "Repaso (79 y 80)" }
+              ]
+            },
+            {
+              "id": "workbook-part1-lessons91-110",
+              "component": "accordion",
+              "title": "Lecciones 91 al 110",
+              "children": [
+                { "id": "workbook-l91", "component": "item", "title": "Lección 91", "subtitle": "Los milagros se ven en la luz." },
+                { "id": "workbook-l92", "component": "item", "title": "Lección 92", "subtitle": "Los milagros se ven en la luz, y la luz y la fortaleza son una." },
+                { "id": "workbook-l93", "component": "item", "title": "Lección 93", "subtitle": "La luz, la dicha y la paz moran en mí." },
+                { "id": "workbook-l94", "component": "item", "title": "Lección 94", "subtitle": "Soy tal como Dios me creó." },
+                { "id": "workbook-l95", "component": "item", "title": "Lección 95", "subtitle": "Soy un solo Ser, unido a mi Creador." },
+                { "id": "workbook-l96", "component": "item", "title": "Lección 96", "subtitle": "La salvación procede de mi único Ser." },
+                { "id": "workbook-l97", "component": "item", "title": "Lección 97", "subtitle": "Soy Espíritu." },
+                { "id": "workbook-l98", "component": "item", "title": "Lección 98", "subtitle": "Aceptaré el papel que me corresponde en el plan de Dios para la salvación." },
+                { "id": "workbook-l99", "component": "item", "title": "Lección 99", "subtitle": "La salvación es mi única función aquí." },
+                { "id": "workbook-l100", "component": "item", "title": "Lección 100", "subtitle": "Mi papel en el plan de Dios para la salvación es esencial." },
+                { "id": "workbook-l101", "component": "item", "title": "Lección 101", "subtitle": "La Voluntad de Dios para mí es perfecta felicidad." },
+                { "id": "workbook-l102", "component": "item", "title": "Lección 102", "subtitle": "Comparto con Dios Su Voluntad de que yo sea feliz." },
+                { "id": "workbook-l103", "component": "item", "title": "Lección 103", "subtitle": "Dios, al ser Amor, es también felicidad." },
+                { "id": "workbook-l104", "component": "item", "title": "Lección 104", "subtitle": "Busco únicamente lo que en verdad me pertenece." },
+                { "id": "workbook-l105", "component": "item", "title": "Lección 105", "subtitle": "Mías son la Paz y la Dicha de Dios." },
+                { "id": "workbook-l106", "component": "item", "title": "Lección 106", "subtitle": "Déjame aquietarme y escuchar la verdad." },
+                { "id": "workbook-l107", "component": "item", "title": "Lección 107", "subtitle": "La verdad corregirá todos los errores de mi mente." },
+                { "id": "workbook-l108", "component": "item", "title": "Lección 108", "subtitle": "Dar y recibir son en verdad lo mismo." },
+                { "id": "workbook-l109", "component": "item", "title": "Lección 109", "subtitle": "Descanso en Dios." },
+                { "id": "workbook-l110", "component": "item", "title": "Lección 110", "subtitle": "Soy tal como Dios me creó." }
+              ]
+            },
+            {
+              "id": "workbook-part1-review3",
+              "component": "accordion",
+              "title": "Tercer repaso",
+              "children": [
+                {
+                  "id": "workbook-part1-review3-intro",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                { "id": "workbook-l111", "component": "item", "title": "Lección 111", "subtitle": "Repaso (91 y 92)" },
+                { "id": "workbook-l112", "component": "item", "title": "Lección 112", "subtitle": "Repaso (93 y 94)" },
+                { "id": "workbook-l113", "component": "item", "title": "Lección 113", "subtitle": "Repaso (95 y 96)" },
+                { "id": "workbook-l114", "component": "item", "title": "Lección 114", "subtitle": "Repaso (97 y 98)" },
+                { "id": "workbook-l115", "component": "item", "title": "Lección 115", "subtitle": "Repaso (99 y 100)" },
+                { "id": "workbook-l116", "component": "item", "title": "Lección 116", "subtitle": "Repaso (101 y 102)" },
+                { "id": "workbook-l117", "component": "item", "title": "Lección 117", "subtitle": "Repaso (103 y 104)" },
+                { "id": "workbook-l118", "component": "item", "title": "Lección 118", "subtitle": "Repaso (105 y 106)" },
+                { "id": "workbook-l119", "component": "item", "title": "Lección 119", "subtitle": "Repaso (107 y 108)" },
+                { "id": "workbook-l120", "component": "item", "title": "Lección 120", "subtitle": "Repaso (109 y 110)" }
+              ]
+            },
+            {
+              "id": "workbook-part1-lessons121-140",
+              "component": "accordion",
+              "title": "Lecciones 121 al 140",
+              "children": [
+                { "id": "workbook-l121", "component": "item", "title": "Lección 121", "subtitle": "El perdón es la llave de la felicidad." },
+                { "id": "workbook-l122", "component": "item", "title": "Lección 122", "subtitle": "El perdón me ofrece todo lo que deseo." },
+                { "id": "workbook-l123", "component": "item", "title": "Lección 123", "subtitle": "Gracias, Padre, por los dones que me has concedido." },
+                { "id": "workbook-l124", "component": "item", "title": "Lección 124", "subtitle": "Que no me olvide de que soy uno con Dios." },
+                { "id": "workbook-l125", "component": "item", "title": "Lección 125", "subtitle": "En la quietud recibo hoy la Palabra de Dios." },
+                { "id": "workbook-l126", "component": "item", "title": "Lección 126", "subtitle": "Todo lo que doy es a mí mismo a quien se lo doy." },
+                { "id": "workbook-l127", "component": "item", "title": "Lección 127", "subtitle": "No hay otro amor que el de Dios." },
+                { "id": "workbook-l128", "component": "item", "title": "Lección 128", "subtitle": "El mundo que veo no me ofrece nada que yo desee." },
+                { "id": "workbook-l129", "component": "item", "title": "Lección 129", "subtitle": "Más allá de este mundo hay un mundo que deseo." },
+                { "id": "workbook-l130", "component": "item", "title": "Lección 130", "subtitle": "Es imposible ver dos mundos." },
+                { "id": "workbook-l131", "component": "item", "title": "Lección 131", "subtitle": "Nadie que se proponga alcanzar la verdad puede fracasar." },
+                { "id": "workbook-l132", "component": "item", "title": "Lección 132", "subtitle": "Libero al mundo de todo lo que alguna vez pensé que era." },
+                { "id": "workbook-l133", "component": "item", "title": "Lección 133", "subtitle": "No le daré valor a lo que no lo tiene." },
+                { "id": "workbook-l134", "component": "item", "title": "Lección 134", "subtitle": "Quiero percibir el perdón tal como es." },
+                { "id": "workbook-l135", "component": "item", "title": "Lección 135", "subtitle": "Si me defiendo he sido atacado." },
+                { "id": "workbook-l136", "component": "item", "title": "Lección 136", "subtitle": "La enfermedad es una defensa contra la verdad." },
+                { "id": "workbook-l137", "component": "item", "title": "Lección 137", "subtitle": "Cuando me curo no soy el único que se cura." },
+                { "id": "workbook-l138", "component": "item", "title": "Lección 138", "subtitle": "El Cielo es la alternativa por la que me tengo que decidir." },
+                { "id": "workbook-l139", "component": "item", "title": "Lección 139", "subtitle": "Aceptaré la Expiación para mí mismo." },
+                { "id": "workbook-l140", "component": "item", "title": "Lección 140", "subtitle": "La salvación es lo único que cura." }
+              ]
+            },
+            {
+              "id": "workbook-part1-review4",
+              "component": "accordion",
+              "title": "Cuarto repaso",
+              "children": [
+                {
+                  "id": "workbook-part1-review4-intro",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                { "id": "workbook-l141", "component": "item", "title": "Lección 141", "subtitle": "Repaso (121 y 122)" },
+                { "id": "workbook-l142", "component": "item", "title": "Lección 142", "subtitle": "Repaso (123 y 124)" },
+                { "id": "workbook-l143", "component": "item", "title": "Lección 143", "subtitle": "Repaso (125 y 126)" },
+                { "id": "workbook-l144", "component": "item", "title": "Lección 144", "subtitle": "Repaso (127 y 128)" },
+                { "id": "workbook-l145", "component": "item", "title": "Lección 145", "subtitle": "Repaso (129 y 130)" },
+                { "id": "workbook-l146", "component": "item", "title": "Lección 146", "subtitle": "Repaso (131 y 132)" },
+                { "id": "workbook-l147", "component": "item", "title": "Lección 147", "subtitle": "Repaso (133 y 134)" },
+                { "id": "workbook-l148", "component": "item", "title": "Lección 148", "subtitle": "Repaso (135 y 136)" },
+                { "id": "workbook-l149", "component": "item", "title": "Lección 149", "subtitle": "Repaso (137 y 138)" },
+                { "id": "workbook-l150", "component": "item", "title": "Lección 150", "subtitle": "Repaso (139 y 140)" }
+              ]
+            },
+            {
+              "id": "workbook-part1-lessons151-170",
+              "component": "accordion",
+              "title": "Lecciones 151 al 170",
+              "children": [
+                { "id": "workbook-l151", "component": "item", "title": "Lección 151", "subtitle": "Todas las cosas son ecos de la Voz que habla por Dios." },
+                { "id": "workbook-l152", "component": "item", "title": "Lección 152", "subtitle": "Tengo el poder de decidir." },
+                { "id": "workbook-l153", "component": "item", "title": "Lección 153", "subtitle": "En mi indefensión radica mi seguridad." },
+                { "id": "workbook-l154", "component": "item", "title": "Lección 154", "subtitle": "Me cuento entre los ministros de Dios." },
+                { "id": "workbook-l155", "component": "item", "title": "Lección 155", "subtitle": "Me haré a un lado y dejaré que Él me muestre el camino." },
+                { "id": "workbook-l156", "component": "item", "title": "Lección 156", "subtitle": "Camino con Dios en perfecta santidad." },
+                { "id": "workbook-l157", "component": "item", "title": "Lección 157", "subtitle": "En Su Presencia he de estar ahora." },
+                { "id": "workbook-l158", "component": "item", "title": "Lección 158", "subtitle": "Hoy aprendo a dar tal como recibo." },
+                { "id": "workbook-l159", "component": "item", "title": "Lección 159", "subtitle": "Doy los milagros que he recibido." },
+                { "id": "workbook-l160", "component": "item", "title": "Lección 160", "subtitle": "Yo estoy en mi hogar. El miedo es el que es un extraño aquí." },
+                { "id": "workbook-l161", "component": "item", "title": "Lección 161", "subtitle": "Dame tu bendición, santo Hijo de Dios." },
+                { "id": "workbook-l162", "component": "item", "title": "Lección 162", "subtitle": "Soy tal como Dios me creó." },
+                { "id": "workbook-l163", "component": "item", "title": "Lección 163", "subtitle": "La muerte no existe. El Hijo de Dios es libre." },
+                { "id": "workbook-l164", "component": "item", "title": "Lección 164", "subtitle": "Ahora somos uno con Aquel que es nuestra Fuente." },
+                { "id": "workbook-l165", "component": "item", "title": "Lección 165", "subtitle": "Que mi mente no niegue el Pensamiento de Dios." },
+                { "id": "workbook-l166", "component": "item", "title": "Lección 166", "subtitle": "Se me han confiado los dones de Dios." },
+                { "id": "workbook-l167", "component": "item", "title": "Lección 167", "subtitle": "Solo hay una vida y esa es la Vida que comparto con Dios." },
+                { "id": "workbook-l168", "component": "item", "title": "Lección 168", "subtitle": "Tu Gracia me es dada. La reclamo ahora." },
+                { "id": "workbook-l169", "component": "item", "title": "Lección 169", "subtitle": "Por la gracia vivo. Por la gracia soy liberado." },
+                { "id": "workbook-l170", "component": "item", "title": "Lección 170", "subtitle": "En Dios no hay crueldad ni en mí tampoco." }
+              ]
+            },
+            {
+              "id": "workbook-part1-review5",
+              "component": "accordion",
+              "title": "Quinto repaso",
+              "children": [
+                {
+                  "id": "workbook-part1-review5-intro",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                { "id": "workbook-l171", "component": "item", "title": "Lección 171", "subtitle": "Repaso (151 y 152)" },
+                { "id": "workbook-l172", "component": "item", "title": "Lección 172", "subtitle": "Repaso (153 y 154)" },
+                { "id": "workbook-l173", "component": "item", "title": "Lección 173", "subtitle": "Repaso (155 y 156)" },
+                { "id": "workbook-l174", "component": "item", "title": "Lección 174", "subtitle": "Repaso (157 y 158)" },
+                { "id": "workbook-l175", "component": "item", "title": "Lección 175", "subtitle": "Repaso (159 y 160)" },
+                { "id": "workbook-l176", "component": "item", "title": "Lección 176", "subtitle": "Repaso (161 y 162)" },
+                { "id": "workbook-l177", "component": "item", "title": "Lección 177", "subtitle": "Repaso (163 y 164)" },
+                { "id": "workbook-l178", "component": "item", "title": "Lección 178", "subtitle": "Repaso (165 y 166)" },
+                { "id": "workbook-l179", "component": "item", "title": "Lección 179", "subtitle": "Repaso (167 y 168)" },
+                { "id": "workbook-l180", "component": "item", "title": "Lección 180", "subtitle": "Repaso (169 y 170)" }
+              ]
+            },
+            {
+              "id": "workbook-part1-lessons181-200",
+              "component": "accordion",
+              "title": "Lecciones 181 al 200",
+              "children": [
+                { "id": "workbook-part1-lessons181-200-intro", "component": "item", "title": "Introducción" },
+                { "id": "workbook-l181", "component": "item", "title": "Lección 181", "subtitle": "Confío en mis hermanos, que son uno conmigo." },
+                { "id": "workbook-l182", "component": "item", "title": "Lección 182", "subtitle": "Permaneceré muy quedo por un instante e iré a mi hogar." },
+                { "id": "workbook-l183", "component": "item", "title": "Lección 183", "subtitle": "Invoco el Nombre de Dios y el Mío Propio." },
+                { "id": "workbook-l184", "component": "item", "title": "Lección 184", "subtitle": "El Nombre de Dios es mi herencia." },
+                { "id": "workbook-l185", "component": "item", "title": "Lección 185", "subtitle": "Deseo la Paz de Dios." },
+                { "id": "workbook-l186", "component": "item", "title": "Lección 186", "subtitle": "De mí depende la salvación del mundo." },
+                { "id": "workbook-l187", "component": "item", "title": "Lección 187", "subtitle": "Bendigo al mundo porque me bendigo a mí mismo." },
+                { "id": "workbook-l188", "component": "item", "title": "Lección 188", "subtitle": "La Paz de Dios refulge en mí ahora." },
+                { "id": "workbook-l189", "component": "item", "title": "Lección 189", "subtitle": "Siento el Amor de Dios dentro de mí ahora." },
+                { "id": "workbook-l190", "component": "item", "title": "Lección 190", "subtitle": "Elijo el Júbilo de Dios en lugar del dolor." },
+                { "id": "workbook-l191", "component": "item", "title": "Lección 191", "subtitle": "Soy el santo Hijo de Dios Mismo." },
+                { "id": "workbook-l192", "component": "item", "title": "Lección 192", "subtitle": "Tengo una función que Dios quiere que desempeñe." },
+                { "id": "workbook-l193", "component": "item", "title": "Lección 193", "subtitle": "Todas las cosas son lecciones que Dios quiere que yo aprenda." },
+                { "id": "workbook-l194", "component": "item", "title": "Lección 194", "subtitle": "Pongo el futuro en Manos de Dios." },
+                { "id": "workbook-l195", "component": "item", "title": "Lección 195", "subtitle": "El amor es el camino que recorro con gratitud." },
+                { "id": "workbook-l196", "component": "item", "title": "Lección 196", "subtitle": "No es sino a mí mismo a quien crucifico." },
+                { "id": "workbook-l197", "component": "item", "title": "Lección 197", "subtitle": "No puede ser sino mi propia gratitud la que me gano." },
+                { "id": "workbook-l198", "component": "item", "title": "Lección 198", "subtitle": "Solo mi propia condenación me hace daño." },
+                { "id": "workbook-l199", "component": "item", "title": "Lección 199", "subtitle": "No soy un cuerpo. Soy libre." },
+                { "id": "workbook-l200", "component": "item", "title": "Lección 200", "subtitle": "No hay más paz que la de Dios." }
+              ]
+            },
+            {
+              "id": "workbook-part1-review6",
+              "component": "accordion",
+              "title": "Sexto repaso",
+              "children": [
+                {
+                  "id": "workbook-part1-review6-intro",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                { "id": "workbook-l201", "component": "item", "title": "Lección 201", "subtitle": "Repaso (181)" },
+                { "id": "workbook-l202", "component": "item", "title": "Lección 202", "subtitle": "Repaso (182)" },
+                { "id": "workbook-l203", "component": "item", "title": "Lección 203", "subtitle": "Repaso (183)" },
+                { "id": "workbook-l204", "component": "item", "title": "Lección 204", "subtitle": "Repaso (184)" },
+                { "id": "workbook-l205", "component": "item", "title": "Lección 205", "subtitle": "Repaso (185)" },
+                { "id": "workbook-l206", "component": "item", "title": "Lección 206", "subtitle": "Repaso (186)" },
+                { "id": "workbook-l207", "component": "item", "title": "Lección 207", "subtitle": "Repaso (187)" },
+                { "id": "workbook-l208", "component": "item", "title": "Lección 208", "subtitle": "Repaso (188)" },
+                { "id": "workbook-l209", "component": "item", "title": "Lección 209", "subtitle": "Repaso (189)" },
+                { "id": "workbook-l210", "component": "item", "title": "Lección 210", "subtitle": "Repaso (190)" },
+                { "id": "workbook-l211", "component": "item", "title": "Lección 211", "subtitle": "Repaso (191)" },
+                { "id": "workbook-l212", "component": "item", "title": "Lección 212", "subtitle": "Repaso (192)" },
+                { "id": "workbook-l213", "component": "item", "title": "Lección 213", "subtitle": "Repaso (193)" },
+                { "id": "workbook-l214", "component": "item", "title": "Lección 214", "subtitle": "Repaso (194)" },
+                { "id": "workbook-l215", "component": "item", "title": "Lección 215", "subtitle": "Repaso (195)" },
+                { "id": "workbook-l216", "component": "item", "title": "Lección 216", "subtitle": "Repaso (196)" },
+                { "id": "workbook-l217", "component": "item", "title": "Lección 217", "subtitle": "Repaso (197)" },
+                { "id": "workbook-l218", "component": "item", "title": "Lección 218", "subtitle": "Repaso (198)" },
+                { "id": "workbook-l219", "component": "item", "title": "Lección 219", "subtitle": "Repaso (199)" },
+                { "id": "workbook-l220", "component": "item", "title": "Lección 220", "subtitle": "Repaso (200)" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "workbook-part2",
+          "component": "title-l2",
+          "title": "Parte II",
+          "children": [
+            {
+              "id": "workbook-part2-intro",
+              "component": "item",
+              "title": "Introducción"
+            },
+            {
+              "id": "workbook-part2-set1",
+              "component": "accordion",
+              "title": "(221-230)",
+              "subtitle": "1. ¿Qué es el perdón?",
+              "children": [
+                {
+                  "id": "workbook-part2-set1",
+                  "component": "item",
+                  "title": "¿Qué es el perdón?"
+                },
+                { "id": "workbook-l221", "component": "item", "title": "Lección 221", "subtitle": "Que mi mente esté en paz y que todos mis pensamientos se aquieten." },
+                { "id": "workbook-l222", "component": "item", "title": "Lección 222", "subtitle": "Dios está conmigo. Vivo y me muevo en Él." },
+                { "id": "workbook-l223", "component": "item", "title": "Lección 223", "subtitle": "Dios es mi vida. No tengo otra vida que la Suya." },
+                { "id": "workbook-l224", "component": "item", "title": "Lección 224", "subtitle": "Dios es mi Padre y Él ama a Su Hijo." },
+                { "id": "workbook-l225", "component": "item", "title": "Lección 225", "subtitle": "Dios es mi Padre y Su Hijo Lo ama." },
+                { "id": "workbook-l226", "component": "item", "title": "Lección 226", "subtitle": "Mi hogar me aguarda. Me apresuré a llegar a él." },
+                { "id": "workbook-l227", "component": "item", "title": "Lección 227", "subtitle": "Este es el instante santo de mi liberación." },
+                { "id": "workbook-l228", "component": "item", "title": "Lección 228", "subtitle": "Dios no me ha condenado. Por lo tanto, yo tampoco me he de condenar." },
+                { "id": "workbook-l229", "component": "item", "title": "Lección 229", "subtitle": "El Amor, que es lo que me creó, es lo que soy." },
+                { "id": "workbook-l230", "component": "item", "title": "Lección 230", "subtitle": "Ahora buscaré y hallaré la Paz de Dios." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set2",
+              "component": "accordion",
+              "title": "(231-240)",
+              "subtitle": "2. ¿Qué es la salvación?",
+              "children": [
+                {
+                  "id": "workbook-part2-set2",
+                  "component": "item",
+                  "title": "¿Qué es la salvación?"
+                },
+                { "id": "workbook-l231", "component": "item", "title": "Lección 231", "subtitle": "Padre, mi voluntad es únicamente recordarte." },
+                { "id": "workbook-l232", "component": "item", "title": "Lección 232", "subtitle": "Permanece en mi mente todo el día, Padre mío." },
+                { "id": "workbook-l233", "component": "item", "title": "Lección 233", "subtitle": "Hoy le doy mi vida a Dios para que Él la guíe." },
+                { "id": "workbook-l234", "component": "item", "title": "Lección 234", "subtitle": "Padre, hoy vuelvo a ser Tu Hijo." },
+                { "id": "workbook-l235", "component": "item", "title": "Lección 235", "subtitle": "Dios, en Su Misericordia, dispone que yo me salve." },
+                { "id": "workbook-l236", "component": "item", "title": "Lección 236", "subtitle": "Gobierno mi mente, la cual solo yo debo gobernar." },
+                { "id": "workbook-l237", "component": "item", "title": "Lección 237", "subtitle": "Ahora he de ser tal como Dios me creó." },
+                { "id": "workbook-l238", "component": "item", "title": "Lección 238", "subtitle": "La salvación depende de mi decisión." },
+                { "id": "workbook-l239", "component": "item", "title": "Lección 239", "subtitle": "Mía es la Gloria de mi Padre." },
+                { "id": "workbook-l240", "component": "item", "title": "Lección 240", "subtitle": "El miedo, de la clase que sea, no está justificado." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set3",
+              "component": "accordion",
+              "title": "(241-250)",
+              "subtitle": "3. ¿Qué es el mundo?",
+              "children": [
+                {
+                  "id": "workbook-part2-set3",
+                  "component": "item",
+                  "title": "¿Qué es el mundo?"
+                },
+                { "id": "workbook-l241", "component": "item", "title": "Lección 241", "subtitle": "En este instante santo llega la salvación." },
+                { "id": "workbook-l242", "component": "item", "title": "Lección 242", "subtitle": "Este día se lo dedico a Dios. Es el regalo que Le hago." },
+                { "id": "workbook-l243", "component": "item", "title": "Lección 243", "subtitle": "Hoy no juzgaré nada de lo que ocurra." },
+                { "id": "workbook-l244", "component": "item", "title": "Lección 244", "subtitle": "No estoy en peligro en ningún lugar del mundo." },
+                { "id": "workbook-l245", "component": "item", "title": "Lección 245", "subtitle": "Tu Paz está conmigo, Padre. Estoy a salvo." },
+                { "id": "workbook-l246", "component": "item", "title": "Lección 246", "subtitle": "Amar a mi Padre es amar a Su Hijo." },
+                { "id": "workbook-l247", "component": "item", "title": "Lección 247", "subtitle": "Sin el perdón aún estaría ciego." },
+                { "id": "workbook-l248", "component": "item", "title": "Lección 248", "subtitle": "Lo que sufre no forma parte de mí." },
+                { "id": "workbook-l249", "component": "item", "title": "Lección 249", "subtitle": "El perdón pone fin a todo sufrimiento y a toda sensación de pérdida." },
+                { "id": "workbook-l250", "component": "item", "title": "Lección 250", "subtitle": "Que no vea ninguna limitación en mí." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set4",
+              "component": "accordion",
+              "title": "(251-260)",
+              "subtitle": "4. ¿Qué es el pecado?",
+              "children": [
+                {
+                  "id": "workbook-part2-set4",
+                  "component": "item",
+                  "title": "¿Qué es el pecado?"
+                },
+                { "id": "workbook-l251", "component": "item", "title": "Lección 251", "subtitle": "No necesito nada más que la verdad." },
+                { "id": "workbook-l252", "component": "item", "title": "Lección 252", "subtitle": "El Hijo de Dios es mi Identidad." },
+                { "id": "workbook-l253", "component": "item", "title": "Lección 253", "subtitle": "Mi Ser es amo y señor del universo." },
+                { "id": "workbook-l254", "component": "item", "title": "Lección 254", "subtitle": "Que se acalle en mí toda voz que no sea la de Dios." },
+                { "id": "workbook-l255", "component": "item", "title": "Lección 255", "subtitle": "Elijo pasar este día en perfecta paz." },
+                { "id": "workbook-l256", "component": "item", "title": "Lección 256", "subtitle": "Dios es mi único objetivo hoy." },
+                { "id": "workbook-l257", "component": "item", "title": "Lección 257", "subtitle": "Que no me olvide de mi propósito." },
+                { "id": "workbook-l258", "component": "item", "title": "Lección 258", "subtitle": "Que recuerde que Dios es mi objetivo." },
+                { "id": "workbook-l259", "component": "item", "title": "Lección 259", "subtitle": "Que recuerde que el pecado no existe." },
+                { "id": "workbook-l260", "component": "item", "title": "Lección 260", "subtitle": "Que recuerde que Dios me creó." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set5",
+              "component": "accordion",
+              "title": "(261-270)",
+              "subtitle": "5. ¿Qué es el cuerpo?",
+              "children": [
+                {
+                  "id": "workbook-part2-set5",
+                  "component": "item",
+                  "title": "¿Qué es el cuerpo?"
+                },
+                { "id": "workbook-l261", "component": "item", "title": "Lección 261", "subtitle": "Dios es mi refugio y seguridad." },
+                { "id": "workbook-l262", "component": "item", "title": "Lección 262", "subtitle": "No dejes que hoy perciba diferencias." },
+                { "id": "workbook-l263", "component": "item", "title": "Lección 263", "subtitle": "Mi santa visión ve la pureza de todas las cosas." },
+                { "id": "workbook-l264", "component": "item", "title": "Lección 264", "subtitle": "El Amor de Dios me rodea." },
+                { "id": "workbook-l265", "component": "item", "title": "Lección 265", "subtitle": "Lo único que veo es la mansedumbre de la Creación." },
+                { "id": "workbook-l266", "component": "item", "title": "Lección 266", "subtitle": "Mi santo Ser mora en ti, Hijo de Dios." },
+                { "id": "workbook-l267", "component": "item", "title": "Lección 267", "subtitle": "Mi corazón late en la Paz de Dios." },
+                { "id": "workbook-l268", "component": "item", "title": "Lección 268", "subtitle": "Que todas las cosas sean exactamente como son." },
+                { "id": "workbook-l269", "component": "item", "title": "Lección 269", "subtitle": "Mi visión va en busca de la faz de Cristo." },
+                { "id": "workbook-l270", "component": "item", "title": "Lección 270", "subtitle": "Hoy no utilizaré los ojos del cuerpo." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set6",
+              "component": "accordion",
+              "title": "(271-280)",
+              "subtitle": "6. ¿Qué es el Cristo?",
+              "children": [
+                {
+                  "id": "workbook-part2-set6",
+                  "component": "item",
+                  "title": "¿Qué es el Cristo?"
+                },
+                { "id": "workbook-l271", "component": "item", "title": "Lección 271", "subtitle": "Hoy solo utilizaré la visión de Cristo." },
+                { "id": "workbook-l272", "component": "item", "title": "Lección 272", "subtitle": "¿Cómo iban a poder satisfacer las ilusiones al Hijo de Dios?" },
+                { "id": "workbook-l273", "component": "item", "title": "Lección 273", "subtitle": "Mía es la quietud de la Paz de Dios." },
+                { "id": "workbook-l274", "component": "item", "title": "Lección 274", "subtitle": "Este día le pertenece al Amor. Hoy no tendré miedo." },
+                { "id": "workbook-l275", "component": "item", "title": "Lección 275", "subtitle": "La sanadora Voz de Dios protege hoy todas las cosas." },
+                { "id": "workbook-l276", "component": "item", "title": "Lección 276", "subtitle": "Se me ha dado la Palabra de Dios para que la comparta." },
+                { "id": "workbook-l277", "component": "item", "title": "Lección 277", "subtitle": "Que no aprisione a Tu Hijo con leyes que yo mismo inventé." },
+                { "id": "workbook-l278", "component": "item", "title": "Lección 278", "subtitle": "Si estoy aprisionado, mi Padre no es libre." },
+                { "id": "workbook-l279", "component": "item", "title": "Lección 279", "subtitle": "La libertad de la Creación garantiza la mía." },
+                { "id": "workbook-l280", "component": "item", "title": "Lección 280", "subtitle": "¿Qué límites podría imponerle yo al Hijo de Dios?" }
+              ]
+            },
+            {
+              "id": "workbook-part2-set7",
+              "component": "accordion",
+              "title": "(281-290)",
+              "subtitle": "7. ¿Qué es el Espíritu Santo?",
+              "children": [
+                {
+                  "id": "workbook-part2-set7",
+                  "component": "item",
+                  "title": "¿Qué es el Espíritu Santo?"
+                },
+                { "id": "workbook-l281", "component": "item", "title": "Lección 281", "subtitle": "Nada, excepto mis propios pensamientos, me puede hacer daño." },
+                { "id": "workbook-l282", "component": "item", "title": "Lección 282", "subtitle": "Hoy no tendré miedo del amor." },
+                { "id": "workbook-l283", "component": "item", "title": "Lección 283", "subtitle": "Mi verdadera identidad reside en Ti." },
+                { "id": "workbook-l284", "component": "item", "title": "Lección 284", "subtitle": "Puedo elegir cambiar todos los pensamientos que me causan dolor." },
+                { "id": "workbook-l285", "component": "item", "title": "Lección 285", "subtitle": "Hoy mi santidad brilla clara y radiante." },
+                { "id": "workbook-l286", "component": "item", "title": "Lección 286", "subtitle": "La quietud del Cielo envuelve hoy mi corazón." },
+                { "id": "workbook-l287", "component": "item", "title": "Lección 287", "subtitle": "Tú eres mi única meta, Padre mío, solo Tú." },
+                { "id": "workbook-l288", "component": "item", "title": "Lección 288", "subtitle": "Que me olvide hoy del pasado de mi hermano." },
+                { "id": "workbook-l289", "component": "item", "title": "Lección 289", "subtitle": "El pasado no existe. No me puede afectar." },
+                { "id": "workbook-l290", "component": "item", "title": "Lección 290", "subtitle": "Lo único que veo es mi actual felicidad." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set8",
+              "component": "accordion",
+              "title": "(291-300)",
+              "subtitle": "8. ¿Qué es el mundo real?",
+              "children": [
+                {
+                  "id": "workbook-part2-set8",
+                  "component": "item",
+                  "title": "¿Qué es el mundo real?"
+                },
+                { "id": "workbook-l291", "component": "item", "title": "Lección 291", "subtitle": "Este es un día de sosiego y de paz." },
+                { "id": "workbook-l292", "component": "item", "title": "Lección 292", "subtitle": "Todo tendrá un desenlace feliz." },
+                { "id": "workbook-l293", "component": "item", "title": "Lección 293", "subtitle": "El miedo ya se acabó y lo único que hay aquí es amor." },
+                { "id": "workbook-l294", "component": "item", "title": "Lección 294", "subtitle": "Mi cuerpo es algo completamente neutro." },
+                { "id": "workbook-l295", "component": "item", "title": "Lección 295", "subtitle": "El Espíritu Santo ve hoy a través de mí." },
+                { "id": "workbook-l296", "component": "item", "title": "Lección 296", "subtitle": "El Espíritu Santo habla hoy a través de mí." },
+                { "id": "workbook-l297", "component": "item", "title": "Lección 297", "subtitle": "El perdón es el único regalo que doy." },
+                { "id": "workbook-l298", "component": "item", "title": "Lección 298", "subtitle": "Te amo, Padre, y también amo a Tu Hijo." },
+                { "id": "workbook-l299", "component": "item", "title": "Lección 299", "subtitle": "La santidad eterna mora en mí." },
+                { "id": "workbook-l300", "component": "item", "title": "Lección 300", "subtitle": "Este mundo dura tan solo un instante." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set9",
+              "component": "accordion",
+              "title": "(301-310)",
+              "subtitle": "9. ¿Qué es el Segundo Advenimiento?",
+              "children": [
+                {
+                  "id": "workbook-part2-set9",
+                  "component": "item",
+                  "title": "¿Qué es el Segundo Advenimiento?"
+                },
+                { "id": "workbook-l301", "component": "item", "title": "Lección 301", "subtitle": "Y Dios Mismo enjugará toda lágrima." },
+                { "id": "workbook-l302", "component": "item", "title": "Lección 302", "subtitle": "Donde antes había tinieblas ahora contemplo la luz." },
+                { "id": "workbook-l303", "component": "item", "title": "Lección 303", "subtitle": "Hoy nace en mí el Cristo santo." },
+                { "id": "workbook-l304", "component": "item", "title": "Lección 304", "subtitle": "Que mi mundo no nuble la visión de Cristo." },
+                { "id": "workbook-l305", "component": "item", "title": "Lección 305", "subtitle": "Hay una paz que Cristo nos concede." },
+                { "id": "workbook-l306", "component": "item", "title": "Lección 306", "subtitle": "El regalo de Cristo es lo único que busco hoy." },
+                { "id": "workbook-l307", "component": "item", "title": "Lección 307", "subtitle": "Abrigar deseos conflictivos no puede ser mi voluntad." },
+                { "id": "workbook-l308", "component": "item", "title": "Lección 308", "subtitle": "Este instante es el único tiempo que existe." },
+                { "id": "workbook-l309", "component": "item", "title": "Lección 309", "subtitle": "Hoy no tendré miedo de mirar dentro de mí." },
+                { "id": "workbook-l310", "component": "item", "title": "Lección 310", "subtitle": "Paso este día sin miedo y lleno de amor." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set10",
+              "component": "accordion",
+              "title": "(311-320)",
+              "subtitle": "10. ¿Qué es el Juicio Final?",
+              "children": [
+                {
+                  "id": "workbook-part2-set10",
+                  "component": "item",
+                  "title": "¿Qué es el Juicio Final?"
+                },
+                { "id": "workbook-l311", "component": "item", "title": "Lección 311", "subtitle": "Juzgo todas las cosas como quiero que sean." },
+                { "id": "workbook-l312", "component": "item", "title": "Lección 312", "subtitle": "Veo todas las cosas como quiero que sean." },
+                { "id": "workbook-l313", "component": "item", "title": "Lección 313", "subtitle": "Que venga a mí ahora una nueva percepción." },
+                { "id": "workbook-l314", "component": "item", "title": "Lección 314", "subtitle": "Busco un futuro diferente del pasado." },
+                { "id": "workbook-l315", "component": "item", "title": "Lección 315", "subtitle": "Todos los regalos que mis hermanos hacen me pertenecen." },
+                { "id": "workbook-l316", "component": "item", "title": "Lección 316", "subtitle": "Todos los regalos que les hago a mis hermanos me pertenecen." },
+                { "id": "workbook-l317", "component": "item", "title": "Lección 317", "subtitle": "Sigo el camino que se me ha señalado." },
+                { "id": "workbook-l318", "component": "item", "title": "Lección 318", "subtitle": "Soy el medio para la salvación, así como su fin." },
+                { "id": "workbook-l319", "component": "item", "title": "Lección 319", "subtitle": "Vine a salvar al mundo." },
+                { "id": "workbook-l320", "component": "item", "title": "Lección 320", "subtitle": "Mi Padre me da todo poder." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set11",
+              "component": "accordion",
+              "title": "(321-330)",
+              "subtitle": "11. ¿Qué es la Creación?",
+              "children": [
+                {
+                  "id": "workbook-part2-set11",
+                  "component": "item",
+                  "title": "¿Qué es la Creación?"
+                },
+                { "id": "workbook-l321", "component": "item", "title": "Lección 321", "subtitle": "Padre, mi libertad reside únicamente en Ti." },
+                { "id": "workbook-l322", "component": "item", "title": "Lección 322", "subtitle": "Tan solo puedo renunciar a lo que nunca fue real." },
+                { "id": "workbook-l323", "component": "item", "title": "Lección 323", "subtitle": "Gustosamente \"sacrifico\" el miedo." },
+                { "id": "workbook-l324", "component": "item", "title": "Lección 324", "subtitle": "No quiero ser guía. Quiero ser simplemente un seguidor." },
+                { "id": "workbook-l325", "component": "item", "title": "Lección 325", "subtitle": "Todas las cosas que creo ver son reflejos de ideas." },
+                { "id": "workbook-l326", "component": "item", "title": "Lección 326", "subtitle": "He de ser por siempre un Efecto de Dios." },
+                { "id": "workbook-l327", "component": "item", "title": "Lección 327", "subtitle": "No necesito más que llamar y Tú me contestarás." },
+                { "id": "workbook-l328", "component": "item", "title": "Lección 328", "subtitle": "Elijo estar en segundo lugar para obtener el primero." },
+                { "id": "workbook-l329", "component": "item", "title": "Lección 329", "subtitle": "He elegido ya lo que Tu Voluntad dispone." },
+                { "id": "workbook-l330", "component": "item", "title": "Lección 330", "subtitle": "Hoy no volveré a hacerme daño." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set12",
+              "component": "accordion",
+              "title": "(331-340)",
+              "subtitle": "12. ¿Qué es el ego?",
+              "children": [
+                {
+                  "id": "workbook-part2-set12",
+                  "component": "item",
+                  "title": "¿Qué es el ego?"
+                },
+                { "id": "workbook-l331", "component": "item", "title": "Lección 331", "subtitle": "El conflicto no existe, pues mi voluntad es la Tuya." },
+                { "id": "workbook-l332", "component": "item", "title": "Lección 332", "subtitle": "El miedo aprisiona al mundo. El perdón lo libera." },
+                { "id": "workbook-l333", "component": "item", "title": "Lección 333", "subtitle": "El perdón pone fin al sueño de conflicto." },
+                { "id": "workbook-l334", "component": "item", "title": "Lección 334", "subtitle": "Hoy reclamo los regalos que el perdón otorga." },
+                { "id": "workbook-l335", "component": "item", "title": "Lección 335", "subtitle": "Elijo ver la impecabilidad de mi hermano." },
+                { "id": "workbook-l336", "component": "item", "title": "Lección 336", "subtitle": "El perdón me enseña que todas las mentes están unidas." },
+                { "id": "workbook-l337", "component": "item", "title": "Lección 337", "subtitle": "Mi impecabilidad me protege de todo daño." },
+                { "id": "workbook-l338", "component": "item", "title": "Lección 338", "subtitle": "Solo mis propios pensamientos pueden afectarme." },
+                { "id": "workbook-l339", "component": "item", "title": "Lección 339", "subtitle": "Se me concederá todo lo que pida." },
+                { "id": "workbook-l340", "component": "item", "title": "Lección 340", "subtitle": "Hoy puedo estar libre de todo sufrimiento." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set13",
+              "component": "accordion",
+              "title": "(341-350)",
+              "subtitle": "13. ¿Qué es un milagro?",
+              "children": [
+                {
+                  "id": "workbook-part2-set13",
+                  "component": "item",
+                  "title": "¿Qué es un milagro?"
+                },
+                { "id": "workbook-l341", "component": "item", "title": "Lección 341", "subtitle": "Tan solo puedo atacar mi propia impecabilidad, que es lo único que me mantiene a salvo." },
+                { "id": "workbook-l342", "component": "item", "title": "Lección 342", "subtitle": "Dejo que el perdón descanse sobre todas las cosas, pues de ese modo es como se me concederá a mí." },
+                { "id": "workbook-l343", "component": "item", "title": "Lección 343", "subtitle": "No se me pide hacer ningún sacrificio para encontrar la Misericordia y la Paz de Dios." },
+                { "id": "workbook-l344", "component": "item", "title": "Lección 344", "subtitle": "Hoy aprendo la ley del amor: que lo que le doy a mi hermano es el regalo que me hago a mí mismo." },
+                { "id": "workbook-l345", "component": "item", "title": "Lección 345", "subtitle": "Hoy solo ofrezco milagros, pues quiero que retornen a mí." },
+                { "id": "workbook-l346", "component": "item", "title": "Lección 346", "subtitle": "Hoy la Paz de Dios me envuelve y me olvido de todo excepto de Su Amor." },
+                { "id": "workbook-l347", "component": "item", "title": "Lección 347", "subtitle": "La ira procede de los juicios. Y los juicios son el arma que utilizo contra mí mismo a fin de mantener el milagro alejado de mi." },
+                { "id": "workbook-l348", "component": "item", "title": "Lección 348", "subtitle": "Ni mi ira ni mi temor tienen razón de ser, pues Tú me rodeas. Y Tu Gracia me basta para satisfacer cualquier necesidad que yo perciba." },
+                { "id": "workbook-l349", "component": "item", "title": "Lección 349", "subtitle": "Hoy dejo que la visión de Cristo contemple todas las cosas por mí y que en lugar de juzgarlas, le conceda a cada una un milagro de amor." },
+                { "id": "workbook-l350", "component": "item", "title": "Lección 350", "subtitle": "Los milagros reflejan el eterno Amor de Dios. Ofrecerlos es recordarlo a Él, y mediante Su recuerdo, salvar al mundo." }
+              ]
+            },
+            {
+              "id": "workbook-part2-set14",
+              "component": "accordion",
+              "title": "(351-360)",
+              "subtitle": "14. ¿Qué soy?",
+              "children": [
+                {
+                  "id": "workbook-part2-set14",
+                  "component": "item",
+                  "title": "¿Qué soy?"
+                },
+                { "id": "workbook-l351", "component": "item", "title": "Lección 351", "subtitle": "Mi hermano impecable es mi guía a la paz. Mi hermano pecador es mi guía al dolor. Y el que decida ver será el que contemplaré." },
+                { "id": "workbook-l352", "component": "item", "title": "Lección 352", "subtitle": "Los juicios son lo opuesto al amor. De los juicios procede todo el dolor del mundo, y del amor, la Paz de Dios." },
+                { "id": "workbook-l353", "component": "item", "title": "Lección 353", "subtitle": "Mis ojos, mi boca, mis manos y mis pies tienen hoy un solo propósito: estar al servicio de Cristo a fin de que Él pueda utilizarlos para bendecir al mundo con milagros." },
+                { "id": "workbook-l354", "component": "item", "title": "Lección 354", "subtitle": "Cristo y yo nos encontramos unidos en paz y seguros de nuestro propósito. Su Creador mora en Él, tal como Él mora en mí." },
+                { "id": "workbook-l355", "component": "item", "title": "Lección 355", "subtitle": "La paz, la dicha y los milagros que otorgaré cuando acepte la Palabra de Dios son ilimitados. ¿Por qué no aceptarla hoy?" },
+                { "id": "workbook-l356", "component": "item", "title": "Lección 356", "subtitle": "La enfermedad no es sino otro nombre para el pecado. La curación no es sino otro nombre para Dios. El milagro es, por lo tanto, una invocación que se le hace a Él." },
+                { "id": "workbook-l357", "component": "item", "title": "Lección 357", "subtitle": "La verdad contesta toda invocación que le hacemos a Dios, respondiendo primero con milagros, y luego retornando a nosotros para ser ella misma." },
+                { "id": "workbook-l358", "component": "item", "title": "Lección 358", "subtitle": "Ninguna invocación a Dios puede dejar de ser oída o no recibir respuesta. Y de esto puedo estar seguro: Su Respuesta es la única que realmente deseo." },
+                { "id": "workbook-l359", "component": "item", "title": "Lección 359", "subtitle": "La respuesta de Dios es alguna forma de paz. Todo dolor sana; toda aflicción es reemplazada por alegría. Las puertas de la prisión se abren. Y se comprende que todo pecado no es más que un simple error." },
+                { "id": "workbook-l360", "component": "item", "title": "Lección 360", "subtitle": "Que la paz sea conmigo, el santo Hijo de Dios. Que la paz sea con mi hermano, que es uno conmigo. Y que por medio de nosotros el mundo sea bendecido con paz." }
+              ]
+            },
+            {
+              "id": "workbook-part2-final",
+              "component": "accordion",
+              "title": "(361-365)",
+              "subtitle": "Lecciones finales",
+              "children": [
+                {
+                  "id": "workbook-part2-final-intro",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                { "id": "workbook-l361", "component": "item", "title": "Lecciones 361-365", "subtitle": "Te entrego este instante santo. Sé Tú Quien dirige, pues quiero simplemente seguirte, seguro de que Tu dirección me brindará la paz." }
+              ]
+            },
+            {
+              "id": "workbook-epilogue",
+              "component": "item",
+              "title": "Epílogo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

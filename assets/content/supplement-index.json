@@ -1,0 +1,212 @@
+{
+  "books": [
+    {
+      "id": "supplement",
+      "component": "title-l1",
+      "title": "Suplementos",
+      "children": [
+        {
+          "id": "supplement-anexo",
+          "component": "item",
+          "title": "Anexo a Un Curso de Milagros"
+        },
+        {
+          "id": "supplement-psycho",
+          "component": "title-l2",
+          "title": "Psicoterapia",
+          "children": [
+            {
+              "id": "supplement-psycho-intro",
+              "anchor": "supplement-psycho",
+              "component": "item",
+              "title": "Introducción"
+            },
+            {
+              "id": "supplement-psycho-ch1",
+              "component": "item",
+              "title": "1. El propósito de la psicoterapia"
+            },
+            {
+              "id": "supplement-psycho-ch2",
+              "component": "accordion",
+              "title": "2. El proceso de la psicoterapia",
+              "children": [
+                {
+                  "id": "supplement-psycho-ch2",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                {
+                  "id": "supplement-psycho-ch2-s1",
+                  "component": "item",
+                  "title": "I. Los límites de la psicoterapia"
+                },
+                {
+                  "id": "supplement-psycho-ch2-s2",
+                  "component": "item",
+                  "title": "II. El lugar de la religión en la psicoterapia"
+                },
+                {
+                  "id": "supplement-psycho-ch2-s3",
+                  "component": "item",
+                  "title": "III. El papel del psicoterapeuta"
+                },
+                {
+                  "id": "supplement-psycho-ch2-s4",
+                  "component": "item",
+                  "title": "IV. El proceso de la enfermedad"
+                },
+                {
+                  "id": "supplement-psycho-ch2-s5",
+                  "component": "item",
+                  "title": "V. El proceso de curación"
+                },
+                {
+                  "id": "supplement-psycho-ch2-s6",
+                  "component": "item",
+                  "title": "VI. La definición de la curación"
+                },
+                {
+                  "id": "supplement-psycho-ch2-s7",
+                  "component": "item",
+                  "title": "VII. La relación paciente-terapeuta ideal"
+                }
+              ]
+            },
+            {
+              "id": "supplement-psycho-ch3",
+              "component": "accordion",
+              "title": "3. La práctica de la psicoterapia",
+              "children": [
+                {
+                  "id": "supplement-psycho-ch3",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                {
+                  "id": "supplement-psycho-ch3-s1",
+                  "component": "item",
+                  "title": "I. La selección de pacientes"
+                },
+                {
+                  "id": "supplement-psycho-ch3-s2",
+                  "component": "item",
+                  "title": "II. ¿Es la psicoterapia una profesión?"
+                },
+                {
+                  "id": "supplement-psycho-ch3-s3",
+                  "component": "item",
+                  "title": "III. La cuestión del pago"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "supplement-song",
+          "component": "title-l2",
+          "title": "El Canto de la Oración",
+          "children": [
+            {
+              "id": "supplement-song-ch1",
+              "component": "accordion",
+              "title": "1. La oración",
+              "children": [
+                {
+                  "id": "supplement-song-ch1-intro",
+                  "anchor": "supplement-song",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                {
+                  "id": "supplement-song-ch1-s1",
+                  "component": "item",
+                  "title": "I. La verdadera oración"
+                },
+                {
+                  "id": "supplement-song-ch1-s2",
+                  "component": "item",
+                  "title": "II. La escalera de la oración"
+                },
+                {
+                  "id": "supplement-song-ch1-s3",
+                  "component": "item",
+                  "title": "III. Orar por otros"
+                },
+                {
+                  "id": "supplement-song-ch1-s4",
+                  "component": "item",
+                  "title": "IV. Orar con otros"
+                },
+                {
+                  "id": "supplement-song-ch1-s5",
+                  "component": "item",
+                  "title": "V. El final de la escalera"
+                }
+              ]
+            },
+            {
+              "id": "supplement-song-ch2",
+              "component": "accordion",
+              "title": "2. El perdón",
+              "children": [
+                {
+                  "id": "supplement-song-ch2",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                {
+                  "id": "supplement-song-ch2-s1",
+                  "component": "item",
+                  "title": "I. Perdonarte a ti mismo"
+                },
+                {
+                  "id": "supplement-song-ch2-s2",
+                  "component": "item",
+                  "title": "II. El perdón-para-destruir"
+                },
+                {
+                  "id": "supplement-song-ch2-s3",
+                  "component": "item",
+                  "title": "III. El perdón-para-salvar"
+                }
+              ]
+            },
+            {
+              "id": "supplement-song-ch3",
+              "component": "accordion",
+              "title": "3. La curación",
+              "children": [
+                {
+                  "id": "supplement-song-ch3",
+                  "component": "item",
+                  "title": "Introducción"
+                },
+                {
+                  "id": "supplement-song-ch3-s1",
+                  "component": "item",
+                  "title": "I. La causa de la enfermedad"
+                },
+                {
+                  "id": "supplement-song-ch3-s2",
+                  "component": "item",
+                  "title": "II. La falsa curación en contraposición a la verdadera"
+                },
+                {
+                  "id": "supplement-song-ch3-s3",
+                  "component": "item",
+                  "title": "III. La separación en contraposición a la unión"
+                },
+                {
+                  "id": "supplement-song-ch3-s4",
+                  "component": "item",
+                  "title": "IV. La santidad de la curación"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
