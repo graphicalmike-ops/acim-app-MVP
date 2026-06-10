@@ -1,0 +1,466 @@
+[
+  {
+    "anchor": "theory",
+    "type": "book-heading",
+    "title": "Libro de Texto"
+  },
+  {
+    "anchor": "theory-prefacio",
+    "type": "chapter-heading",
+    "title": "Prefacio"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Este Prefacio se escribió en 1977 a modo de respuesta a las muchas solicitudes recibidas para que se incluyera una introducción a _Un curso de milagros._ Las primeras dos partes de este Prefacio—_¿Cómo se originó?_ y _¿Qué es?_—las escribió la misma Helen Schucman; la última parte—_¿Qué postula?_—fue escrita mediante el proceso de dictado interno descrito más adelante."
+      }
+    ]
+  },
+  {
+    "anchor": "theory-prefacio-s1",
+    "type": "section-heading",
+    "title": "¿Cómo se originó?"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "_Un curso de milagros_ dio comienzo con la súbita decisión de dos personas de colaborar en el logro de un objetivo común. Esas dos personas fueron Helen Schucman y William Thetford, catedráticos de psicología médica de la Facultad de Medicina y Cirugía de la Universidad de Colombia en la ciudad de Nueva York. No es realmente importante quienes fueron esas personas, excepto que lo ocurrido muestra que con Dios todo es posible. A ambos se les podía haber calificado de todo menos de personas espirituales. La relación entre ellos era difícil, a menudo tensa, y a ambos les preocupaba en gran medida su reputación y aceptación tanto a nivel personal como profesional. Sus vidas, que en su mayor parte estaban regidas por valores mundanos, apenas coincidían con lo que el Curso postula. He aquí la manera en que Helen, la persona que recibió el material, se describe a sí misma:"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "stanza",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "_Psicóloga, educadora, intelectualmente conservadora y de ideología atea, estaba trabajando en una institución de gran prestigio, cuando de repente ocurrió algo que precipitó una cadena de acontecimientos que yo jamás habría podido predecir. El jefe de mi departamento anunció inesperadamente que estaba cansado de los sentimientos de ira y agresividad que nuestras actitudes reflejaban y concluyó diciendo: \"tiene que haber otro camino\". Como si hubiera estado esperando esa señal, accedí a ayudarle a encontrarlo. Al parecer este curso es ese otro camino._"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 3,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Aunque su propósito era firme, tuvieron gran dificultad en comenzar su empresa común. Pero le habían ofrecido al Espíritu Santo la \"pequeña dosis de buena voluntad\" que, como el propio Curso habría de subrayar una y otra vez, es suficiente para permitirle a Él utilizar cualquier situación para Sus propósitos e infundirle Su poder."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 4,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Continuando con el relato de Helen:"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "stanza",
+    "paragraph": 5,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "_Tres sorprendentes meses precedieron al inicio de la redacción en sí, durante los cuales Bill me sugirió que anotara los sueños de elevado simbolismo que estaba teniendo, así como las extrañas imágenes que me asediaban. Aunque para entonces ya me había acostumbrado un tanto a lo inesperado, aún así me llevé una gran sorpresa cuando me vi escribiendo: \"Este es un curso de milagros\". Ese fue mi primer contacto con la Voz. Era una voz que no emitía ningún sonido, pero que me presentaba una especie de dictado rápido interno que yo anotaba en un cuaderno de taquigrafía. La redacción no fue nunca automática. Podía interrumpirla en cualquier momento y después reanudarla. En muchas ocasiones me hizo sentir muy incómoda, pero nunca pensé seriamente en suspenderla. Parecía ser una misión especial que de alguna manera, en algún lugar, yo había acordado llevar a cabo. Terminó convirtiéndose en una verdadera empresa de colaboración entre Bill y yo, y estoy segura de que gran parte de su importancia estriba en ese hecho. Yo anotaba lo que la Voz \"decía\", y al día siguiente se lo leía a Bill y él lo pasaba a máquina. Supongo que él también tenía una misión especial, pues sin su aliento y apoyo yo nunca hubiese podido llevar a cabo la mía. En total, el proceso duró alrededor de siete años. Primero llegó el Texto, luego el Libro de ejercicios, y finalmente el Manual para el maestro. Al material recibido solo se le han hecho unos ligeros cambios sin importancia. Al Texto se le añadieron los títulos de los capítulos y subcapítulos, y se omitieron algunas referencias de carácter personal recibidas al principio. Por lo demás, el material no ha sido alterado en absoluto._"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 6,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Los nombres de las personas que colaboraron en la transcripción del _Curso_ no se mencionan en la portada de los libros porque el _Curso_ puede, y debe, descansar sobre sus propios méritos. Su objetivo no es sentar las bases para otro culto. Su único propósito es ofrecer un camino para que algunas personas puedan encontrar su propio Maestro Interno."
+      }
+    ]
+  },
+  {
+    "anchor": "theory-prefacio-s2",
+    "type": "section-heading",
+    "title": "¿Qué es?"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Como el propio título lo indica, el _Curso_ está organizado de principio a fin como un recurso de enseñanza. Se compone de tres libros: el _Texto_ que tiene 766 páginas, el _Libro de ejercicios,_ con 523, y el _Manual para el maestro,_ que consta de 102. El orden que el estudiante debe seguir al usar los libros y la manera de estudiarlos depende, en cada caso, de sus necesidades y preferencias personales."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El programa de estudios que el _Curso_ propone se planeó meticulosamente y se explica paso a paso, tanto en el orden práctico como en el teórico. El _Curso_ pone más énfasis en la aplicación práctica que en la teoría, y más en la experiencia que en la teología. Señala específicamente que \"una teología universal es imposible, mientras que una experiencia universal no solo es posible sino necesaria\". (_Manual,_ Introducción a la _Clarificación de términos_). Aunque su enfoque es cristiano, el _Curso_ aborda temas espirituales de carácter universal. Subraya que no es más que una de las muchas versiones del programa de estudios universal y que difiere de las demás solo en su forma. En última instancia, todas conducen a Dios."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 3,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El _Texto_ es fundamentalmente teórico y expone los conceptos en los que se basa el sistema de pensamiento del _Curso._ Sus ideas contienen los cimientos de las lecciones del _Libro de ejercicios._ Sin la aplicación práctica que el _Libro de ejercicios_ provee, el _Texto_ quedaría reducido, en su mayor parte, a una serie de abstracciones que no tendrían la fuerza necesaria para producir el cambio de mentalidad que es la meta del _Curso._"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 4,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El _Libro de ejercicios_ consta de 365 lecciones, una para cada día del año. No es necesario, sin embargo, hacer las lecciones siguiendo ese ritmo; se puede, si se desea, dedicar más de un día a una lección determinada. Las instrucciones solo recomiendan que no se intente hacer más de una lección por día. El carácter práctico del _Libro de ejercicios_ queda subrayado en su propia introducción, donde se da más valor a la experiencia lograda con la práctica que a cualquier compromiso previo de carácter espiritual:"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "stanza",
+    "paragraph": 5,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "_Algunas de las ideas que el libro de ejercicios presenta te resultarán difíciles de creer, mientras que otras tal vez te parezcan muy sorprendentes. Nada de eso importa. Se te pide simplemente que las apliques tal como se te indique. No se te pide que las juzgues. Se te pide únicamente que las uses. Es usándolas como cobrarán sentido para ti, y lo que demostrará que son verdad._"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "stanza",
+    "paragraph": 6,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "_Recuerda solamente esto: no tienes que creer en las ideas, no tienes que aceptarlas y ni siquiera tienes que recibirlas con agrado. Puede que hasta te opongas vehementemente a algunas de ellas. Nada de eso importa, ni disminuye su eficacia. Pero no hagas excepciones al aplicar las ideas expuestas en el libro de ejercicios. Sean cuales sean tus reacciones hacia ellas, úsalas. No se requiere nada más. (Libro de ejercicios)._"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 7,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Finalmente, el _Manual para el maestro,_ escrito en forma de preguntas y respuestas, contesta algunas de las preguntas que con mayor probabilidad pueden hacer los estudiantes. Incluye asimismo aclaraciones de algunos de los términos que el _Curso_ utiliza, y los explica dentro del marco teórico del _Texto._"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 8,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El _Curso_ no afirma ser de por sí el final del aprendizaje, ni es el propósito de las lecciones del _Libro de ejercicios_ llevar a término el aprendizaje del estudiante. Al final se deja al lector en manos de su propio Maestro interno, Quien dirigirá el resto del aprendizaje a Su criterio. Si bien el alcance del _Curso_ es muy amplio, la verdad no puede limitarse a ninguna forma finita, como se indica claramente en el párrafo con que finaliza el _Libro de ejercicios:_"
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "stanza",
+    "paragraph": 9,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "_Este curso es un comienzo, no un final... ya no se asignarán más lecciones específicas, pues ya no son necesarias. En lo sucesivo, oye tan solo la Voz que habla por Dios. Él dirigirá tus esfuerzos, diciéndote exactamente lo que debes hacer, cómo dirigir tu mente y cuándo debes venir a Él en silencio, pidiendo Su dirección infalible y Su Palabra certera. (Libro de ejercicios)._"
+      }
+    ]
+  },
+  {
+    "anchor": "theory-prefacio-s3",
+    "type": "section-heading",
+    "title": "¿Qué postula?"
+  },
+  {
+    "anchor": null,
+    "type": "stanza",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "_Nada real puede ser amenazado._",
+        "newline": true
+      },
+      {
+        "verse": 1,
+        "content": "_Nada irreal existe._",
+        "newline": true
+      },
+      {
+        "verse": 1,
+        "content": "_En esto radica la paz de Dios._",
+        "newline": true
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Así comienza _Un curso de milagros,_ el cual establece una clara distinción entre lo real y lo irreal, entre el conocimiento y la percepción. El conocimiento es la verdad y está regido por una sola ley: la Ley del Amor o Dios. La verdad es inalterable, eterna e inequívoca. Es posible no reconocerla, pero es imposible cambiarla. Esto es así con respecto a todo lo que Dios creó, y solo lo que Él creó es real. La verdad está más allá del aprendizaje porque está más allá del tiempo y de todo proceso. No tiene opuestos, ni principio ni fin. Simplemente es."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 3,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El mundo de la percepción, por otra parte, es el mundo del tiempo, de los cambios, de los comienzos y de los finales. Se basa en interpretaciones, no en hechos. Es un mundo de nacimientos y muertes, basado en nuestra creencia en la escasez, en la pérdida, en la separación y en la muerte. Es un mundo que aprendemos, en vez de algo que se nos da; es selectivo en cuanto al énfasis perceptual, inestable en su modo de operar e inexacto en sus interpretaciones."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 4,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Del conocimiento y de la percepción surgen dos sistemas de pensamiento distintos que se oponen entre sí en todo. En el ámbito del conocimiento no existe ningún pensamiento aparte de Dios porque Dios y Su Creación comparten una sola Voluntad. El mundo de la percepción, por otra parte, se basa en la creencia en opuestos, en voluntades separadas y en el perpetuo conflicto que existe entre ellas, y entre ellas y Dios. Lo que la percepción ve y oye parece real porque solo admite en la conciencia aquello que concuerda con los deseos del perceptor. Esto da lugar a un mundo de ilusiones, mundo que es necesario defender sin descanso, _precisamente_ porque no es real."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 5,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Una vez que alguien queda atrapado en el mundo de la percepción, queda atrapado en un sueño. No puede escapar sin ayuda, porque todo lo que sus sentidos le muestran da fe de la realidad del sueño. Dios nos ha dado la Respuesta, el único Medio de escape, el verdadero Ayudante. La función de Su Voz—Su Espíritu Santo—es mediar entre los dos mundos. El Espíritu Santo puede hacer eso porque, si bien una parte conoce la verdad, reconoce también nuestras ilusiones, aunque no cree en ellas. El objetivo del Espíritu Santo es ayudarnos a escapar del mundo de los sueños, enseñándonos cómo cambiar nuestra manera de pensar y cómo corregir nuestros errores. El perdón es el recurso de aprendizaje excelso que el Espíritu Santo utiliza para llevar a cabo ese cambio en nuestra manera de pensar. El _Curso,_ no obstante, ofrece su propia definición de lo que en realidad es el perdón, así como también de lo que es el mundo."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 6,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El mundo que vemos refleja simplemente nuestro marco de referencia interno: las ideas predominantes, los deseos y las emociones que albergan nuestras mentes. \"La proyección da lugar a la percepción\" (_Texto,_ capítulo 21). Primero miramos en nuestro interior y decidimos qué clase de mundo queremos ver; luego proyectamos ese mundo afuera y hacemos que sea real para nosotros _tal como lo vemos._ Hacemos que sea real mediante las interpretaciones que hacemos de lo que estamos viendo. Si nos valemos de la percepción para justificar nuestros propios errores—nuestra ira, nuestros impulsos agresivos, nuestra falta de amor en cualquier forma que se manifieste—veremos un mundo lleno de maldad, destrucción, malicia, envidia y desesperación. Tenemos que aprender a perdonar todo esto, no porque al hacerlo seamos \"buenos\" o \"caritativos\", sino porque lo que vemos no es real. Hemos distorsionado el mundo con nuestras absurdas defensas y, por lo tanto, estamos viendo lo que no está ahí. A medida que aprendamos a reconocer nuestros errores de percepción, aprenderemos también a pasarlos por alto, es decir, a \"perdonarlos\". Al mismo tiempo nos perdonaremos al mirar más allá de los conceptos distorsionados que tenemos de nosotros mismos, y ver el Ser que Dios creó en nosotros, como nosotros."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 7,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El pecado se define como una \"falta de amor\" (_Texto,_ capítulo 1; subcapítulo IV). Puesto que lo único que existe es el amor, para el Espíritu Santo el pecado no es otra cosa que un error que necesita corrección, en vez de algo perverso que merece castigo. Nuestra sensación de ser inadecuados, débiles y de estar incompletos procede del gran valor que le hemos otorgado al \"principio de la escasez\" el cual rige al mundo de las ilusiones. Desde este punto de vista, buscamos en otros lo que consideramos que nos falta a nosotros. \"Amamos\" a otro con el objeto de ver qué podemos obtener de él. De hecho, a esto es a lo que en el mundo de los sueños se le llama amor. No puede haber mayor error que ese, pues el amor es incapaz de exigir nada."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 8,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Solo las mentes pueden unirse realmente y lo que Dios ha unido, ningún hombre lo puede desunir (_Texto,_ capítulo 17, subcapítulo III). No obstante, la verdadera unión, que nunca se perdió, solo es posible en el nivel de la Mente de Cristo. El \"pequeño yo\" procura engrandecerse obteniendo del mundo externo aceptación, posesiones y \"amor\". El Ser que Dios creó no necesita nada. Está eternamente a salvo y es eternamente íntegro, amado y amoroso. Busca compartir en vez de obtener; extender en vez de proyectar. No tiene necesidades de ninguna clase y solo busca unirse a otros que, como él, son conscientes de su propia abundancia."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 9,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Las relaciones especiales que se establecen en el mundo son destructivas, egoístas e \"infantilmente\" egocéntricas. Mas si se le entregan al Espíritu Santo, pueden convertirse en lo más sagrado de la tierra: en los milagros que señalan el camino de retorno al Cielo. El mundo utiliza las relaciones especiales como el último recurso en favor de la exclusión y como una prueba de la realidad de la separación. El Espíritu Santo las transforma en perfectas lecciones de perdón y las utiliza como un medio para despertarnos del sueño. Cada una representa una oportunidad de sanar nuestras percepciones y de corregir nuestros errores. Cada una es una nueva oportunidad de perdonarnos a nosotros mismos, perdonando a otros. Y cada una viene a ser una invitación más al Espíritu Santo y al recuerdo de Dios."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 10,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "La percepción es una función del cuerpo y, por lo tanto, supone una limitación de la conciencia. La percepción ve a través de los ojos del cuerpo y oye a través de sus oídos. Produce las limitadas reacciones que este tiene. El cuerpo aparenta ser, en gran medida, automotivado e independiente, mas en realidad solo responde a las intenciones de la mente. Si la mente lo utiliza para atacar, sea de la forma que sea, el cuerpo se convierte en la víctima de la enfermedad, la vejez y la decrepitud. Si la mente, en cambio, acepta el propósito del Espíritu Santo, el cuerpo se convierte en un medio eficaz de comunicación con otros—invulnerable mientras se le necesite—que luego sencillamente se le descarta cuando deja de ser necesario. De por sí, el cuerpo es neutro, como lo es todo en el mundo de la percepción. Utilizarlo para los objetivos del ego o para los del Espíritu Santo depende enteramente de lo que la mente elija."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 11,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Lo opuesto a ver con los ojos del cuerpo es la visión de Cristo, la cual refleja fortaleza en vez de debilidad, unidad en vez de separación y amor en vez de miedo. Lo opuesto a oír con los oídos del cuerpo es la comunicación a través de la Voz que habla en favor de Dios, el Espíritu Santo, Quien mora en cada uno de nosotros. Su Voz nos parece distante y difícil de oír porque el ego, que habla en favor del yo falso y separado, parece hablar a voz en grito. Sin embargo, es todo lo contrario. El Espíritu Santo habla con una claridad inequívoca y ejerce una atracción irresistible. Nadie puede ser sordo a Sus mensajes de liberación y esperanza, a no ser que elija identificarse con el cuerpo, y nadie puede dejar de aceptar jubilosamente la visión de Cristo a cambio de la miserable imagen que tiene de sí mismo."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 12,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "La visión de Cristo es el don del Espíritu Santo, la alternativa que Dios nos ha dado contra la ilusión de la separación y la creencia en la realidad del pecado, la culpabilidad y la muerte. Es la única corrección para todos los errores de percepción: la reconciliación de los aparentes opuestos en los que se basa este mundo. Su benévola luz muestra todas las cosas desde otro punto de vista, reflejando el sistema de pensamiento que resulta del conocimiento y haciendo que el retorno a Dios no solo sea posible, sino inevitable. Lo que antes se consideraba una injusticia que alguien cometió contra otro, se convierte ahora en una petición de ayuda y de unión. El pecado, la enfermedad y el ataque se consideran ahora percepciones falsas que claman por el remedio que procede de la ternura y del amor. Las defensas se abandonan porque donde no hay ataque no hay necesidad de ellas. Las necesidades de nuestros hermanos se vuelven las nuestras, porque son nuestros compañeros en la jornada de regreso a Dios. Sin nosotros, ellos perderían el rumbo. Sin ellos, nosotros jamás podríamos encontrar el nuestro."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 13,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El perdón es algo desconocido en el Cielo, donde es inconcebible que se pudiese necesitar. En este mundo, no obstante, el perdón es una corrección necesaria para todos los errores que hemos cometido. Perdonar a otros es la única manera en que nosotros mismos podemos ser perdonados, ya que refleja la ley celestial según la cual dar es lo mismo que recibir. El Cielo es el estado natural de todos los Hijos de Dios tal como Él los creó. Esa es su realidad eternamente, la cual no ha cambiado porque nos hayamos olvidado de ella."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 14,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El perdón es el medio que nos permitirá recordar. Mediante el perdón cambiamos la manera de pensar del mundo. El mundo perdonado se convierte en el umbral del Cielo porque mediante su misericordia podemos finalmente perdonarnos a nosotros mismos. Al no mantener a nadie prisionero de la culpa, nos liberamos. Al reconocer a Cristo en todos nuestros hermanos, reconocemos Su Presencia en nosotros mismos. Al olvidar todas nuestras percepciones erróneas, y al no permitir que nada del pasado nos detenga, podemos recordar a Dios. El aprendizaje no nos puede llevar más allá de eso. Cuando estemos listos, Dios Mismo dará el último paso que nos conducirá de regreso a Él."
+      }
+    ]
+  },
+  {
+    "anchor": "theory-intro",
+    "type": "chapter-heading",
+    "title": "Introducción"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Este es un curso de milagros.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Es un curso obligatorio.",
+        "italic": true
+      },
+      {
+        "verse": 3,
+        "content": "Solo el momento en que decides tomarlo es voluntario.",
+        "italic": true
+      },
+      {
+        "verse": 4,
+        "content": "Tener libre albedrío no quiere decir que tú mismo puedas establecer el plan de estudios.",
+        "italic": true
+      },
+      {
+        "verse": 5,
+        "content": "Significa únicamente que puedes elegir lo que quieres aprender en cualquier momento dado.",
+        "italic": true
+      },
+      {
+        "verse": 6,
+        "content": "Este curso no pretende enseñar el significado del amor, pues eso está mucho más allá de lo que se puede enseñar.",
+        "italic": true
+      },
+      {
+        "verse": 7,
+        "content": "Pretende, no obstante, despejar los obstáculos que impiden experimentar la presencia del amor, el cual es tu herencia natural.",
+        "italic": true
+      },
+      {
+        "verse": 8,
+        "content": "Lo opuesto al amor es el miedo, pero aquello que lo abarca todo no puede tener opuestos.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Este curso puede, por lo tanto, resumirse muy simplemente de la siguiente manera:",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "stanza",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 2,
+        "content": "Nada real puede ser amenazado.",
+        "bold": true,
+        "italic": true,
+        "newline": true,
+        "spaceBefore": true
+      },
+      {
+        "verse": 3,
+        "content": "Nada irreal existe.",
+        "bold": true,
+        "italic": true,
+        "newline": true
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": null,
+    "sentences": [
+      {
+        "verse": 4,
+        "content": "En esto reside la paz de Dios.",
+        "italic": true
+      }
+    ]
+  }
+]

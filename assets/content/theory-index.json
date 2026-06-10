@@ -1,0 +1,1600 @@
+{
+  "books": [
+    {
+      "id": "theory",
+      "component": "title-l1",
+      "title": "Libro de Texto",
+      "children": [
+        {
+          "id": "theory-prefacio",
+          "component": "accordion",
+          "title": "Prefacio",
+          "children": [
+            {
+              "id": "theory-prefacio",
+              "component": "section-heading",
+              "title": "Prefacio"
+            },
+            {
+              "id": "theory-prefacio-s1",
+              "component": "section-heading",
+              "title": "¿Cómo se originó?"
+            },
+            {
+              "id": "theory-prefacio-s2",
+              "component": "section-heading",
+              "title": "¿Qué es?"
+            },
+            {
+              "id": "theory-prefacio-s3",
+              "component": "section-heading",
+              "title": "¿Qué postula?"
+            }
+          ]
+        },
+        {
+          "id": "theory-intro",
+          "component": "item",
+          "title": "Introducción"
+        },
+        {
+          "id": "theory-ch1",
+          "component": "accordion",
+          "title": "1. El significado de los milagros",
+          "children": [
+            {
+              "id": "theory-ch1-s1",
+              "component": "accordion-item",
+              "title": "I. Principios de los milagros"
+            },
+            {
+              "id": "theory-ch1-s2",
+              "component": "accordion-item",
+              "title": "II. La revelación, el tiempo y los milagros"
+            },
+            {
+              "id": "theory-ch1-s3",
+              "component": "accordion-item",
+              "title": "III. La Expiación y los milagros"
+            },
+            {
+              "id": "theory-ch1-s4",
+              "component": "accordion-item",
+              "title": "IV. Cómo escapar de la oscuridad"
+            },
+            {
+              "id": "theory-ch1-s5",
+              "component": "accordion-item",
+              "title": "V. Plenitud y Espíritu"
+            },
+            {
+              "id": "theory-ch1-s6",
+              "component": "accordion-item",
+              "title": "VI. La ilusión de necesidades"
+            },
+            {
+              "id": "theory-ch1-s7",
+              "component": "accordion-item",
+              "title": "VII. Las distorsiones de los impulsos milagrosos"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch2",
+          "component": "accordion",
+          "title": "2. La separación y la Expiación",
+          "children": [
+            {
+              "id": "theory-ch2-s1",
+              "component": "accordion-item",
+              "title": "I. Los orígenes de la separación"
+            },
+            {
+              "id": "theory-ch2-s2",
+              "component": "accordion-item",
+              "title": "II. La Expiación como defensa"
+            },
+            {
+              "id": "theory-ch2-s3",
+              "component": "accordion-item",
+              "title": "III. El Altar de Dios"
+            },
+            {
+              "id": "theory-ch2-s4",
+              "component": "accordion-item",
+              "title": "IV. La curación como la liberación del miedo"
+            },
+            {
+              "id": "theory-ch2-s5",
+              "component": "accordion-item",
+              "title": "V. La función del obrador de milagros"
+            },
+            {
+              "id": "theory-ch2-s5a",
+              "component": "accordion-item",
+              "title": "A. Principios especiales de los obradores de milagros"
+            },
+            {
+              "id": "theory-ch2-s6",
+              "component": "accordion-item",
+              "title": "VI. Miedo y conflicto"
+            },
+            {
+              "id": "theory-ch2-s7",
+              "component": "accordion-item",
+              "title": "VII. Causa y efecto"
+            },
+            {
+              "id": "theory-ch2-s8",
+              "component": "accordion-item",
+              "title": "VIII. El significado del Juicio Final"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch3",
+          "component": "accordion",
+          "title": "3. La percepción inocente",
+          "children": [
+            {
+              "id": "theory-ch3-s1",
+              "component": "accordion-item",
+              "title": "I. Expiación sin sacrificio"
+            },
+            {
+              "id": "theory-ch3-s2",
+              "component": "accordion-item",
+              "title": "II. Los milagros y la percepción verdadera"
+            },
+            {
+              "id": "theory-ch3-s3",
+              "component": "accordion-item",
+              "title": "III. Percepción y Conocimiento"
+            },
+            {
+              "id": "theory-ch3-s4",
+              "component": "accordion-item",
+              "title": "IV. El error y el ego"
+            },
+            {
+              "id": "theory-ch3-s5",
+              "component": "accordion-item",
+              "title": "V. Más allá de la percepción"
+            },
+            {
+              "id": "theory-ch3-s6",
+              "component": "accordion-item",
+              "title": "VI. Los juicios y el problema de la autoridad"
+            },
+            {
+              "id": "theory-ch3-s7",
+              "component": "accordion-item",
+              "title": "VII. Crear en contraposición a crear una imagen propia"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch4",
+          "component": "accordion",
+          "title": "4. Las ilusiones del ego",
+          "children": [
+            {
+              "id": "theory-ch4-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch4-s1",
+              "component": "accordion-item",
+              "title": "I. La enseñanza y el aprendizaje correctos"
+            },
+            {
+              "id": "theory-ch4-s2",
+              "component": "accordion-item",
+              "title": "II. El ego y la falsa autonomía"
+            },
+            {
+              "id": "theory-ch4-s3",
+              "component": "accordion-item",
+              "title": "III. Amor sin conflicto"
+            },
+            {
+              "id": "theory-ch4-s4",
+              "component": "accordion-item",
+              "title": "IV. Esto no tiene por qué ser así"
+            },
+            {
+              "id": "theory-ch4-s5",
+              "component": "accordion-item",
+              "title": "V. La ilusión del ego-cuerpo"
+            },
+            {
+              "id": "theory-ch4-s6",
+              "component": "accordion-item",
+              "title": "VI. Las recompensas de Dios"
+            },
+            {
+              "id": "theory-ch4-s7",
+              "component": "accordion-item",
+              "title": "VII. Creación y comunicación"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch5",
+          "component": "accordion",
+          "title": "5. Curación y plenitud",
+          "children": [
+            {
+              "id": "theory-ch5-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch5-s1",
+              "component": "accordion-item",
+              "title": "I. La invitación al Espíritu Santo"
+            },
+            {
+              "id": "theory-ch5-s2",
+              "component": "accordion-item",
+              "title": "II. La Voz que habla por Dios"
+            },
+            {
+              "id": "theory-ch5-s3",
+              "component": "accordion-item",
+              "title": "III. El Guía a la salvación"
+            },
+            {
+              "id": "theory-ch5-s4",
+              "component": "accordion-item",
+              "title": "IV. Enseñanza y curación"
+            },
+            {
+              "id": "theory-ch5-s5",
+              "component": "accordion-item",
+              "title": "V. El uso que el ego hace de la culpabilidad"
+            },
+            {
+              "id": "theory-ch5-s6",
+              "component": "accordion-item",
+              "title": "VI. El tiempo y la eternidad"
+            },
+            {
+              "id": "theory-ch5-s7",
+              "component": "accordion-item",
+              "title": "VII. La decisión en favor de Dios"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch6",
+          "component": "accordion",
+          "title": "6. Las lecciones del amor",
+          "children": [
+            {
+              "id": "theory-ch6-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch6-s1",
+              "component": "accordion-item",
+              "title": "I. El mensaje de la crucifixión"
+            },
+            {
+              "id": "theory-ch6-s2",
+              "component": "accordion-item",
+              "title": "II. La alternativa a la proyección"
+            },
+            {
+              "id": "theory-ch6-s3",
+              "component": "accordion-item",
+              "title": "III. La renuncia al ataque"
+            },
+            {
+              "id": "theory-ch6-s4",
+              "component": "accordion-item",
+              "title": "IV. La única Respuesta"
+            },
+            {
+              "id": "theory-ch6-s5",
+              "component": "accordion-item",
+              "title": "V. Las lecciones del Espíritu Santo"
+            },
+            {
+              "id": "theory-ch6-s5a",
+              "component": "accordion-item",
+              "title": "A. Para poder tener, da todo a todos"
+            },
+            {
+              "id": "theory-ch6-s5b",
+              "component": "accordion-item",
+              "title": "B. Para tener paz, enseña paz para así aprender lo que es"
+            },
+            {
+              "id": "theory-ch6-s5c",
+              "component": "accordion-item",
+              "title": "C. Mantente alerta solo en favor de Dios y de Su Reino"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch7",
+          "component": "accordion",
+          "title": "7. Los regalos del Reino",
+          "children": [
+            {
+              "id": "theory-ch7-s1",
+              "component": "accordion-item",
+              "title": "I. El último paso"
+            },
+            {
+              "id": "theory-ch7-s2",
+              "component": "accordion-item",
+              "title": "II. La Ley del Reino"
+            },
+            {
+              "id": "theory-ch7-s3",
+              "component": "accordion-item",
+              "title": "III. La realidad del Reino"
+            },
+            {
+              "id": "theory-ch7-s4",
+              "component": "accordion-item",
+              "title": "IV. La curación como reconocimiento de la verdad"
+            },
+            {
+              "id": "theory-ch7-s5",
+              "component": "accordion-item",
+              "title": "V. La curación y la inmutabilidad de la mente"
+            },
+            {
+              "id": "theory-ch7-s6",
+              "component": "accordion-item",
+              "title": "VI. De la vigilancia a la paz"
+            },
+            {
+              "id": "theory-ch7-s7",
+              "component": "accordion-item",
+              "title": "VII. La totalidad del Reino"
+            },
+            {
+              "id": "theory-ch7-s8",
+              "component": "accordion-item",
+              "title": "VIII. La creencia increíble"
+            },
+            {
+              "id": "theory-ch7-s9",
+              "component": "accordion-item",
+              "title": "IX. La extensión del Reino"
+            },
+            {
+              "id": "theory-ch7-s10",
+              "component": "accordion-item",
+              "title": "X. La confusión entre dicha y dolor"
+            },
+            {
+              "id": "theory-ch7-s11",
+              "component": "accordion-item",
+              "title": "XI. El estado de gracia"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch8",
+          "component": "accordion",
+          "title": "8. El viaje de retorno",
+          "children": [
+            {
+              "id": "theory-ch8-s1",
+              "component": "accordion-item",
+              "title": "I. La dirección del plan de estudios"
+            },
+            {
+              "id": "theory-ch8-s2",
+              "component": "accordion-item",
+              "title": "II. La diferencia entre aprisionamiento y libertad"
+            },
+            {
+              "id": "theory-ch8-s3",
+              "component": "accordion-item",
+              "title": "III. El encuentro santo"
+            },
+            {
+              "id": "theory-ch8-s4",
+              "component": "accordion-item",
+              "title": "IV. El regalo de libertad"
+            },
+            {
+              "id": "theory-ch8-s5",
+              "component": "accordion-item",
+              "title": "V. La voluntad indivisa de la Filiación"
+            },
+            {
+              "id": "theory-ch8-s6",
+              "component": "accordion-item",
+              "title": "VI. El tesoro de Dios"
+            },
+            {
+              "id": "theory-ch8-s7",
+              "component": "accordion-item",
+              "title": "VII. El cuerpo como medio de comunicación"
+            },
+            {
+              "id": "theory-ch8-s8",
+              "component": "accordion-item",
+              "title": "VIII. El cuerpo como medio o como fin"
+            },
+            {
+              "id": "theory-ch8-s9",
+              "component": "accordion-item",
+              "title": "IX. La curación como resultado de una percepción corregida"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch9",
+          "component": "accordion",
+          "title": "9. La aceptación de la Expiación",
+          "children": [
+            {
+              "id": "theory-ch9-s1",
+              "component": "accordion-item",
+              "title": "I. La aceptación de la realidad"
+            },
+            {
+              "id": "theory-ch9-s2",
+              "component": "accordion-item",
+              "title": "II. La respuesta a la oración"
+            },
+            {
+              "id": "theory-ch9-s3",
+              "component": "accordion-item",
+              "title": "III. La corrección del error"
+            },
+            {
+              "id": "theory-ch9-s4",
+              "component": "accordion-item",
+              "title": "IV. El plan de perdón del Espíritu Santo"
+            },
+            {
+              "id": "theory-ch9-s5",
+              "component": "accordion-item",
+              "title": "V. El sanador no sanado"
+            },
+            {
+              "id": "theory-ch9-s6",
+              "component": "accordion-item",
+              "title": "VI. La aceptación de tu hermano"
+            },
+            {
+              "id": "theory-ch9-s7",
+              "component": "accordion-item",
+              "title": "VII. Las dos evaluaciones"
+            },
+            {
+              "id": "theory-ch9-s8",
+              "component": "accordion-item",
+              "title": "VIII. La Grandeza en contraposición a la grandiosidad"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch10",
+          "component": "accordion",
+          "title": "10. Los ídolos de la enfermedad",
+          "children": [
+            {
+              "id": "theory-ch10-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch10-s1",
+              "component": "accordion-item",
+              "title": "I. En Dios estás en tu hogar"
+            },
+            {
+              "id": "theory-ch10-s2",
+              "component": "accordion-item",
+              "title": "II. La decisión de olvidar"
+            },
+            {
+              "id": "theory-ch10-s3",
+              "component": "accordion-item",
+              "title": "III. El dios de la enfermedad"
+            },
+            {
+              "id": "theory-ch10-s4",
+              "component": "accordion-item",
+              "title": "IV. El fin de la enfermedad"
+            },
+            {
+              "id": "theory-ch10-s5",
+              "component": "accordion-item",
+              "title": "V. La negación de Dios"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch11",
+          "component": "accordion",
+          "title": "11. Dios o el ego",
+          "children": [
+            {
+              "id": "theory-ch11-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch11-s1",
+              "component": "accordion-item",
+              "title": "I. Los regalos de la paternidad"
+            },
+            {
+              "id": "theory-ch11-s2",
+              "component": "accordion-item",
+              "title": "II. La invitación a curar"
+            },
+            {
+              "id": "theory-ch11-s3",
+              "component": "accordion-item",
+              "title": "III. De las tinieblas a la luz"
+            },
+            {
+              "id": "theory-ch11-s4",
+              "component": "accordion-item",
+              "title": "IV. La herencia del Hijo de Dios"
+            },
+            {
+              "id": "theory-ch11-s5",
+              "component": "accordion-item",
+              "title": "V. La \"dinámica\" del ego"
+            },
+            {
+              "id": "theory-ch11-s6",
+              "component": "accordion-item",
+              "title": "VI. El despertar a la redención"
+            },
+            {
+              "id": "theory-ch11-s7",
+              "component": "accordion-item",
+              "title": "VII. La condición de la realidad"
+            },
+            {
+              "id": "theory-ch11-s8",
+              "component": "accordion-item",
+              "title": "VIII. El problema y la respuesta"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch12",
+          "component": "accordion",
+          "title": "12. El programa de estudios del Espíritu Santo",
+          "children": [
+            {
+              "id": "theory-ch12-s1",
+              "component": "accordion-item",
+              "title": "I. El juicio del Espíritu Santo"
+            },
+            {
+              "id": "theory-ch12-s2",
+              "component": "accordion-item",
+              "title": "II. Cómo recordar a Dios"
+            },
+            {
+              "id": "theory-ch12-s3",
+              "component": "accordion-item",
+              "title": "III. Cómo invertir en la realidad"
+            },
+            {
+              "id": "theory-ch12-s4",
+              "component": "accordion-item",
+              "title": "IV. Buscar y hallar"
+            },
+            {
+              "id": "theory-ch12-s5",
+              "component": "accordion-item",
+              "title": "V. El programa de estudios cuerdo"
+            },
+            {
+              "id": "theory-ch12-s6",
+              "component": "accordion-item",
+              "title": "VI. La visión de Cristo"
+            },
+            {
+              "id": "theory-ch12-s7",
+              "component": "accordion-item",
+              "title": "VII. Introspección"
+            },
+            {
+              "id": "theory-ch12-s8",
+              "component": "accordion-item",
+              "title": "VIII. La atracción del amor por el Amor"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch13",
+          "component": "accordion",
+          "title": "13. El mundo inocente",
+          "children": [
+            {
+              "id": "theory-ch13-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch13-s1",
+              "component": "accordion-item",
+              "title": "I. Inocencia e invulnerabilidad"
+            },
+            {
+              "id": "theory-ch13-s2",
+              "component": "accordion-item",
+              "title": "II. El inocente Hijo de Dios"
+            },
+            {
+              "id": "theory-ch13-s3",
+              "component": "accordion-item",
+              "title": "III. El miedo a la redención"
+            },
+            {
+              "id": "theory-ch13-s4",
+              "component": "accordion-item",
+              "title": "IV. La función del tiempo"
+            },
+            {
+              "id": "theory-ch13-s5",
+              "component": "accordion-item",
+              "title": "V. Las dos emociones"
+            },
+            {
+              "id": "theory-ch13-s6",
+              "component": "accordion-item",
+              "title": "VI. Cómo encontrar el presente"
+            },
+            {
+              "id": "theory-ch13-s7",
+              "component": "accordion-item",
+              "title": "VII. La consecución del mundo real"
+            },
+            {
+              "id": "theory-ch13-s8",
+              "component": "accordion-item",
+              "title": "VIII. De la percepción al Conocimiento"
+            },
+            {
+              "id": "theory-ch13-s9",
+              "component": "accordion-item",
+              "title": "IX. La nube de culpabilidad"
+            },
+            {
+              "id": "theory-ch13-s10",
+              "component": "accordion-item",
+              "title": "X. Tu liberación de la culpabilidad"
+            },
+            {
+              "id": "theory-ch13-s11",
+              "component": "accordion-item",
+              "title": "XI. La paz del Cielo"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch14",
+          "component": "accordion",
+          "title": "14. Las enseñanzas en favor de la verdad",
+          "children": [
+            {
+              "id": "theory-ch14-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch14-s1",
+              "component": "accordion-item",
+              "title": "I. Las condiciones del aprendizaje"
+            },
+            {
+              "id": "theory-ch14-s2",
+              "component": "accordion-item",
+              "title": "II. El alumno feliz"
+            },
+            {
+              "id": "theory-ch14-s3",
+              "component": "accordion-item",
+              "title": "III. La decisión en favor de la inocencia"
+            },
+            {
+              "id": "theory-ch14-s4",
+              "component": "accordion-item",
+              "title": "IV. Tu papel en la Expiación"
+            },
+            {
+              "id": "theory-ch14-s5",
+              "component": "accordion-item",
+              "title": "V. El círculo de la Expiación"
+            },
+            {
+              "id": "theory-ch14-s6",
+              "component": "accordion-item",
+              "title": "VI. La luz de la comunicación"
+            },
+            {
+              "id": "theory-ch14-s7",
+              "component": "accordion-item",
+              "title": "VII. Cómo compartir la percepción del Espíritu Santo"
+            },
+            {
+              "id": "theory-ch14-s8",
+              "component": "accordion-item",
+              "title": "VIII. El santo lugar de encuentro"
+            },
+            {
+              "id": "theory-ch14-s9",
+              "component": "accordion-item",
+              "title": "IX. El reflejo de la Santidad"
+            },
+            {
+              "id": "theory-ch14-s10",
+              "component": "accordion-item",
+              "title": "X. La igualdad de los milagros"
+            },
+            {
+              "id": "theory-ch14-s11",
+              "component": "accordion-item",
+              "title": "XI. La prueba de la verdad"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch15",
+          "component": "accordion",
+          "title": "15. El instante santo",
+          "children": [
+            {
+              "id": "theory-ch15-s1",
+              "component": "accordion-item",
+              "title": "I. Los dos usos del tiempo"
+            },
+            {
+              "id": "theory-ch15-s2",
+              "component": "accordion-item",
+              "title": "II. El final de las dudas"
+            },
+            {
+              "id": "theory-ch15-s3",
+              "component": "accordion-item",
+              "title": "III. La pequeñez en contraposición a la grandeza"
+            },
+            {
+              "id": "theory-ch15-s4",
+              "component": "accordion-item",
+              "title": "IV. La práctica del instante santo"
+            },
+            {
+              "id": "theory-ch15-s5",
+              "component": "accordion-item",
+              "title": "V. El instante santo y las relaciones especiales"
+            },
+            {
+              "id": "theory-ch15-s6",
+              "component": "accordion-item",
+              "title": "VI. El instante santo y las Leyes de Dios"
+            },
+            {
+              "id": "theory-ch15-s7",
+              "component": "accordion-item",
+              "title": "VII. El sacrificio innecesario"
+            },
+            {
+              "id": "theory-ch15-s8",
+              "component": "accordion-item",
+              "title": "VIII. La única relación real"
+            },
+            {
+              "id": "theory-ch15-s9",
+              "component": "accordion-item",
+              "title": "IX. El instante santo y la atracción de Dios"
+            },
+            {
+              "id": "theory-ch15-s10",
+              "component": "accordion-item",
+              "title": "X. La hora del renacer"
+            },
+            {
+              "id": "theory-ch15-s11",
+              "component": "accordion-item",
+              "title": "XI. La Navidad como símbolo del fin del sacrificio"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch16",
+          "component": "accordion",
+          "title": "16. El perdón de las ilusiones",
+          "children": [
+            {
+              "id": "theory-ch16-s1",
+              "component": "accordion-item",
+              "title": "I. La verdadera empatía"
+            },
+            {
+              "id": "theory-ch16-s2",
+              "component": "accordion-item",
+              "title": "II. El poder de la santidad"
+            },
+            {
+              "id": "theory-ch16-s3",
+              "component": "accordion-item",
+              "title": "III. Las recompensas que se derivan de enseñar"
+            },
+            {
+              "id": "theory-ch16-s4",
+              "component": "accordion-item",
+              "title": "IV. La ilusión de amor en contraposición a la realidad del amor"
+            },
+            {
+              "id": "theory-ch16-s5",
+              "component": "accordion-item",
+              "title": "V. La decisión de alcanzar la compleción"
+            },
+            {
+              "id": "theory-ch16-s6",
+              "component": "accordion-item",
+              "title": "VI. El puente que conduce al mundo real"
+            },
+            {
+              "id": "theory-ch16-s7",
+              "component": "accordion-item",
+              "title": "VII. El final de las ilusiones"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch17",
+          "component": "accordion",
+          "title": "17. El perdón y la relación santa",
+          "children": [
+            {
+              "id": "theory-ch17-s1",
+              "component": "accordion-item",
+              "title": "I. Cómo llevar las fantasías ante la verdad"
+            },
+            {
+              "id": "theory-ch17-s2",
+              "component": "accordion-item",
+              "title": "II. El mundo perdonado"
+            },
+            {
+              "id": "theory-ch17-s3",
+              "component": "accordion-item",
+              "title": "III. Sombras del pasado"
+            },
+            {
+              "id": "theory-ch17-s4",
+              "component": "accordion-item",
+              "title": "IV. Los dos cuadros"
+            },
+            {
+              "id": "theory-ch17-s5",
+              "component": "accordion-item",
+              "title": "V. La relación que ha sanado"
+            },
+            {
+              "id": "theory-ch17-s6",
+              "component": "accordion-item",
+              "title": "VI. Cómo fijar la meta"
+            },
+            {
+              "id": "theory-ch17-s7",
+              "component": "accordion-item",
+              "title": "VII. La invocación a la fe"
+            },
+            {
+              "id": "theory-ch17-s8",
+              "component": "accordion-item",
+              "title": "VIII. Las condiciones de la paz"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch18",
+          "component": "accordion",
+          "title": "18. El final del sueño",
+          "children": [
+            {
+              "id": "theory-ch18-s1",
+              "component": "accordion-item",
+              "title": "I. El sustituto de la realidad"
+            },
+            {
+              "id": "theory-ch18-s2",
+              "component": "accordion-item",
+              "title": "II. La base del sueño"
+            },
+            {
+              "id": "theory-ch18-s3",
+              "component": "accordion-item",
+              "title": "III. Luz en el sueño"
+            },
+            {
+              "id": "theory-ch18-s4",
+              "component": "accordion-item",
+              "title": "IV. La pequeña dosis de buena voluntad"
+            },
+            {
+              "id": "theory-ch18-s5",
+              "component": "accordion-item",
+              "title": "V. El sueño feliz"
+            },
+            {
+              "id": "theory-ch18-s6",
+              "component": "accordion-item",
+              "title": "VI. Más allá del cuerpo"
+            },
+            {
+              "id": "theory-ch18-s7",
+              "component": "accordion-item",
+              "title": "VII. No tengo que hacer nada"
+            },
+            {
+              "id": "theory-ch18-s8",
+              "component": "accordion-item",
+              "title": "VIII. El pequeño jardín"
+            },
+            {
+              "id": "theory-ch18-s9",
+              "component": "accordion-item",
+              "title": "IX. Los dos mundos"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch19",
+          "component": "accordion",
+          "title": "19. La consecución de la paz",
+          "children": [
+            {
+              "id": "theory-ch19-s1",
+              "component": "accordion-item",
+              "title": "I. La curación y la fe"
+            },
+            {
+              "id": "theory-ch19-s2",
+              "component": "accordion-item",
+              "title": "II. El pecado en contraposición al error"
+            },
+            {
+              "id": "theory-ch19-s3",
+              "component": "accordion-item",
+              "title": "III. La irrealidad del pecado"
+            },
+            {
+              "id": "theory-ch19-s4",
+              "component": "accordion-item",
+              "title": "IV. Los obstáculos a la paz"
+            },
+            {
+              "id": "theory-ch19-s4a",
+              "component": "accordion-item",
+              "title": "A. El primer obstáculo: El deseo de deshacerte de la paz"
+            },
+            {
+              "id": "theory-ch19-s4a-i",
+              "component": "accordion-item",
+              "title": "i. La atracción de la culpabilidad"
+            },
+            {
+              "id": "theory-ch19-s4b",
+              "component": "accordion-item",
+              "title": "B. El segundo obstáculo: La creencia de que el cuerpo es valioso por razón de lo que ofrece"
+            },
+            {
+              "id": "theory-ch19-s4b-i",
+              "component": "accordion-item",
+              "title": "i. La atracción del dolor"
+            },
+            {
+              "id": "theory-ch19-s4c",
+              "component": "accordion-item",
+              "title": "C. El tercer obstáculo: La atracción de la muerte"
+            },
+            {
+              "id": "theory-ch19-s4c-i",
+              "component": "accordion-item",
+              "title": "i. El cuerpo incorruptible"
+            },
+            {
+              "id": "theory-ch19-s4d",
+              "component": "accordion-item",
+              "title": "D. El cuarto obstáculo: El temor a Dios"
+            },
+            {
+              "id": "theory-ch19-s4d-i",
+              "component": "accordion-item",
+              "title": "i. El descorrimiento del velo"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch20",
+          "component": "accordion",
+          "title": "20. La visión de la santidad",
+          "children": [
+            {
+              "id": "theory-ch20-s1",
+              "component": "accordion-item",
+              "title": "I. La Semana Santa"
+            },
+            {
+              "id": "theory-ch20-s2",
+              "component": "accordion-item",
+              "title": "II. La ofrenda de azucenas"
+            },
+            {
+              "id": "theory-ch20-s3",
+              "component": "accordion-item",
+              "title": "III. El pecado como ajuste"
+            },
+            {
+              "id": "theory-ch20-s4",
+              "component": "accordion-item",
+              "title": "IV. La entrada al arca"
+            },
+            {
+              "id": "theory-ch20-s5",
+              "component": "accordion-item",
+              "title": "V. Los heraldos de la eternidad"
+            },
+            {
+              "id": "theory-ch20-s6",
+              "component": "accordion-item",
+              "title": "VI. El templo del Espíritu Santo"
+            },
+            {
+              "id": "theory-ch20-s7",
+              "component": "accordion-item",
+              "title": "VII. La correspondencia entre medios y fin"
+            },
+            {
+              "id": "theory-ch20-s8",
+              "component": "accordion-item",
+              "title": "VIII. La visión de la impecabilidad"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch21",
+          "component": "accordion",
+          "title": "21. Razón y percepción",
+          "children": [
+            {
+              "id": "theory-ch21-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch21-s1",
+              "component": "accordion-item",
+              "title": "I. La canción olvidada"
+            },
+            {
+              "id": "theory-ch21-s2",
+              "component": "accordion-item",
+              "title": "II. Somos responsables de lo que vemos"
+            },
+            {
+              "id": "theory-ch21-s3",
+              "component": "accordion-item",
+              "title": "III. Fe, creencia y visión"
+            },
+            {
+              "id": "theory-ch21-s4",
+              "component": "accordion-item",
+              "title": "IV. El miedo a mirar dentro"
+            },
+            {
+              "id": "theory-ch21-s5",
+              "component": "accordion-item",
+              "title": "V. La función de la razón"
+            },
+            {
+              "id": "theory-ch21-s6",
+              "component": "accordion-item",
+              "title": "VI. La razón en contraposición a la locura"
+            },
+            {
+              "id": "theory-ch21-s7",
+              "component": "accordion-item",
+              "title": "VII. La última pregunta que queda por contestar"
+            },
+            {
+              "id": "theory-ch21-s8",
+              "component": "accordion-item",
+              "title": "VIII. El cambio interno"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch22",
+          "component": "accordion",
+          "title": "22. La salvación y la relación santa",
+          "children": [
+            {
+              "id": "theory-ch22-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch22-s1",
+              "component": "accordion-item",
+              "title": "I. El mensaje de la relación santa"
+            },
+            {
+              "id": "theory-ch22-s2",
+              "component": "accordion-item",
+              "title": "II. La impecabilidad de tu hermano"
+            },
+            {
+              "id": "theory-ch22-s3",
+              "component": "accordion-item",
+              "title": "III. La razón y las distintas formas del error"
+            },
+            {
+              "id": "theory-ch22-s4",
+              "component": "accordion-item",
+              "title": "IV. La bifurcación del camino"
+            },
+            {
+              "id": "theory-ch22-s5",
+              "component": "accordion-item",
+              "title": "V. La debilidad y la indefensión"
+            },
+            {
+              "id": "theory-ch22-s6",
+              "component": "accordion-item",
+              "title": "VI. La luz de la relación santa"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch23",
+          "component": "accordion",
+          "title": "23. La guerra contra ti mismo",
+          "children": [
+            {
+              "id": "theory-ch23-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch23-s1",
+              "component": "accordion-item",
+              "title": "I. Las creencias irreconciliables"
+            },
+            {
+              "id": "theory-ch23-s2",
+              "component": "accordion-item",
+              "title": "II. Las leyes del caos"
+            },
+            {
+              "id": "theory-ch23-s3",
+              "component": "accordion-item",
+              "title": "III. Salvación sin transigencias"
+            },
+            {
+              "id": "theory-ch23-s4",
+              "component": "accordion-item",
+              "title": "IV. Por encima del campo de batalla"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch24",
+          "component": "accordion",
+          "title": "24. El deseo de ser especial",
+          "children": [
+            {
+              "id": "theory-ch24-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch24-s1",
+              "component": "accordion-item",
+              "title": "I. El deseo de ser especial: el sustituto del amor"
+            },
+            {
+              "id": "theory-ch24-s2",
+              "component": "accordion-item",
+              "title": "II. La perfidia de creerse especial"
+            },
+            {
+              "id": "theory-ch24-s3",
+              "component": "accordion-item",
+              "title": "III. Cómo perdonar el deseo de ser especial"
+            },
+            {
+              "id": "theory-ch24-s4",
+              "component": "accordion-item",
+              "title": "IV. Ser especial en contraposición a ser impecable"
+            },
+            {
+              "id": "theory-ch24-s5",
+              "component": "accordion-item",
+              "title": "V. El Cristo en ti"
+            },
+            {
+              "id": "theory-ch24-s6",
+              "component": "accordion-item",
+              "title": "VI. Cómo escapar del miedo"
+            },
+            {
+              "id": "theory-ch24-s7",
+              "component": "accordion-item",
+              "title": "VII. El punto de encuentro"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch25",
+          "component": "accordion",
+          "title": "25. La justicia de Dios",
+          "children": [
+            {
+              "id": "theory-ch25-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch25-s1",
+              "component": "accordion-item",
+              "title": "I. El vínculo con la Verdad"
+            },
+            {
+              "id": "theory-ch25-s2",
+              "component": "accordion-item",
+              "title": "II. El que te salva de las tinieblas"
+            },
+            {
+              "id": "theory-ch25-s3",
+              "component": "accordion-item",
+              "title": "III. Percepción y elección"
+            },
+            {
+              "id": "theory-ch25-s4",
+              "component": "accordion-item",
+              "title": "IV. La luz que traes contigo"
+            },
+            {
+              "id": "theory-ch25-s5",
+              "component": "accordion-item",
+              "title": "V. El estado de impecabilidad"
+            },
+            {
+              "id": "theory-ch25-s6",
+              "component": "accordion-item",
+              "title": "VI. Tu función especial"
+            },
+            {
+              "id": "theory-ch25-s7",
+              "component": "accordion-item",
+              "title": "VII. La roca de la salvación"
+            },
+            {
+              "id": "theory-ch25-s8",
+              "component": "accordion-item",
+              "title": "VIII. La restitución de la justicia al amor"
+            },
+            {
+              "id": "theory-ch25-s9",
+              "component": "accordion-item",
+              "title": "IX. La Justicia del Cielo"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch26",
+          "component": "accordion",
+          "title": "26. La transición",
+          "children": [
+            {
+              "id": "theory-ch26-s1",
+              "component": "accordion-item",
+              "title": "I. El \"sacrificio\" de la Unicidad"
+            },
+            {
+              "id": "theory-ch26-s2",
+              "component": "accordion-item",
+              "title": "II. Muchas clases de error; una sola corrección"
+            },
+            {
+              "id": "theory-ch26-s3",
+              "component": "accordion-item",
+              "title": "III. La zona fronteriza"
+            },
+            {
+              "id": "theory-ch26-s4",
+              "component": "accordion-item",
+              "title": "IV. El lugar que el pecado dejó vacante"
+            },
+            {
+              "id": "theory-ch26-s5",
+              "component": "accordion-item",
+              "title": "V. El pequeño obstáculo"
+            },
+            {
+              "id": "theory-ch26-s6",
+              "component": "accordion-item",
+              "title": "VI. El Amigo que Dios te dio"
+            },
+            {
+              "id": "theory-ch26-s7",
+              "component": "accordion-item",
+              "title": "VII. Las leyes de la curación"
+            },
+            {
+              "id": "theory-ch26-s8",
+              "component": "accordion-item",
+              "title": "VIII. La inmediatez de la salvación"
+            },
+            {
+              "id": "theory-ch26-s9",
+              "component": "accordion-item",
+              "title": "IX. Pues Ellos han llegado"
+            },
+            {
+              "id": "theory-ch26-s10",
+              "component": "accordion-item",
+              "title": "X. El fin de la injusticia"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch27",
+          "component": "accordion",
+          "title": "27. La curación del sueño",
+          "children": [
+            {
+              "id": "theory-ch27-s1",
+              "component": "accordion-item",
+              "title": "I. El cuadro de la crucifixión"
+            },
+            {
+              "id": "theory-ch27-s2",
+              "component": "accordion-item",
+              "title": "II. El temor a sanar"
+            },
+            {
+              "id": "theory-ch27-s3",
+              "component": "accordion-item",
+              "title": "III. Más allá de todo símbolo"
+            },
+            {
+              "id": "theory-ch27-s4",
+              "component": "accordion-item",
+              "title": "IV. La callada respuesta"
+            },
+            {
+              "id": "theory-ch27-s5",
+              "component": "accordion-item",
+              "title": "V. El ejemplo de la curación"
+            },
+            {
+              "id": "theory-ch27-s6",
+              "component": "accordion-item",
+              "title": "VI. Los testigos del pecado"
+            },
+            {
+              "id": "theory-ch27-s7",
+              "component": "accordion-item",
+              "title": "VII. El soñador del sueño"
+            },
+            {
+              "id": "theory-ch27-s8",
+              "component": "accordion-item",
+              "title": "VIII. El \"héroe\" del sueño"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch28",
+          "component": "accordion",
+          "title": "28. El des-hacimiento del miedo",
+          "children": [
+            {
+              "id": "theory-ch28-s1",
+              "component": "accordion-item",
+              "title": "I. El recuerdo del presente"
+            },
+            {
+              "id": "theory-ch28-s2",
+              "component": "accordion-item",
+              "title": "II. La inversión de efecto y causa"
+            },
+            {
+              "id": "theory-ch28-s3",
+              "component": "accordion-item",
+              "title": "III. El acuerdo a unirse"
+            },
+            {
+              "id": "theory-ch28-s4",
+              "component": "accordion-item",
+              "title": "IV. La unión mayor"
+            },
+            {
+              "id": "theory-ch28-s5",
+              "component": "accordion-item",
+              "title": "V. La alternativa a los sueños de miedo"
+            },
+            {
+              "id": "theory-ch28-s6",
+              "component": "accordion-item",
+              "title": "VI. Los votos secretos"
+            },
+            {
+              "id": "theory-ch28-s7",
+              "component": "accordion-item",
+              "title": "VII. El arca de seguridad"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch29",
+          "component": "accordion",
+          "title": "29. El despertar",
+          "children": [
+            {
+              "id": "theory-ch29-s1",
+              "component": "accordion-item",
+              "title": "I. La clausura de la brecha"
+            },
+            {
+              "id": "theory-ch29-s2",
+              "component": "accordion-item",
+              "title": "II. La llegada del Invitado"
+            },
+            {
+              "id": "theory-ch29-s3",
+              "component": "accordion-item",
+              "title": "III. Los testigos de Dios"
+            },
+            {
+              "id": "theory-ch29-s4",
+              "component": "accordion-item",
+              "title": "IV. La asignación de papeles en el sueño"
+            },
+            {
+              "id": "theory-ch29-s5",
+              "component": "accordion-item",
+              "title": "V. La morada inmutable"
+            },
+            {
+              "id": "theory-ch29-s6",
+              "component": "accordion-item",
+              "title": "VI. El perdón y el final del tiempo"
+            },
+            {
+              "id": "theory-ch29-s7",
+              "component": "accordion-item",
+              "title": "VII. No busques fuera de ti mismo"
+            },
+            {
+              "id": "theory-ch29-s8",
+              "component": "accordion-item",
+              "title": "VIII. El anti-Cristo"
+            },
+            {
+              "id": "theory-ch29-s9",
+              "component": "accordion-item",
+              "title": "IX. El sueño de perdón"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch30",
+          "component": "accordion",
+          "title": "30. El nuevo comienzo",
+          "children": [
+            {
+              "id": "theory-ch30-intro",
+              "component": "accordion-item",
+              "title": "Introducción"
+            },
+            {
+              "id": "theory-ch30-s1",
+              "component": "accordion-item",
+              "title": "I. Reglas para tomar decisiones"
+            },
+            {
+              "id": "theory-ch30-s2",
+              "component": "accordion-item",
+              "title": "II. El libre albedrío"
+            },
+            {
+              "id": "theory-ch30-s3",
+              "component": "accordion-item",
+              "title": "III. Más allá de todo ídolo"
+            },
+            {
+              "id": "theory-ch30-s4",
+              "component": "accordion-item",
+              "title": "IV. La verdad que yace tras las ilusiones"
+            },
+            {
+              "id": "theory-ch30-s5",
+              "component": "accordion-item",
+              "title": "V. El único propósito"
+            },
+            {
+              "id": "theory-ch30-s6",
+              "component": "accordion-item",
+              "title": "VI. La justificación del perdón"
+            },
+            {
+              "id": "theory-ch30-s7",
+              "component": "accordion-item",
+              "title": "VII. La nueva interpretación"
+            },
+            {
+              "id": "theory-ch30-s8",
+              "component": "accordion-item",
+              "title": "VIII. La realidad inmutable"
+            }
+          ]
+        },
+        {
+          "id": "theory-ch31",
+          "component": "accordion",
+          "title": "31. La visión final",
+          "children": [
+            {
+              "id": "theory-ch31-s1",
+              "component": "accordion-item",
+              "title": "I. La simplicidad de la salvación"
+            },
+            {
+              "id": "theory-ch31-s2",
+              "component": "accordion-item",
+              "title": "II. Caminando con Cristo"
+            },
+            {
+              "id": "theory-ch31-s3",
+              "component": "accordion-item",
+              "title": "III. Los que se acusan a sí mismos"
+            },
+            {
+              "id": "theory-ch31-s4",
+              "component": "accordion-item",
+              "title": "IV. La verdadera alternativa"
+            },
+            {
+              "id": "theory-ch31-s5",
+              "component": "accordion-item",
+              "title": "V. El concepto del yo frente al verdadero ser"
+            },
+            {
+              "id": "theory-ch31-s6",
+              "component": "accordion-item",
+              "title": "VI. El reconocimiento del Espíritu"
+            },
+            {
+              "id": "theory-ch31-s7",
+              "component": "accordion-item",
+              "title": "VII. La visión del salvador"
+            },
+            {
+              "id": "theory-ch31-s8",
+              "component": "accordion-item",
+              "title": "VIII. Elige de nuevo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1600 @@
+[
+  {
+    "anchor": "workbook",
+    "type": "book-heading",
+    "title": "Libro de Ejercicios"
+  },
+  {
+    "anchor": "workbook-part1",
+    "type": "part-heading",
+    "title": "Parte I"
+  },
+  {
+    "anchor": "workbook-part1-lessons1-50",
+    "type": "lesson-group-heading",
+    "title": "Lecciones 1 al 50"
+  },
+  {
+    "anchor": "workbook-intro",
+    "type": "chapter-heading",
+    "title": "Introducción"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "[First sentence of paragraph.]"
+      },
+      {
+        "verse": 2,
+        "content": "[Second sentence of paragraph.]"
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l1",
+    "type": "lesson-heading",
+    "title": "Lección 1",
+    "subtitle": "[Lesson title]"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "[First sentence of paragraph.]"
+      },
+      {
+        "verse": 2,
+        "content": "[Second sentence of paragraph.]"
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l2",
+    "type": "lesson-heading",
+    "title": "Lección 2",
+    "subtitle": "[Lesson title]"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "[First sentence of paragraph.]"
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-part1-review1",
+    "type": "lesson-group-heading",
+    "title": "Repaso I"
+  },
+  {
+    "anchor": "workbook-part1-review1-intro",
+    "type": "chapter-heading",
+    "title": "Introducción"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "[First sentence of paragraph.]"
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l51",
+    "type": "lesson-heading",
+    "title": "Lección 51",
+    "subtitle": "[Review lesson title]"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "[First sentence of paragraph.]"
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-part2",
+    "type": "part-heading",
+    "title": "Parte II"
+  },
+  {
+    "anchor": "workbook-part2-intro",
+    "type": "chapter-heading",
+    "title": "Introducción"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Las palabras apenas significarán nada a partir de ahora." },
+      { "verse": 2, "content": "Las utilizaremos únicamente como guías de las que no vamos a depender." },
+      { "verse": 3, "content": "Pues lo único que nos interesa ahora es tener una experiencia directa de la verdad." },
+      { "verse": 4, "content": "Las lecciones que aún nos quedan por hacer no son más que introducciones a los períodos en que abandonamos el mundo del dolor y nos adentramos en la paz." },
+      { "verse": 5, "content": "Ahora empezamos a alcanzar el objetivo que este curso ha fijado y a hallar la meta hacia la que nuestras prácticas han estado siempre encaminadas." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Lo que nos proponemos ahora es que los ejercicios sean solo un preámbulo." },
+      { "verse": 2, "content": "Pues aguardamos con serena expectación a nuestro Dios y Padre." },
+      { "verse": 3, "content": "Él nos ha prometido que Él Mismo dará el paso final." },
+      { "verse": 4, "content": "Y nosotros estamos seguros de que Él cumple Sus promesas." },
+      { "verse": 5, "content": "Hemos recorrido un largo trecho y ahora lo aguardamos a Él." },
+      { "verse": 6, "content": "Seguiremos pasando un rato con Él cada mañana y cada noche, mientras ello nos haga felices." },
+      { "verse": 7, "content": "No vamos a considerar el tiempo ahora como una cuestión de duración." },
+      { "verse": 8, "content": "Dedicaremos tanto tiempo como sea necesario a fin de lograr el objetivo que perseguimos." },
+      { "verse": 9, "content": "No nos olvidaremos tampoco de nuestros recordatorios de cada hora, y recurriremos a Dios siempre que nos sintamos tentados de olvidarnos de nuestro objetivo." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 3,
+    "sentences": [
+      { "verse": 1, "content": "Durante el resto de los días venideros seguiremos utilizando un pensamiento central para introducir nuestros períodos de descanso y para calmar nuestras mentes, según lo dicte la necesidad." },
+      { "verse": 2, "content": "No obstante, no nos contentaremos únicamente con practicar los demás instantes santos con los que concluye este año que le hemos dedicado a Dios." },
+      { "verse": 3, "content": "Diremos más bien algunas palabras sencillas a modo de bienvenida y luego esperaremos que nuestro Padre se revele a Sí Mismo, tal como ha prometido que hará." },
+      { "verse": 4, "content": "Lo hemos invocado y Él ha prometido que Su Hijo recibirá respuesta siempre que invoque Su Nombre." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 4,
+    "sentences": [
+      { "verse": 1, "content": "Ahora venimos a Él teniendo únicamente Su Palabra en nuestras mentes y en nuestros corazones, y esperamos a que dé el paso hacia nosotros que nos ha dicho, a través de Su Voz, que no dejaría de dar una vez que Lo invitásemos." },
+      { "verse": 2, "content": "No ha dejado solo a Su Hijo en su locura ni traicionado la confianza que este tiene en Él." },
+      { "verse": 3, "content": "¿No le ha hecho acaso Su Fidelidad acreedor a la invitación que Él espera para hacernos felices?" },
+      { "verse": 4, "content": "Le extenderemos esa invitación y Él la aceptará." },
+      { "verse": 5, "content": "Así es como transcurrirán nuestros momentos con Él." },
+      { "verse": 6, "content": "Expresaremos las palabras de invitación que Su Voz sugiere y luego esperaremos a que Él venga a nosotros." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 5,
+    "sentences": [
+      { "verse": 1, "content": "La hora de la profecía ha llegado." },
+      { "verse": 2, "content": "Ahora es cuando las antiguas promesas se honran y se cumplen sin excepción." },
+      { "verse": 3, "content": "No queda ningún paso por dar del que el tiempo se pueda valer para impedir que se cumplan." },
+      { "verse": 4, "content": "Pues ahora no podemos fracasar." },
+      { "verse": 5, "content": "Siéntate en silencio y aguarda a tu Padre." },
+      { "verse": 6, "content": "Él ha dispuesto que vendrá una vez que hayas reconocido que tu voluntad es que Él venga." },
+      { "verse": 7, "content": "Y tú nunca habrías podido llegar tan lejos si no hubieras reconocido, por muy vagamente que fuese, que esa es tu voluntad." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 6,
+    "sentences": [
+      { "verse": 1, "content": "Estoy tan cerca de ti que no podemos fracasar." },
+      { "verse": 2, "content": "Padre, Te entregamos estos santos momentos como muestra de agradecimiento por Aquel que nos enseñó a abandonar el mundo del pesar a cambio del que Tú nos diste como sustituto." },
+      { "verse": 3, "content": "Ahora no miramos hacia atrás." },
+      { "verse": 4, "content": "Miramos hacia adelante y fijamos la mirada en el final de la jornada." },
+      { "verse": 5, "content": "Acepta de nuestra parte estas humildes ofrendas de gratitud, mientras contemplamos, por medio de la visión de Cristo, un mundo que está más allá del que nosotros construimos y que aceptamos como sustituto total del nuestro." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 7,
+    "sentences": [
+      { "verse": 1, "content": "Y ahora aguardamos en silencio, sin miedo y seguros de Tu llegada." },
+      { "verse": 2, "content": "Hemos procurado encontrar el camino siguiendo al Guía que nos enviaste." },
+      { "verse": 3, "content": "Desconocíamos el camino, pero Tú no te olvidaste de nosotros." },
+      { "verse": 4, "content": "Y sabemos que tampoco Te olvidarás de nosotros ahora." },
+      { "verse": 5, "content": "Solo pedimos que Tus promesas de antaño se cumplan tal como es Tu Voluntad." },
+      { "verse": 6, "content": "Al pedir esto, nuestra voluntad dispone lo mismo que la Tuya." },
+      { "verse": 7, "content": "El Padre y el Hijo, Cuya santa Voluntad creó todo lo que existe, no pueden fracasar en nada." },
+      { "verse": 8, "content": "Con esta certeza daremos estos últimos pasos que nos llevan a Ti, y descansaremos confiadamente en Tu Amor, el cual jamás defraudará al Hijo que Te llama." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 8,
+    "sentences": [
+      { "verse": 1, "content": "Y así damos comienzo a la parte final de este año santo que hemos pasado juntos en busca de la verdad y de Dios, Quien es su único creador." },
+      { "verse": 2, "content": "Hemos encontrado el camino que Él eligió para nosotros, y decidimos recorrerlo tal como quiere que hagamos." },
+      { "verse": 3, "content": "Su Mano nos ha sostenido." },
+      { "verse": 4, "content": "Sus Pensamientos han arrojado luz sobre las tinieblas de nuestras mentes." },
+      { "verse": 5, "content": "Su Amor nos ha llamado incesantemente desde los orígenes del tiempo." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 9,
+    "sentences": [
+      { "verse": 1, "content": "Quisimos privar a Dios del Hijo que creó para Sí." },
+      { "verse": 2, "content": "Quisimos que Él cambiara y fuese lo que nosotros queríamos hacer de Él." },
+      { "verse": 3, "content": "Y creímos que nuestros desquiciados deseos eran la verdad." },
+      { "verse": 4, "content": "Ahora nos alegramos de que todo esto haya desaparecido y de que ya no pensemos que las ilusiones son verdad." },
+      { "verse": 5, "content": "El recuerdo de Dios titila a lo ancho de los vastos horizontes de nuestras mentes." },
+      { "verse": 6, "content": "Un momento más y volverá a surgir." },
+      { "verse": 7, "content": "Un momento más, y nosotros que somos los Hijos de Dios, nos encontraremos a salvo en nuestro hogar, donde Él quiere que estemos." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 10,
+    "sentences": [
+      { "verse": 1, "content": "A la necesidad de practicar casi le ha llegado su fin." },
+      { "verse": 2, "content": "Pues en esta última etapa llegaremos a entender que solo con invocar a Dios toda tentación desaparece." },
+      { "verse": 3, "content": "En lugar de palabras, solo necesitamos sentir Su Amor." },
+      { "verse": 4, "content": "En lugar de oraciones, solo necesitamos invocar Su Nombre." },
+      { "verse": 5, "content": "Y en lugar de juzgar, solo necesitamos aquietarnos y dejar que todas las cosas sean sanadas." },
+      { "verse": 6, "content": "Aceptaremos la manera en que el plan de Dios ha de terminar, tal como aceptamos la manera en que comenzó." },
+      { "verse": 7, "content": "Ahora ya se ha consumado." },
+      { "verse": 8, "content": "Este año nos ha llevado a la eternidad." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 11,
+    "sentences": [
+      { "verse": 1, "content": "Las palabras tendrán todavía cierta utilidad." },
+      { "verse": 2, "content": "Cada cierto tiempo se incluirán temas de especial relevancia, cuya lectura debe preceder a la de nuestras lecciones diarias y a los períodos de experiencia profunda e inefable que deben seguir a estas." },
+      { "verse": 3, "content": "Estos temas especiales deberán repasarse cada día hasta que se te ofrezca el siguiente." },
+      { "verse": 4, "content": "Debes leerlos lentamente y reflexionar sobre ellos por un rato antes de cada uno de esos santos y benditos instantes del día." },
+      { "verse": 5, "content": "He aquí el primero de estos temas especiales." }
+    ]
+  },
+  {
+    "anchor": "workbook-part2-set1",
+    "type": "lesson-set-heading",
+    "title": "(221-230)",
+    "subtitle": "1. ¿Qué es el perdón?"
+  },
+  {
+    "anchor": "workbook-part2-set1-intro",
+    "type": "chapter-heading",
+    "title": "Introducción"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "El perdón reconoce que lo que pensaste que tu hermano te había hecho en realidad nunca ocurrió." },
+      { "verse": 2, "content": "El perdón no perdona pecados, otorgándoles así realidad." },
+      { "verse": 3, "content": "Sencillamente ve que no se cometió pecado alguno." },
+      { "verse": 4, "content": "Y desde este punto de vista todos tus pecados quedan perdonados." },
+      { "verse": 5, "content": "¿Qué es el pecado sino una idea falsa acerca del Hijo de Dios?" },
+      { "verse": 6, "content": "El perdón ve simplemente la falsedad de dicha idea y, por lo tanto, la descarta." },
+      { "verse": 7, "content": "Lo que entonces queda libre para ocupar su lugar es la Voluntad de Dios." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Un pensamiento que no perdona es aquel que emite un juicio que no pone en duda a pesar de que no es verdad." },
+      { "verse": 2, "content": "La mente se ha cerrado y no puede liberarse." },
+      { "verse": 3, "content": "Dicho pensamiento protege la proyección, apretando aún más sus cadenas de manera que las distorsiones resulten más sutiles y turbias, menos susceptibles de ser puestas en duda y más alejadas de la razón." },
+      { "verse": 4, "content": "¿Qué puede interponerse entre una proyección fija y el objetivo que esta ha elegido como su deseada meta?" }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 3,
+    "sentences": [
+      { "verse": 1, "content": "Un pensamiento que no perdona hace muchas cosas." },
+      { "verse": 2, "content": "Persigue su objetivo frenéticamente, retorciendo y volcando todo aquello que cree que se interpone en su camino." },
+      { "verse": 3, "content": "Su propósito es distorsionar, lo cual es también el medio por el que procura alcanzarlo." },
+      { "verse": 4, "content": "Se dedica con furia a arrasar la realidad, sin ningún miramiento por nada que parezca contradecir su punto de vista." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 4,
+    "sentences": [
+      { "verse": 1, "content": "El perdón, en cambio, es tranquilo y sosegado, y sencillamente no hace nada." },
+      { "verse": 2, "content": "No ofende ningún aspecto de la realidad ni busca tergiversarla para que adquiera apariencias que a él le gusten." },
+      { "verse": 3, "content": "Simplemente observa, espera y no juzga." },
+      { "verse": 4, "content": "El que no perdona se ve obligado a juzgar, pues tiene que justificar el no haber perdonado." },
+      { "verse": 5, "content": "Pero aquel que ha de perdonarse a sí mismo debe aprender a darle la bienvenida a la verdad exactamente como esta es." }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 5,
+    "sentences": [
+      { "verse": 1, "content": "No hagas nada, pues, y deja que el perdón te muestre lo que debes hacer por medio de Aquel que es tu Guía, tu Salvador y Protector, Quien, lleno de esperanza, está seguro de que finalmente triunfarás." },
+      { "verse": 2, "content": "Él ya te ha perdonado, pues esa es la función que Dios le encomendó." },
+      { "verse": 3, "content": "Ahora tú debes compartir Su función y perdonar a aquel que Él ha salvado, cuya inocencia Él ve y a quien honra como el Hijo de Dios." }
+    ]
+  },
+  {
+    "anchor": "workbook-l221",
+    "type": "lesson-heading",
+    "title": "Lección 221",
+    "subtitle": "Que mi mente esté en paz y que todos mis pensamientos se aquieten."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Padre, hoy vengo a Ti en busca de la paz que solo Tú puedes dar." },
+      { "verse": 2, "content": "Vengo en silencio." },
+      { "verse": 3, "content": "Y en la quietud de mi corazón—en lo más recóndito de mi mente—espero y estoy a la escucha de Tu Voz." },
+      { "verse": 4, "content": "Padre mío, háblame hoy." },
+      { "verse": 5, "content": "Vengo con certeza y con amor a oír Tu Voz en silencio, seguro de que oirás mi llamada y que me responderás." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Y ahora aguardamos silenciosamente." },
+      { "verse": 2, "content": "Dios está aquí porque esperamos juntos." },
+      { "verse": 3, "content": "Estoy seguro de que te hablará y de que tú Le oirás." },
+      { "verse": 4, "content": "Acepta mi confianza, pues es la tuya." },
+      { "verse": 5, "content": "Nuestras mentes están unidas." },
+      { "verse": 6, "content": "Esperamos con un solo propósito: oír la respuesta de nuestro Padre a nuestra llamada, dejar que nuestros pensamientos se aquieten y encontrar Su Paz, para oírle hablar de lo que nosotros somos y para que se revele a Su Hijo." }
+    ]
+  },
+  {
+    "anchor": "workbook-l222",
+    "type": "lesson-heading",
+    "title": "Lección 222",
+    "subtitle": "Dios está conmigo. Vivo y me muevo en Él."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Dios está conmigo." },
+      { "verse": 2, "content": "Él es mi Fuente de Vida, la vida interior, el aire que respiro, el alimento que me sustenta y el agua que me renueva y me purifica." },
+      { "verse": 3, "content": "Él es mi hogar, en el que vivo y me muevo; el Espíritu que dirige todos mis actos, me ofrece Sus Pensamientos y garantiza mi perfecta inmunidad contra todo dolor." },
+      { "verse": 4, "content": "Él me prodiga bondad y cuidado, y contempla con amor al Hijo sobre el que resplandece, el cual a su vez resplandece sobre Él." },
+      { "verse": 5, "content": "¡Qué serenidad la de aquel que conoce la verdad de lo que Él dice hoy!" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, no tenemos en nuestros labios ni en nuestras mentes otras palabras que Tu Nombre, cuando acudimos en silencio ante Tu Presencia, pidiendo descansar Contigo por un rato en paz." }
+    ]
+  },
+  {
+    "anchor": "workbook-l223",
+    "type": "lesson-heading",
+    "title": "Lección 223",
+    "subtitle": "Dios es mi vida. No tengo otra vida que la Suya."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Estaba equivocado al pensar que vivía separado de Dios, que era una entidad aparte que se movía por su cuenta, desvinculada y encasillada en un cuerpo." },
+      { "verse": 2, "content": "Ahora sé que mi vida es la de Dios, que no tengo otro hogar y que no existo aparte de Él." },
+      { "verse": 3, "content": "Él no tiene Pensamientos que no sean parte de mí, y yo no tengo ninguno que no sea de Él." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre nuestro, que contemplemos la faz de Cristo en lugar de nuestros errores." },
+      { "verse": 2, "content": "Pues nosotros que somos Tu santo Hijo somos incapaces de pecar." },
+      { "verse": 3, "content": "Queremos contemplar nuestra inocencia, pues la culpa proclama que no somos Tu Hijo." },
+      { "verse": 4, "content": "Y no queremos seguir relegándote al olvido," },
+      { "verse": 5, "content": "ya que nos sentimos solos aquí y anhelamos estar en el Cielo, que es nuestro hogar." },
+      { "verse": 6, "content": "Queremos regresar hoy." },
+      { "verse": 7, "content": "Nuestro Nombre es el Tuyo y damos fe de que somos Tu Hijo." }
+    ]
+  },
+  {
+    "anchor": "workbook-l224",
+    "type": "lesson-heading",
+    "title": "Lección 224",
+    "subtitle": "Dios es mi Padre y Él ama a Su Hijo."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Mi verdadera identidad es tan invulnerable, tan sublime e inocente, tan gloriosa y espléndida, y tan absolutamente benéfica y libre de culpa, que el Cielo la contempla para que lo ilumine." },
+      { "verse": 2, "content": "Y Ella ilumina también al mundo." },
+      { "verse": 3, "content": "Mi verdadera identidad es el regalo que mi Padre me hizo y el que a mi vez le hago al mundo." },
+      { "verse": 4, "content": "No hay otro regalo, salvo este, que se pueda dar o recibir." },
+      { "verse": 5, "content": "Mi verdadera identidad y solo ella es la realidad." },
+      { "verse": 6, "content": "Es el final de las ilusiones." },
+      { "verse": 7, "content": "Es la verdad." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "¡Oh, Padre, mi Nombre todavía Te es conocido!" },
+      { "verse": 2, "content": "Yo lo he olvidado, y no sé adónde me dirijo, Quién soy ni qué es lo que debo hacer." },
+      { "verse": 3, "content": "Recuérdamelo ahora, Padre, pues estoy cansado del mundo que veo." },
+      { "verse": 4, "content": "Revélame lo que deseas que vea en su lugar." }
+    ]
+  },
+  {
+    "anchor": "workbook-l225",
+    "type": "lesson-heading",
+    "title": "Lección 225",
+    "subtitle": "Dios es mi Padre y Su Hijo Lo ama."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Padre, no puedo sino corresponder a Tu Amor, pues dar es lo mismo que recibir y Tú me has dado todo Tu Amor." },
+      { "verse": 2, "content": "Tengo que corresponder a él, pues quiero tener plena conciencia de que es mío, de que arde en mi mente y de que, en su benéfica luz, la mantiene inmaculada, amada, libre de miedo y con un porvenir en el que solo se puede perfilar paz." },
+      { "verse": 3, "content": "¡Cuán apacible es el camino por el que a Tu amoroso Hijo se le conduce hasta Ti!" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Hermano mío, ahora hallamos esa quietud." },
+      { "verse": 2, "content": "El camino está libre y despejado." },
+      { "verse": 3, "content": "Ahora lo recorremos juntos y en paz." },
+      { "verse": 4, "content": "Me has tendido la mano y yo nunca te abandonaré." },
+      { "verse": 5, "content": "Somos uno, y es solo esta unicidad lo que buscamos a medida que damos los últimos pasos con los que concluye una jornada que nunca comenzó." }
+    ]
+  },
+  {
+    "anchor": "workbook-l226",
+    "type": "lesson-heading",
+    "title": "Lección 226",
+    "subtitle": "Mi hogar me aguarda. Me apresuré a llegar a él."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Puedo abandonar este mundo completamente si así lo decido." },
+      { "verse": 2, "content": "No mediante la muerte, sino mediante un cambio de parecer con respecto a su propósito." },
+      { "verse": 3, "content": "Si creo que tal como lo veo ahora tiene valor, así seguirá siendo para mí." },
+      { "verse": 4, "content": "Mas si tal como lo contemplo no veo nada de valor en él, ni nada que desee poseer ni ninguna meta que anhele alcanzar, entonces ese mundo se alejará de mí." },
+      { "verse": 5, "content": "Pues no habré intentado reemplazar la verdad con ilusiones." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, mi hogar aguarda mi feliz retorno." },
+      { "verse": 2, "content": "Tus Brazos están abiertos y oigo Tu Voz." },
+      { "verse": 3, "content": "¿Qué necesidad tengo de prolongar mi estadía en un lugar de vanos deseos y de sueños frustrados cuando con tanta facilidad puedo alcanzar el Cielo?" }
+    ]
+  },
+  {
+    "anchor": "workbook-l227",
+    "type": "lesson-heading",
+    "title": "Lección 227",
+    "subtitle": "Este es el instante santo de mi liberación."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Padre, hoy es el día en que me libero porque mi voluntad es la Tuya." },
+      { "verse": 2, "content": "Pensé hacer otra voluntad." },
+      { "verse": 3, "content": "Sin embargo, nada de lo que pensé aparte de Ti existe." },
+      { "verse": 4, "content": "Y soy libre porque estaba equivocado y las ilusiones que abrigaba no afectaron en modo alguno mi realidad." },
+      { "verse": 5, "content": "Ahora renuncio a ellas y las pongo a los pies de la verdad a fin de que sean borradas de mi mente para siempre." },
+      { "verse": 6, "content": "Este es el instante santo de mi liberación." },
+      { "verse": 7, "content": "Padre, sé que mi voluntad es una con la Tuya." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Y de esta manera, nos encontramos felizmente de vuelta en el Cielo, del cual realmente nunca nos ausentamos." },
+      { "verse": 2, "content": "En este día el Hijo de Dios abandona sus sueños." },
+      { "verse": 3, "content": "En este día el Hijo de Dios regresa de nuevo a casa, liberado del pecado y revestido de santidad, habiéndosele restituido finalmente su mente recta." }
+    ]
+  },
+  {
+    "anchor": "workbook-l228",
+    "type": "lesson-heading",
+    "title": "Lección 228",
+    "subtitle": "Dios no me ha condenado. Por lo tanto, yo tampoco me he de condenar."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Mi Padre conoce mi santidad." },
+      { "verse": 2, "content": "¿Debo acaso negar Su Conocimiento y creer en lo que Su Conocimiento hace que sea imposible?" },
+      { "verse": 3, "content": "¿Y debo aceptar como verdadero lo que Él proclama que es falso?" },
+      { "verse": 4, "content": "¿O debo más bien aceptar lo que Su Palabra dice que soy, toda vez que Él es mi Creador y el que conoce la verdadera condición de Su Hijo?" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, estaba equivocado con respecto a mí mismo porque no reconocía la Fuente de mi procedencia." },
+      { "verse": 2, "content": "No me he separado de Ella para adentrarme en un cuerpo y morir." },
+      { "verse": 3, "content": "Mi santidad sigue siendo parte de mí, tal como yo soy parte de Ti." },
+      { "verse": 4, "content": "Mis errores acerca de mí mismo son sueños." },
+      { "verse": 5, "content": "Hoy los abandono." },
+      { "verse": 6, "content": "Y ahora estoy listo para recibir únicamente Tu Palabra acerca de lo que realmente soy." }
+    ]
+  },
+  {
+    "anchor": "workbook-l229",
+    "type": "lesson-heading",
+    "title": "Lección 229",
+    "subtitle": "El Amor, que es lo que me creó, es lo que soy."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Busco mi verdadera identidad y la encuentro en estas palabras: «El Amor, que es lo que me creó, es lo que soy.»" },
+      { "verse": 2, "content": "Ahora no necesito buscar más." },
+      { "verse": 3, "content": "El Amor ha prevalecido." },
+      { "verse": 4, "content": "Ha esperado tan quedamente mi regreso a casa, que ya no me volveré a apartar de la santa faz de Cristo." },
+      { "verse": 5, "content": "Y lo que contemple dará testimonio de la verdad de la Identidad que procuré perder, pero que mi Padre conservó a salvo para mí." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, Te doy gracias por lo que soy, por haber conservado mi Identidad inalterada e impecable en medio de todos los pensamientos de pecado que mi alocada mente inventó." },
+      { "verse": 2, "content": "Y Te doy gracias también por haberme salvado de ellos." },
+      { "verse": 3, "content": "Amén." }
+    ]
+  },
+  {
+    "anchor": "workbook-l230",
+    "type": "lesson-heading",
+    "title": "Lección 230",
+    "subtitle": "Ahora buscaré y hallaré la Paz de Dios."
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Fui creado en la paz." },
+      { "verse": 2, "content": "Y en la paz permanezco." },
+      { "verse": 3, "content": "No me ha sido dado poder cambiar mi Ser." },
+      { "verse": 4, "content": "¡Cuán misericordioso es Dios mi Padre, que al crearme me dio la paz para siempre!" },
+      { "verse": 5, "content": "Ahora solo pido ser lo que soy." },
+      { "verse": 6, "content": "¿Y podría negárseme eso cuando es eternamente verdad?" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, busco la paz que me diste al crearme." },
+      { "verse": 2, "content": "Lo que se me dio entonces tiene que encontrarse aquí ahora, pues mi creación tuvo lugar fuera del tiempo y aún sigue siendo inmune a todo cambio." },
+      { "verse": 3, "content": "La paz en la que Tu Hijo nació en Tu Mente aún resplandece allí sin haber cambiado." },
+      { "verse": 4, "content": "Soy tal como Tú me creaste." },
+      { "verse": 5, "content": "Solo necesito invocarte para hallar la paz que me diste." },
+      { "verse": 6, "content": "Es Tu Voluntad la que se la dio a Tu Hijo." }
+    ]
+  },
+  { "anchor": "workbook-part2-set2", "type": "lesson-set-heading", "title": "(231-240)", "subtitle": "2. ¿Qué es la salvación?" },
+  { "anchor": "workbook-part2-set2-intro", "type": "chapter-heading", "title": "Introducción" },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "La salvación es la promesa que Dios te hizo de que finalmente encontrarás el camino que conduce a Él." },
+      { "verse": 2, "content": "Y Él no puede dejar de cumplirla." },
+      { "verse": 3, "content": "Garantiza que al tiempo le llegará su fin, al igual que a todos los pensamientos que se originaron en él." },
+      { "verse": 4, "content": "La Palabra de Dios se le concede a toda mente que cree tener pensamientos de separación para que reemplace esos pensamientos de conflicto con el Pensamiento de la paz." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "El Pensamiento de la paz le fue dado al Hijo en el mismo instante en que su mente concibió el pensamiento de la guerra." },
+      { "verse": 2, "content": "Antes de eso no había necesidad de ese Pensamiento, pues la paz se había otorgado sin opuestos y simplemente _era._" },
+      { "verse": 3, "content": "Una mente dividida, no obstante, tiene necesidad de curación." },
+      { "verse": 4, "content": "Y así, el Pensamiento que tiene el poder de subsanar la división pasó a formar parte de cada fragmento de la mente que seguía siendo una, pero no reconocía su unidad." },
+      { "verse": 5, "content": "Al no conocerse a sí misma, pensó que había perdido su Identidad." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 3,
+    "sentences": [
+      { "verse": 1, "content": "La salvación es un des-hacer en el sentido de que no hace nada, al no apoyar el mundo de sueños y de malicia." },
+      { "verse": 2, "content": "De esta manera, las ilusiones desaparecen." },
+      { "verse": 3, "content": "Al no prestarles apoyo, deja que simplemente se conviertan en polvo." },
+      { "verse": 4, "content": "Y lo que ocultaban queda ahora revelado: un altar al santo Nombre de Dios donde Su Palabra está escrita, con las ofrendas de tu perdón depositadas ante él, y tras ellas, no mucho más allá, el recuerdo de Dios." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 4,
+    "sentences": [
+      { "verse": 1, "content": "Acudamos diariamente a este santo lugar y pasemos un rato juntos." },
+      { "verse": 2, "content": "Ahí compartimos nuestro sueño final." },
+      { "verse": 3, "content": "Es este un sueño en el que no hay pesares, pues contiene un atisbo de toda la gloria que Dios nos ha dado." },
+      { "verse": 4, "content": "En él se ve brotar la hierba, los árboles florecer y los pájaros hacer sus nidos en su ramaje." },
+      { "verse": 5, "content": "La tierra nace de nuevo desde una nueva perspectiva." },
+      { "verse": 6, "content": "La noche ya pasó y ahora nos hemos unido en la luz." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 5,
+    "sentences": [
+      { "verse": 1, "content": "Desde ahí extendemos la salvación al mundo, pues ahí fue donde la recibimos." },
+      { "verse": 2, "content": "El himno que llenos de júbilo entonamos le proclama al mundo que la libertad ha retornado, que al tiempo casi le ha llegado su fin y que el Hijo de Dios tan solo tiene que esperar un instante antes de que su Padre sea recordado, los sueños hayan terminado, la eternidad haya disuelto al mundo con su luz y el Cielo sea lo único que exista." }
+    ]
+  },
+  { "anchor": "workbook-l231", "type": "lesson-heading", "title": "Lección 231", "subtitle": "Padre, mi voluntad es únicamente recordarte." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "¿Qué puedo buscar, Padre, sino Tu Amor?" },
+      { "verse": 2, "content": "Tal vez crea que lo que busco es otra cosa; algo a lo que le he dado muchos nombres." },
+      { "verse": 3, "content": "Mas lo único que busco, o siempre busqué, es Tu Amor." },
+      { "verse": 4, "content": "Pues no hay nada más que quiera realmente encontrar." },
+      { "verse": 5, "content": "Quiero acordarme de Ti." },
+      { "verse": 6, "content": "¿Qué otra cosa podría desear sino la verdad acerca de mí mismo?" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Esa es tu voluntad, hermano mío." },
+      { "verse": 2, "content": "Y compartes esa voluntad conmigo así como con Aquel que es nuestro Padre." },
+      { "verse": 3, "content": "Recordarlo a Él es el Cielo." },
+      { "verse": 4, "content": "Esto es lo que buscamos." },
+      { "verse": 5, "content": "Y esto es lo único que nos será dado hallar." }
+    ]
+  },
+  { "anchor": "workbook-l232", "type": "lesson-heading", "title": "Lección 232", "subtitle": "Permanece en mi mente todo el día, Padre mío." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Padre mío, permanece en mi mente desde el momento en que me despierto y derrama Tu luz sobre mí todo el día." },
+      { "verse": 2, "content": "Que cada minuto sea una oportunidad más de estar Contigo." },
+      { "verse": 3, "content": "Y que no me olvide de darte las gracias cada hora por haber estado conmigo y porque siempre estarás ahí presto a escucharme y a contestarme cuando Te llame." },
+      { "verse": 4, "content": "Y al llegar la noche, que todos mis pensamientos sigan siendo acerca de Ti y de Tu Amor." },
+      { "verse": 5, "content": "Y que duerma en la confianza de que estoy a salvo, seguro de Tu Cuidado y felizmente consciente de que soy Tu Hijo." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Así es como debería ser cada día." },
+      { "verse": 2, "content": "Practica hoy el final del miedo." },
+      { "verse": 3, "content": "Ten fe en Aquel que es tu Padre." },
+      { "verse": 4, "content": "Deja todo en Sus Manos." },
+      { "verse": 5, "content": "Deja que Él te revele todo y no te desanimes, pues eres Su Hijo." }
+    ]
+  },
+  { "anchor": "workbook-l233", "type": "lesson-heading", "title": "Lección 233", "subtitle": "Hoy le doy mi vida a Dios para que Él la guíe." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Padre, hoy te entrego todos mis pensamientos." },
+      { "verse": 2, "content": "No quiero quedarme con ninguno." },
+      { "verse": 3, "content": "En su lugar, dame los Tuyos." },
+      { "verse": 4, "content": "Te entrego asimismo todos mis actos, de manera que pueda hacer Tu Voluntad en lugar de ir en pos de metas inalcanzables y perder el tiempo en vanas imaginaciones." },
+      { "verse": 5, "content": "Hoy vengo a Ti." },
+      { "verse": 6, "content": "Me haré a un lado y simplemente Te seguiré." },
+      { "verse": 7, "content": "Sé Tú el Guía y yo el seguidor que no duda de la sabiduría de lo Infinito ni del Amor cuya ternura no puedo comprender, pero que es, sin embargo, el perfecto regalo que me haces." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Hoy nos dirige un solo Guía." },
+      { "verse": 2, "content": "Y mientras caminamos juntos, Le entregamos este día sin reserva alguna." },
+      { "verse": 3, "content": "Este es Su día." },
+      { "verse": 4, "content": "Y por eso es un día de incontables dones y de infinitas mercedes para nosotros." }
+    ]
+  },
+  { "anchor": "workbook-l234", "type": "lesson-heading", "title": "Lección 234", "subtitle": "Padre, hoy vuelvo a ser Tu Hijo." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Hoy vislumbramos el momento en que los sueños de pecado y de culpa han desaparecido y hemos alcanzado la santa paz de la que nunca nos habíamos apartado." },
+      { "verse": 2, "content": "Solo un instante transcurrió entre la eternidad y lo intemporal." },
+      { "verse": 3, "content": "Y fue tan fugaz, que no hubo ninguna interrupción en la continuidad ni corte alguno en los pensamientos que están eternamente unidos cual uno solo." },
+      { "verse": 4, "content": "Nunca ocurrió nada que perturbase la Paz de Dios el Padre ni la del Hijo." },
+      { "verse": 5, "content": "Hoy aceptamos la veracidad de este hecho." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Te agradecemos, Padre, que no podamos perder el recuerdo de Ti ni el de Tu Amor." },
+      { "verse": 2, "content": "Reconocemos nuestra seguridad y Te damos gracias por todos los dones que nos has concedido, por toda la amorosa ayuda que nos has prestado, por Tu inagotable paciencia y por habernos dado Tu Palabra de que hemos sido salvados." }
+    ]
+  },
+  { "anchor": "workbook-l235", "type": "lesson-heading", "title": "Lección 235", "subtitle": "Dios, en Su Misericordia, dispone que yo me salve." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Solo necesito contemplar todo aquello que parece herirme y con absoluta certeza decirme a mí mismo: «La Voluntad de Dios es que yo me salve de esto» para que de inmediato lo vea desaparecer." },
+      { "verse": 2, "content": "Solo necesito tener presente que la Voluntad de mi Padre para mí es solo felicidad para darme cuenta de que lo único que se me ha dado es felicidad." },
+      { "verse": 3, "content": "Y solo necesito recordar que el Amor de Dios rodea a Su Hijo y mantiene su inocencia eternamente perfecta para estar seguro de que me he salvado y de que me encuentro para siempre a salvo en Sus Brazos." },
+      { "verse": 4, "content": "Soy el Hijo que Él ama." },
+      { "verse": 5, "content": "Y me he salvado porque Dios, en Su Misericordia, así lo dispuso." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, Tu Santidad es mía." },
+      { "verse": 2, "content": "Tu Amor me creó e hizo que mi inocencia fuese por siempre parte de Ti." },
+      { "verse": 3, "content": "No hay culpa o pecado en mí, puesto que no los hay en Ti." }
+    ]
+  },
+  { "anchor": "workbook-l236", "type": "lesson-heading", "title": "Lección 236", "subtitle": "Gobierno mi mente, la cual solo yo debo gobernar." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Tengo un reino que gobernar." },
+      { "verse": 2, "content": "Sin embargo, a veces no parece que yo sea su rey en absoluto," },
+      { "verse": 3, "content": "sino que parece imponerse sobre mí y decirme qué debo pensar, cómo debo actuar y cómo debo sentirme." },
+      { "verse": 4, "content": "No obstante, se me ha dado para que sirva cualquier propósito que yo perciba en ella." },
+      { "verse": 5, "content": "La única función de mi mente es servir." },
+      { "verse": 6, "content": "Hoy la pongo al servicio del Espíritu Santo para que Él la use como mejor Le parezca." },
+      { "verse": 7, "content": "De esta manera, soy yo quien la dirige, ya que solo yo la puedo gobernar." },
+      { "verse": 8, "content": "Y así la dejo en libertad para que haga la Voluntad de Dios." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, hoy mi mente está abierta para recibir Tus Pensamientos, pero cerrada a cualquier otro pensamiento que no proceda de Ti." },
+      { "verse": 2, "content": "Gobierno mi mente y te la ofrezco a Ti." },
+      { "verse": 3, "content": "Acepta mi regalo, pues es el que Tú me hiciste a mí." }
+    ]
+  },
+  { "anchor": "workbook-l237", "type": "lesson-heading", "title": "Lección 237", "subtitle": "Ahora he de ser tal como Dios me creó." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Hoy aceptaré la verdad acerca de mí mismo." },
+      { "verse": 2, "content": "Me alzaré glorioso, y dejaré que la luz que mora en mí irradie sobre el mundo durante todo el día." },
+      { "verse": 3, "content": "Le traigo al mundo las buenas nuevas de la salvación que oigo cuando Dios mi Padre me habla." },
+      { "verse": 4, "content": "Y contemplo el mundo que Cristo quiere que vea, consciente de que pone fin al amargo sueño de muerte; consciente de que es la Llamada que mi Padre me hace." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Cristo se convierte en mis ojos y en los oídos que hoy escuchan la Voz que habla por Dios." },
+      { "verse": 2, "content": "Padre, vengo a Ti a través de Aquel que es Tu Hijo, así como mi verdadero ser." },
+      { "verse": 3, "content": "Amén." }
+    ]
+  },
+  { "anchor": "workbook-l238", "type": "lesson-heading", "title": "Lección 238", "subtitle": "La salvación depende de mi decisión." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Padre, Tu confianza en mí ha sido tan grande que debo ser digno de ella." },
+      { "verse": 2, "content": "Tú me creaste y me conoces tal como soy." },
+      { "verse": 3, "content": "Y así, pusiste en mis manos la salvación de Tu Hijo y dejaste que dependiera de mi decisión." },
+      { "verse": 4, "content": "¡Cuán grande debe ser Tu Amor por mí!" },
+      { "verse": 5, "content": "Y mi santidad debe ser asimismo inexpugnable para que hayas puesto a Tu Hijo en mis manos con la certeza de que Aquel que es parte de Ti y también de mí, puesto que es mi Ser, está a salvo." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Y así, hoy volvemos a hacer otra pausa para pensar en lo mucho que nos ama nuestro Padre." },
+      { "verse": 2, "content": "Y cuán querido sigue siendo para Él Su Hijo, quien fue creado por Su Amor y en quien el Amor de su Padre alcanza Su plenitud." }
+    ]
+  },
+  { "anchor": "workbook-l239", "type": "lesson-heading", "title": "Lección 239", "subtitle": "Mía es la Gloria de mi Padre." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "No permitamos hoy que la verdad acerca de nosotros se oculte tras una falsa humildad." },
+      { "verse": 2, "content": "Por el contrario, sintámonos agradecidos por los dones que nuestro Padre nos ha concedido." },
+      { "verse": 3, "content": "¿Sería posible acaso que pudiéramos advertir algún vestigio de pecado o de culpa en aquellos con quienes Él comparte Su Gloria?" },
+      { "verse": 4, "content": "¿Y cómo podría ser que no nos contásemos entre ellos, cuando Él ama a Su Hijo para siempre y con perfecta constancia, sabiendo que es tal como Él lo creó?" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Te damos gracias, Padre, por la luz que refulge eternamente en nosotros." },
+      { "verse": 2, "content": "Y la honramos porque Tú la compartes con nosotros." },
+      { "verse": 3, "content": "Somos uno, unidos en esa luz y uno Contigo, en paz con toda la Creación y con nosotros mismos." }
+    ]
+  },
+  { "anchor": "workbook-l240", "type": "lesson-heading", "title": "Lección 240", "subtitle": "El miedo, de la clase que sea, no está justificado." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "El miedo es un engaño." },
+      { "verse": 2, "content": "Da testimonio que te has visto a ti mismo como nunca podrías ser y, por lo tanto, contemplas un mundo que no puede ser real." },
+      { "verse": 3, "content": "Ni una sola cosa en ese mundo es verdad." },
+      { "verse": 4, "content": "Sea cual sea la forma en que se manifieste," },
+      { "verse": 5, "content": "solo da fe de tus ilusiones acerca de ti mismo." },
+      { "verse": 6, "content": "No nos dejemos engañar hoy." },
+      { "verse": 7, "content": "Somos los Hijos de Dios." },
+      { "verse": 8, "content": "En nosotros el miedo no tiene cabida, pues cada uno de nosotros es parte del Amor Mismo." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "¡Cuán infundados son nuestros miedos!" },
+      { "verse": 2, "content": "¿Ibas acaso a permitir que Tu Hijo sufriera?" },
+      { "verse": 3, "content": "Danos fe hoy para reconocer a Tu Hijo y liberarlo." },
+      { "verse": 4, "content": "Perdonémosle en Tu Nombre para poder entender su santidad y sentir por él el amor que Tú le profesas." }
+    ]
+  },
+  { "anchor": "workbook-part2-set4", "type": "lesson-set-heading", "title": "(251-260)", "subtitle": "4. ¿Qué es el pecado?" },
+  { "anchor": "workbook-part2-set4-intro", "type": "chapter-heading", "title": "Introducción" },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "El pecado es demencia." },
+    { "verse": 2, "content": "Es lo que hace que la mente pierda su cordura y trate de que las ilusiones ocupen el lugar de la verdad." },
+    { "verse": 3, "content": "Y al estar loca, la mente ve ilusiones donde la verdad debería estar y donde realmente está." },
+    { "verse": 4, "content": "El pecado dotó al cuerpo con ojos, pues, ¿qué iban a querer contemplar los que están libres de pecado?" },
+    { "verse": 5, "content": "¿Qué necesidad tendrían de vistas, sonidos o del tacto?" },
+    { "verse": 6, "content": "¿Qué querrían oír o intentar asir?" },
+    { "verse": 7, "content": "¿Qué necesidad tendrían de los sentidos?" },
+    { "verse": 8, "content": "Usar los sentidos es no saber." },
+    { "verse": 9, "content": "Y la verdad solo se compone de conocimiento y de nada más." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "El cuerpo es el instrumento que la mente fabricó en su afán por engañarse a sí misma." },
+    { "verse": 2, "content": "Su propósito es luchar." },
+    { "verse": 3, "content": "Mas la meta por la que lucha puede cambiar." },
+    { "verse": 4, "content": "Y entonces el cuerpo lucha por otro objetivo." },
+    { "verse": 5, "content": "Lo que ahora persigue lo determina el objetivo que la mente ha adoptado para sustituir a la meta de engañarse a sí misma que antes tenía." },
+    { "verse": 6, "content": "La verdad puede ser su objetivo tanto como las mentiras." },
+    { "verse": 7, "content": "Y así, los sentidos buscarán lo que da fe de la verdad." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 3, "sentences": [
+    { "verse": 1, "content": "El pecado es la morada de las ilusiones, las cuales representan únicamente cosas imaginarias procedentes de pensamientos falsos." },
+    { "verse": 2, "content": "Las ilusiones son la «prueba» de que lo que no es real lo es." },
+    { "verse": 3, "content": "El pecado «prueba» que el Hijo de Dios es malvado, que la intemporalidad tiene que tener un final y que la vida eterna sucumbirá ante la muerte." },
+    { "verse": 4, "content": "Y Dios Mismo ha perdido al Hijo que ama y solo le queda la corrupción para completarse a Sí Mismo; la muerte ha derrotado Su Voluntad para siempre, el odio ha destruido el amor y la paz ha dejado de existir." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 4, "sentences": [
+    { "verse": 1, "content": "Los sueños de un loco son pavorosos y el pecado parece ser ciertamente aterrador." },
+    { "verse": 2, "content": "Sin embargo, lo que el pecado percibe no es más que un juego de niños." },
+    { "verse": 3, "content": "El Hijo de Dios puede jugar a haberse convertido en un cuerpo que es presa de la maldad y de la culpa, con una corta vida que acaba en la muerte." },
+    { "verse": 4, "content": "Mientras tanto, su Padre ha seguido derramando Su Luz sobre él y amándolo con un amor eterno que sus pretensiones no pueden alterar en absoluto." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 5, "sentences": [
+    { "verse": 1, "content": "¿Hasta cuándo, Hijo de Dios, vas a seguir jugando al juego del pecado?" },
+    { "verse": 2, "content": "¿No es hora ya de abandonar esos juegos peligrosos?" },
+    { "verse": 3, "content": "¿Cuándo vas a estar listo para regresar a tu hogar?" },
+    { "verse": 4, "content": "¿Tal vez hoy?" },
+    { "verse": 5, "content": "El pecado no existe." },
+    { "verse": 6, "content": "La Creación no ha cambiado." },
+    { "verse": 7, "content": "¿Deseas aún seguir demorando tu regreso al Cielo?" },
+    { "verse": 8, "content": "¿Hasta cuándo, santo Hijo de Dios, vas a seguir demorándote, hasta cuándo?" }
+  ] },
+  { "anchor": "workbook-l251", "type": "lesson-heading", "title": "Lección 251", "subtitle": "No necesito nada más que la verdad." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l252", "type": "lesson-heading", "title": "Lección 252", "subtitle": "El Hijo de Dios es mi Identidad." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l253", "type": "lesson-heading", "title": "Lección 253", "subtitle": "Mi Ser es amo y señor del universo." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l254", "type": "lesson-heading", "title": "Lección 254", "subtitle": "Que se acalle en mí toda voz que no sea la de Dios." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l255", "type": "lesson-heading", "title": "Lección 255", "subtitle": "Elijo pasar este día en perfecta paz." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l256", "type": "lesson-heading", "title": "Lección 256", "subtitle": "Dios es mi único objetivo hoy." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l257", "type": "lesson-heading", "title": "Lección 257", "subtitle": "Que no me olvide de mi propósito." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l258", "type": "lesson-heading", "title": "Lección 258", "subtitle": "Que recuerde que Dios es mi objetivo." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l259", "type": "lesson-heading", "title": "Lección 259", "subtitle": "Que recuerde que el pecado no existe." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l260", "type": "lesson-heading", "title": "Lección 260", "subtitle": "Que recuerde que Dios me creó." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-part2-set3", "type": "lesson-set-heading", "title": "(241-250)", "subtitle": "3. ¿Qué es el mundo?" },
+  { "anchor": "workbook-part2-set3-intro", "type": "chapter-heading", "title": "Introducción" },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "El mundo es una percepción falsa." },
+      { "verse": 2, "content": "Nació del error y no ha abandonado su fuente." },
+      { "verse": 3, "content": "Persistirá mientras se siga abrigando el pensamiento que le dio vida." },
+      { "verse": 4, "content": "Cuando el pensamiento de separación haya sido sustituido por uno de verdadero perdón, el mundo se verá de una manera completamente distinta; de una manera que conduce a la verdad en la que el mundo no puede sino desaparecer junto con todos sus errores." },
+      { "verse": 5, "content": "Ahora su fuente ha desaparecido, al igual que sus efectos." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "El mundo se fabricó como un acto de agresión contra Dios." },
+      { "verse": 2, "content": "Es el símbolo del miedo." },
+      { "verse": 3, "content": "Mas ¿qué es el miedo sino la ausencia de amor?" },
+      { "verse": 4, "content": "El mundo, por lo tanto, se fabricó con la intención de que fuera un lugar en el que Dios no pudiese entrar y en el que Su Hijo pudiera estar separado de Él." },
+      { "verse": 5, "content": "Esa fue la cuna de la percepción, pues el Conocimiento no podría haber sido la causa de pensamientos tan descabellados." },
+      { "verse": 6, "content": "Mas los ojos engañan y los oídos oyen falsedades." },
+      { "verse": 7, "content": "Ahora es posible cometer errores porque se ha perdido la certeza." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 3,
+    "sentences": [
+      { "verse": 1, "content": "Y para sustituirla nacieron los mecanismos de la ilusión," },
+      { "verse": 2, "content": "que ahora van en pos de lo que se les ha encomendado buscar." },
+      { "verse": 3, "content": "Su finalidad es servir el propósito para el que se fabricó el mundo, de modo que diese testimonio de él y lo hiciera real." },
+      { "verse": 4, "content": "Dichos mecanismos ven en sus ilusiones una sólida base donde existe la verdad y donde se mantiene aparte de las mentiras." },
+      { "verse": 5, "content": "No obstante, no informan más que de ilusiones, las cuales se mantienen separadas de la verdad." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 4,
+    "sentences": [
+      { "verse": 1, "content": "Del mismo modo en que el propósito de la vista fue alejarte de la verdad, puede asimismo tener otro propósito." },
+      { "verse": 2, "content": "Todo sonido se convierte en la Llamada de Dios, y Aquel a quien Dios designó como el Salvador del mundo puede conferirle a toda percepción un nuevo propósito." },
+      { "verse": 3, "content": "Sigue Su luz, y verás el mundo tal como Él lo ve." },
+      { "verse": 4, "content": "Oye solo Su Voz en todo lo que te habla." },
+      { "verse": 5, "content": "Y deja que te conceda la paz y la certeza que tú desechaste, pero que el Cielo salvaguardó para ti en Él." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 5,
+    "sentences": [
+      { "verse": 1, "content": "No nos quedemos satisfechos hasta que el mundo se haya unido a nuestra nueva percepción." },
+      { "verse": 2, "content": "No nos demos por satisfechos hasta que el perdón sea total." },
+      { "verse": 3, "content": "Y no intentemos cambiar nuestra función." },
+      { "verse": 4, "content": "Tenemos que salvar al mundo." },
+      { "verse": 5, "content": "Pues nosotros que lo fabricamos tenemos que contemplarlo a través de los ojos de Cristo, de modo que aquello que se concibió para que muriese pueda ser restituido a la vida eterna." }
+    ]
+  },
+  { "anchor": "workbook-l241", "type": "lesson-heading", "title": "Lección 241", "subtitle": "En este instante santo llega la salvación." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "¡Qué alegría tan grande la de hoy!" },
+      { "verse": 2, "content": "Es un día de una celebración especial." },
+      { "verse": 3, "content": "Pues este día le ofrece al mundo de tinieblas el instante que se fijó para su liberación." },
+      { "verse": 4, "content": "Ha llegado el día en que todos los pesares se dejan atrás y el dolor desaparece." },
+      { "verse": 5, "content": "La gloria de la salvación alborea hoy sobre un mundo que ha sido liberado." },
+      { "verse": 6, "content": "Este es un tiempo de esperanza para millones de seres." },
+      { "verse": 7, "content": "Ahora ellos se unirán conforme los perdones a todos." },
+      { "verse": 8, "content": "Pues hoy tú me perdonarás a mí." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Ahora nos hemos perdonado los unos a los otros, y así podemos por fin regresar a Ti." },
+      { "verse": 2, "content": "Padre, Tu Hijo, que en realidad nunca se ausentó, retorna al Cielo y a su hogar." },
+      { "verse": 3, "content": "¡Qué contentos estamos de que se nos haya restituido la cordura y de poder recordar que todos somos uno!" }
+    ]
+  },
+  { "anchor": "workbook-l242", "type": "lesson-heading", "title": "Lección 242", "subtitle": "Este día se lo dedico a Dios. Es el regalo que Le hago." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Hoy no dirigiré mi vida por mi cuenta." },
+      { "verse": 2, "content": "No entiendo el mundo, por lo tanto, tratar de dirigir mi vida por mi cuenta es una locura." },
+      { "verse": 3, "content": "Mas hay Alguien que sabe qué es lo que más me conviene." },
+      { "verse": 4, "content": "Y se alegra de tomar por mí únicamente aquellas decisiones que me conducen a Dios." },
+      { "verse": 5, "content": "Pongo este día en Sus manos, pues no quiero demorar mi regreso al hogar, y es Él Quien conoce el camino que me conduce a Dios." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Y así, Te dedicamos este día." },
+      { "verse": 2, "content": "Venimos con mentes completamente receptivas." },
+      { "verse": 3, "content": "No pedimos nada que creamos desear." },
+      { "verse": 4, "content": "Concédenos únicamente lo que deseas que recibamos." },
+      { "verse": 5, "content": "Tú conoces nuestros deseos y necesidades." },
+      { "verse": 6, "content": "Y nos concederás todo lo que sea necesario para ayudarnos a encontrar el camino que nos lleva hasta Ti." }
+    ]
+  },
+  { "anchor": "workbook-l243", "type": "lesson-heading", "title": "Lección 243", "subtitle": "Hoy no juzgaré nada de lo que ocurra." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Hoy seré honesto conmigo mismo." },
+      { "verse": 2, "content": "No pensaré que ya sé lo que no puede sino estar más allá de mi presente entendimiento." },
+      { "verse": 3, "content": "No pensaré que entiendo la totalidad basándome en unos cuantos fragmentos de mi percepción, que es lo único que puedo ver." },
+      { "verse": 4, "content": "Hoy reconozco esto." },
+      { "verse": 5, "content": "Y así quedo eximido de tener que emitir juicios que en realidad no puedo hacer." },
+      { "verse": 6, "content": "De esta manera me libero a mí mismo y a todo lo que veo para estar en paz tal como Dios nos creó." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, hoy dejo que la Creación sea lo que es." },
+      { "verse": 2, "content": "Honro todos sus aspectos, entre los que me cuento." },
+      { "verse": 3, "content": "Somos uno porque cada aspecto alberga Tu recuerdo, y la verdad solo puede derramar su luz sobre todos nosotros cual uno solo." }
+    ]
+  },
+  { "anchor": "workbook-l244", "type": "lesson-heading", "title": "Lección 244", "subtitle": "No estoy en peligro en ningún lugar del mundo." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Tu Hijo está a salvo dondequiera que se encuentre porque Tú estás allí con él." },
+      { "verse": 2, "content": "Solo con que invoque Tu Nombre recordará su seguridad y Tu Amor, pues estos son uno." },
+      { "verse": 3, "content": "¿Cómo puede temer, dudar o no darse cuenta de que es imposible que pueda sufrir, estar en peligro o ser infeliz cuando él Te pertenece, es amado y amoroso, y está por siempre a salvo en Tu Paternal abrazo?" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Y ahí es en verdad donde nos encontramos." },
+      { "verse": 2, "content": "No hay tormenta que pueda venir a azotar el santuario de nuestro hogar." },
+      { "verse": 3, "content": "En Dios estamos a salvo," },
+      { "verse": 4, "content": "pues ¿qué podría suponer una amenaza para Dios o venir a asustar a lo que por siempre ha de ser parte de Él?" }
+    ]
+  },
+  { "anchor": "workbook-l245", "type": "lesson-heading", "title": "Lección 245", "subtitle": "Tu Paz está conmigo, Padre. Estoy a salvo." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Tu Paz me rodea, Padre." },
+      { "verse": 2, "content": "Dondequiera que voy, Tu Paz me acompaña" },
+      { "verse": 3, "content": "y derrama Su luz sobre todo aquel con quien me encuentro." },
+      { "verse": 4, "content": "Se la llevo al que está desolado, al que se siente solo y al que tiene miedo." },
+      { "verse": 5, "content": "Se la ofrezco a los que sufren, a los que se lamentan de una pérdida, así como a los que creen ser infelices y haber perdido toda esperanza." },
+      { "verse": 6, "content": "Envíamelos, Padre." },
+      { "verse": 7, "content": "Que sea el portador de Tu Paz," },
+      { "verse": 8, "content": "pues quiero salvar a Tu Hijo tal como dispone Tu Voluntad para poder llegar a reconocer mi Ser." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Y así caminamos en paz," },
+      { "verse": 2, "content": "transmitiendo al mundo entero el mensaje que hemos recibido." },
+      { "verse": 3, "content": "Y de esta manera oímos por fin la Voz que habla por Dios, la cual nos habla según nosotros predicamos la Palabra de Dios, Cuyo Amor reconocemos, puesto que compartimos con todos la Palabra que Él nos dio." }
+    ]
+  },
+  { "anchor": "workbook-l246", "type": "lesson-heading", "title": "Lección 246", "subtitle": "Amar a mi Padre es amar a Su Hijo." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Que no piense que puedo encontrar el camino a Dios si abrigo odio en mi corazón." },
+      { "verse": 2, "content": "Que no piense que puedo conocer a mi Padre o a mi Ser si trato de hacerle daño al Hijo de Dios." },
+      { "verse": 3, "content": "Que no piense que si dejo de reconocerme a mí mismo voy a poder seguir creyendo que mi conciencia puede abarcar lo que mi Padre es o mi mente concebir todo el amor que me profesa y el que yo le profeso a Él." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Aceptaré seguir el camino que Tú elijas para que yo venga a Ti, Padre mío." },
+      { "verse": 2, "content": "Y no podré por menos que triunfar porque así lo dispone Tu Voluntad." },
+      { "verse": 3, "content": "Y reconoceré que lo que Tu Voluntad dispone y solo eso, es lo que la mía dispone también." },
+      { "verse": 4, "content": "Por lo tanto, elijo amar a Tu Hijo." },
+      { "verse": 5, "content": "Amén." }
+    ]
+  },
+  { "anchor": "workbook-l247", "type": "lesson-heading", "title": "Lección 247", "subtitle": "Sin el perdón aún estaría ciego." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "El pecado es el símbolo del ataque." },
+      { "verse": 2, "content": "Si lo veo en alguna parte, sufriré." },
+      { "verse": 3, "content": "El perdón es, pues, el único medio por el que puedo alcanzar la visión de Cristo." },
+      { "verse": 4, "content": "Que acepte que lo que Su visión me muestra es la simple verdad y sanaré completamente." },
+      { "verse": 5, "content": "Ven hermano, déjame contemplarte." },
+      { "verse": 6, "content": "Tu hermosura es el reflejo de la mía." },
+      { "verse": 7, "content": "Tu impecabilidad, la mía propia." },
+      { "verse": 8, "content": "Has sido perdonado, y yo junto contigo." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Así es como quiero ver a todo el mundo hoy." },
+      { "verse": 2, "content": "Mis hermanos son Tus Hijos." },
+      { "verse": 3, "content": "Tu Paternidad los creó y me los confió como parte de Ti, así como de mi propio Ser." },
+      { "verse": 4, "content": "Hoy Te honro a través de ellos, y así espero en este día poder reconocer mi Ser." }
+    ]
+  },
+  { "anchor": "workbook-l248", "type": "lesson-heading", "title": "Lección 248", "subtitle": "Lo que sufre no forma parte de mí." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "He renegado de la verdad." },
+      { "verse": 2, "content": "Que sea ahora igualmente firme y reniegue de la falsedad." },
+      { "verse": 3, "content": "Lo que sufre no forma parte de mí." },
+      { "verse": 4, "content": "No soy aquello que siente pesar." },
+      { "verse": 5, "content": "Lo que experimenta dolor no es sino una ilusión de mi mente." },
+      { "verse": 6, "content": "Lo que muere, en realidad nunca vivió, y solo se burlaba de la verdad con respecto a mí." },
+      { "verse": 7, "content": "Reniego ahora de todos los conceptos de mí mismo y de los engaños y mentiras acerca del santo Hijo de Dios." },
+      { "verse": 8, "content": "Ahora estoy listo para aceptarlo nuevamente como Dios lo creó, y como aún es." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, mi viejo amor por Ti retorna y me permite también amar nuevamente a Tu Hijo." },
+      { "verse": 2, "content": "Padre, soy tal como Tú me creaste." },
+      { "verse": 3, "content": "Ahora recuerdo Tu Amor, así como el mío propio." },
+      { "verse": 4, "content": "Ahora comprendo que son uno." }
+    ]
+  },
+  { "anchor": "workbook-l249", "type": "lesson-heading", "title": "Lección 249", "subtitle": "El perdón pone fin a todo sufrimiento y a toda sensación de pérdida." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "El perdón nos ofrece el cuadro de un mundo en el que ya no hay sufrimiento, es imposible perder y la ira no tiene sentido." },
+      { "verse": 2, "content": "El ataque ha desaparecido y a la locura le ha llegado su fin." },
+      { "verse": 3, "content": "¿Qué sufrimiento podría concebirse ahora?" },
+      { "verse": 4, "content": "¿En qué pérdida se podría incurrir?" },
+      { "verse": 5, "content": "El mundo se convierte en un remanso de dicha, abundancia, caridad y generosidad sin fin." },
+      { "verse": 6, "content": "Se asemeja tanto al Cielo ahora que pronto se transforma en la luz que refleja." },
+      { "verse": 7, "content": "Y así, la jornada que el Hijo de Dios emprendió ha culminado en la misma luz de la que él emanó." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, queremos devolverte nuestras mentes." },
+      { "verse": 2, "content": "Las hemos traicionado, sumido en la amargura y atemorizado con pensamientos de violencia y muerte." },
+      { "verse": 3, "content": "Ahora queremos descansar nuevamente en Ti, tal como Tú nos creaste." }
+    ]
+  },
+  { "anchor": "workbook-l250", "type": "lesson-heading", "title": "Lección 250", "subtitle": "Que no vea ninguna limitación en mí." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Que contemple hoy al Hijo de Dios y sea testigo de su gloria." },
+      { "verse": 2, "content": "Y que no trate de empañar la santa luz que mora en él y de ver su fuerza menoscabada y reducida a la fragilidad; que no perciba en él deficiencia alguna con la que atacar su soberanía." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Él es Tu Hijo, Padre mío." },
+      { "verse": 2, "content": "Y hoy quiero contemplar su ternura en lugar de mis ilusiones." },
+      { "verse": 3, "content": "Él es lo que yo soy, y tal como lo vea a él, así me veré a mí mismo." },
+      { "verse": 4, "content": "Hoy quiero ver verdaderamente para que en este mismo día pueda por fin identificarme con él." }
+    ]
+  },
+  { "anchor": "workbook-part2-set5", "type": "lesson-set-heading", "title": "(261-270)", "subtitle": "5. ¿Qué es el cuerpo?" },
+  { "anchor": "workbook-part2-set5-intro", "type": "chapter-heading", "title": "Introducción" },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "El cuerpo es una cerca que el Hijo de Dios imagina haber construido para separar a unas partes de su Ser de otras." },
+      { "verse": 2, "content": "Cree vivir dentro de esa cerca, para morir a medida que esta se deteriora y se desmorona." },
+      { "verse": 3, "content": "Pues cree estar a salvo del amor dentro de ella." },
+      { "verse": 4, "content": "Al identificarse con lo que considera es su seguridad, cree ser lo que esta es." },
+      { "verse": 5, "content": "¿De qué otro modo, si no, podría estar seguro de que permanece dentro del cuerpo y de que mantiene al amor afuera?" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "El cuerpo no perdurará." },
+      { "verse": 2, "content": "Sin embargo, para él eso supone una doble seguridad." },
+      { "verse": 3, "content": "Pues la temporalidad del Hijo de Dios es la «prueba» de que sus cercas funcionan y de que están llevando a cabo la tarea que su mente les asignó." },
+      { "verse": 4, "content": "Pues si su unidad aún permaneciese intacta, ¿quién podría atacar y quién podría ser atacado?" },
+      { "verse": 5, "content": "¿Quién podría ser el vencedor?" },
+      { "verse": 6, "content": "¿Quién la presa?" },
+      { "verse": 7, "content": "¿Quién podría ser la víctima?" },
+      { "verse": 8, "content": "¿Quién el asesino?" },
+      { "verse": 9, "content": "Y si él no muriese, ¿qué «prueba» habría de que el eterno Hijo de Dios puede ser destruido?" }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 3,
+    "sentences": [
+      { "verse": 1, "content": "El cuerpo es un sueño." },
+      { "verse": 2, "content": "Al igual que otros sueños, a veces parece reflejar felicidad, pero puede súbitamente revertir al miedo, la cuna de todos los sueños." },
+      { "verse": 3, "content": "Pues solo el amor puede crear de verdad y la verdad no tiene miedo de nada." },
+      { "verse": 4, "content": "Hecho para ser temeroso, el cuerpo no puede sino cumplir el propósito que le fue asignado." },
+      { "verse": 5, "content": "Mas podemos cambiar el propósito que el cuerpo obedece si cambiamos de parecer con respecto a su finalidad." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 4,
+    "sentences": [
+      { "verse": 1, "content": "El cuerpo es el medio a través del cual el Hijo de Dios recobra la cordura." },
+      { "verse": 2, "content": "Aunque el cuerpo fue concebido para confinarlo en el infierno sin ninguna posibilidad de escape, el objetivo del Cielo ha sustituido la búsqueda del infierno." },
+      { "verse": 3, "content": "El Hijo de Dios busca la mano de su hermano para ayudarlo a marchar por la misma senda que él." },
+      { "verse": 4, "content": "Ahora el cuerpo es santo." },
+      { "verse": 5, "content": "Ahora sirve para sanar a la mente que tenía como propósito matar." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 5,
+    "sentences": [
+      { "verse": 1, "content": "Te identificarás con lo que pienses que te ha de dar seguridad." },
+      { "verse": 2, "content": "Sea lo que sea, creerás que es lo que tú eres." },
+      { "verse": 3, "content": "Tu seguridad reside en la verdad, no en las mentiras." },
+      { "verse": 4, "content": "El amor es tu seguridad." },
+      { "verse": 5, "content": "El miedo no existe." },
+      { "verse": 6, "content": "Identifícate con el amor y estarás a salvo." },
+      { "verse": 7, "content": "Identifícate con el amor y estarás en tu morada." },
+      { "verse": 8, "content": "Identifícate con el amor y hallarás tu Ser." }
+    ]
+  },
+  { "anchor": "workbook-l261", "type": "lesson-heading", "title": "Lección 261", "subtitle": "Dios es mi refugio y seguridad." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Me identificaré con lo que crea que es mi refugio y seguridad." },
+      { "verse": 2, "content": "Me veré a mí mismo allí donde percibo mi fuerza y pensaré que vivo dentro de la ciudadela en la que estoy a salvo y no puedo ser atacado." },
+      { "verse": 3, "content": "Que hoy no busque seguridad en el peligro ni trate de hallar mi paz en ataques asesinos." },
+      { "verse": 4, "content": "Vivo en Dios." },
+      { "verse": 5, "content": "En Él encuentro mi refugio y fortaleza." },
+      { "verse": 6, "content": "En Él radica mi Identidad." },
+      { "verse": 7, "content": "En Él reside la paz eterna." },
+      { "verse": 8, "content": "Y solo allí recordaré Quién soy realmente." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Que no vaya en pos de ídolos," },
+      { "verse": 2, "content": "Padre mío, pues lo que quiero es volver a casa y estar Contigo." },
+      { "verse": 3, "content": "Elijo ser tal como Tú me creaste y encontrar al Hijo que creaste como mi Ser." }
+    ]
+  },
+  { "anchor": "workbook-l262", "type": "lesson-heading", "title": "Lección 262", "subtitle": "No dejes que hoy perciba diferencias." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Padre, solo tienes un Hijo." },
+    { "verse": 2, "content": "Y es a él a quien hoy deseo contemplar." },
+    { "verse": 3, "content": "Él es Tu única Creación." },
+    { "verse": 4, "content": "¿Por qué habría de percibir miles de formas en lo que sigue siendo uno solo?" },
+    { "verse": 5, "content": "¿Por qué habría de darle miles de nombres, cuando uno solo basta?" },
+    { "verse": 6, "content": "Pues Tu Hijo tiene que llevar Tu Nombre, ya que Tú lo creaste." },
+    { "verse": 7, "content": "Que no lo vea como algo ajeno a su Padre o a mí." },
+    { "verse": 8, "content": "Pues él es parte de mí así como yo de él, y ambos somos parte de Ti que eres nuestra Fuente." },
+    { "verse": "a", "content": "Estamos eternamente unidos en Tu Amor y somos eternamente el santo Hijo de Dios." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Nosotros que somos uno, queremos reconocer en este día la verdad acerca de nosotros." },
+    { "verse": 2, "content": "Queremos regresar a casa y descansar en la unidad." },
+    { "verse": 3, "content": "Pues allí reside la paz, la cual no se puede buscar ni hallar en ninguna otra parte." }
+  ] },
+  { "anchor": "workbook-l263", "type": "lesson-heading", "title": "Lección 263", "subtitle": "Mi santa visión ve la pureza de todas las cosas." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Padre, Tu Mente creó todo cuanto existe, Tu Espíritu se adentró en ello y Tu Amor le infundió Vida." },
+    { "verse": 2, "content": "¿Y voy yo acaso a contemplar lo que Tú creaste como si en ello pudiera anidar el pecado?" },
+    { "verse": 3, "content": "No quiero percibir imágenes tan tenebrosas y atemorizantes." },
+    { "verse": 4, "content": "Es imposible que yo pueda preferir el sueño de un loco a toda la hermosura con la que Tú bendijiste la Creación; a toda su pureza y dicha, así como a su eterna y serena morada en Ti." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Y mientras todavía nos encontremos ante las puertas del Cielo, contemplemos todo cuanto veamos a través de una visión santa y de los ojos de Cristo." },
+    { "verse": 2, "content": "Que todas las apariencias nos parezcan puras para que con inocencia podamos pasarlas de largo y dirigirnos juntos a la casa de nuestro Padre como hermanos y como los santos Hijos de Dios que somos." }
+  ] },
+  { "anchor": "workbook-l264", "type": "lesson-heading", "title": "Lección 264", "subtitle": "El Amor de Dios me rodea." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Padre, estás delante y detrás de mí, a mi lado, allí donde me veo a mí mismo y dondequiera que voy." },
+    { "verse": 2, "content": "Estás en todo lo que contemplo, en los sonidos que oigo y en cada mano que busca la mía." },
+    { "verse": 3, "content": "En Ti el tiempo desaparece y la idea de lugar se vuelve una creencia absurda." },
+    { "verse": 4, "content": "Pues lo que rodea a Tu Hijo y lo mantiene a salvo es el Amor Mismo." },
+    { "verse": 5, "content": "No hay otra fuente que Esa y no hay nada que no comparta Su Santidad, nada que se encuentre aparte de Tu única Creación o que carezca del Amor que envuelve a todas las cosas dentro de Sí." },
+    { "verse": 6, "content": "Padre, Tu Hijo es como Tú." },
+    { "verse": 7, "content": "Hoy apelamos a Ti en Tu Propio Nombre para estar en paz dentro de Tu eterno Amor." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Hermanos míos, uníos a mí en este propósito hoy." },
+    { "verse": 2, "content": "Esta es la plegaria de la salvación." },
+    { "verse": 3, "content": "¿No deberíamos acaso unirnos a lo que ha de salvar al mundo y a nosotros junto con él?" }
+  ] },
+  { "anchor": "workbook-l265", "type": "lesson-heading", "title": "Lección 265", "subtitle": "Lo único que veo es la mansedumbre de la Creación." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Ciertamente no he comprendido el mundo, ya que proyecté sobre él mis pecados y luego me vi siendo el objeto de su mirada." },
+    { "verse": 2, "content": "¡Qué feroces parecían!" },
+    { "verse": 3, "content": "¡Y cuán equivocado estaba al pensar que aquello a lo que le tenía miedo se encontraba en el mundo en vez de en mi propia mente!" },
+    { "verse": 4, "content": "Hoy veo el mundo en la mansedumbre celestial con la que refulge la Creación." },
+    { "verse": 5, "content": "En él no hay miedo." },
+    { "verse": 6, "content": "Que ninguno de mis aparentes pecados nuble la luz celestial que refulge sobre el mundo." },
+    { "verse": 7, "content": "Lo que en él se refleja se encuentra en la Mente de Dios." },
+    { "verse": 8, "content": "Las imágenes que veo reflejan mis pensamientos." },
+    { "verse": 9, "content": "Pero mi mente es una con la de Dios." },
+    { "verse": 10, "content": "Por lo tanto, puedo percibir la mansedumbre de la Creación." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "En la quietud quiero contemplar el mundo, el cual no es sino el reflejo de Tus Pensamientos así como de los míos." },
+    { "verse": 2, "content": "Que recuerde que son lo mismo y veré la mansedumbre de la Creación." }
+  ] },
+  { "anchor": "workbook-l266", "type": "lesson-heading", "title": "Lección 266", "subtitle": "Mi santo Ser mora en ti, Hijo de Dios." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Padre, me diste todos Tus Hijos para que fuesen mis salvadores y mis consejeros en la visión; los heraldos de Tu santa Voz." },
+    { "verse": 2, "content": "En ellos Tú te ves reflejado y en ellos Cristo me contempla desde mi Ser." },
+    { "verse": 3, "content": "Que Tu Hijo no se olvide de Tu santo Nombre." },
+    { "verse": 4, "content": "Que tu Hijo no se olvide de su santa Fuente." },
+    { "verse": 5, "content": "Que Tu Hijo no se olvide de que su Nombre es el Tuyo." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "En este día entramos al paraíso invocando el Nombre de Dios y el nuestro, reconociendo nuestro Ser en cada uno de nosotros y unidos en el santo Amor de Dios." },
+    { "verse": 2, "content": "¡Cuántos salvadores nos ha dado Dios!" },
+    { "verse": 3, "content": "¿Cómo podríamos perdernos, cuando Él ha poblado el mundo de seres que señalan el camino hacia Él y nos ha dado la vista para poder contemplarlos?" }
+  ] },
+  { "anchor": "workbook-l267", "type": "lesson-heading", "title": "Lección 267", "subtitle": "Mi corazón late en la Paz de Dios." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Lo que me rodea es toda la vida que Dios creó en Su Amor." },
+    { "verse": 2, "content": "Me llama con cada latido y con cada aliento; con cada acción y con cada pensamiento." },
+    { "verse": 3, "content": "La paz llena mi corazón e inunda mi cuerpo con el propósito del perdón." },
+    { "verse": 4, "content": "Ahora mi mente ha sanado y se me concede todo lo que necesito para salvar al mundo." },
+    { "verse": 5, "content": "Cada latido de mi corazón me inunda de paz; cada aliento me infunde fuerza." },
+    { "verse": 6, "content": "Soy un mensajero de Dios, guiado por Su Voz, sostenido por Su Amor y amparado eternamente en la quietud y en la paz de Sus amorosos Brazos." },
+    { "verse": 7, "content": "Cada latido de mi corazón invoca Su Nombre y cada uno es contestado por Su Voz, que me asegura que en Él estoy en mi hogar." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Que preste atención solo a Tu Respuesta, no a la mía." },
+    { "verse": 2, "content": "Padre, mi corazón late en la paz que el Corazón del Amor creó." },
+    { "verse": 3, "content": "Y es ahí y solo ahí donde estoy en mi hogar." }
+  ] },
+  { "anchor": "workbook-l268", "type": "lesson-heading", "title": "Lección 268", "subtitle": "Que todas las cosas sean exactamente como son." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Que hoy no sea Tu crítico, Señor, ni que juzgue contra Ti." },
+    { "verse": 2, "content": "Que hoy no interfiera en Tu Creación, desfigurándola y convirtiéndola en formas enfermizas." },
+    { "verse": 3, "content": "Que esté dispuesto a no atacar Su unidad imponiéndole mis deseos, y así dejarla ser tal como Tú la creaste." },
+    { "verse": 4, "content": "Pues de esta manera seré también capaz de reconocer a mi Ser tal como Tú lo creaste." },
+    { "verse": 5, "content": "Fui creado en el Amor y en el Amor he de morar para siempre." },
+    { "verse": 6, "content": "¿Qué podría asustarme si dejo que todas las cosas sean exactamente como son?" }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Que nuestra vista no sea blasfema hoy y que nuestros oídos no hagan caso de las malas lenguas." },
+    { "verse": 2, "content": "Solo la realidad está libre de dolor." },
+    { "verse": 3, "content": "Solo en la realidad no se experimentan pérdidas." },
+    { "verse": 4, "content": "Solo la realidad ofrece completa seguridad." },
+    { "verse": 5, "content": "Y esto es lo único que buscamos hoy." }
+  ] },
+  { "anchor": "workbook-l269", "type": "lesson-heading", "title": "Lección 269", "subtitle": "Mi visión va en busca de la faz de Cristo." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Te pido que hoy bendigas mis ojos." },
+    { "verse": 2, "content": "Mi visión es el medio que has elegido para que se convierta en la manera de mostrarme mis errores y de poder ver más allá de ellos." },
+    { "verse": 3, "content": "Se me ha concedido poder tener una nueva percepción a través del Guía que me diste y, mediante Sus lecciones, superar la percepción y regresar a la verdad." },
+    { "verse": 4, "content": "Pido la ilusión que trasciende todas las que yo inventé." },
+    { "verse": 5, "content": "Hoy elijo ver un mundo perdonado en el que todo lo que veo me muestra la faz de Cristo y me enseña que lo que contemplo es mío y que nada existe, excepto Tu santo Hijo." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Hoy nuestra vista es ciertamente bendecida." },
+    { "verse": 2, "content": "Compartimos una sola visión cuando contemplamos la faz de Aquel Cuyo Ser es el nuestro." },
+    { "verse": 3, "content": "Somos uno por razón de Aquel que es el Hijo de Dios, Aquel que es nuestra Identidad." }
+  ] },
+  { "anchor": "workbook-l270", "type": "lesson-heading", "title": "Lección 270", "subtitle": "Hoy no utilizaré los ojos del cuerpo." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Padre, la visión de Cristo es el don que me has dado, el cual tiene el poder de transformar todo lo que los ojos del cuerpo contemplan en el panorama de un mundo perdonado." },
+    { "verse": 2, "content": "¡Cuán glorioso y lleno de gracia es ese mundo!" },
+    { "verse": 3, "content": "No obstante, ¡cuánto más podré contemplar en él que lo que puede ofrecerme la vista!" },
+    { "verse": 4, "content": "Un mundo perdonado significa que Tu Hijo reconoce a su Padre, permite que sus sueños sean llevados ante la verdad y aguarda con gran expectación el último instante de tiempo en el que este acaba para siempre, conforme Tu recuerdo aflora en su memoria." },
+    { "verse": 5, "content": "Ahora su voluntad es una con la Tuya." },
+    { "verse": 6, "content": "Ahora su función no es sino la Tuya Propia y todo pensamiento salvo el Tuyo ha desaparecido." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "El sosiego de hoy bendecirá nuestros corazones y, por medio de ellos, la paz descenderá sobre todo el mundo." },
+    { "verse": 2, "content": "Cristo se convierte en nuestros ojos hoy." },
+    { "verse": 3, "content": "Y mediante Su visión le ofrecemos curación al mundo por medio de Él, el santo Hijo que Dios creó íntegro; el santo Hijo a quien Dios creó como uno solo." }
+  ] },
+  { "anchor": "workbook-part2-set6", "type": "lesson-set-heading", "title": "(271-280)", "subtitle": "6. ¿Qué es el Cristo?" },
+  { "anchor": "workbook-part2-set6-intro", "type": "chapter-heading", "title": "Introducción" },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Cristo es el Hijo de Dios tal como Él lo creó." },
+    { "verse": 2, "content": "Cristo es el Ser que compartimos y que nos une a unos con otros, y también con Dios." },
+    { "verse": 3, "content": "Es el Pensamiento que todavía mora en la Mente que es Su Fuente." },
+    { "verse": 4, "content": "No ha abandonado Su santo hogar ni ha perdido la inocencia en la que fue creado." },
+    { "verse": 5, "content": "Mora inmutable para siempre en la Mente de Dios." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Cristo es el vínculo que te mantiene uno con Dios y la garantía de que la separación no es más que una ilusión de desesperanza, pues toda esperanza morará por siempre en Él." },
+    { "verse": 2, "content": "Tu mente es parte de la Suya y Esta de la tuya." },
+    { "verse": 3, "content": "Él es la parte en la que se encuentra la Respuesta de Dios y en la que ya se han tomado todas las decisiones y a los sueños les ha llegado su fin." },
+    { "verse": 4, "content": "Nada que los ojos del cuerpo puedan percibir tiene efecto alguno sobre Él." },
+    { "verse": 5, "content": "Pues aunque Su Padre depositó en Él los medios para tu salvación, sigue siendo, no obstante, el Ser que, al igual que Su Padre, no conoce el pecado." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 3, "sentences": [
+    { "verse": 1, "content": "Al ser el hogar del Espíritu Santo y sentirse a gusto únicamente en Dios, Cristo permanece en paz en el Cielo de tu mente santa." },
+    { "verse": 2, "content": "Él es la única parte de ti que en verdad es real." },
+    { "verse": 3, "content": "Lo demás son sueños." },
+    { "verse": 4, "content": "Mas estos se le entregarán a Cristo para que se desvanezcan ante Su gloria y pueda por fin serte revelado tu santo Ser, el Cristo." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 4, "sentences": [
+    { "verse": 1, "content": "El Espíritu Santo se extiende desde el Cristo en ti hasta todos tus sueños y los invita a venir hasta Él para que puedan ser transformados en la verdad." },
+    { "verse": 2, "content": "Él los intercambiará por el sueño final que Dios dispuso fuese el fin de todos los sueños." },
+    { "verse": 3, "content": "Pues cuando el perdón descanse sobre el mundo y cada uno de los Hijos de Dios goce de paz, ¿qué podría seguir manteniendo las cosas separadas, cuando lo único que aún queda por verse es la faz de Cristo?" }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 5, "sentences": [
+    { "verse": 1, "content": "¿Y por cuánto tiempo habrá de verse esta santa faz, cuando no es más que el símbolo de que el período de aprendizaje ya ha concluido y de que el objetivo de la Expiación por fin se ha alcanzado?" },
+    { "verse": 2, "content": "Tratemos, por lo tanto, de encontrar la faz de Cristo y de no contemplar nada más." },
+    { "verse": 3, "content": "Al contemplar Su gloria, sabremos que no tenemos necesidad de aprender nada, ni de percepción ni de tiempo ni de ninguna otra cosa excepto del santo Ser, el Cristo que Dios creó como Su Hijo." }
+  ] },
+  { "anchor": "workbook-l271", "type": "lesson-heading", "title": "Lección 271", "subtitle": "Hoy solo utilizaré la visión de Cristo." },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Cada día, cada hora y cada instante decido lo que quiero contemplar, los sonidos que quiero oír y los testigos de lo que quiero que sea verdad para mí." },
+      { "verse": 2, "content": "Hoy elijo contemplar lo que Cristo quiere que vea; hoy elijo escuchar la Voz de Dios, así como buscar los testigos de lo que es verdad en Su Creación." },
+      { "verse": 3, "content": "En la visión de Cristo, el mundo y la Creación de Dios se encuentran y, según se unen, toda percepción desaparece." },
+      { "verse": 4, "content": "La dulce visión de Cristo redime al mundo de la muerte, pues todo aquello sobre lo que Su mirada se posa no puede sino vivir y recordar al Padre y al Hijo: la unión entre Creador y Creación." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Padre, la visión de Cristo es el camino que me conduce a Ti." },
+      { "verse": 2, "content": "Lo que Él contempla restaura Tu recuerdo en mí." },
+      { "verse": 3, "content": "Y eso es lo que elijo contemplar hoy." }
+    ]
+  },
+  { "anchor": "workbook-l272", "type": "lesson-heading", "title": "Lección 272", "subtitle": "¿Cómo iban a poder satisfacer las ilusiones al Hijo de Dios?" },
+  {
+    "anchor": null, "type": "text", "paragraph": 1,
+    "sentences": [
+      { "verse": 1, "content": "Padre, la verdad me pertenece." },
+      { "verse": 2, "content": "Mi hogar se estableció en el Cielo mediante Tu Voluntad y la mía." },
+      { "verse": 3, "content": "¿Podrían contentarme los sueños?" },
+      { "verse": 4, "content": "¿Podrían brindarme felicidad las ilusiones?" },
+      { "verse": 5, "content": "¿Qué otra cosa sino Tu recuerdo podría satisfacer a Tu Hijo?" },
+      { "verse": 6, "content": "No me contentaré con menos de lo que Tú me has dado." },
+      { "verse": 7, "content": "Tu Amor, por siempre dulce y sereno, me rodea y me mantiene a salvo eternamente." },
+      { "verse": 8, "content": "El Hijo de Dios no puede sino ser tal como Tú lo creaste." }
+    ]
+  },
+  {
+    "anchor": null, "type": "text", "paragraph": 2,
+    "sentences": [
+      { "verse": 1, "content": "Hoy pasamos de largo las ilusiones." },
+      { "verse": 2, "content": "Y si oímos a la tentación llamarnos, incitándonos a que nos quedemos y a que sigamos entreteniéndonos con un sueño, nos haremos a un lado y nos preguntaremos si nosotros, los Hijos de Dios, podríamos contentarnos con sueños cuando podemos elegir el Cielo con la misma facilidad que el infierno." },
+      { "verse": "a", "content": "Y el amor reemplazará gustosamente todo temor." }
+    ]
+  },
+  { "anchor": "workbook-l273", "type": "lesson-heading", "title": "Lección 273", "subtitle": "Mía es la quietud de la Paz de Dios." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Tal vez estemos ahora listos para pasar un día en perfecta calma." },
+    { "verse": 2, "content": "Si esto no fuese posible todavía, nos contentaremos y nos sentiremos más que satisfechos de poder aprender cómo puede lograrse un día así." },
+    { "verse": 3, "content": "Si permitimos que algo nos perturbe, aprendamos a descartarlo y a recobrar la paz." },
+    { "verse": 4, "content": "Solo necesitamos decirles a nuestras mentes con absoluta certeza: «Mía es la quietud de la Paz de Dios» y nada podrá venir a perturbar la paz que Dios Mismo le dio a Su Hijo." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Padre, Tu Paz es mía." },
+    { "verse": 2, "content": "¿Qué necesidad tengo de temer que algo pueda robarme lo que Tú has dispuesto sea mío para siempre?" },
+    { "verse": 3, "content": "No puedo perder los dones que me has otorgado." },
+    { "verse": 4, "content": "Por lo tanto, la paz con la que agraciaste a Tu Hijo sigue conmigo en la quietud y en el eterno amor que Te profeso." }
+  ] },
+  { "anchor": "workbook-l274", "type": "lesson-heading", "title": "Lección 274", "subtitle": "Este día le pertenece al Amor. Hoy no tendré miedo." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Padre, hoy quiero dejar que todas las cosas sean como Tú las creaste y dar a Tu Hijo el honor que se merece por su impecabilidad; el amor de un hermano hacia su hermano y amigo." },
+    { "verse": 2, "content": "De ese modo soy redimido." },
+    { "verse": 3, "content": "Y del mismo modo, la verdad pasará a ocupar el lugar que antes ocupaban las ilusiones, la luz reemplazará toda oscuridad y Tu Hijo sabrá que él es tal como Tú lo creaste." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Hoy nos llega una bendición especial de Aquel que es nuestro Padre." },
+    { "verse": 2, "content": "Dedícale este día y hoy no tendrás miedo, pues el día habrá sido consagrado al Amor." }
+  ] },
+  { "anchor": "workbook-l275", "type": "lesson-heading", "title": "Lección 275", "subtitle": "La sanadora Voz de Dios protege hoy todas las cosas." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Escuchemos hoy a la Voz que habla por Dios, la cual nos habla de una lección ancestral que es tan cierta hoy como siempre lo ha sido." },
+    { "verse": 2, "content": "Sin embargo, este día ha sido seleccionado como aquel en el que hemos de buscar y oír, aprender y entender." },
+    { "verse": 3, "content": "Únete a mí en esta escucha," },
+    { "verse": 4, "content": "pues lo que nos dice la Voz que habla por Dios no lo podemos entender por nuestra cuenta ni aprenderlo estando separados." },
+    { "verse": 5, "content": "En esto reside la protección de todas las cosas." },
+    { "verse": 6, "content": "Y en esto se encuentra la curación que brinda la Voz que habla por Dios." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Tu sanadora Voz protege hoy todas las cosas, por lo tanto, dejo todo en Tus Manos." },
+    { "verse": 2, "content": "No tengo que estar ansioso por nada." },
+    { "verse": 3, "content": "Pues Tu Voz me indicará qué hacer, adónde ir, con quién debo hablar y qué debo decirle; qué pensamientos debo albergar y qué palabras debo transmitir al mundo." },
+    { "verse": 4, "content": "La seguridad que ofrezco me es dada a mí." },
+    { "verse": 5, "content": "Padre, Tu Voz protege todas las cosas a través de mí." }
+  ] },
+  { "anchor": "workbook-l276", "type": "lesson-heading", "title": "Lección 276", "subtitle": "Se me ha dado la Palabra de Dios para que la comparta." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "¿Qué dice la Palabra de Dios?" },
+    { "verse": 2, "content": "«Mi Hijo es tan puro y santo como Yo.»" },
+    { "verse": 3, "content": "Así fue como Dios se convirtió en el Padre del Hijo que ama, pues así fue como lo creó." },
+    { "verse": 4, "content": "Esta es la Palabra que el Hijo no creó con el Padre, ya que nació como resultado de ella." },
+    { "verse": 5, "content": "Aceptemos Su Paternidad y todo se nos dará." },
+    { "verse": 6, "content": "Mas si negamos que fuimos creados en Su Amor, estaremos negando nuestro Ser, y así, no tendremos certeza acerca de Quién somos, Quién es nuestro Padre y cuál es nuestro propósito aquí." },
+    { "verse": 7, "content": "No obstante, solo con que reconozcamos a Aquel que nos dio Su Palabra en nuestra creación, Su recuerdo aflorará de nuevo en nuestras mentes y así podremos recordar a nuestro Ser." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Padre, he hecho mía Tu Palabra." },
+    { "verse": 2, "content": "Y es Esta la que les comunicaré a todos mis hermanos, quienes me fueron confiados para que los amara como parte de mí, tal como yo soy amado, bendecido y salvado por Ti." }
+  ] },
+  { "anchor": "workbook-l277", "type": "lesson-heading", "title": "Lección 277", "subtitle": "Que no aprisione a Tu Hijo con leyes que yo mismo inventé." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Tu Hijo es libre, Padre mío." },
+    { "verse": 2, "content": "Que no me imagine que lo he aprisionado con leyes que yo mismo inventé para que gobernasen el cuerpo." },
+    { "verse": 3, "content": "Él no está sujeto a ninguna de las leyes que he promulgado para ofrecerle más seguridad al cuerpo." },
+    { "verse": 4, "content": "Lo que cambia no puede alterar a Tu Hijo en absoluto." },
+    { "verse": 5, "content": "Él no es esclavo de ninguna de las leyes del tiempo." },
+    { "verse": 6, "content": "Es tal como Tú lo creaste porque no conoce otra ley que la del amor." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "No adoremos ídolos ni creamos en ninguna ley que la idolatría quiera decretar para ocultar la libertad del Hijo de Dios." },
+    { "verse": 2, "content": "Él no está encadenado por nada excepto por sus propias creencias." },
+    { "verse": 3, "content": "Mas lo que él es, está mucho más allá de su fe en la esclavitud o en la libertad." },
+    { "verse": 4, "content": "Es libre por razón de Quién es su Padre." },
+    { "verse": 5, "content": "Y nada puede aprisionarlo a menos que la verdad de Dios pueda mentir y Dios pueda disponer engañarse a Sí Mismo." }
+  ] },
+  { "anchor": "workbook-l278", "type": "lesson-heading", "title": "Lección 278", "subtitle": "Si estoy aprisionado, mi Padre no es libre." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Si acepto que estoy aprisionado dentro de un cuerpo, en un mundo en el que todo lo que aparentemente vive parece morir, entonces mi Padre es un prisionero al igual que yo." },
+    { "verse": 2, "content": "Y esto es lo que creo cuando afirmo que tengo que obedecer las leyes que el mundo obedece y que las flaquezas y los pecados que percibo son reales e ineludibles." },
+    { "verse": 3, "content": "Si de algún modo estoy aprisionado, significa que no conozco a mi Padre ni a mi Ser." },
+    { "verse": 4, "content": "Y significa asimismo que no formo parte de la realidad en absoluto," },
+    { "verse": 5, "content": "pues la verdad es libre, y lo que está aprisionado no forma parte de ella." }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Padre, lo único que pido es la verdad." },
+    { "verse": 2, "content": "He tenido muchos pensamientos descabellados acerca de mí mismo y de mi creación, y he introducido en mi mente un sueño de miedo." },
+    { "verse": 3, "content": "Hoy no quiero soñar." },
+    { "verse": 4, "content": "Elijo el camino que conduce a Ti en lugar de la locura y el miedo." },
+    { "verse": 5, "content": "Pues la verdad está a salvo y solo el amor es seguro." }
+  ] },
+  { "anchor": "workbook-l279", "type": "lesson-heading", "title": "Lección 279", "subtitle": "La libertad de la Creación garantiza la mía." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Se me ha prometido el fin de los sueños porque el Amor de Dios no abandonó a Su Hijo." },
+    { "verse": 2, "content": "Únicamente en sueños parece él estar aprisionado, en espera de una libertad futura, si es que esta ha de llegar." },
+    { "verse": 3, "content": "Pero en realidad sus sueños ya se acabaron y la verdad ocupa su lugar." },
+    { "verse": 4, "content": "Ahora él es libre." },
+    { "verse": 5, "content": "¿Por qué he de seguir esperando mi libertad encadenado, cuando ya he sido liberado de mis cadenas y Dios me ofrece la libertad ahora?" }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Hoy aceptaré Tus promesas y depositaré mi fe en ellas." },
+    { "verse": 2, "content": "Mi Padre ama a Aquel a Quien creó como Su Hijo." },
+    { "verse": 3, "content": "¿Me negaría, entonces, los regalos que me hizo?" }
+  ] },
+  { "anchor": "workbook-l280", "type": "lesson-heading", "title": "Lección 280", "subtitle": "¿Qué límites podría imponerle yo al Hijo de Dios?" },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [
+    { "verse": 1, "content": "Aquel que Dios creó ilimitado es libre." },
+    { "verse": 2, "content": "Puedo inventar una prisión para él, mas solo en ilusiones, no en la realidad." },
+    { "verse": 3, "content": "Ningún Pensamiento de Dios ha abandonado la Mente de su Padre;" },
+    { "verse": 4, "content": "ningún Pensamiento de Dios está limitado en modo alguno;" },
+    { "verse": 5, "content": "ningún Pensamiento de Dios puede dejar de ser eternamente puro." },
+    { "verse": 6, "content": "¿Puedo acaso imponer límites al Hijo de Dios, cuando su Padre dispuso que fuese ilimitado y semejante a Él en libertad y amor?" }
+  ] },
+  { "anchor": null, "type": "text", "paragraph": 2, "sentences": [
+    { "verse": 1, "content": "Hoy quiero rendir honor a Tu Hijo, pues solo así puedo encontrar el camino que me conduce hasta Ti." },
+    { "verse": 2, "content": "Padre, no le impondré límite alguno al Hijo que Tú amas y que creaste ilimitado." },
+    { "verse": 3, "content": "El honor que le rindo a él Te lo rindo a Ti, y lo que es para Ti es también para mí." }
+  ] },
+  { "anchor": "workbook-part2-set7", "type": "lesson-set-heading", "title": "(281-290)", "subtitle": "7. ¿Qué es el Espíritu Santo?" },
+  { "anchor": "workbook-part2-set7-intro", "type": "chapter-heading", "title": "Introducción" },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l281", "type": "lesson-heading", "title": "Lección 281", "subtitle": "Nada, excepto mis propios pensamientos, me puede hacer daño." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l282", "type": "lesson-heading", "title": "Lección 282", "subtitle": "Hoy no tendré miedo del amor." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l283", "type": "lesson-heading", "title": "Lección 283", "subtitle": "Mi verdadera identidad reside en Ti." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l284", "type": "lesson-heading", "title": "Lección 284", "subtitle": "Puedo elegir cambiar todos los pensamientos que me causan dolor." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l285", "type": "lesson-heading", "title": "Lección 285", "subtitle": "Hoy mi santidad brilla clara y radiante." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l286", "type": "lesson-heading", "title": "Lección 286", "subtitle": "La quietud del Cielo envuelve hoy mi corazón." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l287", "type": "lesson-heading", "title": "Lección 287", "subtitle": "Tú eres mi única meta, Padre mío, solo Tú." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l288", "type": "lesson-heading", "title": "Lección 288", "subtitle": "Que me olvide hoy del pasado de mi hermano." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l289", "type": "lesson-heading", "title": "Lección 289", "subtitle": "El pasado no existe. No me puede afectar." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  { "anchor": "workbook-l290", "type": "lesson-heading", "title": "Lección 290", "subtitle": "Lo único que veo es mi actual felicidad." },
+  { "anchor": null, "type": "text", "paragraph": 1, "sentences": [ { "verse": 1, "content": "[First sentence of paragraph.]" } ] },
+  {
+    "anchor": "workbook-epilogue",
+    "type": "chapter-heading",
+    "title": "Epílogo"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "[First sentence of paragraph.]"
+      }
+    ]
+  }
+]
