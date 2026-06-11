@@ -187,7 +187,7 @@ export default function ContentsScreen() {
                       key={child.id}
                       style={[styles.item, styles.accordionChildItem]}
                       rippleColor={Colors.background}
-                      onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); requestAnimationFrame(() => router.push(`/reader?book=${child.bookId}&anchor=${child.anchor ?? child.id}`)); }}
+                      onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); const anchor = childIndex === 0 && child.bookId === 'theory' ? item.id : (child.anchor ?? child.id); requestAnimationFrame(() => router.push(`/reader?book=${child.bookId}&anchor=${anchor}`)); }}
                     >
                       <>
                         <View style={[styles.itemRow, styles.accordionChildRow]}>
