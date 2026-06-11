@@ -4,7 +4,6 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { router, useFocusEffect } from 'expo-router';
 import { Colors } from '@/constants/Colors';
 import { TheoryIcon, ExercizesIcon, TeacherIcon, SupplementalIcon } from '@/components/Icons';
-import { TertiaryButton } from '@/components/TertiaryButton';
 import { HeroLogo } from '@/components/HeroLogo';
 import { loadLastRead, LastReadState } from '@/utils/lastRead';
 import { RipplePressable } from '@/components/RipplePressable';
@@ -31,11 +30,6 @@ export default function HomeScreen() {
     <SafeAreaView style={styles.container} edges={['top', 'bottom']}>
 
       <View style={styles.content}>
-        {/* Top bar — debug: tap to reset keep-reading state */}
-        <View style={styles.topBar}>
-          <TertiaryButton size="lg" rippleColor={Colors.backgroundDark} />
-        </View>
-
         {/* Hero card */}
         <View style={styles.heroCard}>
           <Image
@@ -100,17 +94,10 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.background,
   },
 
-  // Top bar
-  topBar: {
-    height: 48,
-    backgroundColor: Colors.background,
-    paddingVertical: 4,
-    justifyContent: 'center',
-  },
-
   content: {
     flex: 1,
     paddingHorizontal: 24,
+    paddingTop: 20,
     paddingBottom: 20,
   },
 
