@@ -253,15 +253,13 @@ const styles = StyleSheet.create({
     backgroundColor: Colors.background,
   },
   navBar: {
-    height: 60,
     backgroundColor: Colors.backgroundDark,
     paddingHorizontal: 24,
-    justifyContent: 'center',
+    paddingVertical: 10,
   },
   navRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    height: 40,
     gap: 16,
   },
   navLeft: {
@@ -272,7 +270,7 @@ const styles = StyleSheet.create({
   },
   navTitle: {
     flex: 1,
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'MerriweatherSans_700Bold',
     fontSize: 14,
     color: Colors.textPrimary,
   },
@@ -292,7 +290,7 @@ const styles = StyleSheet.create({
   },
   itemRow: {
     flexDirection: 'row',
-    alignItems: 'flex-start',
+    alignItems: 'center',
     gap: 14,
   },
   divider: {

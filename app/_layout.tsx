@@ -39,7 +39,7 @@ export default function RootLayout() {
   }, [fontsLoaded, fontError]);
 
   useEffect(() => {
-    NavigationBar.setButtonStyleAsync('dark');
+    NavigationBar.setStyle('light');
   }, []);
 
   if (!fontsLoaded && !fontError) {

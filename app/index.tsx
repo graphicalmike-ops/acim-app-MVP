@@ -2,11 +2,17 @@ import { useEffect, useRef } from 'react';
 import { View, StyleSheet, Animated, ImageBackground } from 'react-native';
 import { router } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
+import * as NavigationBar from 'expo-navigation-bar';
 import { Colors } from '@/constants/Colors';
 import { HeroLogo } from '@/components/HeroLogo';
 
 export default function SplashScreen() {
   const opacity = useRef(new Animated.Value(0)).current;
+
+  useEffect(() => {
+    NavigationBar.setStyle('dark');
+    return () => { NavigationBar.setStyle('light'); };
+  }, []);
 
   useEffect(() => {
     Animated.timing(opacity, {
@@ -37,6 +43,8 @@ export default function SplashScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    width: '100%',
+    height: '100%',
   },
   overlay: {
     ...StyleSheet.absoluteFillObject,

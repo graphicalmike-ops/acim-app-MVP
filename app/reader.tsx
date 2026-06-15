@@ -880,15 +880,13 @@ const styles = StyleSheet.create({
 
   // Nav bar
   navBar: {
-    height: 60,
     backgroundColor: Colors.backgroundDark,
     paddingHorizontal: 24,
-    justifyContent: 'center',
+    paddingVertical: 10,
   },
   navRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    height: 40,
     gap: 12,
   },
   navLeft: {
@@ -899,8 +897,7 @@ const styles = StyleSheet.create({
   },
   navMeta: {
     flex: 1,
-    justifyContent: 'space-between',
-    height: 39,
+    gap: 2,
   },
   navChapter: {
     fontFamily: 'MerriweatherSans_400Regular',
@@ -908,7 +905,7 @@ const styles = StyleSheet.create({
     color: Colors.textMuted,
   },
   navSection: {
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'MerriweatherSans_700Bold',
     fontSize: 14,
     color: Colors.textPrimary,
   },
