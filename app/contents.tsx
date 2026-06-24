@@ -131,7 +131,7 @@ export default function ContentsScreen() {
               </TertiaryButton>
               <Text style={styles.navTitle}>{toTitleCase(bookTitle)}</Text>
             </View>
-            <TertiaryButton hitSize={40} onPress={() => router.navigate('/home')}>
+            <TertiaryButton hitSize={40} onPress={() => setTimeout(() => router.navigate('/home'), 100)}>
               {() => <HomeIcon size={16} color={Colors.textPrimary} />}
             </TertiaryButton>
           </View>
@@ -187,7 +187,7 @@ export default function ContentsScreen() {
                       key={child.id}
                       style={[styles.item, styles.accordionChildItem]}
                       rippleColor={Colors.background}
-                      onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); const anchor = childIndex === 0 && child.bookId === 'theory' ? item.id : (child.anchor ?? child.id); requestAnimationFrame(() => router.push(`/reader?book=${child.bookId}&anchor=${anchor}`)); }}
+                      onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); const anchor = childIndex === 0 && child.bookId === 'theory' ? item.id : (child.anchor ?? child.id); setTimeout(() => router.push(`/reader?book=${child.bookId}&anchor=${anchor}`), 100); }}
                     >
                       <>
                         <View style={[styles.itemRow, styles.accordionChildRow]}>
@@ -211,7 +211,7 @@ export default function ContentsScreen() {
                 key={item.id}
                 style={styles.item}
                 rippleColor={Colors.backgroundDark}
-                onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); requestAnimationFrame(() => router.push(`/reader?book=${item.bookId}&anchor=${item.anchor ?? item.id}`)); }}
+                onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); setTimeout(() => router.push(`/reader?book=${item.bookId}&anchor=${item.anchor ?? item.id}`), 100); }}
               >
                 {() => (
                   <>

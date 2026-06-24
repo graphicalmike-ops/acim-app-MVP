@@ -1,6 +1,6 @@
-import { useState, useCallback } from 'react';
-import { View, Text, StyleSheet, Pressable, Image } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { useState, useCallback, useRef } from 'react';
+import { View, Text, StyleSheet, Pressable, Image, ScrollView, Animated, useWindowDimensions } from 'react-native';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { router, useFocusEffect } from 'expo-router';
 import { Colors } from '@/constants/Colors';
 import { TheoryIcon, ExercizesIcon, TeacherIcon, SupplementalIcon } from '@/components/Icons';
@@ -18,18 +18,33 @@ const BUTTONS = [
 const heroSource = require('@/assets/images/splash-bg.jpg');
 
 export default function HomeScreen() {
+  const { bottom: bottomInset } = useSafeAreaInsets();
   const [lastRead, setLastRead] = useState<LastReadState | null>(null);
+  const [navigating, setNavigating] = useState(false);
+  const [loadBarVisible, setLoadBarVisible] = useState(false);
+  const loadBarAnim = useRef(new Animated.Value(0)).current;
+  const { width: screenWidth } = useWindowDimensions();
+
+  const startLoadBar = useCallback(() => {
+    setLoadBarVisible(true);
+    loadBarAnim.setValue(0);
+    Animated.timing(loadBarAnim, { toValue: 1, duration: 500, useNativeDriver: true }).start();
+  }, [loadBarAnim]);
 
   useFocusEffect(
     useCallback(() => {
       loadLastRead().then(setLastRead);
-    }, [])
+      setNavigating(false);
+      setLoadBarVisible(false);
+      loadBarAnim.stopAnimation();
+      loadBarAnim.setValue(0);
+    }, [loadBarAnim])
   );
 
   return (
     <SafeAreaView style={styles.container} edges={['top', 'bottom']}>
 
-      <View style={styles.content}>
+      <ScrollView contentContainerStyle={styles.content}>
         {/* Hero card */}
         <View style={styles.heroCard}>
           <Image
@@ -55,10 +70,15 @@ export default function HomeScreen() {
               <RipplePressable
                 style={({ pressed }) => [styles.sigueBtn, pressed && styles.sigueBtnPressed]}
                 rippleColor={Colors.background}
-                onPress={() => lastRead
-                  ? router.push(`/reader?book=${lastRead.bookId}&anchor=${lastRead.anchor}`)
-                  : router.push('/reader?book=theory&anchor=theory-prefacio')
-                }
+                onPress={() => {
+                  if (navigating) return;
+                  setNavigating(true);
+                  startLoadBar();
+                  setTimeout(() => lastRead
+                    ? router.push(`/reader?book=${lastRead.bookId}&anchor=${lastRead.anchor}`)
+                    : router.push('/reader?book=theory&anchor=theory-prefacio')
+                  , 100);
+                }}
               >
                 {({ pressed }) => (
                   <Text style={[styles.sigueBtnText, pressed && styles.sigueBtnTextPressed]}>
@@ -76,14 +96,24 @@ export default function HomeScreen() {
             <RipplePressable
               key={i}
               style={({ pressed }) => [styles.primaryBtn, pressed && styles.primaryBtnPressed]}
-              onPress={() => router.push(`/contents?anchor=${anchor}`)}
+              onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); setTimeout(() => router.push(`/contents?anchor=${anchor}`), 100); }}
             >
-              <Icon size={16} color={Colors.textPrimary} />
+              <View style={styles.primaryBtnIcon}>
+                <Icon size={16} color={Colors.textPrimary} />
+              </View>
               <Text style={styles.primaryBtnLabel}>{label}</Text>
             </RipplePressable>
           ))}
         </View>
-      </View>
+      </ScrollView>
+      {loadBarVisible && (
+        <View style={[styles.loadBarTrack, { bottom: bottomInset }]}>
+          <Animated.View style={[
+            styles.loadBarFill,
+            { transform: [{ translateX: loadBarAnim.interpolate({ inputRange: [0, 1], outputRange: [-screenWidth, 0] }) }] },
+          ]} />
+        </View>
+      )}
     </SafeAreaView>
   );
 }
@@ -95,7 +125,7 @@ const styles = StyleSheet.create({
   },
 
   content: {
-    flex: 1,
+    flexGrow: 1,
     paddingHorizontal: 24,
     paddingTop: 20,
     paddingBottom: 20,
@@ -119,6 +149,7 @@ const styles = StyleSheet.create({
   // Logo section
   heroLogo: {
     flex: 1,
+    minHeight: 220,
     alignItems: 'center',
     justifyContent: 'center',
     gap: 18,
@@ -126,7 +157,9 @@ const styles = StyleSheet.create({
   // Highlighted item
   highlighted: {
     backgroundColor: 'rgba(0,0,0,0.30)',
-    padding: 20,
+    paddingHorizontal: 20,
+    paddingTop: 16,
+    paddingBottom: 20,
   },
   highlightMeta: {
     gap: 8,
@@ -145,10 +178,10 @@ const styles = StyleSheet.create({
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 16,
     color: Colors.textOnDark,
-    marginTop: 28,
+    marginTop: 16,
   },
   sigueBtn: {
-    marginTop: 28,
+    marginTop: 20,
     overflow: 'hidden',
     borderWidth: 2,
     borderColor: Colors.background,
@@ -183,7 +216,28 @@ const styles = StyleSheet.create({
     gap: 24,
   },
   primaryBtnPressed: {},
+  primaryBtnIcon: {
+    width: 16,
+    height: 16,
+    flexShrink: 0,
+  },
+  loadBarTrack: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    height: 3,
+    backgroundColor: Colors.darkOutline,
+    overflow: 'hidden',
+  },
+  loadBarFill: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    height: 3,
+    backgroundColor: Colors.textPrimary,
+  },
   primaryBtnLabel: {
+    flex: 1,
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 16,
     color: Colors.textPrimary,

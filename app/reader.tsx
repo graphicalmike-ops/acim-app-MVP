@@ -400,10 +400,22 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
   const navSectionBlock = useMemo(() => {
     if (scrolledSectionBlock) return scrolledSectionBlock;
     let last: ContentBlock | null = null;
-    for (const b of bookBlocks) {
+    let anchorIdx = -1;
+    for (let i = 0; i < bookBlocks.length; i++) {
+      const b = bookBlocks[i];
       if (b.type === 'chapter-heading' || b.type === 'lesson-heading' || b.type === 'lesson-set-heading') last = null;
       if (b.type === 'section-heading') last = b;
-      if (anchor && b.anchor === anchor) break;
+      if (anchor && b.anchor === anchor) { anchorIdx = i; break; }
+    }
+    // No section precedes the anchor — peek forward to find the first section.
+    // Stop if body text appears first (chapter has an intro, so no default section).
+    if (!last && anchorIdx >= 0) {
+      for (let i = anchorIdx + 1; i < bookBlocks.length; i++) {
+        const b = bookBlocks[i];
+        if (b.type === 'chapter-heading' || b.type === 'lesson-heading') break;
+        if (b.type === 'section-heading') { last = b; break; }
+        if (b.type === 'text' || b.type === 'stanza') break;
+      }
     }
     return last;
   }, [bookBlocks, anchor, scrolledSectionBlock]);
@@ -630,7 +642,7 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
               {!!navSubtitle && <Text style={styles.navChapter} numberOfLines={1}>{navSubtitle}</Text>}
             </View>
           </View>
-          <TertiaryButton hitSize={40} onPress={() => router.navigate('/home')}>
+          <TertiaryButton hitSize={40} onPress={() => setTimeout(() => router.navigate('/home'), 100)}>
             {() => <HomeIcon size={16} color={Colors.textPrimary} />}
           </TertiaryButton>
         </View>

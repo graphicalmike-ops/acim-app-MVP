@@ -2,11 +2,14 @@ import { View, Text, StyleSheet } from 'react-native';
 import { Colors } from '@/constants/Colors';
 import { StarIcon } from '@/components/Icons';
 
+const TITLE_FONT_SIZE = 38;
+const STAR_SIZE = Math.round(TITLE_FONT_SIZE * (58 / 38));
+
 export function HeroLogo() {
   return (
     <View style={styles.container}>
-      <StarIcon size={58} />
-      <Text style={styles.title}>Un Curso{'\n'}De Milagros</Text>
+      <StarIcon size={STAR_SIZE} />
+      <Text allowFontScaling={false} style={styles.title}>Un Curso{'\n'}De Milagros</Text>
     </View>
   );
 }
@@ -19,7 +22,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontFamily: 'Lora_500Medium',
-    fontSize: 38,
+    fontSize: TITLE_FONT_SIZE,
     color: Colors.textOnDark,
     textAlign: 'center',
     letterSpacing: 2.28,
