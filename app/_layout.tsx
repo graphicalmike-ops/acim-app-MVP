@@ -25,7 +25,7 @@ function NavigationBarSync() {
   const { isDark } = useTheme();
 
   useEffect(() => {
-    NavigationBar.setStyle(isDark ? 'light' : 'dark');
+    NavigationBar.setStyle(isDark ? 'dark' : 'light');
   }, [isDark]);
 
   return null;
