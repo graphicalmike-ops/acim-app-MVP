@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
   title: {
     fontFamily: 'Lora_500Medium',
     fontSize: TITLE_FONT_SIZE,
-    color: Colors.textOnDark,
+    color: Colors.fontColorSecondary,
     textAlign: 'center',
     letterSpacing: 2.28,
     textTransform: 'uppercase',

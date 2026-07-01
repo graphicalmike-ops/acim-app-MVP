@@ -11,7 +11,6 @@ export default function SplashScreen() {
 
   useEffect(() => {
     NavigationBar.setStyle('dark');
-    return () => { NavigationBar.setStyle('light'); };
   }, []);
 
   useEffect(() => {

@@ -6,8 +6,8 @@ import { BackIcon, HomeIcon, PlusIcon, MinusIcon } from '@/components/Icons';
 import { TertiaryButton } from '@/components/TertiaryButton';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { router, useLocalSearchParams, useFocusEffect } from 'expo-router';
-import { Colors } from '@/constants/Colors';
 import { toTitleCase } from '@/utils/text';
+import { useTheme, useThemeColors } from '@/utils/theme';
 
 const INDEX_FILES = {
   theory:     require('@/assets/content/theory-index.json'),
@@ -78,6 +78,8 @@ export default function ContentsScreen() {
   const items = ITEMS_BY_BOOK[anchor] ?? ITEMS_BY_BOOK.theory;
   const bookTitle = items.find(i => i.type === 'Title-L1')?.label ?? '';
   const { width: screenWidth } = useWindowDimensions();
+  const { isDark } = useTheme();
+  const t = useThemeColors();
 
   const [openAccordion, setOpenAccordion] = useState<string | null>(null);
   const [navigating, setNavigating] = useState(false);
@@ -120,19 +122,19 @@ export default function ContentsScreen() {
   );
 
   return (
-    <SafeAreaView style={styles.topArea} edges={['top']}>
-      <SafeAreaView style={styles.container} edges={['bottom']}>
-        <StatusBar style="dark" backgroundColor={Colors.backgroundDark} />
-        <View style={styles.navBar}>
+    <SafeAreaView style={[styles.topArea, { backgroundColor: t.darkerBackgroundColor }]} edges={['top']}>
+      <SafeAreaView style={[styles.container, { backgroundColor: t.backgroundColor }]} edges={['bottom']}>
+        <StatusBar style={isDark ? 'light' : 'dark'} backgroundColor={t.darkerBackgroundColor} />
+        <View style={[styles.navBar, { backgroundColor: t.darkerBackgroundColor }]}>
           <View style={styles.navRow}>
             <View style={styles.navLeft}>
               <TertiaryButton hitSize={40} onPress={() => router.back()}>
-                {() => <BackIcon size={16} color={Colors.textPrimary} />}
+                {(pressed) => <BackIcon size={16} color={pressed ? t.pressedIconColor : t.fontColorPrimary} />}
               </TertiaryButton>
-              <Text style={styles.navTitle}>{toTitleCase(bookTitle)}</Text>
+              <Text style={[styles.navTitle, { color: t.fontColorPrimary }]}>{toTitleCase(bookTitle)}</Text>
             </View>
             <TertiaryButton hitSize={40} onPress={() => setTimeout(() => router.navigate('/home'), 100)}>
-              {() => <HomeIcon size={16} color={Colors.textPrimary} />}
+              {(pressed) => <HomeIcon size={16} color={pressed ? t.pressedIconColor : t.fontColorPrimary} />}
             </TertiaryButton>
           </View>
         </View>
@@ -141,7 +143,7 @@ export default function ContentsScreen() {
           ref={scrollRef}
           contentContainerStyle={styles.content}
           showsVerticalScrollIndicator={false}
-          style={styles.scrollView}
+          style={[styles.scrollView, { backgroundColor: t.backgroundColor }]}
           onScroll={(e) => { scrollY.current = e.nativeEvent.contentOffset.y; }}
           scrollEventThrottle={16}
         >
@@ -152,8 +154,8 @@ export default function ContentsScreen() {
 
             if (item.type === 'Title-L2') {
               return (
-                <View key={item.id} style={styles.titleL1Item}>
-                  <Text style={styles.titleL1}>{toTitleCase(item.label)}</Text>
+                <View key={item.id} style={[styles.titleL1Item, { backgroundColor: t.backgroundColor }]}>
+                  <Text style={[styles.titleL1, { color: t.fontColorGray }]}>{toTitleCase(item.label)}</Text>
                 </View>
               );
             }
@@ -163,42 +165,42 @@ export default function ContentsScreen() {
               return (
                 <View key={item.id} onLayout={(e) => itemYPositions.current.set(item.id, e.nativeEvent.layout.y)}>
                   <RipplePressable
-                    style={[styles.item, isOpen && styles.accordionExpanded]}
-                    rippleColor={isOpen ? Colors.background : Colors.backgroundDark}
+                    style={[styles.item, isOpen && { backgroundColor: t.darkerBackgroundColor }]}
+                    rippleColor={isOpen ? t.backgroundColor : t.darkerBackgroundColor}
                     onPress={() => toggleAccordion(item.id)}
                   >
                     {() => (
                       <>
                         <View style={styles.itemRow}>
                           <View style={styles.itemText}>
-                            <Text style={styles.itemLabelBold}>{item.bookId === 'mft' ? item.label : toTitleCase(item.label)}</Text>
+                            <Text style={[styles.itemLabelBold, { color: t.fontColorPrimary }]}>{item.bookId === 'mft' ? item.label : toTitleCase(item.label)}</Text>
                             {item.subtitle && (
-                              <Text style={styles.itemSubtitle}>{item.bookId === 'mft' ? item.subtitle : toTitleCase(item.subtitle)}</Text>
+                              <Text style={[styles.itemSubtitle, { color: t.fontColorGray }]}>{item.bookId === 'mft' ? item.subtitle : toTitleCase(item.subtitle)}</Text>
                             )}
                           </View>
-                          {isOpen ? <MinusIcon color={Colors.textMuted} /> : <PlusIcon color={Colors.textMuted} />}
+                          {isOpen ? <MinusIcon color={t.fontColorGray} /> : <PlusIcon color={t.fontColorGray} />}
                         </View>
-                        <View style={styles.divider} />
+                        <View style={[styles.divider, { backgroundColor: t.darkOutline }]} />
                       </>
                     )}
                   </RipplePressable>
                   {isOpen && item.children?.map((child, childIndex) => (
                     <RipplePressable
                       key={child.id}
-                      style={[styles.item, styles.accordionChildItem]}
-                      rippleColor={Colors.background}
+                      style={[styles.item, { backgroundColor: t.darkerBackgroundColor }]}
+                      rippleColor={t.backgroundColor}
                       onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); const anchor = childIndex === 0 && child.bookId === 'theory' ? item.id : (child.anchor ?? child.id); setTimeout(() => router.push(`/reader?book=${child.bookId}&anchor=${anchor}`), 100); }}
                     >
                       <>
                         <View style={[styles.itemRow, styles.accordionChildRow]}>
                           <View style={styles.itemText}>
-                            <Text style={styles.itemLabel}>{child.label}</Text>
+                            <Text style={[styles.itemLabel, { color: t.fontColorPrimary }]}>{child.label}</Text>
                             {child.subtitle && (
-                              <Text style={styles.itemSubtitle}>{child.subtitle}</Text>
+                              <Text style={[styles.itemSubtitle, { color: t.fontColorGray }]}>{child.subtitle}</Text>
                             )}
                           </View>
                         </View>
-                        <View style={styles.divider} />
+                        <View style={[styles.divider, { backgroundColor: t.darkOutline }]} />
                       </>
                     </RipplePressable>
                   ))}
@@ -210,20 +212,20 @@ export default function ContentsScreen() {
               <RipplePressable
                 key={item.id}
                 style={styles.item}
-                rippleColor={Colors.backgroundDark}
+                rippleColor={t.darkerBackgroundColor}
                 onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); setTimeout(() => router.push(`/reader?book=${item.bookId}&anchor=${item.anchor ?? item.id}`), 100); }}
               >
                 {() => (
                   <>
                     <View style={styles.itemRow}>
                       <View style={styles.itemText}>
-                        <Text style={styles.itemLabel}>{item.bookId === 'mft' ? item.label : toTitleCase(item.label)}</Text>
+                        <Text style={[styles.itemLabel, { color: t.fontColorPrimary }]}>{item.bookId === 'mft' ? item.label : toTitleCase(item.label)}</Text>
                         {item.subtitle && (
-                          <Text style={styles.itemSubtitle}>{item.subtitle}</Text>
+                          <Text style={[styles.itemSubtitle, { color: t.fontColorGray }]}>{item.subtitle}</Text>
                         )}
                       </View>
                     </View>
-                    <View style={styles.divider} />
+                    <View style={[styles.divider, { backgroundColor: t.darkOutline }]} />
                   </>
                 )}
               </RipplePressable>
@@ -231,9 +233,10 @@ export default function ContentsScreen() {
           })}
         </ScrollView>
         {loadBarVisible && (
-          <View style={styles.loadBarTrack}>
+          <View style={[styles.loadBarTrack, { backgroundColor: t.darkOutline }]}>
             <Animated.View style={[
               styles.loadBarFill,
+              { backgroundColor: t.fontColorPrimary },
               { transform: [{ translateX: loadBarAnim.interpolate({ inputRange: [0, 1], outputRange: [-screenWidth, 0] }) }] },
             ]} />
           </View>
@@ -246,14 +249,11 @@ export default function ContentsScreen() {
 const styles = StyleSheet.create({
   topArea: {
     flex: 1,
-    backgroundColor: Colors.backgroundDark,
   },
   container: {
     flex: 1,
-    backgroundColor: Colors.background,
   },
   navBar: {
-    backgroundColor: Colors.backgroundDark,
     paddingHorizontal: 24,
     paddingVertical: 10,
   },
@@ -272,11 +272,9 @@ const styles = StyleSheet.create({
     flex: 1,
     fontFamily: 'MerriweatherSans_700Bold',
     fontSize: 14,
-    color: Colors.textPrimary,
   },
   scrollView: {
     flex: 1,
-    backgroundColor: Colors.background,
   },
   content: {
     paddingBottom: 40,
@@ -295,7 +293,6 @@ const styles = StyleSheet.create({
   },
   divider: {
     height: 2,
-    backgroundColor: Colors.darkOutline,
   },
   itemText: {
     flex: 1,
@@ -304,65 +301,30 @@ const styles = StyleSheet.create({
   itemLabel: {
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 14,
-    color: Colors.textPrimary,
   },
   itemLabelBold: {
     fontFamily: 'MerriweatherSans_700Bold',
     fontSize: 14,
-    color: Colors.textPrimary,
   },
-  accordionExpanded: {
-    backgroundColor: Colors.backgroundDark,
-  },
-  accordionExpandedPressed: {},
-  accordionChildItem: {
-    backgroundColor: Colors.backgroundDark,
-  },
-  accordionChildItemPressed: {},
   accordionChildRow: {
     paddingLeft: 24,
-  },
-  itemLabelHover: {
-    color: Colors.darkOutline,
-  },
-  itemLabelPressed: {
-    fontFamily: 'MerriweatherSans_700Bold',
-    color: Colors.darkOutline,
   },
   itemSubtitle: {
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 12,
-    color: Colors.textMuted,
-  },
-  itemSubtitleHover: {
-    color: Colors.darkOutline,
   },
   titleL1Item: {
     paddingTop: 32,
     paddingBottom: 12,
     paddingHorizontal: 24,
-    backgroundColor: Colors.background,
   },
   titleL1: {
     fontFamily: 'MerriweatherSans_700Bold',
     fontSize: 14,
-    color: Colors.textMuted,
     textTransform: 'uppercase',
-  },
-  titleItem: {
-    paddingTop: 32,
-    paddingBottom: 12,
-    paddingHorizontal: 24,
-    backgroundColor: Colors.backgroundDark,
-  },
-  titleL2: {
-    fontFamily: 'MerriweatherSans_400Regular',
-    fontSize: 14,
-    color: Colors.textMuted,
   },
   loadBarTrack: {
     height: 3,
-    backgroundColor: Colors.darkOutline,
     overflow: 'hidden',
   },
   loadBarFill: {
@@ -370,6 +332,5 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     height: 3,
-    backgroundColor: Colors.textPrimary,
   },
 });

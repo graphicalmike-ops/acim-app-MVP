@@ -4,6 +4,7 @@ import * as NavigationBar from 'expo-navigation-bar';
 import { StatusBar } from 'expo-status-bar';
 import { Colors } from '@/constants/Colors';
 import { useFonts } from 'expo-font';
+import { ThemeProvider, useTheme } from '@/utils/theme';
 import {
   Lora_400Regular,
   Lora_400Regular_Italic,
@@ -19,6 +20,16 @@ import {
 import * as SplashScreen from 'expo-splash-screen';
 
 SplashScreen.preventAutoHideAsync();
+
+function NavigationBarSync() {
+  const { isDark } = useTheme();
+
+  useEffect(() => {
+    NavigationBar.setStyle(isDark ? 'light' : 'dark');
+  }, [isDark]);
+
+  return null;
+}
 
 export default function RootLayout() {
   const [fontsLoaded, fontError] = useFonts({
@@ -38,23 +49,20 @@ export default function RootLayout() {
     }
   }, [fontsLoaded, fontError]);
 
-  useEffect(() => {
-    NavigationBar.setStyle('light');
-  }, []);
-
   if (!fontsLoaded && !fontError) {
     return null;
   }
 
   return (
-    <>
+    <ThemeProvider>
+      <NavigationBarSync />
       <Stack screenOptions={{ headerShown: false }}>
         <Stack.Screen name="index" options={{ animation: 'none' }} />
         <Stack.Screen name="home" options={{ animation: 'fade', animationTypeForReplace: 'push' }} />
         <Stack.Screen name="contents" options={{ animation: 'fade' }} />
         <Stack.Screen name="reader" options={{ animation: 'fade' }} />
       </Stack>
-      <StatusBar style="dark" backgroundColor={Colors.backgroundDark} />
-    </>
+      <StatusBar style="dark" backgroundColor={Colors.darkerBackgroundColor} />
+    </ThemeProvider>
   );
 }

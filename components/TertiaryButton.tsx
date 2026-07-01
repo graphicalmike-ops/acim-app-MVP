@@ -13,7 +13,7 @@ type Props = {
   children?: (pressed: boolean) => React.ReactNode;
 };
 
-export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.textPrimary, rippleColor = Colors.background, children }: Props) {
+export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.fontColorPrimary, rippleColor = Colors.backgroundColor, children }: Props) {
   const containerSize = hitSize ?? (size === 'md' ? 24 : 40);
 
   return (
@@ -30,8 +30,8 @@ export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.t
       rippleColor={rippleColor}
       onPress={onPress}
     >
-      {() =>
-        children ? children(false) : size === 'md' ? (
+      {({ pressed }) =>
+        children ? children(pressed) : size === 'md' ? (
           <View style={styles.iconMd}>
             <Svg width={6} height={10} viewBox="0 0 6 11" fill="none">
               <Path

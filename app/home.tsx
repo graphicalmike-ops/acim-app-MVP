@@ -2,11 +2,14 @@ import { useState, useCallback, useRef } from 'react';
 import { View, Text, StyleSheet, Pressable, Image, ScrollView, Animated, useWindowDimensions } from 'react-native';
 import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { router, useFocusEffect } from 'expo-router';
+import { StatusBar } from 'expo-status-bar';
 import { Colors } from '@/constants/Colors';
-import { TheoryIcon, ExercizesIcon, TeacherIcon, SupplementalIcon } from '@/components/Icons';
+import { TheoryIcon, ExercizesIcon, TeacherIcon, SupplementalIcon, TipSolidIcon, LightModeIcon, DarkModeIcon } from '@/components/Icons';
+import { TertiaryButton } from '@/components/TertiaryButton';
 import { HeroLogo } from '@/components/HeroLogo';
-import { loadLastRead, LastReadState } from '@/utils/lastRead';
+import { loadLastRead, clearLastRead, LastReadState } from '@/utils/lastRead';
 import { RipplePressable } from '@/components/RipplePressable';
+import { useTheme } from '@/utils/theme';
 
 const BUTTONS = [
   { Icon: TheoryIcon,       label: 'Libro de Texto',         anchor: 'theory'     },
@@ -18,7 +21,30 @@ const BUTTONS = [
 const heroSource = require('@/assets/images/splash-bg.jpg');
 
 export default function HomeScreen() {
+  const { isDark, toggleTheme } = useTheme();
   const { bottom: bottomInset } = useSafeAreaInsets();
+
+  const t = isDark ? {
+    pageBg:          Colors.backgroundColorDark,
+    topBarBg:        Colors.backgroundColorDark,
+    topBarIconColor: Colors.fontColorSecondary,
+    topBarRipple:    Colors.primaryButtonBgDark,
+    btnBg:           Colors.backgroundColorDark,
+    btnBorder:       Colors.darkOutline,
+    btnIconColor:    Colors.fontColorSecondary,
+    btnLabelColor:   Colors.fontColorSecondary,
+    btnRipple:       Colors.primaryButtonBgDark,
+  } : {
+    pageBg:          Colors.backgroundColor,
+    topBarBg:        Colors.backgroundColor,
+    topBarIconColor: Colors.fontColorPrimary,
+    topBarRipple:    Colors.darkerBackgroundColor,
+    btnBg:           Colors.primaryButtonBg,
+    btnBorder:       Colors.darkOutline,
+    btnIconColor:    Colors.fontColorPrimary,
+    btnLabelColor:   Colors.fontColorPrimary,
+    btnRipple:       Colors.primaryButtonPressed,
+  };
   const [lastRead, setLastRead] = useState<LastReadState | null>(null);
   const [navigating, setNavigating] = useState(false);
   const [loadBarVisible, setLoadBarVisible] = useState(false);
@@ -42,14 +68,28 @@ export default function HomeScreen() {
   );
 
   return (
-    <SafeAreaView style={styles.container} edges={['top', 'bottom']}>
+    <SafeAreaView style={[styles.container, { backgroundColor: t.pageBg }]} edges={['top', 'bottom']}>
+      <StatusBar style={isDark ? 'light' : 'dark'} backgroundColor={t.topBarBg} />
+
+      {/* Top bar */}
+      <View style={[styles.topBar, { backgroundColor: t.topBarBg }]}>
+        <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} onPress={async () => { await clearLastRead(); setLastRead(null); }}>
+          {() => <TipSolidIcon size={24} color={t.topBarIconColor} />}
+        </TertiaryButton>
+        <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} onPress={toggleTheme}>
+          {() => isDark
+            ? <LightModeIcon size={20} color={t.topBarIconColor} />
+            : <DarkModeIcon size={20} color={t.topBarIconColor} />
+          }
+        </TertiaryButton>
+      </View>
 
       <ScrollView contentContainerStyle={styles.content}>
         {/* Hero card */}
-        <View style={styles.heroCard}>
+        <View style={[styles.heroCard, { borderColor: isDark ? Colors.darkOutline : 'transparent' }]}>
           <Image
             source={heroSource}
-            style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%' }}
+            style={[StyleSheet.absoluteFill, { width: '100%', height: '100%' }]}
             resizeMode="cover"
           />
           <View style={[StyleSheet.absoluteFill, styles.heroOverlay]} />
@@ -69,7 +109,7 @@ export default function HomeScreen() {
               {lastRead && <Text style={styles.highlightQuote}>{lastRead.title}</Text>}
               <RipplePressable
                 style={({ pressed }) => [styles.sigueBtn, pressed && styles.sigueBtnPressed]}
-                rippleColor={Colors.background}
+                rippleColor={t.btnRipple}
                 onPress={() => {
                   if (navigating) return;
                   setNavigating(true);
@@ -80,8 +120,8 @@ export default function HomeScreen() {
                   , 100);
                 }}
               >
-                {({ pressed }) => (
-                  <Text style={[styles.sigueBtnText, pressed && styles.sigueBtnTextPressed]}>
+                {() => (
+                  <Text style={styles.sigueBtnText}>
                     {lastRead ? 'Sigue leyendo' : 'Comienza el Curso'}
                   </Text>
                 )}
@@ -95,13 +135,14 @@ export default function HomeScreen() {
           {BUTTONS.map(({ Icon, label, anchor }, i) => (
             <RipplePressable
               key={i}
-              style={({ pressed }) => [styles.primaryBtn, pressed && styles.primaryBtnPressed]}
+              style={({ pressed }) => [styles.primaryBtn, { backgroundColor: t.btnBg, borderColor: t.btnBorder }]}
+              rippleColor={t.btnRipple}
               onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); setTimeout(() => router.push(`/contents?anchor=${anchor}`), 100); }}
             >
               <View style={styles.primaryBtnIcon}>
-                <Icon size={16} color={Colors.textPrimary} />
+                <Icon size={16} color={t.btnIconColor} />
               </View>
-              <Text style={styles.primaryBtnLabel}>{label}</Text>
+              <Text style={[styles.primaryBtnLabel, { color: t.btnLabelColor }]}>{label}</Text>
             </RipplePressable>
           ))}
         </View>
@@ -121,13 +162,20 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: Colors.background,
+  },
+
+  topBar: {
+    paddingHorizontal: 24,
+    paddingVertical: 4,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
   },
 
   content: {
     flexGrow: 1,
     paddingHorizontal: 24,
-    paddingTop: 20,
+    paddingTop: 0,
     paddingBottom: 20,
   },
 
@@ -135,6 +183,7 @@ const styles = StyleSheet.create({
   heroCard: {
     flex: 1,
     borderRadius: 12,
+    borderWidth: 2,
     overflow: 'hidden',
     marginBottom: 16,
   },
@@ -167,24 +216,24 @@ const styles = StyleSheet.create({
   highlightLabel: {
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 12,
-    color: Colors.textOnDark,
+    color: Colors.fontColorSecondary,
   },
   highlightChapter: {
     fontFamily: 'MerriweatherSans_700Bold',
     fontSize: 12,
-    color: Colors.textOnDark,
+    color: Colors.fontColorSecondary,
   },
   highlightQuote: {
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 16,
-    color: Colors.textOnDark,
+    color: Colors.fontColorSecondary,
     marginTop: 16,
   },
   sigueBtn: {
     marginTop: 20,
     overflow: 'hidden',
     borderWidth: 2,
-    borderColor: Colors.background,
+    borderColor: Colors.backgroundColor,
     borderRadius: 12,
     paddingVertical: 8,
     alignItems: 'center',
@@ -193,10 +242,7 @@ const styles = StyleSheet.create({
   sigueBtnText: {
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 14,
-    color: Colors.textOnDark,
-  },
-  sigueBtnTextPressed: {
-    color: Colors.textPrimary,
+    color: Colors.fontColorSecondary,
   },
 
   // Primary buttons
@@ -207,15 +253,12 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: Colors.surface,
     borderRadius: 12,
     borderWidth: 2,
-    borderColor: Colors.darkOutline,
     paddingHorizontal: 24,
     paddingVertical: 14,
     gap: 24,
   },
-  primaryBtnPressed: {},
   primaryBtnIcon: {
     width: 16,
     height: 16,
@@ -234,12 +277,11 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     height: 3,
-    backgroundColor: Colors.textPrimary,
+    backgroundColor: Colors.fontColorPrimary,
   },
   primaryBtnLabel: {
     flex: 1,
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 16,
-    color: Colors.textPrimary,
   },
 });

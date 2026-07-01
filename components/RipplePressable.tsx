@@ -7,7 +7,7 @@ type Props = PressableProps & {
   rippleColor?: string;
 };
 
-export function RipplePressable({ rippleColor = Colors.buttonPressed, onPressIn, onPressOut, onLayout, children, ...rest }: Props) {
+export function RipplePressable({ rippleColor = Colors.primaryButtonPressed, onPressIn, onPressOut, onLayout, children, ...rest }: Props) {
   const scale = useSharedValue(0);
   const opacity = useSharedValue(0);
   const originX = useSharedValue(0);

@@ -3,12 +3,12 @@ import { View, Text, ScrollView, StyleSheet, LayoutChangeEvent, useWindowDimensi
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { router, useLocalSearchParams } from 'expo-router';
-import { Colors } from '@/constants/Colors';
 import { BackIcon, HomeIcon } from '@/components/Icons';
 import { TertiaryButton } from '@/components/TertiaryButton';
 import { toTitleCase } from '@/utils/text';
 import { saveLastRead } from '@/utils/lastRead';
 import { RipplePressable } from '@/components/RipplePressable';
+import { useTheme, useThemeColors } from '@/utils/theme';
 
 type Sentence = { verse: number; content: string; bold?: boolean; italic?: boolean; newline?: boolean; inline?: boolean; spaceBefore?: boolean };
 type ContentBlock = {
@@ -239,6 +239,9 @@ function getMarginTop(type: string, prevType: string | null, isFirst: boolean): 
 export default function ReaderScreen() {
   const { book: bookId, anchor } = useLocalSearchParams<{ book: string; anchor: string }>();
   const { height: screenHeight } = useWindowDimensions();
+  const { isDark } = useTheme();
+  const t = useThemeColors();
+  const styles = useMemo(() => createStyles(t, isDark), [t, isDark]);
   const scrollRef = useRef<ScrollView>(null);
   const hasScrolled = useRef(false);
   const chapterPositions = useRef<{ y: number; block: ContentBlock }[]>([]);
@@ -630,12 +633,12 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
   return (
     <SafeAreaView style={styles.topArea} edges={['top']}>
       <SafeAreaView style={styles.container} edges={['bottom']}>
-      <StatusBar style="dark" backgroundColor={Colors.backgroundDark} />
+      <StatusBar style={isDark ? 'light' : 'dark'} backgroundColor={t.darkerBackgroundColor} />
       <View style={styles.navBar}>
         <View style={styles.navRow}>
           <View style={styles.navLeft}>
             <TertiaryButton hitSize={40} onPress={() => router.back()}>
-              {() => <BackIcon size={16} color={Colors.textPrimary} />}
+              {(pressed) => <BackIcon size={16} color={pressed ? t.pressedIconColor : t.fontColorPrimary} />}
             </TertiaryButton>
             <View style={[styles.navMeta, !navSubtitle && { justifyContent: 'center' }]}>
               <Text style={styles.navSection} numberOfLines={1}>{navTitle}</Text>
@@ -643,7 +646,7 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
             </View>
           </View>
           <TertiaryButton hitSize={40} onPress={() => setTimeout(() => router.navigate('/home'), 100)}>
-            {() => <HomeIcon size={16} color={Colors.textPrimary} />}
+            {(pressed) => <HomeIcon size={16} color={pressed ? t.pressedIconColor : t.fontColorPrimary} />}
           </TertiaryButton>
         </View>
       </View>
@@ -880,19 +883,20 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
   );
 }
 
-const styles = StyleSheet.create({
+function createStyles(t: ReturnType<typeof useThemeColors>, isDark: boolean) {
+  return StyleSheet.create({
   topArea: {
     flex: 1,
-    backgroundColor: Colors.backgroundDark,
+    backgroundColor: t.darkerBackgroundColor,
   },
   container: {
     flex: 1,
-    backgroundColor: Colors.background,
+    backgroundColor: t.backgroundColor,
   },
 
   // Nav bar
   navBar: {
-    backgroundColor: Colors.backgroundDark,
+    backgroundColor: t.darkerBackgroundColor,
     paddingHorizontal: 24,
     paddingVertical: 10,
   },
@@ -914,18 +918,18 @@ const styles = StyleSheet.create({
   navChapter: {
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 12,
-    color: Colors.textMuted,
+    color: t.fontColorGray,
   },
   navSection: {
     fontFamily: 'MerriweatherSans_700Bold',
     fontSize: 14,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
 
   // Content
   scroll: {
     flex: 1,
-    backgroundColor: Colors.background,
+    backgroundColor: t.backgroundColor,
   },
   content: {
     paddingHorizontal: 24,
@@ -936,42 +940,42 @@ const styles = StyleSheet.create({
   bookHeading: {
     fontFamily: 'Lora_700Bold',
     fontSize: 26,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   partHeading: {
     fontFamily: 'Lora_600SemiBold',
     fontSize: 20,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   chapterNumber: {
     fontFamily: 'Lora_600SemiBold',
     fontSize: 20,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   chapterHeading: {
     fontFamily: 'Lora_700Bold',
     fontSize: 22,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   sectionHeading: {
     fontFamily: 'Lora_600SemiBold',
     fontSize: 20,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   lessonSetSubtitle: {
     fontFamily: 'Lora_700Bold',
     fontSize: 22,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   lessonTitle: {
     fontFamily: 'Lora_600SemiBold',
     fontSize: 20,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   lessonSubtitle: {
     fontFamily: 'Lora_700Bold',
     fontSize: 22,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   stanzaBlock: {
     marginHorizontal: 20,
@@ -980,14 +984,15 @@ const styles = StyleSheet.create({
     fontFamily: 'Lora_400Regular',
     fontSize: 17,
     lineHeight: 24,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
   italic: {
     fontFamily: 'Lora_400Regular_Italic',
   },
   ntWord: {
-    color: '#803000',
+    color: t.ntWordColor,
     textDecorationLine: 'underline',
+    fontFamily: isDark ? 'Lora_700Bold' : undefined,
   },
 
   // N.T. bottom sheet
@@ -998,10 +1003,10 @@ const styles = StyleSheet.create({
     right: 0,
   },
   sheetOverlayBg: {
-    backgroundColor: Colors.overlay,
+    backgroundColor: t.overlay,
   },
   sheetContainer: {
-    backgroundColor: Colors.backgroundDark,
+    backgroundColor: t.darkerBackgroundColor,
     borderTopLeftRadius: 20,
     borderTopRightRadius: 20,
     paddingHorizontal: 24,
@@ -1011,7 +1016,7 @@ const styles = StyleSheet.create({
   sheetHandle: {
     width: 36,
     height: 4,
-    backgroundColor: Colors.darkOutline,
+    backgroundColor: t.darkOutline,
     borderRadius: 2,
     alignSelf: 'center',
     marginBottom: 20,
@@ -1019,14 +1024,14 @@ const styles = StyleSheet.create({
   sheetLabel: {
     fontFamily: 'Lora_600SemiBold',
     fontSize: 17,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
     marginBottom: 12,
   },
   sheetText: {
     fontFamily: 'Lora_400Regular_Italic',
     fontSize: 15,
     lineHeight: 23,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
     marginBottom: 16,
   },
 
@@ -1036,10 +1041,10 @@ const styles = StyleSheet.create({
   },
   nextChapterBtn: {
     overflow: 'hidden',
-    backgroundColor: Colors.surface,
+    backgroundColor: t.primaryButtonBg,
     borderRadius: 12,
     borderWidth: 2,
-    borderColor: Colors.darkOutline,
+    borderColor: t.darkOutline,
     paddingHorizontal: 24,
     paddingVertical: 14,
     alignItems: 'center',
@@ -1049,7 +1054,8 @@ const styles = StyleSheet.create({
   nextChapterLabel: {
     fontFamily: 'MerriweatherSans_400Regular',
     fontSize: 16,
-    color: Colors.textPrimary,
+    color: t.fontColorPrimary,
   },
 
-});
+  });
+}

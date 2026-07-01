@@ -2,12 +2,12 @@
 // All icons are vectorized originals from the Font Awesome library.
 
 import { View } from 'react-native';
-import Svg, { Path, G, Defs, Filter, FeFlood, FeColorMatrix, FeOffset, FeGaussianBlur, FeComposite, FeBlend } from 'react-native-svg';
+import Svg, { Path, G, Defs, Filter, FeFlood, FeColorMatrix, FeOffset, FeGaussianBlur, FeComposite, FeBlend, Circle, Line } from 'react-native-svg';
 import { Colors } from '@/constants/Colors';
 
 // 8-pointed star with drop shadow — matches Figma filter exactly
 // Shadow: black 60% opacity, y-offset 1, blur radius 2
-export function StarIcon({ size = 65, color = Colors.textOnDark }: { size?: number; color?: string }) {
+export function StarIcon({ size = 65, color = Colors.fontColorSecondary }: { size?: number; color?: string }) {
   return (
     <Svg width={size} height={size} viewBox="0 0 69 69" fill="none">
       <Defs>
@@ -38,7 +38,7 @@ type IconProps = {
 };
 
 // Property 1=Theory — 16×16
-export function TheoryIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
+export function TheoryIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
   return (
     <Svg width={size} height={size} viewBox="0 0 16 16" fill="none">
       <Path
@@ -50,7 +50,7 @@ export function TheoryIcon({ size = 16, color = Colors.textPrimary }: IconProps)
 }
 
 // Property 1=Exercizes — 16×16
-export function ExercizesIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
+export function ExercizesIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
   return (
     <Svg width={size} height={size} viewBox="0 0 16 16" fill="none">
       <Path
@@ -62,7 +62,7 @@ export function ExercizesIcon({ size = 16, color = Colors.textPrimary }: IconPro
 }
 
 // Property 1=Supplemental — 16×16
-export function SupplementalIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
+export function SupplementalIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
   return (
     <Svg width={size} height={size} viewBox="0 0 16 16" fill="none">
       <Path
@@ -74,7 +74,7 @@ export function SupplementalIcon({ size = 16, color = Colors.textPrimary }: Icon
 }
 
 // Property 1=Tip (Solid) — 16×16
-export function TipSolidIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
+export function TipSolidIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
   return (
     <Svg width={size} height={size} viewBox="0 0 16 16" fill="none">
       <Path
@@ -86,7 +86,7 @@ export function TipSolidIcon({ size = 16, color = Colors.textPrimary }: IconProp
 }
 
 // Property 1=Tip (Light) — 16×16
-export function TipLightIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
+export function TipLightIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
   return (
     <Svg width={size} height={size} viewBox="0 0 16 16" fill="none">
       <Path
@@ -98,7 +98,7 @@ export function TipLightIcon({ size = 16, color = Colors.textPrimary }: IconProp
 }
 
 // Home — 20×16
-export function HomeIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
+export function HomeIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
   const width = size * (20 / 16);
   return (
     <Svg width={width} height={size} viewBox="0 0 20 16" fill="none">
@@ -111,7 +111,7 @@ export function HomeIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
 }
 
 // Angle Right — 6×10 SVG centered in a 24×24 container
-export function AngleRightIcon({ color = Colors.textMuted }: { color?: string }) {
+export function AngleRightIcon({ color = Colors.fontColorGray }: { color?: string }) {
   return (
     <View style={{ width: 24, height: 24, alignItems: 'center', justifyContent: 'center' }}>
       <Svg width={6} height={10} viewBox="0 0 6 11" fill="none">
@@ -125,7 +125,7 @@ export function AngleRightIcon({ color = Colors.textMuted }: { color?: string })
 }
 
 // Plus — 10×10 SVG centered in a 24×24 container
-export function PlusIcon({ color = Colors.textMuted }: { color?: string }) {
+export function PlusIcon({ color = Colors.fontColorGray }: { color?: string }) {
   return (
     <View style={{ width: 24, height: 24, alignItems: 'center', justifyContent: 'center' }}>
       <Svg width={10} height={10} viewBox="0 0 10 10" fill="none">
@@ -139,7 +139,7 @@ export function PlusIcon({ color = Colors.textMuted }: { color?: string }) {
 }
 
 // Minus — 10×2 SVG centered in a 24×24 container
-export function MinusIcon({ color = Colors.textMuted }: { color?: string }) {
+export function MinusIcon({ color = Colors.fontColorGray }: { color?: string }) {
   return (
     <View style={{ width: 24, height: 24, alignItems: 'center', justifyContent: 'center' }}>
       <Svg width={10} height={2} viewBox="0 0 10 2" fill="none">
@@ -153,7 +153,7 @@ export function MinusIcon({ color = Colors.textMuted }: { color?: string }) {
 }
 
 // Teacher — 16×16 (book-reader)
-export function TeacherIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
+export function TeacherIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
   return (
     <Svg width={size} height={size} viewBox="0 0 16 16" fill="none">
       <Path
@@ -164,8 +164,39 @@ export function TeacherIcon({ size = 16, color = Colors.textPrimary }: IconProps
   );
 }
 
+// Light mode (sun) — 16×16, stroke-based
+export function LightModeIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
+  return (
+    <Svg width={size} height={size} viewBox="0 0 16 16" fill="none">
+      <Circle cx="8" cy="8" r="2.25" stroke={color} strokeWidth="1.5" />
+      <Line x1="8" y1="4" x2="8" y2="0" stroke={color} strokeWidth="1.5" />
+      <Line x1="8" y1="16" x2="8" y2="12" stroke={color} strokeWidth="1.5" />
+      <Line x1="4" y1="8" x2="0" y2="8" stroke={color} strokeWidth="1.5" />
+      <Line x1="16" y1="8" x2="12" y2="8" stroke={color} strokeWidth="1.5" />
+      <Line x1="5.172" y1="5.172" x2="2.343" y2="2.344" stroke={color} strokeWidth="1.5" />
+      <Line x1="13.657" y1="13.657" x2="10.829" y2="10.829" stroke={color} strokeWidth="1.5" />
+      <Line x1="5.172" y1="10.828" x2="2.344" y2="13.657" stroke={color} strokeWidth="1.5" />
+      <Line x1="13.657" y1="2.343" x2="10.829" y2="5.171" stroke={color} strokeWidth="1.5" />
+    </Svg>
+  );
+}
+
+// Dark mode (moon) — 24×24
+export function DarkModeIcon({ size = 24, color = Colors.fontColorPrimary }: IconProps) {
+  return (
+    <Svg width={size} height={size} viewBox="0 0 24 24" fill="none">
+      <G transform="translate(0.72, 0)">
+        <Path
+          d="M 12 24 C 15.65625 24 19.078125 22.359375 21.28125 19.59375 C 22.640625 17.953125 21.1875 15.5625 19.125 15.9375 C 15.28125 16.6875 11.71875 13.734375 11.71875 9.84375 C 11.71875 7.546875 12.9375 5.484375 14.859375 4.40625 C 16.6875 3.375 16.21875 0.609375 14.15625 0.234375 C 13.453125 0.09375 12.75 0.046875 12 0 C 5.34375 0 0 5.390625 0 12 C 0 18.65625 5.34375 24 12 24 Z M 12 2.25 C 12.609375 2.25 13.171875 2.34375 13.78125 2.4375 C 11.203125 3.890625 9.46875 6.65625 9.46875 9.84375 C 9.46875 15.140625 14.34375 19.171875 19.546875 18.140625 C 17.765625 20.34375 15.046875 21.75 12 21.75 C 6.609375 21.75 2.25 17.390625 2.25 12 C 2.25 6.65625 6.609375 2.25 12 2.25 Z"
+          fill={color}
+        />
+      </G>
+    </Svg>
+  );
+}
+
 // Back — 16×16
-export function BackIcon({ size = 16, color = Colors.textPrimary }: IconProps) {
+export function BackIcon({ size = 16, color = Colors.fontColorPrimary }: IconProps) {
   return (
     <Svg width={size} height={size} viewBox="0 0 16 16" fill="none">
       <Path
