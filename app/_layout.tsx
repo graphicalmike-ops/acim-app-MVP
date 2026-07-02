@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Stack } from 'expo-router';
+import { Stack, usePathname } from 'expo-router';
 import * as NavigationBar from 'expo-navigation-bar';
 import { StatusBar } from 'expo-status-bar';
 import { Colors } from '@/constants/Colors';
@@ -23,10 +23,11 @@ SplashScreen.preventAutoHideAsync();
 
 function NavigationBarSync() {
   const { isDark } = useTheme();
+  const pathname = usePathname();
 
   useEffect(() => {
     NavigationBar.setStyle(isDark ? 'dark' : 'light');
-  }, [isDark]);
+  }, [isDark, pathname]);
 
   return null;
 }
