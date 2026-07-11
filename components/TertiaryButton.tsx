@@ -10,10 +10,11 @@ type Props = {
   onPress?: () => void;
   color?: string;
   rippleColor?: string;
+  instant?: boolean;
   children?: (pressed: boolean) => React.ReactNode;
 };
 
-export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.fontColorPrimary, rippleColor = Colors.backgroundColor, children }: Props) {
+export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.fontColorPrimary, rippleColor = Colors.backgroundColor, instant, children }: Props) {
   const containerSize = hitSize ?? (size === 'md' ? 24 : 40);
 
   return (
@@ -28,6 +29,7 @@ export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.f
         justifyContent: 'center',
       }}
       rippleColor={rippleColor}
+      instant={instant}
       onPress={onPress}
     >
       {({ pressed }) =>

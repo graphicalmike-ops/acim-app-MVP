@@ -5,9 +5,17 @@ import { Colors } from '@/constants/Colors';
 
 type Props = PressableProps & {
   rippleColor?: string;
+  // Origin the ripple on the button's own center instead of the touch point.
+  // Needed for small icon buttons with a hitSlop wider than their visual box —
+  // otherwise a tap in the slop area reports a location outside the box, and
+  // the ripple both starts off-center and needs to be huge to reach it.
+  centered?: boolean;
+  // Fill/clear the ripple instantly instead of animating scale-in/opacity-out.
+  // The fill itself still shows on press — only the growth/fade motion is skipped.
+  instant?: boolean;
 };
 
-export function RipplePressable({ rippleColor = Colors.primaryButtonPressed, onPressIn, onPressOut, onLayout, children, ...rest }: Props) {
+export function RipplePressable({ rippleColor = Colors.primaryButtonPressed, centered = false, instant = false, onPressIn, onPressOut, onLayout, children, ...rest }: Props) {
   const scale = useSharedValue(0);
   const opacity = useSharedValue(0);
   const originX = useSharedValue(0);
@@ -35,21 +43,26 @@ export function RipplePressable({ rippleColor = Colors.primaryButtonPressed, onP
 
   const handlePressIn = (e: GestureResponderEvent) => {
     const { width, height } = dimensions.current;
-    const x = e.nativeEvent.locationX;
-    const y = e.nativeEvent.locationY;
+    // Clamp to the box even when the touch landed in a hitSlop margin outside it.
+    const x = centered ? width / 2 : Math.min(Math.max(e.nativeEvent.locationX, 0), width);
+    const y = centered ? height / 2 : Math.min(Math.max(e.nativeEvent.locationY, 0), height);
     // Diameter needed to reach the farthest corner from the touch point
     const size = 2 * Math.sqrt(Math.max(x, width - x) ** 2 + Math.max(y, height - y) ** 2);
     rippleSize.value = size;
     originX.value = x;
     originY.value = y;
-    scale.value = 0;
     opacity.value = 1;
-    scale.value = withTiming(1, { duration: 300, easing: Easing.out(Easing.quad) });
+    if (instant) {
+      scale.value = 1;
+    } else {
+      scale.value = 0;
+      scale.value = withTiming(1, { duration: 300, easing: Easing.out(Easing.quad) });
+    }
     onPressIn?.(e);
   };
 
   const handlePressOut = (e: GestureResponderEvent) => {
-    opacity.value = withTiming(0, { duration: 200 });
+    opacity.value = instant ? 0 : withTiming(0, { duration: 200 });
     onPressOut?.(e);
   };
 

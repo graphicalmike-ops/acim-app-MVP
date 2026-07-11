@@ -650,12 +650,12 @@
     "paragraph": 10,
     "sentences": [
       { "verse": 1, "content": "¿Qué podría ser temible sino las fantasías?" },
+      { "verse": "a", "content": "¿Y quién recurre a fantasías a menos que haya perdido toda esperanza de poder encontrar satisfacción en la realidad?" },
       { "verse": 2, "content": "Es indudable, no obstante, que jamás encontrarás satisfacción en fantasías, de manera que tu única esperanza es cambiar de parecer con respecto a la realidad." },
       { "verse": 3, "content": "Únicamente si tu decisión de que la realidad es temible es errónea, puede Dios estar en lo cierto." },
       { "verse": 4, "content": "Y yo te aseguro que Dios está en lo cierto." },
       { "verse": 5, "content": "Alégrate, pues, de haber estado equivocado, mas ello solo se debió a que no sabías Quién eras." },
-      { "verse": 6, "content": "De haberlo sabido no te habrías podido equivocar, de la misma manera en que Dios no puede equivocarse." },
-      { "verse": "a", "content": "¿Y quién recurre a fantasías a menos que haya perdido toda esperanza de poder encontrar satisfacción en la realidad?" }
+      { "verse": 6, "content": "De haberlo sabido no te habrías podido equivocar, de la misma manera en que Dios no puede equivocarse." }
     ]
   },
   {

@@ -15,14 +15,38 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "Ten piedad de ti mismo, tú que por tanto tiempo has estado esclavizado." },
-      { "verse": 2, "content": "Regocíjate de que los que Dios ha unido se han juntado y ya no tienen necesidad de seguir contemplando el pecado por separado." },
-      { "verse": 3, "content": "No es posible que dos individuos puedan contemplar el pecado juntos, pues nunca podrían verlo en el mismo sitio o al mismo tiempo." },
-      { "verse": 4, "content": "El pecado es una percepción estrictamente personal, que se ve en el otro, pero que cada uno cree que está dentro de sí." },
-      { "verse": 5, "content": "Y cada uno parece cometer un error diferente, que el otro no puede comprender." },
-      { "verse": 6, "content": "Hermano, se trata del mismo error, cometido por lo que es lo mismo, y perdonado por su hacedor de igual manera." },
-      { "verse": 7, "content": "La santidad de tu relación os perdona a ti y a tu hermano, y cancela los efectos de lo que ambos creísteis y visteis." },
-      { "verse": 8, "content": "Y al desaparecer dichos efectos, desaparece también la necesidad del pecado." }
+      {
+        "verse": 1,
+        "content": "Ten piedad de ti mismo, tú que por tanto tiempo has estado esclavizado."
+      },
+      {
+        "verse": 2,
+        "content": "Regocíjate de que los que Dios ha unido se han juntado y ya no tienen necesidad de seguir contemplando el pecado por separado."
+      },
+      {
+        "verse": 3,
+        "content": "No es posible que dos individuos puedan contemplar el pecado juntos, pues nunca podrían verlo en el mismo sitio o al mismo tiempo."
+      },
+      {
+        "verse": 4,
+        "content": "El pecado es una percepción estrictamente personal, que se ve en el otro, pero que cada uno cree que está dentro de sí."
+      },
+      {
+        "verse": 5,
+        "content": "Y cada uno parece cometer un error diferente, que el otro no puede comprender."
+      },
+      {
+        "verse": 6,
+        "content": "Hermano, se trata del mismo error, cometido por lo que es lo mismo, y perdonado por su hacedor de igual manera."
+      },
+      {
+        "verse": 7,
+        "content": "La santidad de tu relación os perdona a ti y a tu hermano, y cancela los efectos de lo que ambos creísteis y visteis."
+      },
+      {
+        "verse": 8,
+        "content": "Y al desaparecer dichos efectos, desaparece también la necesidad del pecado."
+      }
     ]
   },
   {
@@ -30,14 +54,38 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "¿Quién tiene necesidad del pecado?" },
-      { "verse": 2, "content": "Únicamente los que deambulan por su cuenta y en soledad, creyendo que sus hermanos son diferentes de ellos." },
-      { "verse": 3, "content": "Es esta diferencia, que aunque es visible no es real, lo que hace que el pecado, que si bien no es real es visible, parezca estar justificado." },
-      { "verse": 4, "content": "Todo esto sería real si el pecado lo fuese." },
-      { "verse": 5, "content": "Pues una relación no santa se basa en diferencias y en que cada uno piense que el otro tiene lo que a él le falta." },
-      { "verse": 6, "content": "Se juntan, cada uno con el propósito de completarse a sí mismo robando al otro." },
-      { "verse": 7, "content": "Siguen juntos mientras piensen que ya no queda nada más por robar y luego se separan." },
-      { "verse": 8, "content": "Y así, vagan por un mundo de extraños, distintos de ellos, viviendo tal vez con los cuerpos de esos extraños bajo un mismo techo que a ninguno de ellos da cobijo; en la misma habitación y, sin embargo, a todo un mundo de distancia." }
+      {
+        "verse": 1,
+        "content": "¿Quién tiene necesidad del pecado?"
+      },
+      {
+        "verse": 2,
+        "content": "Únicamente los que deambulan por su cuenta y en soledad, creyendo que sus hermanos son diferentes de ellos."
+      },
+      {
+        "verse": 3,
+        "content": "Es esta diferencia, que aunque es visible no es real, lo que hace que el pecado, que si bien no es real es visible, parezca estar justificado."
+      },
+      {
+        "verse": 4,
+        "content": "Todo esto sería real si el pecado lo fuese."
+      },
+      {
+        "verse": 5,
+        "content": "Pues una relación no santa se basa en diferencias y en que cada uno piense que el otro tiene lo que a él le falta."
+      },
+      {
+        "verse": 6,
+        "content": "Se juntan, cada uno con el propósito de completarse a sí mismo robando al otro."
+      },
+      {
+        "verse": 7,
+        "content": "Siguen juntos mientras piensen que ya no queda nada más por robar y luego se separan."
+      },
+      {
+        "verse": 8,
+        "content": "Y así, vagan por un mundo de extraños, distintos de ellos, viviendo tal vez con los cuerpos de esos extraños bajo un mismo techo que a ninguno de ellos da cobijo; en la misma habitación y, sin embargo, a todo un mundo de distancia."
+      }
     ]
   },
   {
@@ -45,15 +93,42 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "La relación santa parte de una premisa diferente." },
-      { "verse": 2, "content": "Cada uno ha mirado dentro de sí y no ha visto ninguna insuficiencia." },
-      { "verse": 3, "content": "Al aceptar su compleción, desea extenderla uniéndose a otro, tan pleno como él." },
-      { "verse": 4, "content": "No ve diferencias entre su Ser y el Ser del otro, pues las diferencias solo se dan a nivel del cuerpo." },
-      { "verse": 5, "content": "Por lo tanto, no ve nada de lo que quisiera apropiarse." },
-      { "verse": 6, "content": "No niega su realidad _porque_ esta es la verdad." },
-      { "verse": 7, "content": "Se encuentra justo debajo del Cielo, pero lo bastante cerca como para no tener que retornar a la tierra." },
-      { "verse": 8, "content": "Pues esta relación goza de la Santidad del Cielo." },
-      { "verse": 9, "content": "¿Cuán lejos del hogar puede estar una relación tan semejante al Cielo?" }
+      {
+        "verse": 1,
+        "content": "La relación santa parte de una premisa diferente."
+      },
+      {
+        "verse": 2,
+        "content": "Cada uno ha mirado dentro de sí y no ha visto ninguna insuficiencia."
+      },
+      {
+        "verse": 3,
+        "content": "Al aceptar su compleción, desea extenderla uniéndose a otro, tan pleno como él."
+      },
+      {
+        "verse": 4,
+        "content": "No ve diferencias entre su Ser y el Ser del otro, pues las diferencias solo se dan a nivel del cuerpo."
+      },
+      {
+        "verse": 5,
+        "content": "Por lo tanto, no ve nada de lo que quisiera apropiarse."
+      },
+      {
+        "verse": 6,
+        "content": "No niega su realidad _porque_ esta es la verdad."
+      },
+      {
+        "verse": 7,
+        "content": "Se encuentra justo debajo del Cielo, pero lo bastante cerca como para no tener que retornar a la tierra."
+      },
+      {
+        "verse": 8,
+        "content": "Pues esta relación goza de la Santidad del Cielo."
+      },
+      {
+        "verse": 9,
+        "content": "¿Cuán lejos del hogar puede estar una relación tan semejante al Cielo?"
+      }
     ]
   },
   {
@@ -61,16 +136,46 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "¡Piensa en lo que una relación santa te podría enseñar!" },
-      { "verse": 2, "content": "En ella desaparece la creencia en diferencias." },
-      { "verse": 3, "content": "En ella la fe en las diferencias se convierte en fe en la igualdad." },
-      { "verse": 4, "content": "Y en ella la percepción de diferencias se transforma en visión." },
-      { "verse": 5, "content": "La razón puede ahora llevaros a ti y a tu hermano a la conclusión lógica de vuestra unión." },
-      { "verse": 6, "content": "Esta se tiene que extender, de la misma forma en que vosotros os extendisteis al uniros." },
-      { "verse": 7, "content": "La unión tiene que extenderse más allá de sí misma, tal como vosotros os extendisteis más allá del cuerpo para hacer posible vuestra unión." },
-      { "verse": 8, "content": "Y ahora la igualdad que visteis se extiende y elimina finalmente cualquier sensación de diferencia, de modo que la igualdad que yace bajo todas las diferencias se hace evidente." },
-      { "verse": 9, "content": "Este es el círculo áureo en el que reconocéis al Hijo de Dios." },
-      { "verse": 10, "content": "Pues lo que nace en una relación santa es imperecedero." }
+      {
+        "verse": 1,
+        "content": "¡Piensa en lo que una relación santa te podría enseñar!"
+      },
+      {
+        "verse": 2,
+        "content": "En ella desaparece la creencia en diferencias."
+      },
+      {
+        "verse": 3,
+        "content": "En ella la fe en las diferencias se convierte en fe en la igualdad."
+      },
+      {
+        "verse": 4,
+        "content": "Y en ella la percepción de diferencias se transforma en visión."
+      },
+      {
+        "verse": 5,
+        "content": "La razón puede ahora llevaros a ti y a tu hermano a la conclusión lógica de vuestra unión."
+      },
+      {
+        "verse": 6,
+        "content": "Esta se tiene que extender, de la misma forma en que vosotros os extendisteis al uniros."
+      },
+      {
+        "verse": 7,
+        "content": "La unión tiene que extenderse más allá de sí misma, tal como vosotros os extendisteis más allá del cuerpo para hacer posible vuestra unión."
+      },
+      {
+        "verse": 8,
+        "content": "Y ahora la igualdad que visteis se extiende y elimina finalmente cualquier sensación de diferencia, de modo que la igualdad que yace bajo todas las diferencias se hace evidente."
+      },
+      {
+        "verse": 9,
+        "content": "Este es el círculo áureo en el que reconocéis al Hijo de Dios."
+      },
+      {
+        "verse": 10,
+        "content": "Pues lo que nace en una relación santa es imperecedero."
+      }
     ]
   },
   {
@@ -83,13 +188,34 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "Deja que la razón dé otro paso." },
-      { "verse": 2, "content": "Si atacas a quien Dios quiere sanar y odias a quien Él ama, entonces tú y tu Creador tenéis voluntades diferentes." },
-      { "verse": 3, "content": "Pero si tú _eres_ Su Voluntad, entonces debes creer que tú _no_ eres Quien eres." },
-      { "verse": 4, "content": "Puedes ciertamente creer esto y, de hecho, lo crees." },
-      { "verse": 5, "content": "Y tienes fe en ello y encuentras muchas pruebas a su favor." },
-      { "verse": 6, "content": "¿Y de dónde procede, te preguntas, tu extraño desasosiego, tu sensación de estar desconectado y tu constante temor de que tú no signifiques nada?" },
-      { "verse": 7, "content": "Es como si hubieses llegado hasta aquí a la deriva, sin ningún plan, excepto el de seguir vagando, pues solo eso parece seguro." }
+      {
+        "verse": 1,
+        "content": "Deja que la razón dé otro paso."
+      },
+      {
+        "verse": 2,
+        "content": "Si atacas a quien Dios quiere sanar y odias a quien Él ama, entonces tú y tu Creador tenéis voluntades diferentes."
+      },
+      {
+        "verse": 3,
+        "content": "Pero si tú _eres_ Su Voluntad, entonces debes creer que tú _no_ eres Quien eres."
+      },
+      {
+        "verse": 4,
+        "content": "Puedes ciertamente creer esto y, de hecho, lo crees."
+      },
+      {
+        "verse": 5,
+        "content": "Y tienes fe en ello y encuentras muchas pruebas a su favor."
+      },
+      {
+        "verse": 6,
+        "content": "¿Y de dónde procede, te preguntas, tu extraño desasosiego, tu sensación de estar desconectado y tu constante temor de que tú no signifiques nada?"
+      },
+      {
+        "verse": 7,
+        "content": "Es como si hubieses llegado hasta aquí a la deriva, sin ningún plan, excepto el de seguir vagando, pues solo eso parece seguro."
+      }
     ]
   },
   {
@@ -97,18 +223,54 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Sin embargo, hemos oído una descripción muy similar anteriormente, pero no se refería a ti." },
-      { "verse": 2, "content": "Aun así, _crees_ ser esa extraña idea que con tanta precisión se describe ahí." },
-      { "verse": 3, "content": "La razón te diría que es imposible que el mundo que ves a través de ojos que no son los tuyos tenga sentido para ti." },
-      { "verse": 4, "content": "¿A quién le devolvería sus mensajes esta forma de ver?" },
-      { "verse": 5, "content": "Ciertamente no a ti, cuya visión es totalmente independiente de los ojos que contemplan al mundo." },
-      { "verse": 6, "content": "Si esa no es tu visión, ¿qué podría mostrarte?" },
-      { "verse": 7, "content": "El cerebro no puede interpretar lo que tu visión ve." },
-      { "verse": 8, "content": "Esto _tú_ lo puedes comprender." },
-      { "verse": 9, "content": "El cerebro interpreta para el cuerpo del que forma parte." },
-      { "verse": 10, "content": "Pero tú no puedes comprender lo que dice." },
-      { "verse": 11, "content": "Sin embargo, lo has escuchado." },
-      { "verse": 12, "content": "Y te has esforzado durante mucho tiempo por entender sus mensajes." }
+      {
+        "verse": 1,
+        "content": "Sin embargo, hemos oído una descripción muy similar anteriormente, pero no se refería a ti."
+      },
+      {
+        "verse": 2,
+        "content": "Aun así, _crees_ ser esa extraña idea que con tanta precisión se describe ahí."
+      },
+      {
+        "verse": 3,
+        "content": "La razón te diría que es imposible que el mundo que ves a través de ojos que no son los tuyos tenga sentido para ti."
+      },
+      {
+        "verse": 4,
+        "content": "¿A quién le devolvería sus mensajes esta forma de ver?"
+      },
+      {
+        "verse": 5,
+        "content": "Ciertamente no a ti, cuya visión es totalmente independiente de los ojos que contemplan al mundo."
+      },
+      {
+        "verse": 6,
+        "content": "Si esa no es tu visión, ¿qué podría mostrarte?"
+      },
+      {
+        "verse": 7,
+        "content": "El cerebro no puede interpretar lo que tu visión ve."
+      },
+      {
+        "verse": 8,
+        "content": "Esto _tú_ lo puedes comprender."
+      },
+      {
+        "verse": 9,
+        "content": "El cerebro interpreta para el cuerpo del que forma parte."
+      },
+      {
+        "verse": 10,
+        "content": "Pero tú no puedes comprender lo que dice."
+      },
+      {
+        "verse": 11,
+        "content": "Sin embargo, lo has escuchado."
+      },
+      {
+        "verse": 12,
+        "content": "Y te has esforzado durante mucho tiempo por entender sus mensajes."
+      }
     ]
   },
   {
@@ -116,17 +278,50 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "No te has dado cuenta de que es imposible que puedas entender lo que nunca puede llegar hasta ti." },
-      { "verse": 2, "content": "Jamás has recibido mensaje alguno que hubieses podido entender." },
-      { "verse": 3, "content": "Pues has estado prestándole oídos a algo que no puede comunicarse en absoluto." },
-      { "verse": 4, "content": "Examina, entonces, lo que ha sucedido." },
-      { "verse": 5, "content": "Al negar lo que eres y al estar firmemente convencido de que eres otra cosa, esa \"otra cosa\" que tú has creído ser se ha convertido en tus ojos." },
-      { "verse": 6, "content": "Sin embargo, debe ser esa \"otra cosa\" la que ve, y al _no_ ser quien tú eres _te_ explica lo que ve." },
-      { "verse": 7, "content": "Por supuesto, tu verdadera visión haría que todo esto fuese innecesario." },
-      { "verse": 8, "content": "Pero si tus ojos están cerrados y le pides a esa \"cosa\" que te dirija y te explique el mundo que ve, no verás razón alguna para no escuchar lo que te dice ni para sospechar que no es verdad." },
-      { "verse": 9, "content": "La razón te diría que es imposible que sea verdad _porque_ tú no lo entiendes." },
-      { "verse": 10, "content": "Dios no tiene secretos." },
-      { "verse": 11, "content": "Él no te conduce por un mundo de sufrimiento, esperando hasta el final de la jornada para decirte por qué razón te hizo pasar por eso." }
+      {
+        "verse": 1,
+        "content": "No te has dado cuenta de que es imposible que puedas entender lo que nunca puede llegar hasta ti."
+      },
+      {
+        "verse": 2,
+        "content": "Jamás has recibido mensaje alguno que hubieses podido entender."
+      },
+      {
+        "verse": 3,
+        "content": "Pues has estado prestándole oídos a algo que no puede comunicarse en absoluto."
+      },
+      {
+        "verse": 4,
+        "content": "Examina, entonces, lo que ha sucedido."
+      },
+      {
+        "verse": 5,
+        "content": "Al negar lo que eres y al estar firmemente convencido de que eres otra cosa, esa \"otra cosa\" que tú has creído ser se ha convertido en tus ojos."
+      },
+      {
+        "verse": 6,
+        "content": "Sin embargo, debe ser esa \"otra cosa\" la que ve, y al _no_ ser quien tú eres _te_ explica lo que ve."
+      },
+      {
+        "verse": 7,
+        "content": "Por supuesto, tu verdadera visión haría que todo esto fuese innecesario."
+      },
+      {
+        "verse": 8,
+        "content": "Pero si tus ojos están cerrados y le pides a esa \"cosa\" que te dirija y te explique el mundo que ve, no verás razón alguna para no escuchar lo que te dice ni para sospechar que no es verdad."
+      },
+      {
+        "verse": 9,
+        "content": "La razón te diría que es imposible que sea verdad _porque_ tú no lo entiendes."
+      },
+      {
+        "verse": 10,
+        "content": "Dios no tiene secretos."
+      },
+      {
+        "verse": 11,
+        "content": "Él no te conduce por un mundo de sufrimiento, esperando hasta el final de la jornada para decirte por qué razón te hizo pasar por eso."
+      }
     ]
   },
   {
@@ -134,16 +329,46 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "¿Qué podría mantenerse oculto de la Voluntad de Dios?" },
-      { "verse": 2, "content": "Sin embargo, tú crees tener secretos." },
-      { "verse": 3, "content": "¿Qué podrían ser esos secretos sino otra \"voluntad\" tuya propia, separada de la Suya?" },
-      { "verse": 4, "content": "La razón te diría que esto no es un secreto que deba ocultarse como si se tratase de un pecado." },
-      { "verse": 5, "content": "Pero ciertamente es un error." },
-      { "verse": 6, "content": "No permitas que tu temor al pecado impida la corrección del error, pues la atracción que ejerce la culpabilidad es solo miedo." },
-      { "verse": 7, "content": "He aquí la única emoción que has inventado, independientemente de lo que aparente ser." },
-      { "verse": 8, "content": "He aquí la emoción de los secretos, de los pensamientos privados y del cuerpo." },
-      { "verse": 9, "content": "He aquí la emoción que se opone al amor y que siempre conduce a la percepción de diferencias y a la pérdida de la igualdad." },
-      { "verse": 10, "content": "He aquí la única emoción que te mantiene en las tinieblas, dependiente de ese otro ser que tú crees haber inventado para que te guíe por el mundo que él fabricó para ti." }
+      {
+        "verse": 1,
+        "content": "¿Qué podría mantenerse oculto de la Voluntad de Dios?"
+      },
+      {
+        "verse": 2,
+        "content": "Sin embargo, tú crees tener secretos."
+      },
+      {
+        "verse": 3,
+        "content": "¿Qué podrían ser esos secretos sino otra \"voluntad\" tuya propia, separada de la Suya?"
+      },
+      {
+        "verse": 4,
+        "content": "La razón te diría que esto no es un secreto que deba ocultarse como si se tratase de un pecado."
+      },
+      {
+        "verse": 5,
+        "content": "Pero ciertamente es un error."
+      },
+      {
+        "verse": 6,
+        "content": "No permitas que tu temor al pecado impida la corrección del error, pues la atracción que ejerce la culpabilidad es solo miedo."
+      },
+      {
+        "verse": 7,
+        "content": "He aquí la única emoción que has inventado, independientemente de lo que aparente ser."
+      },
+      {
+        "verse": 8,
+        "content": "He aquí la emoción de los secretos, de los pensamientos privados y del cuerpo."
+      },
+      {
+        "verse": 9,
+        "content": "He aquí la emoción que se opone al amor y que siempre conduce a la percepción de diferencias y a la pérdida de la igualdad."
+      },
+      {
+        "verse": 10,
+        "content": "He aquí la única emoción que te mantiene en las tinieblas, dependiente de ese otro ser que tú crees haber inventado para que te guíe por el mundo que él fabricó para ti."
+      }
     ]
   },
   {
@@ -151,13 +376,34 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "La visión se te concedió, junto con todo lo que puedes comprender." },
-      { "verse": 2, "content": "No te resultará difícil comprender lo que esta visión te dice, pues todo el mundo ve solo lo que cree ser." },
-      { "verse": 3, "content": "Y tú comprenderás lo que tu visión te muestre _porque_ es la verdad." },
-      { "verse": 4, "content": "Únicamente tu visión puede comunicarte lo que puedes ver." },
-      { "verse": 5, "content": "Te llega directamente, sin necesidad de ninguna interpretación." },
-      { "verse": 6, "content": "Lo que necesita interpretación tiene que ser algo ajeno a ti." },
-      { "verse": 7, "content": "Y un intérprete al que no entiendes nunca podrá hacer que ello te resulte inteligible." }
+      {
+        "verse": 1,
+        "content": "La visión se te concedió, junto con todo lo que puedes comprender."
+      },
+      {
+        "verse": 2,
+        "content": "No te resultará difícil comprender lo que esta visión te dice, pues todo el mundo ve solo lo que cree ser."
+      },
+      {
+        "verse": 3,
+        "content": "Y tú comprenderás lo que tu visión te muestre _porque_ es la verdad."
+      },
+      {
+        "verse": 4,
+        "content": "Únicamente tu visión puede comunicarte lo que puedes ver."
+      },
+      {
+        "verse": 5,
+        "content": "Te llega directamente, sin necesidad de ninguna interpretación."
+      },
+      {
+        "verse": 6,
+        "content": "Lo que necesita interpretación tiene que ser algo ajeno a ti."
+      },
+      {
+        "verse": 7,
+        "content": "Y un intérprete al que no entiendes nunca podrá hacer que ello te resulte inteligible."
+      }
     ]
   },
   {
@@ -165,13 +411,34 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "De todos los mensajes que has recibido y que no has entendido, solo este curso está al alcance de tu entendimiento y puede ser entendido." },
-      { "verse": 2, "content": "Este es _tu_ idioma." },
-      { "verse": 3, "content": "Aún no lo entiendes porque tu comunicación es todavía como la de un bebé." },
-      { "verse": 4, "content": "No se puede dar credibilidad a los balbuceos de un bebé ni a lo que oye, ya que los sonidos tienen un significado diferente para él, según la ocasión." },
-      { "verse": 5, "content": "Y ni los sonidos que oye ni las cosas que ve son aún estables." },
-      { "verse": 6, "content": "Pero lo que oye y todavía no comprende será algún día su lengua materna, a través de la cual se comunicará con los que le rodean y ellos con él." },
-      { "verse": 7, "content": "Y esos seres extraños y cambiantes que se mueven a su alrededor serán quienes lo consuelen, y él reconocerá su hogar y los verá allí junto con él." }
+      {
+        "verse": 1,
+        "content": "De todos los mensajes que has recibido y que no has entendido, solo este curso está al alcance de tu entendimiento y puede ser entendido."
+      },
+      {
+        "verse": 2,
+        "content": "Este es _tu_ idioma."
+      },
+      {
+        "verse": 3,
+        "content": "Aún no lo entiendes porque tu comunicación es todavía como la de un bebé."
+      },
+      {
+        "verse": 4,
+        "content": "No se puede dar credibilidad a los balbuceos de un bebé ni a lo que oye, ya que los sonidos tienen un significado diferente para él, según la ocasión."
+      },
+      {
+        "verse": 5,
+        "content": "Y ni los sonidos que oye ni las cosas que ve son aún estables."
+      },
+      {
+        "verse": 6,
+        "content": "Pero lo que oye y todavía no comprende será algún día su lengua materna, a través de la cual se comunicará con los que le rodean y ellos con él."
+      },
+      {
+        "verse": 7,
+        "content": "Y esos seres extraños y cambiantes que se mueven a su alrededor serán quienes lo consuelen, y él reconocerá su hogar y los verá allí junto con él."
+      }
     ]
   },
   {
@@ -179,12 +446,30 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "Así es como renace en cada relación santa la capacidad de comunicar en vez de la de separar." },
-      { "verse": 2, "content": "Mas una relación santa, que apenas acaba de renacer de una relación no santa, y que, sin embargo, es más antigua que la vieja ilusión que acaba de reemplazar, es como un bebé que ahora renaciera." },
-      { "verse": 3, "content": "Pero con este bebé se te devuelve la visión, ya que te hablará en un idioma que podrás entender." },
-      { "verse": 4, "content": "Este bebé no se nutre de \"aquello otro\" que tú creías ser." },
-      { "verse": 5, "content": "No fue dado ahí ni tampoco fue recibido por nada excepto por ti." },
-      { "verse": 6, "content": "Pues no es posible que dos hermanos se puedan unir, salvo a través de Cristo, Cuya visión los ve como uno." }
+      {
+        "verse": 1,
+        "content": "Así es como renace en cada relación santa la capacidad de comunicar en vez de la de separar."
+      },
+      {
+        "verse": 2,
+        "content": "Mas una relación santa, que apenas acaba de renacer de una relación no santa, y que, sin embargo, es más antigua que la vieja ilusión que acaba de reemplazar, es como un bebé que ahora renaciera."
+      },
+      {
+        "verse": 3,
+        "content": "Pero con este bebé se te devuelve la visión, ya que te hablará en un idioma que podrás entender."
+      },
+      {
+        "verse": 4,
+        "content": "Este bebé no se nutre de \"aquello otro\" que tú creías ser."
+      },
+      {
+        "verse": 5,
+        "content": "No fue dado ahí ni tampoco fue recibido por nada excepto por ti."
+      },
+      {
+        "verse": 6,
+        "content": "Pues no es posible que dos hermanos se puedan unir, salvo a través de Cristo, Cuya visión los ve como uno."
+      }
     ]
   },
   {
@@ -192,13 +477,34 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "Santo hermano mío, piensa en lo que se te ha dado." },
-      { "verse": 2, "content": "Este infante te explicará lo que no entiendes y te lo presentará de una manera muy clara." },
-      { "verse": 3, "content": "Pues su idioma no será una lengua extraña." },
-      { "verse": 4, "content": "Él no necesitará ningún intérprete para comunicarse contigo, pues fuiste tú quien le enseñó lo que sabe _debido a_ que tú lo sabías." },
-      { "verse": 5, "content": "Él no habría podido acudir a nadie excepto a ti, nunca a \"esa otra cosa\"." },
-      { "verse": 6, "content": "Donde Cristo ha entrado nadie está solo, pues Él nunca podría encontrar Su morada entre los que creen estar separados." },
-      { "verse": 7, "content": "Mas Él tiene que renacer en Su hogar de antaño—tan aparentemente nuevo y, sin embargo, tan inmemorial como Él—como un pequeño recién llegado que depende de la santidad de tu relación para sobrevivir." }
+      {
+        "verse": 1,
+        "content": "Santo hermano mío, piensa en lo que se te ha dado."
+      },
+      {
+        "verse": 2,
+        "content": "Este infante te explicará lo que no entiendes y te lo presentará de una manera muy clara."
+      },
+      {
+        "verse": 3,
+        "content": "Pues su idioma no será una lengua extraña."
+      },
+      {
+        "verse": 4,
+        "content": "Él no necesitará ningún intérprete para comunicarse contigo, pues fuiste tú quien le enseñó lo que sabe _debido a_ que tú lo sabías."
+      },
+      {
+        "verse": 5,
+        "content": "Él no habría podido acudir a nadie excepto a ti, nunca a \"esa otra cosa\"."
+      },
+      {
+        "verse": 6,
+        "content": "Donde Cristo ha entrado nadie está solo, pues Él nunca podría encontrar Su morada entre los que creen estar separados."
+      },
+      {
+        "verse": 7,
+        "content": "Mas Él tiene que renacer en Su hogar de antaño—tan aparentemente nuevo y, sin embargo, tan inmemorial como Él—como un pequeño recién llegado que depende de la santidad de tu relación para sobrevivir."
+      }
     ]
   },
   {
@@ -206,15 +512,42 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "Ten por seguro que Dios no puso a Su Hijo en manos de quien no es digno de él." },
-      { "verse": 2, "content": "Solamente lo que es parte de Dios es digno de estar unido." },
-      { "verse": 3, "content": "Y es imposible que nada que no sea parte de Él _pueda_ unirse." },
-      { "verse": 4, "content": "La comunicación tiene que haberse restablecido entre los que se unen, ya que nunca se habrían podido unir a través de sus cuerpos." },
-      { "verse": 5, "content": "¿Qué es lo que los ha unido, entonces?" },
-      { "verse": 6, "content": "La razón te diría que tuvieron que haberse visto el uno al otro a través de una visión que no era del cuerpo y haberse comunicado en un lenguaje que el cuerpo no habla." },
-      { "verse": 7, "content": "No pudo tampoco haber sido una visión o sonido atemorizante lo que tan dulcemente los unió." },
-      { "verse": 8, "content": "Fue más bien que cada uno vio en el otro un perfecto refugio donde su Ser podía renacer a salvo y en paz." },
-      { "verse": 9, "content": "Así se lo dijo la razón y así lo creyó _porque_ era la verdad." }
+      {
+        "verse": 1,
+        "content": "Ten por seguro que Dios no puso a Su Hijo en manos de quien no es digno de él."
+      },
+      {
+        "verse": 2,
+        "content": "Solamente lo que es parte de Dios es digno de estar unido."
+      },
+      {
+        "verse": 3,
+        "content": "Y es imposible que nada que no sea parte de Él _pueda_ unirse."
+      },
+      {
+        "verse": 4,
+        "content": "La comunicación tiene que haberse restablecido entre los que se unen, ya que nunca se habrían podido unir a través de sus cuerpos."
+      },
+      {
+        "verse": 5,
+        "content": "¿Qué es lo que los ha unido, entonces?"
+      },
+      {
+        "verse": 6,
+        "content": "La razón te diría que tuvieron que haberse visto el uno al otro a través de una visión que no era del cuerpo y haberse comunicado en un lenguaje que el cuerpo no habla."
+      },
+      {
+        "verse": 7,
+        "content": "No pudo tampoco haber sido una visión o sonido atemorizante lo que tan dulcemente los unió."
+      },
+      {
+        "verse": 8,
+        "content": "Fue más bien que cada uno vio en el otro un perfecto refugio donde su Ser podía renacer a salvo y en paz."
+      },
+      {
+        "verse": 9,
+        "content": "Así se lo dijo la razón y así lo creyó _porque_ era la verdad."
+      }
     ]
   },
   {
@@ -222,13 +555,34 @@
     "type": "text",
     "paragraph": 10,
     "sentences": [
-      { "verse": 1, "content": "He aquí la primera percepción directa que puedes construir." },
-      { "verse": 2, "content": "Y la construyes a través de una conciencia que es más antigua que la percepción, y que, sin embargo, renace en un instante." },
-      { "verse": 3, "content": "Pues ¿qué es el tiempo para lo que siempre ha sido como es?" },
-      { "verse": 4, "content": "Observa lo que ese instante trajo consigo: el reconocimiento de que \"esa otra cosa\" que tú pensabas ser, era solo una ilusión." },
-      { "verse": 5, "content": "Y la verdad brotó instantáneamente para mostrarte dónde se encuentra tu Ser." },
-      { "verse": 6, "content": "Al negar las ilusiones invitas a la Verdad, pues al negarlas reconoces que el miedo no significa nada." },
-      { "verse": 7, "content": "En el santo hogar donde el miedo es impotente el amor entra dando las gracias, agradecido de ser uno con vosotros que os unisteis para dejarlo entrar." }
+      {
+        "verse": 1,
+        "content": "He aquí la primera percepción directa que puedes construir."
+      },
+      {
+        "verse": 2,
+        "content": "Y la construyes a través de una conciencia que es más antigua que la percepción, y que, sin embargo, renace en un instante."
+      },
+      {
+        "verse": 3,
+        "content": "Pues ¿qué es el tiempo para lo que siempre ha sido como es?"
+      },
+      {
+        "verse": 4,
+        "content": "Observa lo que ese instante trajo consigo: el reconocimiento de que \"esa otra cosa\" que tú pensabas ser, era solo una ilusión."
+      },
+      {
+        "verse": 5,
+        "content": "Y la verdad brotó instantáneamente para mostrarte dónde se encuentra tu Ser."
+      },
+      {
+        "verse": 6,
+        "content": "Al negar las ilusiones invitas a la Verdad, pues al negarlas reconoces que el miedo no significa nada."
+      },
+      {
+        "verse": 7,
+        "content": "En el santo hogar donde el miedo es impotente el amor entra dando las gracias, agradecido de ser uno con vosotros que os unisteis para dejarlo entrar."
+      }
     ]
   },
   {
@@ -236,15 +590,42 @@
     "type": "text",
     "paragraph": 11,
     "sentences": [
-      { "verse": 1, "content": "Cristo acude a lo que es semejante a Él; a lo que es lo mismo, no a lo que es diferente." },
-      { "verse": 2, "content": "Pues siempre se siente atraído hacia Sí Mismo." },
-      { "verse": 3, "content": "¿Qué se asemeja más a Él que una relación santa?" },
-      { "verse": 4, "content": "Y lo que hace que tu hermano y tú os sintáis mutuamente atraídos, es lo que hace que Cristo se sienta atraído hacia ti." },
-      { "verse": 5, "content": "Ahí Su dulzura y Su benévola inocencia están a salvo del ataque." },
-      { "verse": 6, "content": "Y ahí Él puede regresar con confianza, pues la fe que depositas en otro es la fe que depositas en Él." },
-      { "verse": 7, "content": "No cabe duda de que estás en lo cierto al considerar a tu hermano el hogar que Cristo ha elegido, pues al hacer eso ejerces tu voluntad junto con la de Cristo y la de Su Padre." },
-      { "verse": 8, "content": "Esto es lo que la Voluntad de tu Padre dispone para ti, y la tuya junto con la de Él." },
-      { "verse": 9, "content": "Y el que se siente atraído hacia Cristo se siente atraído hacia Dios tan irremediablemente como Cristo y Dios se sienten atraídos hacia toda relación santa: la morada que ha sido preparada para Ellos a medida que la tierra se convierte en el Cielo." }
+      {
+        "verse": 1,
+        "content": "Cristo acude a lo que es semejante a Él; a lo que es lo mismo, no a lo que es diferente."
+      },
+      {
+        "verse": 2,
+        "content": "Pues siempre se siente atraído hacia Sí Mismo."
+      },
+      {
+        "verse": 3,
+        "content": "¿Qué se asemeja más a Él que una relación santa?"
+      },
+      {
+        "verse": 4,
+        "content": "Y lo que hace que tu hermano y tú os sintáis mutuamente atraídos, es lo que hace que Cristo se sienta atraído hacia ti."
+      },
+      {
+        "verse": 5,
+        "content": "Ahí Su dulzura y Su benévola inocencia están a salvo del ataque."
+      },
+      {
+        "verse": 6,
+        "content": "Y ahí Él puede regresar con confianza, pues la fe que depositas en otro es la fe que depositas en Él."
+      },
+      {
+        "verse": 7,
+        "content": "No cabe duda de que estás en lo cierto al considerar a tu hermano el hogar que Cristo ha elegido, pues al hacer eso ejerces tu voluntad junto con la de Cristo y la de Su Padre."
+      },
+      {
+        "verse": 8,
+        "content": "Esto es lo que la Voluntad de tu Padre dispone para ti, y la tuya junto con la de Él."
+      },
+      {
+        "verse": 9,
+        "content": "Y el que se siente atraído hacia Cristo se siente atraído hacia Dios tan irremediablemente como Cristo y Dios se sienten atraídos hacia toda relación santa: la morada que ha sido preparada para Ellos a medida que la tierra se convierte en el Cielo."
+      }
     ]
   },
   {
@@ -257,12 +638,30 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "Lo opuesto a las ilusiones no es la desilusión, sino la verdad." },
-      { "verse": 2, "content": "Solo para el ego, para el que la verdad no tiene significado, parecen ser las ilusiones y la desilusión las únicas alternativas, y diferentes entre sí." },
-      { "verse": 3, "content": "Pero en verdad son lo mismo." },
-      { "verse": 4, "content": "Ambas aportan el mismo cúmulo de sufrimiento, aunque cada una parece ser la única manera de escaparse de la aflicción que la otra ocasiona." },
-      { "verse": 5, "content": "Toda ilusión alberga dolor y sufrimiento entre los tenebrosos pliegues de las pesadas vestiduras tras las que oculta su inexistencia." },
-      { "verse": 6, "content": "Sin embargo, esas sombrías y pesadas vestiduras son las que cubren a aquellos que van en pos de ilusiones y las que los mantienen ocultos del júbilo de la verdad." }
+      {
+        "verse": 1,
+        "content": "Lo opuesto a las ilusiones no es la desilusión, sino la verdad."
+      },
+      {
+        "verse": 2,
+        "content": "Solo para el ego, para el que la verdad no tiene significado, parecen ser las ilusiones y la desilusión las únicas alternativas, y diferentes entre sí."
+      },
+      {
+        "verse": 3,
+        "content": "Pero en verdad son lo mismo."
+      },
+      {
+        "verse": 4,
+        "content": "Ambas aportan el mismo cúmulo de sufrimiento, aunque cada una parece ser la única manera de escaparse de la aflicción que la otra ocasiona."
+      },
+      {
+        "verse": 5,
+        "content": "Toda ilusión alberga dolor y sufrimiento entre los tenebrosos pliegues de las pesadas vestiduras tras las que oculta su inexistencia."
+      },
+      {
+        "verse": 6,
+        "content": "Sin embargo, esas sombrías y pesadas vestiduras son las que cubren a aquellos que van en pos de ilusiones y las que los mantienen ocultos del júbilo de la verdad."
+      }
     ]
   },
   {
@@ -270,13 +669,34 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "La verdad es lo opuesto a las ilusiones porque ofrece dicha." },
-      { "verse": 2, "content": "¿Qué otra cosa sino la dicha podría ser lo opuesto al sufrimiento?" },
-      { "verse": 3, "content": "Abandonar un tipo de sufrimiento e ir en busca de otro no es un escape." },
-      { "verse": 4, "content": "Cambiar una ilusión por otra no es realmente un cambio." },
-      { "verse": 5, "content": "Tratar de encontrar felicidad en el sufrimiento es una insensatez, pues, ¿cómo se iba a poder encontrar felicidad en el sufrimiento?" },
-      { "verse": 6, "content": "Lo único que se puede hacer en el tenebroso mundo del sufrimiento es seleccionar algunos aspectos de él, verlos como si fueran diferentes y luego definir la diferencia como felicidad." },
-      { "verse": 7, "content": "Percibir una diferencia donde no la hay, no obstante, realmente no cambia nada." }
+      {
+        "verse": 1,
+        "content": "La verdad es lo opuesto a las ilusiones porque ofrece dicha."
+      },
+      {
+        "verse": 2,
+        "content": "¿Qué otra cosa sino la dicha podría ser lo opuesto al sufrimiento?"
+      },
+      {
+        "verse": 3,
+        "content": "Abandonar un tipo de sufrimiento e ir en busca de otro no es un escape."
+      },
+      {
+        "verse": 4,
+        "content": "Cambiar una ilusión por otra no es realmente un cambio."
+      },
+      {
+        "verse": 5,
+        "content": "Tratar de encontrar felicidad en el sufrimiento es una insensatez, pues, ¿cómo se iba a poder encontrar felicidad en el sufrimiento?"
+      },
+      {
+        "verse": 6,
+        "content": "Lo único que se puede hacer en el tenebroso mundo del sufrimiento es seleccionar algunos aspectos de él, verlos como si fueran diferentes y luego definir la diferencia como felicidad."
+      },
+      {
+        "verse": 7,
+        "content": "Percibir una diferencia donde no la hay, no obstante, realmente no cambia nada."
+      }
     ]
   },
   {
@@ -284,16 +704,46 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Lo único que hacen las ilusiones es ocasionar culpa, sufrimiento, enfermedad y muerte a sus creyentes." },
-      { "verse": 2, "content": "La forma en que las ilusiones se aceptan es irrelevante." },
-      { "verse": 3, "content": "A los ojos de la razón, ninguna forma de sufrimiento se puede confundir con la dicha." },
-      { "verse": 4, "content": "La dicha es eterna." },
-      { "verse": 5, "content": "Puedes estar completamente seguro de que todo lo que aparenta ser felicidad y no es duradero es realmente miedo." },
-      { "verse": 6, "content": "La dicha no se convierte en pesar, pues lo eterno no puede cambiar, pero el pesar puede volverse dicha, pues el tiempo cede ante lo eterno." },
-      { "verse": 7, "content": "Únicamente lo eterno permanece inmutable," },
-      { "verse": 8, "content": "pero todo lo que se encuentra en el tiempo puede cambiar con el paso de este." },
-      { "verse": 9, "content": "No obstante, para que el cambio sea real y no imaginado, las ilusiones tienen que ceder ante la verdad y no ante otros sueños igualmente irreales." },
-      { "verse": 10, "content": "Eso no sería diferente." }
+      {
+        "verse": 1,
+        "content": "Lo único que hacen las ilusiones es ocasionar culpa, sufrimiento, enfermedad y muerte a sus creyentes."
+      },
+      {
+        "verse": 2,
+        "content": "La forma en que las ilusiones se aceptan es irrelevante."
+      },
+      {
+        "verse": 3,
+        "content": "A los ojos de la razón, ninguna forma de sufrimiento se puede confundir con la dicha."
+      },
+      {
+        "verse": 4,
+        "content": "La dicha es eterna."
+      },
+      {
+        "verse": 5,
+        "content": "Puedes estar completamente seguro de que todo lo que aparenta ser felicidad y no es duradero es realmente miedo."
+      },
+      {
+        "verse": 6,
+        "content": "La dicha no se convierte en pesar, pues lo eterno no puede cambiar, pero el pesar puede volverse dicha, pues el tiempo cede ante lo eterno."
+      },
+      {
+        "verse": 7,
+        "content": "Únicamente lo eterno permanece inmutable,"
+      },
+      {
+        "verse": 8,
+        "content": "pero todo lo que se encuentra en el tiempo puede cambiar con el paso de este."
+      },
+      {
+        "verse": 9,
+        "content": "No obstante, para que el cambio sea real y no imaginado, las ilusiones tienen que ceder ante la verdad y no ante otros sueños igualmente irreales."
+      },
+      {
+        "verse": 10,
+        "content": "Eso no sería diferente."
+      }
     ]
   },
   {
@@ -301,13 +751,34 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "La razón te diría que la única manera de escaparte del sufrimiento es reconociéndolo y _tomando el camino opuesto._" },
-      { "verse": 2, "content": "Toda verdad es lo mismo y todo sufrimiento es lo mismo también, pero ambos son diferentes entre sí desde cualquier punto de vista, en toda circunstancia y sin excepción." },
-      { "verse": 3, "content": "Creer que puede haber una sola excepción es confundir lo que es lo mismo con lo que es diferente." },
-      { "verse": 4, "content": "Una sola ilusión que se atesore y se defienda contra la verdad, priva a esta de todo significado y le otorga realidad a las ilusiones." },
-      { "verse": 5, "content": "Tal es el poder de las creencias," },
-      { "verse": 6, "content": "las cuales son incapaces de transigir." },
-      { "verse": 7, "content": "Y la fe en la inocencia sería fe en el pecado si cualquiera de ellas excluyera un solo ser vivo y le negara la bendición de su perdón." }
+      {
+        "verse": 1,
+        "content": "La razón te diría que la única manera de escaparte del sufrimiento es reconociéndolo y _tomando el camino opuesto._"
+      },
+      {
+        "verse": 2,
+        "content": "Toda verdad es lo mismo y todo sufrimiento es lo mismo también, pero ambos son diferentes entre sí desde cualquier punto de vista, en toda circunstancia y sin excepción."
+      },
+      {
+        "verse": 3,
+        "content": "Creer que puede haber una sola excepción es confundir lo que es lo mismo con lo que es diferente."
+      },
+      {
+        "verse": 4,
+        "content": "Una sola ilusión que se atesore y se defienda contra la verdad, priva a esta de todo significado y le otorga realidad a las ilusiones."
+      },
+      {
+        "verse": 5,
+        "content": "Tal es el poder de las creencias,"
+      },
+      {
+        "verse": 6,
+        "content": "las cuales son incapaces de transigir."
+      },
+      {
+        "verse": 7,
+        "content": "Y la fe en la inocencia sería fe en el pecado si cualquiera de ellas excluyera un solo ser vivo y le negara la bendición de su perdón."
+      }
     ]
   },
   {
@@ -315,13 +786,34 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "Tanto la razón como el ego te dicen eso mismo, pero la interpretación que hacen de ello es completamente diferente." },
-      { "verse": 2, "content": "El ego te asegura ahora que es imposible que puedas ver a nadie libre de culpa." },
-      { "verse": 3, "content": "Y si esta manera de ver es la única que puede liberarte de la culpa, entonces la creencia en el pecado no puede sino ser eterna." },
-      { "verse": 4, "content": "Pero la razón ve eso de otro modo, pues la razón ve que la fuente de una idea es lo que hace que esta sea cierta o falsa." },
-      { "verse": 5, "content": "Esto tiene que ser así, si la idea es semejante a su fuente." },
-      { "verse": 6, "content": "Por lo tanto—dice la razón—si el propósito que se le asignó al Espíritu Santo fue ayudarte a escapar de la culpa, y ese propósito le fue dado por Aquel para Quien nada que Su Voluntad disponga es imposible, los medios para lograrlo tienen que ser más que posibles." },
-      { "verse": 7, "content": "Tienen que existir y tú tienes que estar en posesión de ellos." }
+      {
+        "verse": 1,
+        "content": "Tanto la razón como el ego te dicen eso mismo, pero la interpretación que hacen de ello es completamente diferente."
+      },
+      {
+        "verse": 2,
+        "content": "El ego te asegura ahora que es imposible que puedas ver a nadie libre de culpa."
+      },
+      {
+        "verse": 3,
+        "content": "Y si esta manera de ver es la única que puede liberarte de la culpa, entonces la creencia en el pecado no puede sino ser eterna."
+      },
+      {
+        "verse": 4,
+        "content": "Pero la razón ve eso de otro modo, pues la razón ve que la fuente de una idea es lo que hace que esta sea cierta o falsa."
+      },
+      {
+        "verse": 5,
+        "content": "Esto tiene que ser así, si la idea es semejante a su fuente."
+      },
+      {
+        "verse": 6,
+        "content": "Por lo tanto—dice la razón—si el propósito que se le asignó al Espíritu Santo fue ayudarte a escapar de la culpa, y ese propósito le fue dado por Aquel para Quien nada que Su Voluntad disponga es imposible, los medios para lograrlo tienen que ser más que posibles."
+      },
+      {
+        "verse": 7,
+        "content": "Tienen que existir y tú tienes que estar en posesión de ellos."
+      }
     ]
   },
   {
@@ -329,16 +821,46 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Esta es una etapa crucial en este curso, pues en este punto tiene que tener lugar una completa separación entre tú y el ego." },
-      { "verse": 2, "content": "Pues si ya dispones de los medios para dejar que el propósito del Espíritu Santo se alcance, dichos medios pueden utilizarse." },
-      { "verse": 3, "content": "A medida que los utilices, tu fe en ellos será cada vez mayor." },
-      { "verse": 4, "content": "Para el ego, sin embargo, eso es imposible, y nadie emprende lo que no ofrece ninguna esperanza de poderse lograr." },
-      { "verse": 5, "content": "_Tú_ sabes que lo que la Voluntad de tu Creador dispone es posible, pero aquello que inventaste no lo cree." },
-      { "verse": 6, "content": "Ahora tienes que elegir entre ti y lo que es solo una ilusión de ti." },
-      { "verse": 7, "content": "No ambas cosas, sino una sola." },
-      { "verse": 8, "content": "No tiene objeto intentar eludir esta decisión." },
-      { "verse": 9, "content": "Hay que tomarla." },
-      { "verse": 10, "content": "La fe y la creencia pueden inclinarse hacia cualquiera de esas dos opciones, pero la razón te dice que el sufrimiento se encuentra únicamente en una de ellas y la dicha en la otra." }
+      {
+        "verse": 1,
+        "content": "Esta es una etapa crucial en este curso, pues en este punto tiene que tener lugar una completa separación entre tú y el ego."
+      },
+      {
+        "verse": 2,
+        "content": "Pues si ya dispones de los medios para dejar que el propósito del Espíritu Santo se alcance, dichos medios pueden utilizarse."
+      },
+      {
+        "verse": 3,
+        "content": "A medida que los utilices, tu fe en ellos será cada vez mayor."
+      },
+      {
+        "verse": 4,
+        "content": "Para el ego, sin embargo, eso es imposible, y nadie emprende lo que no ofrece ninguna esperanza de poderse lograr."
+      },
+      {
+        "verse": 5,
+        "content": "_Tú_ sabes que lo que la Voluntad de tu Creador dispone es posible, pero aquello que inventaste no lo cree."
+      },
+      {
+        "verse": 6,
+        "content": "Ahora tienes que elegir entre ti y lo que es solo una ilusión de ti."
+      },
+      {
+        "verse": 7,
+        "content": "No ambas cosas, sino una sola."
+      },
+      {
+        "verse": 8,
+        "content": "No tiene objeto intentar eludir esta decisión."
+      },
+      {
+        "verse": 9,
+        "content": "Hay que tomarla."
+      },
+      {
+        "verse": 10,
+        "content": "La fe y la creencia pueden inclinarse hacia cualquiera de esas dos opciones, pero la razón te dice que el sufrimiento se encuentra únicamente en una de ellas y la dicha en la otra."
+      }
     ]
   },
   {
@@ -346,14 +868,38 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "No abandones a tu hermano ahora," },
-      { "verse": 2, "content": "pues vosotros que sois lo mismo no decidiréis por separado ni de manera diferente." },
-      { "verse": 3, "content": "Os dais el uno al otro o bien vida o bien muerte; sois cada uno el salvador del otro o su juez, y os ofrecéis refugio o condenación." },
-      { "verse": 4, "content": "Este curso, o bien se creerá enteramente o bien no se creerá en absoluto." },
-      { "verse": 5, "content": "Pues es completamente cierto o completamente falso, y no se puede creer en él solo parcialmente." },
-      { "verse": 6, "content": "Y tú te escaparás enteramente del sufrimiento o no te escaparás en absoluto." },
-      { "verse": 7, "content": "La razón te dirá que no hay un lugar intermedio donde te puedas detener indeciso, esperando a elegir entre la felicidad del Cielo o el sufrimiento del infierno." },
-      { "verse": 8, "content": "Hasta que no elijas el Cielo, _estarás_ en el infierno y abatido por el sufrimiento." }
+      {
+        "verse": 1,
+        "content": "No abandones a tu hermano ahora,"
+      },
+      {
+        "verse": 2,
+        "content": "pues vosotros que sois lo mismo no decidiréis por separado ni de manera diferente."
+      },
+      {
+        "verse": 3,
+        "content": "Os dais el uno al otro o bien vida o bien muerte; sois cada uno el salvador del otro o su juez, y os ofrecéis refugio o condenación."
+      },
+      {
+        "verse": 4,
+        "content": "Este curso, o bien se creerá enteramente o bien no se creerá en absoluto."
+      },
+      {
+        "verse": 5,
+        "content": "Pues es completamente cierto o completamente falso, y no se puede creer en él solo parcialmente."
+      },
+      {
+        "verse": 6,
+        "content": "Y tú te escaparás enteramente del sufrimiento o no te escaparás en absoluto."
+      },
+      {
+        "verse": 7,
+        "content": "La razón te dirá que no hay un lugar intermedio donde te puedas detener indeciso, esperando a elegir entre la felicidad del Cielo o el sufrimiento del infierno."
+      },
+      {
+        "verse": 8,
+        "content": "Hasta que no elijas el Cielo, _estarás_ en el infierno y abatido por el sufrimiento."
+      }
     ]
   },
   {
@@ -361,14 +907,38 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "No hay ninguna parte del Cielo de la que puedas apropiarte y tejer ilusiones de ella." },
-      { "verse": 2, "content": "Ni hay una sola ilusión con la que puedas entrar en el Cielo." },
-      { "verse": 3, "content": "Un salvador no puede ser un juez ni la misericordia puede ser condenación." },
-      { "verse": 4, "content": "Y la visión no puede condenar, sino únicamente bendecir." },
-      { "verse": 5, "content": "Aquel Cuya función es salvar, salvará." },
-      { "verse": 6, "content": "_Cómo_ lo ha de lograr está más allá de tu entendimiento, pero _cuándo_ lo va a hacer está en tus manos." },
-      { "verse": 7, "content": "Pues el tiempo es una invención tuya y, por lo tanto, lo puedes gobernar." },
-      { "verse": 8, "content": "No eres esclavo de él ni del mundo que fabricaste." }
+      {
+        "verse": 1,
+        "content": "No hay ninguna parte del Cielo de la que puedas apropiarte y tejer ilusiones de ella."
+      },
+      {
+        "verse": 2,
+        "content": "Ni hay una sola ilusión con la que puedas entrar en el Cielo."
+      },
+      {
+        "verse": 3,
+        "content": "Un salvador no puede ser un juez ni la misericordia puede ser condenación."
+      },
+      {
+        "verse": 4,
+        "content": "Y la visión no puede condenar, sino únicamente bendecir."
+      },
+      {
+        "verse": 5,
+        "content": "Aquel Cuya función es salvar, salvará."
+      },
+      {
+        "verse": 6,
+        "content": "_Cómo_ lo ha de lograr está más allá de tu entendimiento, pero _cuándo_ lo va a hacer está en tus manos."
+      },
+      {
+        "verse": 7,
+        "content": "Pues el tiempo es una invención tuya y, por lo tanto, lo puedes gobernar."
+      },
+      {
+        "verse": 8,
+        "content": "No eres esclavo de él ni del mundo que fabricaste."
+      }
     ]
   },
   {
@@ -376,12 +946,30 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "Examinemos más de cerca la ilusión de que lo que fabricaste tiene el poder de esclavizar a su hacedor." },
-      { "verse": 2, "content": "Esa es la misma creencia que dio lugar a la separación." },
-      { "verse": 3, "content": "Es la idea insensata de que los pensamientos pueden abandonar la mente del pensador, ser diferentes de ella y oponerse a ella." },
-      { "verse": 4, "content": "Si eso fuera cierto, los pensamientos no serían extensiones de la mente, sino sus enemigos." },
-      { "verse": 5, "content": "Aquí vemos nuevamente otra forma de la misma ilusión fundamental que ya hemos examinado muchas veces con anterioridad." },
-      { "verse": 6, "content": "Solo si fuese posible que el Hijo de Dios pudiera abandonar la Mente de su Padre, hacerse diferente y oponerse a Su Voluntad, sería posible que el falso ser que inventó, y todo lo que este fabricó, fuesen su amo." }
+      {
+        "verse": 1,
+        "content": "Examinemos más de cerca la ilusión de que lo que fabricaste tiene el poder de esclavizar a su hacedor."
+      },
+      {
+        "verse": 2,
+        "content": "Esa es la misma creencia que dio lugar a la separación."
+      },
+      {
+        "verse": 3,
+        "content": "Es la idea insensata de que los pensamientos pueden abandonar la mente del pensador, ser diferentes de ella y oponerse a ella."
+      },
+      {
+        "verse": 4,
+        "content": "Si eso fuera cierto, los pensamientos no serían extensiones de la mente, sino sus enemigos."
+      },
+      {
+        "verse": 5,
+        "content": "Aquí vemos nuevamente otra forma de la misma ilusión fundamental que ya hemos examinado muchas veces con anterioridad."
+      },
+      {
+        "verse": 6,
+        "content": "Solo si fuese posible que el Hijo de Dios pudiera abandonar la Mente de su Padre, hacerse diferente y oponerse a Su Voluntad, sería posible que el falso ser que inventó, y todo lo que este fabricó, fuesen su amo."
+      }
     ]
   },
   {
@@ -389,13 +977,34 @@
     "type": "text",
     "paragraph": 10,
     "sentences": [
-      { "verse": 1, "content": "Contempla la gran proyección, pero no la mires con miedo, sino con la determinación de que tiene que ser sanada." },
-      { "verse": 2, "content": "Nada que hayas fabricado tiene poder alguno sobre ti, a menos que todavía quieras estar separado de tu Creador y tener una voluntad que se oponga a la Suya." },
-      { "verse": 3, "content": "Pues solo si crees que Su Hijo puede ser Su enemigo parece entonces posible que lo que has inventado sea asimismo enemigo tuyo." },
-      { "verse": 4, "content": "Prefieres condenar al sufrimiento Su alegría y hacer que Él sea diferente." },
-      { "verse": 5, "content": "Sin embargo, al único sufrimiento al que has dado lugar ha sido al tuyo propio." },
-      { "verse": 6, "content": "¿No te alegra saber que nada de eso es cierto?" },
-      { "verse": 7, "content": "¿No son buenas nuevas oír que ni una sola de las ilusiones que forjaste ha sustituido a la Verdad?" }
+      {
+        "verse": 1,
+        "content": "Contempla la gran proyección, pero no la mires con miedo, sino con la determinación de que tiene que ser sanada."
+      },
+      {
+        "verse": 2,
+        "content": "Nada que hayas fabricado tiene poder alguno sobre ti, a menos que todavía quieras estar separado de tu Creador y tener una voluntad que se oponga a la Suya."
+      },
+      {
+        "verse": 3,
+        "content": "Pues solo si crees que Su Hijo puede ser Su enemigo parece entonces posible que lo que has inventado sea asimismo enemigo tuyo."
+      },
+      {
+        "verse": 4,
+        "content": "Prefieres condenar al sufrimiento Su alegría y hacer que Él sea diferente."
+      },
+      {
+        "verse": 5,
+        "content": "Sin embargo, al único sufrimiento al que has dado lugar ha sido al tuyo propio."
+      },
+      {
+        "verse": 6,
+        "content": "¿No te alegra saber que nada de eso es cierto?"
+      },
+      {
+        "verse": 7,
+        "content": "¿No son buenas nuevas oír que ni una sola de las ilusiones que forjaste ha sustituido a la Verdad?"
+      }
     ]
   },
   {
@@ -403,15 +1012,42 @@
     "type": "text",
     "paragraph": 11,
     "sentences": [
-      { "verse": 1, "content": "Son solo _tus_ pensamientos los que han sido imposibles." },
-      { "verse": 2, "content": "No puede ser que la salvación sea imposible." },
-      { "verse": 3, "content": "Pero _sí es_ imposible ver a tu salvador como un enemigo y al mismo tiempo reconocerlo." },
-      { "verse": 4, "content": "No obstante, puedes reconocerlo como lo que es porque esa es la Voluntad de Dios." },
-      { "verse": 5, "content": "Lo que Dios le confirió a tu relación santa aún se encuentra en ella." },
-      { "verse": 6, "content": "Pues lo que Él le dio al Espíritu Santo para que te lo diera, _el Espíritu Santo te lo dio._" },
-      { "verse": 7, "content": "¿No querrías contemplar al salvador que se te ha dado?" },
-      { "verse": 8, "content": "¿Y no intercambiarías con gratitud la función de verdugo que le adjudicaste por la que en verdad tiene?" },
-      { "verse": 9, "content": "Recibe de él lo que Dios le dio para ti, no lo que trataste de darte a ti mismo." }
+      {
+        "verse": 1,
+        "content": "Son solo _tus_ pensamientos los que han sido imposibles."
+      },
+      {
+        "verse": 2,
+        "content": "No puede ser que la salvación sea imposible."
+      },
+      {
+        "verse": 3,
+        "content": "Pero _sí es_ imposible ver a tu salvador como un enemigo y al mismo tiempo reconocerlo."
+      },
+      {
+        "verse": 4,
+        "content": "No obstante, puedes reconocerlo como lo que es porque esa es la Voluntad de Dios."
+      },
+      {
+        "verse": 5,
+        "content": "Lo que Dios le confirió a tu relación santa aún se encuentra en ella."
+      },
+      {
+        "verse": 6,
+        "content": "Pues lo que Él le dio al Espíritu Santo para que te lo diera, _el Espíritu Santo te lo dio._"
+      },
+      {
+        "verse": 7,
+        "content": "¿No querrías contemplar al salvador que se te ha dado?"
+      },
+      {
+        "verse": 8,
+        "content": "¿Y no intercambiarías con gratitud la función de verdugo que le adjudicaste por la que en verdad tiene?"
+      },
+      {
+        "verse": 9,
+        "content": "Recibe de él lo que Dios le dio para ti, no lo que trataste de darte a ti mismo."
+      }
     ]
   },
   {
@@ -419,17 +1055,50 @@
     "type": "text",
     "paragraph": 12,
     "sentences": [
-      { "verse": 1, "content": "Más allá del cuerpo que has interpuesto entre tu hermano y tú, y reluciendo en la áurea luz que le llega desde el círculo radiante e infinito que se extiende eternamente, se encuentra tu relación santa, que Dios Mismo ama." },
-      { "verse": 2, "content": "¡Cuán serena descansa en el tiempo y, sin embargo, más allá de él!" },
-      { "verse": 3, "content": "¡Y cuán grande el poder que en ella reside!" },
-      { "verse": 4, "content": "El tiempo acata su voluntad, y la tierra será lo que ella disponga que sea." },
-      { "verse": 5, "content": "En ella no existe una voluntad separada ni el deseo de que algo se encuentre separado." },
-      { "verse": 6, "content": "Su voluntad no hace excepciones y lo que dispone es verdad." },
-      { "verse": 7, "content": "Toda ilusión que se lleva ante su perdón se pasa por alto dulcemente y desaparece." },
-      { "verse": 8, "content": "Pues Cristo ha renacido en su centro para iluminar Su morada con una visión que pasa por alto al mundo." },
-      { "verse": 9, "content": "¿No querrías que esa santa morada fuera también la tuya?" },
-      { "verse": 10, "content": "En ella no hay sufrimiento, sino únicamente dicha." },
-      { "verse": "a", "content": "¡Cuán inmortal y, sin embargo, en la tierra!" }
+      {
+        "verse": 1,
+        "content": "Más allá del cuerpo que has interpuesto entre tu hermano y tú, y reluciendo en la áurea luz que le llega desde el círculo radiante e infinito que se extiende eternamente, se encuentra tu relación santa, que Dios Mismo ama."
+      },
+      {
+        "verse": 2,
+        "content": "¡Cuán serena descansa en el tiempo y, sin embargo, más allá de él!"
+      },
+      {
+        "verse": "a",
+        "content": "¡Cuán inmortal y, sin embargo, en la tierra!"
+      },
+      {
+        "verse": 3,
+        "content": "¡Y cuán grande el poder que en ella reside!"
+      },
+      {
+        "verse": 4,
+        "content": "El tiempo acata su voluntad, y la tierra será lo que ella disponga que sea."
+      },
+      {
+        "verse": 5,
+        "content": "En ella no existe una voluntad separada ni el deseo de que algo se encuentre separado."
+      },
+      {
+        "verse": 6,
+        "content": "Su voluntad no hace excepciones y lo que dispone es verdad."
+      },
+      {
+        "verse": 7,
+        "content": "Toda ilusión que se lleva ante su perdón se pasa por alto dulcemente y desaparece."
+      },
+      {
+        "verse": 8,
+        "content": "Pues Cristo ha renacido en su centro para iluminar Su morada con una visión que pasa por alto al mundo."
+      },
+      {
+        "verse": 9,
+        "content": "¿No querrías que esa santa morada fuera también la tuya?"
+      },
+      {
+        "verse": 10,
+        "content": "En ella no hay sufrimiento, sino únicamente dicha."
+      }
     ]
   },
   {
@@ -437,13 +1106,34 @@
     "type": "text",
     "paragraph": 13,
     "sentences": [
-      { "verse": 1, "content": "Lo único que necesitas hacer para morar ahí apaciblemente junto a Cristo, es compartir Su visión." },
-      { "verse": 2, "content": "Su visión se le concede inmediatamente y de todo corazón a todo aquel que esté dispuesto a ver a su hermano libre de pecado." },
-      { "verse": 3, "content": "Y tienes que estar dispuesto a no excluir a nadie, si quieres liberarte completamente de todos los efectos del pecado." },
-      { "verse": 4, "content": "¿Te concederías a ti mismo un perdón parcial?" },
-      { "verse": 5, "content": "¿Puedes alcanzar el Cielo mientras un solo pecado aún te tiente a seguir sufriendo?" },
-      { "verse": 6, "content": "El Cielo es el hogar de la pureza perfecta, y Dios lo creó para ti." },
-      { "verse": 7, "content": "Contempla a tu santo hermano, tan libre de pecado como tú, y permítele que te conduzca hasta allí." }
+      {
+        "verse": 1,
+        "content": "Lo único que necesitas hacer para morar ahí apaciblemente junto a Cristo, es compartir Su visión."
+      },
+      {
+        "verse": 2,
+        "content": "Su visión se le concede inmediatamente y de todo corazón a todo aquel que esté dispuesto a ver a su hermano libre de pecado."
+      },
+      {
+        "verse": 3,
+        "content": "Y tienes que estar dispuesto a no excluir a nadie, si quieres liberarte completamente de todos los efectos del pecado."
+      },
+      {
+        "verse": 4,
+        "content": "¿Te concederías a ti mismo un perdón parcial?"
+      },
+      {
+        "verse": 5,
+        "content": "¿Puedes alcanzar el Cielo mientras un solo pecado aún te tiente a seguir sufriendo?"
+      },
+      {
+        "verse": 6,
+        "content": "El Cielo es el hogar de la pureza perfecta, y Dios lo creó para ti."
+      },
+      {
+        "verse": 7,
+        "content": "Contempla a tu santo hermano, tan libre de pecado como tú, y permítele que te conduzca hasta allí."
+      }
     ]
   },
   {
@@ -456,16 +1146,46 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "La introducción de la razón en el sistema de pensamiento del ego es el comienzo de su des-hacimiento, pues la razón y el ego se contradicen entre sí." },
-      { "verse": 2, "content": "Y no es posible que coexistan en tu conciencia," },
-      { "verse": 3, "content": "ya que el objetivo de la razón es hacer que todo esté claro y, por ende, que sea obvio." },
-      { "verse": 4, "content": "La razón es algo que tú puedes _ver._" },
-      { "verse": 5, "content": "Esto no es simplemente un juego de palabras, pues ahí da comienzo una visión que tiene sentido." },
-      { "verse": 6, "content": "La visión _es_ literalmente sentido." },
-      { "verse": 7, "content": "Dado que no es lo que el cuerpo ve, la visión no puede _sino ser_ comprendida," },
-      { "verse": 8, "content": "pues es inequívoca, y lo que es obvio no es ambiguo." },
-      { "verse": 9, "content": "Por lo tanto, puede ser comprendida." },
-      { "verse": 10, "content": "Ahí la razón y el ego se separan, y cada uno sigue su camino." }
+      {
+        "verse": 1,
+        "content": "La introducción de la razón en el sistema de pensamiento del ego es el comienzo de su des-hacimiento, pues la razón y el ego se contradicen entre sí."
+      },
+      {
+        "verse": 2,
+        "content": "Y no es posible que coexistan en tu conciencia,"
+      },
+      {
+        "verse": 3,
+        "content": "ya que el objetivo de la razón es hacer que todo esté claro y, por ende, que sea obvio."
+      },
+      {
+        "verse": 4,
+        "content": "La razón es algo que tú puedes _ver._"
+      },
+      {
+        "verse": 5,
+        "content": "Esto no es simplemente un juego de palabras, pues ahí da comienzo una visión que tiene sentido."
+      },
+      {
+        "verse": 6,
+        "content": "La visión _es_ literalmente sentido."
+      },
+      {
+        "verse": 7,
+        "content": "Dado que no es lo que el cuerpo ve, la visión no puede _sino ser_ comprendida,"
+      },
+      {
+        "verse": 8,
+        "content": "pues es inequívoca, y lo que es obvio no es ambiguo."
+      },
+      {
+        "verse": 9,
+        "content": "Por lo tanto, puede ser comprendida."
+      },
+      {
+        "verse": 10,
+        "content": "Ahí la razón y el ego se separan, y cada uno sigue su camino."
+      }
     ]
   },
   {
@@ -473,14 +1193,38 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Lo que le permite al ego seguir existiendo es su creencia de que tú no puedes aprender este curso." },
-      { "verse": 2, "content": "Si compartes con él esa creencia, la razón será incapaz de ver tus errores y despejar el camino hacia su corrección." },
-      { "verse": 3, "content": "Pues la razón ve más allá de los errores y te dice que lo que pensabas que era real no lo es." },
-      { "verse": 4, "content": "La razón puede reconocer la diferencia entre el pecado y el error porque desea la corrección." },
-      { "verse": 5, "content": "Te dice, por lo tanto, que lo que pensabas que era incorregible puede ser corregido y que, por consiguiente, tuvo que haber sido un error." },
-      { "verse": 6, "content": "La oposición del ego a la corrección conduce a su creencia fija en el pecado y a desentenderse de los errores." },
-      { "verse": 7, "content": "No ve nada que pueda ser corregido." },
-      { "verse": 8, "content": "El ego, por lo tanto, condena y la razón salva." }
+      {
+        "verse": 1,
+        "content": "Lo que le permite al ego seguir existiendo es su creencia de que tú no puedes aprender este curso."
+      },
+      {
+        "verse": 2,
+        "content": "Si compartes con él esa creencia, la razón será incapaz de ver tus errores y despejar el camino hacia su corrección."
+      },
+      {
+        "verse": 3,
+        "content": "Pues la razón ve más allá de los errores y te dice que lo que pensabas que era real no lo es."
+      },
+      {
+        "verse": 4,
+        "content": "La razón puede reconocer la diferencia entre el pecado y el error porque desea la corrección."
+      },
+      {
+        "verse": 5,
+        "content": "Te dice, por lo tanto, que lo que pensabas que era incorregible puede ser corregido y que, por consiguiente, tuvo que haber sido un error."
+      },
+      {
+        "verse": 6,
+        "content": "La oposición del ego a la corrección conduce a su creencia fija en el pecado y a desentenderse de los errores."
+      },
+      {
+        "verse": 7,
+        "content": "No ve nada que pueda ser corregido."
+      },
+      {
+        "verse": 8,
+        "content": "El ego, por lo tanto, condena y la razón salva."
+      }
     ]
   },
   {
@@ -488,12 +1232,30 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "La razón de por sí no es la salvación, pero despeja el camino para la paz y te conduce a un estado mental en el que se te puede conceder." },
-      { "verse": 2, "content": "El pecado es un obstáculo que se alza como un formidable portón—cerrado con candado y sin llave—en medio del camino hacia la paz." },
-      { "verse": 3, "content": "Nadie que lo contemplase sin la ayuda de la razón osaría traspasarlo." },
-      { "verse": 4, "content": "Los ojos del cuerpo lo ven como si fuera de granito sólido y de un espesor tal que sería una locura intentar atravesarlo." },
-      { "verse": 5, "content": "La razón, en cambio, ve fácilmente a través de él, puesto que es un error." },
-      { "verse": 6, "content": "La forma que adopta no puede ocultar su vacuidad de los ojos de la razón." }
+      {
+        "verse": 1,
+        "content": "La razón de por sí no es la salvación, pero despeja el camino para la paz y te conduce a un estado mental en el que se te puede conceder."
+      },
+      {
+        "verse": 2,
+        "content": "El pecado es un obstáculo que se alza como un formidable portón—cerrado con candado y sin llave—en medio del camino hacia la paz."
+      },
+      {
+        "verse": 3,
+        "content": "Nadie que lo contemplase sin la ayuda de la razón osaría traspasarlo."
+      },
+      {
+        "verse": 4,
+        "content": "Los ojos del cuerpo lo ven como si fuera de granito sólido y de un espesor tal que sería una locura intentar atravesarlo."
+      },
+      {
+        "verse": 5,
+        "content": "La razón, en cambio, ve fácilmente a través de él, puesto que es un error."
+      },
+      {
+        "verse": 6,
+        "content": "La forma que adopta no puede ocultar su vacuidad de los ojos de la razón."
+      }
     ]
   },
   {
@@ -501,13 +1263,34 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "La forma del error es lo único que atrae al ego." },
-      { "verse": 2, "content": "No trata de ver si esa forma de error tiene significado o no, pues es incapaz de reconocer significados." },
-      { "verse": 3, "content": "Todo lo que los ojos del cuerpo pueden ver es una equivocación, un error de percepción, un fragmento distorsionado del todo sin el significado que este le aportaría." },
-      { "verse": 4, "content": "Sin embargo, cualquier error, sea cual sea su forma, puede ser corregido." },
-      { "verse": 5, "content": "El pecado no es sino un error expresado en una forma que el ego venera." },
-      { "verse": 6, "content": "El ego quiere conservar todos los errores y convertirlos en pecados." },
-      { "verse": 7, "content": "Pues en eso se basa su propia estabilidad, la pesada ancla que ha echado sobre el mundo cambiante que él fabricó; la roca sobre la que se edificó su iglesia y donde sus seguidores están condenados a sus cuerpos, al creer que la libertad del cuerpo es la suya propia." }
+      {
+        "verse": 1,
+        "content": "La forma del error es lo único que atrae al ego."
+      },
+      {
+        "verse": 2,
+        "content": "No trata de ver si esa forma de error tiene significado o no, pues es incapaz de reconocer significados."
+      },
+      {
+        "verse": 3,
+        "content": "Todo lo que los ojos del cuerpo pueden ver es una equivocación, un error de percepción, un fragmento distorsionado del todo sin el significado que este le aportaría."
+      },
+      {
+        "verse": 4,
+        "content": "Sin embargo, cualquier error, sea cual sea su forma, puede ser corregido."
+      },
+      {
+        "verse": 5,
+        "content": "El pecado no es sino un error expresado en una forma que el ego venera."
+      },
+      {
+        "verse": 6,
+        "content": "El ego quiere conservar todos los errores y convertirlos en pecados."
+      },
+      {
+        "verse": 7,
+        "content": "Pues en eso se basa su propia estabilidad, la pesada ancla que ha echado sobre el mundo cambiante que él fabricó; la roca sobre la que se edificó su iglesia y donde sus seguidores están condenados a sus cuerpos, al creer que la libertad del cuerpo es la suya propia."
+      }
     ]
   },
   {
@@ -515,15 +1298,42 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "La razón te diría que no es la forma que adopta el error lo que hace que sea una equivocación." },
-      { "verse": 2, "content": "Si lo que la forma oculta es un error, la forma no puede impedir su corrección." },
-      { "verse": 3, "content": "Los ojos del cuerpo ven únicamente formas." },
-      { "verse": 4, "content": "No pueden ver más allá de aquello para cuya contemplación fueron fabricados." },
-      { "verse": 5, "content": "Y fueron fabricados para fijarse en los errores y no ver más allá de ellos." },
-      { "verse": 6, "content": "Su percepción es ciertamente extraña, pues solo pueden ver ilusiones, al no poder ver más allá del bloque de granito del pecado y al detenerse ante la forma externa de lo que no es nada." },
-      { "verse": 7, "content": "Para esta forma distorsionada de visión, el exterior de todas las cosas, el muro que se interpone entre la verdad y tú, es absolutamente real." },
-      { "verse": 8, "content": "Mas ¿cómo va a poder ver correctamente una visión que se detiene ante lo que no es nada como si de un sólido muro se tratase?" },
-      { "verse": 9, "content": "Está restringida por la forma, habiendo sido concebida para garantizar que no perciba nada, excepto la forma." }
+      {
+        "verse": 1,
+        "content": "La razón te diría que no es la forma que adopta el error lo que hace que sea una equivocación."
+      },
+      {
+        "verse": 2,
+        "content": "Si lo que la forma oculta es un error, la forma no puede impedir su corrección."
+      },
+      {
+        "verse": 3,
+        "content": "Los ojos del cuerpo ven únicamente formas."
+      },
+      {
+        "verse": 4,
+        "content": "No pueden ver más allá de aquello para cuya contemplación fueron fabricados."
+      },
+      {
+        "verse": 5,
+        "content": "Y fueron fabricados para fijarse en los errores y no ver más allá de ellos."
+      },
+      {
+        "verse": 6,
+        "content": "Su percepción es ciertamente extraña, pues solo pueden ver ilusiones, al no poder ver más allá del bloque de granito del pecado y al detenerse ante la forma externa de lo que no es nada."
+      },
+      {
+        "verse": 7,
+        "content": "Para esta forma distorsionada de visión, el exterior de todas las cosas, el muro que se interpone entre la verdad y tú, es absolutamente real."
+      },
+      {
+        "verse": 8,
+        "content": "Mas ¿cómo va a poder ver correctamente una visión que se detiene ante lo que no es nada como si de un sólido muro se tratase?"
+      },
+      {
+        "verse": 9,
+        "content": "Está restringida por la forma, habiendo sido concebida para garantizar que no perciba nada, excepto la forma."
+      }
     ]
   },
   {
@@ -531,14 +1341,38 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Esos ojos, hechos para no ver, jamás podrán ver." },
-      { "verse": 2, "content": "Pues la idea que representan nunca se separó de su hacedor, y es su hacedor el que ve a través de ellos." },
-      { "verse": 3, "content": "¿Qué otro objetivo tenía su hacedor, salvo el de no ver?" },
-      { "verse": 4, "content": "Para tal fin, los ojos del cuerpo son los medios perfectos, pero no para ver." },
-      { "verse": 5, "content": "Advierte cómo los ojos del cuerpo se posan en lo exterior sin poder ir más allá de ello." },
-      { "verse": 6, "content": "Observa cómo se detienen ante lo que no es nada, incapaces de comprender el significado que se encuentra tras la forma." },
-      { "verse": 7, "content": "Nada es tan cegador como la percepción de la forma." },
-      { "verse": 8, "content": "Pues ver la forma significa que el entendimiento ha quedado velado." }
+      {
+        "verse": 1,
+        "content": "Esos ojos, hechos para no ver, jamás podrán ver."
+      },
+      {
+        "verse": 2,
+        "content": "Pues la idea que representan nunca se separó de su hacedor, y es su hacedor el que ve a través de ellos."
+      },
+      {
+        "verse": 3,
+        "content": "¿Qué otro objetivo tenía su hacedor, salvo el de no ver?"
+      },
+      {
+        "verse": 4,
+        "content": "Para tal fin, los ojos del cuerpo son los medios perfectos, pero no para ver."
+      },
+      {
+        "verse": 5,
+        "content": "Advierte cómo los ojos del cuerpo se posan en lo exterior sin poder ir más allá de ello."
+      },
+      {
+        "verse": 6,
+        "content": "Observa cómo se detienen ante lo que no es nada, incapaces de comprender el significado que se encuentra tras la forma."
+      },
+      {
+        "verse": 7,
+        "content": "Nada es tan cegador como la percepción de la forma."
+      },
+      {
+        "verse": 8,
+        "content": "Pues ver la forma significa que el entendimiento ha quedado velado."
+      }
     ]
   },
   {
@@ -546,13 +1380,34 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "Solo los errores varían de forma, y a eso se debe que puedan engañar." },
-      { "verse": 2, "content": "Tú puedes cambiar la forma _porque_ esta no es verdad." },
-      { "verse": 3, "content": "Y no puede ser la realidad _precisamente_ porque puede cambiar." },
-      { "verse": 4, "content": "La razón te diría que si la forma no es la realidad tiene que ser entonces una ilusión, y que no se puede ver porque no existe." },
-      { "verse": 5, "content": "Y si la ves debes estar equivocado, pues estás viendo lo que _no_ puede ser real como si lo fuera." },
-      { "verse": 6, "content": "Lo que no puede ver más allá de lo que no existe no puede sino ser una percepción distorsionada, y no puede por menos que percibir a las ilusiones como si fueran la Verdad." },
-      { "verse": 7, "content": "¿Cómo iba a poder, entonces, reconocer la Verdad?" }
+      {
+        "verse": 1,
+        "content": "Solo los errores varían de forma, y a eso se debe que puedan engañar."
+      },
+      {
+        "verse": 2,
+        "content": "Tú puedes cambiar la forma _porque_ esta no es verdad."
+      },
+      {
+        "verse": 3,
+        "content": "Y no puede ser la realidad _precisamente_ porque puede cambiar."
+      },
+      {
+        "verse": 4,
+        "content": "La razón te diría que si la forma no es la realidad tiene que ser entonces una ilusión, y que no se puede ver porque no existe."
+      },
+      {
+        "verse": 5,
+        "content": "Y si la ves debes estar equivocado, pues estás viendo lo que _no_ puede ser real como si lo fuera."
+      },
+      {
+        "verse": 6,
+        "content": "Lo que no puede ver más allá de lo que no existe no puede sino ser una percepción distorsionada, y no puede por menos que percibir a las ilusiones como si fueran la Verdad."
+      },
+      {
+        "verse": 7,
+        "content": "¿Cómo iba a poder, entonces, reconocer la Verdad?"
+      }
     ]
   },
   {
@@ -560,14 +1415,38 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "No permitas que la forma de sus errores te aleje de aquel cuya santidad es la tuya." },
-      { "verse": 2, "content": "No permitas que la visión de su santidad, que te mostraría tu perdón, quede oculta tras lo que ven los ojos del cuerpo." },
-      { "verse": 3, "content": "No permitas que la conciencia que tienes de tu hermano se vea obstruida por tu percepción de sus pecados y de su cuerpo." },
-      { "verse": 4, "content": "¿Qué hay en él que quisieras atacar, excepto lo que asocias con su cuerpo, el cual crees que puede pecar?" },
-      { "verse": 5, "content": "Más allá de sus errores se encuentra su santidad junto con tu salvación." },
-      { "verse": 6, "content": "No le diste su santidad, sino que trataste de ver tus pecados en él para tú salvarte." },
-      { "verse": 7, "content": "Sin embargo, su santidad _es_ tu perdón." },
-      { "verse": 8, "content": "¿Cómo ibas a poder salvarte si haces de aquel cuya santidad es tu salvación un pecador?" }
+      {
+        "verse": 1,
+        "content": "No permitas que la forma de sus errores te aleje de aquel cuya santidad es la tuya."
+      },
+      {
+        "verse": 2,
+        "content": "No permitas que la visión de su santidad, que te mostraría tu perdón, quede oculta tras lo que ven los ojos del cuerpo."
+      },
+      {
+        "verse": 3,
+        "content": "No permitas que la conciencia que tienes de tu hermano se vea obstruida por tu percepción de sus pecados y de su cuerpo."
+      },
+      {
+        "verse": 4,
+        "content": "¿Qué hay en él que quisieras atacar, excepto lo que asocias con su cuerpo, el cual crees que puede pecar?"
+      },
+      {
+        "verse": 5,
+        "content": "Más allá de sus errores se encuentra su santidad junto con tu salvación."
+      },
+      {
+        "verse": 6,
+        "content": "No le diste su santidad, sino que trataste de ver tus pecados en él para tú salvarte."
+      },
+      {
+        "verse": 7,
+        "content": "Sin embargo, su santidad _es_ tu perdón."
+      },
+      {
+        "verse": 8,
+        "content": "¿Cómo ibas a poder salvarte si haces de aquel cuya santidad es tu salvación un pecador?"
+      }
     ]
   },
   {
@@ -575,13 +1454,34 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "Una relación santa, por muy recién nacida que sea, tiene que valorar la santidad por encima de todo." },
-      { "verse": 2, "content": "Cualquier valor profano producirá confusión, y lo hará en la conciencia." },
-      { "verse": 3, "content": "En las relaciones no santas se le atribuye valor a cada uno de los individuos que la componen, ya que cada uno de ellos parece justificar los pecados del otro." },
-      { "verse": 4, "content": "Cada uno ve en el otro aquello que lo incita a pecar en contra de su voluntad." },
-      { "verse": 5, "content": "De esta manera, cada uno le atribuye sus pecados al otro, y se siente atraído hacia él para poder perpetuarlos." },
-      { "verse": 6, "content": "Y así, ninguno de ellos puede ver que él mismo es el causante de sus propios pecados al desear que el pecado sea real." },
-      { "verse": 7, "content": "La razón, en cambio, ve una relación santa como lo que realmente es: un estado mental común, donde ambos gustosamente le entregan sus errores a la Corrección, de manera que los dos puedan ser felizmente sanados cual uno solo." }
+      {
+        "verse": 1,
+        "content": "Una relación santa, por muy recién nacida que sea, tiene que valorar la santidad por encima de todo."
+      },
+      {
+        "verse": 2,
+        "content": "Cualquier valor profano producirá confusión, y lo hará en la conciencia."
+      },
+      {
+        "verse": 3,
+        "content": "En las relaciones no santas se le atribuye valor a cada uno de los individuos que la componen, ya que cada uno de ellos parece justificar los pecados del otro."
+      },
+      {
+        "verse": 4,
+        "content": "Cada uno ve en el otro aquello que lo incita a pecar en contra de su voluntad."
+      },
+      {
+        "verse": 5,
+        "content": "De esta manera, cada uno le atribuye sus pecados al otro, y se siente atraído hacia él para poder perpetuarlos."
+      },
+      {
+        "verse": 6,
+        "content": "Y así, ninguno de ellos puede ver que él mismo es el causante de sus propios pecados al desear que el pecado sea real."
+      },
+      {
+        "verse": 7,
+        "content": "La razón, en cambio, ve una relación santa como lo que realmente es: un estado mental común, donde ambos gustosamente le entregan sus errores a la Corrección, de manera que los dos puedan ser felizmente sanados cual uno solo."
+      }
     ]
   },
   {
@@ -594,14 +1494,38 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "Cuando llegas al lugar en que la bifurcación del camino resulta evidente, no puedes seguir adelante." },
-      { "verse": 2, "content": "Tienes que decidirte por uno de los dos caminos," },
-      { "verse": 3, "content": "pues si sigues adelante de la manera en que ibas antes de llegar a este punto, no llegarás a ninguna parte." },
-      { "verse": 4, "content": "El único propósito de llegar hasta aquí fue decidir cuál de los dos caminos vas a tomar ahora." },
-      { "verse": 5, "content": "El trayecto que te condujo hasta aquí ya no importa." },
-      { "verse": 6, "content": "Ya no tiene ninguna utilidad." },
-      { "verse": 7, "content": "Nadie que haya llegado hasta aquí puede decidir equivocadamente, pero sí puede demorarse." },
-      { "verse": 8, "content": "Y no hay momento de la jornada más frustrante y desalentador, que aquel en el que te detienes ahí donde el camino se bifurca, indeciso con respecto a qué rumbo seguir." }
+      {
+        "verse": 1,
+        "content": "Cuando llegas al lugar en que la bifurcación del camino resulta evidente, no puedes seguir adelante."
+      },
+      {
+        "verse": 2,
+        "content": "Tienes que decidirte por uno de los dos caminos,"
+      },
+      {
+        "verse": 3,
+        "content": "pues si sigues adelante de la manera en que ibas antes de llegar a este punto, no llegarás a ninguna parte."
+      },
+      {
+        "verse": 4,
+        "content": "El único propósito de llegar hasta aquí fue decidir cuál de los dos caminos vas a tomar ahora."
+      },
+      {
+        "verse": 5,
+        "content": "El trayecto que te condujo hasta aquí ya no importa."
+      },
+      {
+        "verse": 6,
+        "content": "Ya no tiene ninguna utilidad."
+      },
+      {
+        "verse": 7,
+        "content": "Nadie que haya llegado hasta aquí puede decidir equivocadamente, pero sí puede demorarse."
+      },
+      {
+        "verse": 8,
+        "content": "Y no hay momento de la jornada más frustrante y desalentador, que aquel en el que te detienes ahí donde el camino se bifurca, indeciso con respecto a qué rumbo seguir."
+      }
     ]
   },
   {
@@ -609,11 +1533,26 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Son solo los primeros pasos por el camino recto los que parecen difíciles, pues tu decisión ya está tomada, si bien puede que aún creas que puedes volverte atrás y elegir la otra alternativa." },
-      { "verse": 2, "content": "Pero no es así." },
-      { "verse": 3, "content": "Ninguna decisión que se haya tomado y que cuente con el respaldo del Poder del Cielo puede ser revocada." },
-      { "verse": 4, "content": "Tu camino ya se decidió." },
-      { "verse": 5, "content": "Si reconoces esto no habrá nada que no se te diga." }
+      {
+        "verse": 1,
+        "content": "Son solo los primeros pasos por el camino recto los que parecen difíciles, pues tu decisión ya está tomada, si bien puede que aún creas que puedes volverte atrás y elegir la otra alternativa."
+      },
+      {
+        "verse": 2,
+        "content": "Pero no es así."
+      },
+      {
+        "verse": 3,
+        "content": "Ninguna decisión que se haya tomado y que cuente con el respaldo del Poder del Cielo puede ser revocada."
+      },
+      {
+        "verse": 4,
+        "content": "Tu camino ya se decidió."
+      },
+      {
+        "verse": 5,
+        "content": "Si reconoces esto no habrá nada que no se te diga."
+      }
     ]
   },
   {
@@ -621,16 +1560,46 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Y así, tú y tu hermano os encontráis ahí en ese santo lugar, ante el velo de pecado que pende entre vosotros y la faz de Cristo." },
-      { "verse": 2, "content": "¡Dejad que sea descorrido!" },
-      { "verse": 3, "content": "¡Descorredlo juntos!" },
-      { "verse": 4, "content": "Por separado, cada uno de vosotros lo veréis como un sólido muro y no os daréis cuenta de lo delgado que es el cortinaje que ahora os separa." },
-      { "verse": 5, "content": "Aun así, este ya casi ha sido eliminado de vuestra conciencia, e incluso aquí, ante el velo, la paz ha venido a vosotros." },
-      { "verse": 6, "content": "Piensa en lo que os espera después:" },
-      { "verse": 7, "content": "el Amor de Cristo iluminará vuestros rostros e irradiará desde ellos a un mundo en penumbra y con necesidad de luz." },
-      { "verse": 8, "content": "Y desde este santo lugar Él regresará con vosotros, sin irse de él y sin abandonaros." },
-      { "verse": 9, "content": "Os convertiréis en Sus mensajeros, al restituirlo a Él a Sí Mismo." },
-      { "verse": "a", "content": "Pues es solo un velo lo que se interpone entre vosotros." }
+      {
+        "verse": 1,
+        "content": "Y así, tú y tu hermano os encontráis ahí en ese santo lugar, ante el velo de pecado que pende entre vosotros y la faz de Cristo."
+      },
+      {
+        "verse": 2,
+        "content": "¡Dejad que sea descorrido!"
+      },
+      {
+        "verse": 3,
+        "content": "¡Descorredlo juntos!"
+      },
+      {
+        "verse": "a",
+        "content": "Pues es solo un velo lo que se interpone entre vosotros."
+      },
+      {
+        "verse": 4,
+        "content": "Por separado, cada uno de vosotros lo veréis como un sólido muro y no os daréis cuenta de lo delgado que es el cortinaje que ahora os separa."
+      },
+      {
+        "verse": 5,
+        "content": "Aun así, este ya casi ha sido eliminado de vuestra conciencia, e incluso aquí, ante el velo, la paz ha venido a vosotros."
+      },
+      {
+        "verse": 6,
+        "content": "Piensa en lo que os espera después:"
+      },
+      {
+        "verse": 7,
+        "content": "el Amor de Cristo iluminará vuestros rostros e irradiará desde ellos a un mundo en penumbra y con necesidad de luz."
+      },
+      {
+        "verse": 8,
+        "content": "Y desde este santo lugar Él regresará con vosotros, sin irse de él y sin abandonaros."
+      },
+      {
+        "verse": 9,
+        "content": "Os convertiréis en Sus mensajeros, al restituirlo a Él a Sí Mismo."
+      }
     ]
   },
   {
@@ -638,13 +1607,34 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "¡Pensad en la hermosura que veréis, vosotros que camináis a Su lado!" },
-      { "verse": 2, "content": "¡Y pensad cuán bello os parecerá el otro!" },
-      { "verse": 3, "content": "¡Cuán felices os sentiréis de estar juntos después de una jornada tan larga y solitaria en la que caminabais por separado!" },
-      { "verse": 4, "content": "Las puertas del Cielo, francas ya para vosotros, las abriréis ahora para los que aún sufren." },
-      { "verse": 5, "content": "Y nadie que mire al Cristo en vosotros dejará de regocijarse." },
-      { "verse": 6, "content": "¡Qué bello es el panorama que visteis más allá del velo y que ahora portaréis para iluminar los cansados ojos de aquellos que todavía están tan extenuados como una vez lo estuvisteis vosotros!" },
-      { "verse": 7, "content": "¡Cuán agradecidos estarán de veros llegar y ofrecer el perdón de Cristo para desvanecer así la fe que ellos aún tienen en el pecado!" }
+      {
+        "verse": 1,
+        "content": "¡Pensad en la hermosura que veréis, vosotros que camináis a Su lado!"
+      },
+      {
+        "verse": 2,
+        "content": "¡Y pensad cuán bello os parecerá el otro!"
+      },
+      {
+        "verse": 3,
+        "content": "¡Cuán felices os sentiréis de estar juntos después de una jornada tan larga y solitaria en la que caminabais por separado!"
+      },
+      {
+        "verse": 4,
+        "content": "Las puertas del Cielo, francas ya para vosotros, las abriréis ahora para los que aún sufren."
+      },
+      {
+        "verse": 5,
+        "content": "Y nadie que mire al Cristo en vosotros dejará de regocijarse."
+      },
+      {
+        "verse": 6,
+        "content": "¡Qué bello es el panorama que visteis más allá del velo y que ahora portaréis para iluminar los cansados ojos de aquellos que todavía están tan extenuados como una vez lo estuvisteis vosotros!"
+      },
+      {
+        "verse": 7,
+        "content": "¡Cuán agradecidos estarán de veros llegar y ofrecer el perdón de Cristo para desvanecer así la fe que ellos aún tienen en el pecado!"
+      }
     ]
   },
   {
@@ -652,14 +1642,38 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "Cualquier error que cometas, el otro ya lo habrá corregido tiernamente por ti." },
-      { "verse": 2, "content": "Pues para él tu hermosura es su salvación y procura protegerla de cualquier daño." },
-      { "verse": 3, "content": "Y cada uno será para el otro su firme defensor contra todo lo que parezca surgir para separaros." },
-      { "verse": 4, "content": "Y así caminaréis por el mundo conmigo, pues tengo un mensaje que aún no se ha llevado a todos." },
-      { "verse": 5, "content": "Y vosotros estáis aquí para permitir que se reciba." },
-      { "verse": 6, "content": "La oferta de Dios todavía sigue en pie, pero aguarda aceptación." },
-      { "verse": 7, "content": "Se recibe de vosotros que la habéis aceptado." },
-      { "verse": 8, "content": "En vuestras manos unidas se deposita confiadamente, pues vosotros que la compartís os habéis convertido en sus devotos guardianes y protectores." }
+      {
+        "verse": 1,
+        "content": "Cualquier error que cometas, el otro ya lo habrá corregido tiernamente por ti."
+      },
+      {
+        "verse": 2,
+        "content": "Pues para él tu hermosura es su salvación y procura protegerla de cualquier daño."
+      },
+      {
+        "verse": 3,
+        "content": "Y cada uno será para el otro su firme defensor contra todo lo que parezca surgir para separaros."
+      },
+      {
+        "verse": 4,
+        "content": "Y así caminaréis por el mundo conmigo, pues tengo un mensaje que aún no se ha llevado a todos."
+      },
+      {
+        "verse": 5,
+        "content": "Y vosotros estáis aquí para permitir que se reciba."
+      },
+      {
+        "verse": 6,
+        "content": "La oferta de Dios todavía sigue en pie, pero aguarda aceptación."
+      },
+      {
+        "verse": 7,
+        "content": "Se recibe de vosotros que la habéis aceptado."
+      },
+      {
+        "verse": 8,
+        "content": "En vuestras manos unidas se deposita confiadamente, pues vosotros que la compartís os habéis convertido en sus devotos guardianes y protectores."
+      }
     ]
   },
   {
@@ -667,11 +1681,26 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "A todos aquellos que comparten el Amor de Dios se les concede la gracia de ser los dadores de lo que han recibido." },
-      { "verse": 2, "content": "Y así aprenden que es suyo para siempre." },
-      { "verse": 3, "content": "Todas las barreras desaparecen ante su llegada, de la misma manera en que cada obstáculo que antes parecía bloquear su camino quedó finalmente superado." },
-      { "verse": 4, "content": "Ese velo que tú y tu hermano descorréis juntos os abre el camino a la verdad y se lo abre también a otros." },
-      { "verse": 5, "content": "Los que permiten que se les libere de las ilusiones de sus mentes son los salvadores de este mundo, y caminan por él con su Redentor, llevando Su mensaje de esperanza, libertad y emancipación del sufrimiento a todo aquel que necesite un milagro para salvarse." }
+      {
+        "verse": 1,
+        "content": "A todos aquellos que comparten el Amor de Dios se les concede la gracia de ser los dadores de lo que han recibido."
+      },
+      {
+        "verse": 2,
+        "content": "Y así aprenden que es suyo para siempre."
+      },
+      {
+        "verse": 3,
+        "content": "Todas las barreras desaparecen ante su llegada, de la misma manera en que cada obstáculo que antes parecía bloquear su camino quedó finalmente superado."
+      },
+      {
+        "verse": 4,
+        "content": "Ese velo que tú y tu hermano descorréis juntos os abre el camino a la verdad y se lo abre también a otros."
+      },
+      {
+        "verse": 5,
+        "content": "Los que permiten que se les libere de las ilusiones de sus mentes son los salvadores de este mundo, y caminan por él con su Redentor, llevando Su mensaje de esperanza, libertad y emancipación del sufrimiento a todo aquel que necesite un milagro para salvarse."
+      }
     ]
   },
   {
@@ -679,14 +1708,38 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "¡Qué fácil es ofrecer este milagro a todos!" },
-      { "verse": 2, "content": "Nadie que lo haya recibido tendría dificultad alguna en darlo." },
-      { "verse": 3, "content": "Pues al recibirlo aprendió que no se le daba solamente a él." },
-      { "verse": 4, "content": "Tal es la función de una relación santa: que recibáis juntos y que deis tal como recibáis." },
-      { "verse": 5, "content": "Cuando se está ante el velo, esto todavía parece difícil." },
-      { "verse": 6, "content": "Pero si extendéis vuestras manos unidas y tocáis eso que parece un denso muro, notaréis con cuánta facilidad se deslizan vuestros dedos a través de su insustancialidad." },
-      { "verse": 7, "content": "Ese muro no es sólido en absoluto." },
-      { "verse": 8, "content": "Y es solo una ilusión lo que se interpone entre tú y tu hermano y el santo Ser que compartís." }
+      {
+        "verse": 1,
+        "content": "¡Qué fácil es ofrecer este milagro a todos!"
+      },
+      {
+        "verse": 2,
+        "content": "Nadie que lo haya recibido tendría dificultad alguna en darlo."
+      },
+      {
+        "verse": 3,
+        "content": "Pues al recibirlo aprendió que no se le daba solamente a él."
+      },
+      {
+        "verse": 4,
+        "content": "Tal es la función de una relación santa: que recibáis juntos y que deis tal como recibáis."
+      },
+      {
+        "verse": 5,
+        "content": "Cuando se está ante el velo, esto todavía parece difícil."
+      },
+      {
+        "verse": 6,
+        "content": "Pero si extendéis vuestras manos unidas y tocáis eso que parece un denso muro, notaréis con cuánta facilidad se deslizan vuestros dedos a través de su insustancialidad."
+      },
+      {
+        "verse": 7,
+        "content": "Ese muro no es sólido en absoluto."
+      },
+      {
+        "verse": 8,
+        "content": "Y es solo una ilusión lo que se interpone entre tú y tu hermano y el santo Ser que compartís."
+      }
     ]
   },
   {
@@ -699,18 +1752,54 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "¿Cómo se superan las ilusiones?" },
-      { "verse": 2, "content": "Ciertamente no mediante el uso de la fuerza o de la ira, ni oponiéndose a ellas en modo alguno." },
-      { "verse": 3, "content": "Se superan dejando simplemente que la razón te diga que las ilusiones contradicen la realidad." },
-      { "verse": 4, "content": "Las ilusiones se oponen a lo que no puede sino ser verdad." },
-      { "verse": 5, "content": "La oposición procede de ellas, no de la realidad." },
-      { "verse": 6, "content": "La realidad no se opone a nada." },
-      { "verse": 7, "content": "Lo que simplemente _es_ no necesita defensa ni ofrece ninguna." },
-      { "verse": 8, "content": "Solo las ilusiones necesitan defensa debido a su debilidad." },
-      { "verse": 9, "content": "Mas ¿cómo podría ser difícil recorrer el camino de la verdad cuando la debilidad es el único obstáculo?" },
-      { "verse": 10, "content": "_Tú_ eres el fuerte en este aparente conflicto" },
-      { "verse": 11, "content": "y no necesitas ninguna defensa." },
-      { "verse": 12, "content": "Tampoco deseas nada que necesite defensa, pues cualquier cosa que necesite defensa te debilitará." }
+      {
+        "verse": 1,
+        "content": "¿Cómo se superan las ilusiones?"
+      },
+      {
+        "verse": 2,
+        "content": "Ciertamente no mediante el uso de la fuerza o de la ira, ni oponiéndose a ellas en modo alguno."
+      },
+      {
+        "verse": 3,
+        "content": "Se superan dejando simplemente que la razón te diga que las ilusiones contradicen la realidad."
+      },
+      {
+        "verse": 4,
+        "content": "Las ilusiones se oponen a lo que no puede sino ser verdad."
+      },
+      {
+        "verse": 5,
+        "content": "La oposición procede de ellas, no de la realidad."
+      },
+      {
+        "verse": 6,
+        "content": "La realidad no se opone a nada."
+      },
+      {
+        "verse": 7,
+        "content": "Lo que simplemente _es_ no necesita defensa ni ofrece ninguna."
+      },
+      {
+        "verse": 8,
+        "content": "Solo las ilusiones necesitan defensa debido a su debilidad."
+      },
+      {
+        "verse": 9,
+        "content": "Mas ¿cómo podría ser difícil recorrer el camino de la verdad cuando la debilidad es el único obstáculo?"
+      },
+      {
+        "verse": 10,
+        "content": "_Tú_ eres el fuerte en este aparente conflicto"
+      },
+      {
+        "verse": 11,
+        "content": "y no necesitas ninguna defensa."
+      },
+      {
+        "verse": 12,
+        "content": "Tampoco deseas nada que necesite defensa, pues cualquier cosa que necesite defensa te debilitará."
+      }
     ]
   },
   {
@@ -718,14 +1807,38 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Examina para qué desea las defensas el ego" },
-      { "verse": 2, "content": "y verás que siempre es para justificar lo que va en contra de la Verdad, lo que se esfuma en presencia de la razón y lo que no tiene sentido." },
-      { "verse": 3, "content": "¿Puede esto acaso _estar_ justificado?" },
-      { "verse": 4, "content": "¿Qué otra cosa podría ser sino una invitación a la demencia para que te salve de la Verdad?" },
-      { "verse": 5, "content": "¿Y de qué se te salvaría sino de lo que temes?" },
-      { "verse": 6, "content": "La creencia en el pecado requiere constante defensa, y a un costo exorbitante." },
-      { "verse": 7, "content": "Es preciso combatir y sacrificar todo lo que el Espíritu Santo te ofrece." },
-      { "verse": 8, "content": "Pues el pecado está tallado en un bloque que fue arrancado de tu paz y colocado entre el retorno de esta y tú." }
+      {
+        "verse": 1,
+        "content": "Examina para qué desea las defensas el ego"
+      },
+      {
+        "verse": 2,
+        "content": "y verás que siempre es para justificar lo que va en contra de la Verdad, lo que se esfuma en presencia de la razón y lo que no tiene sentido."
+      },
+      {
+        "verse": 3,
+        "content": "¿Puede esto acaso _estar_ justificado?"
+      },
+      {
+        "verse": 4,
+        "content": "¿Qué otra cosa podría ser sino una invitación a la demencia para que te salve de la Verdad?"
+      },
+      {
+        "verse": 5,
+        "content": "¿Y de qué se te salvaría sino de lo que temes?"
+      },
+      {
+        "verse": 6,
+        "content": "La creencia en el pecado requiere constante defensa, y a un costo exorbitante."
+      },
+      {
+        "verse": 7,
+        "content": "Es preciso combatir y sacrificar todo lo que el Espíritu Santo te ofrece."
+      },
+      {
+        "verse": 8,
+        "content": "Pues el pecado está tallado en un bloque que fue arrancado de tu paz y colocado entre el retorno de esta y tú."
+      }
     ]
   },
   {
@@ -733,18 +1846,54 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Sin embargo, ¿cómo iba a poder estar la paz tan fragmentada?" },
-      { "verse": 2, "content": "La paz sigue aún intacta, pues no se le ha quitado nada." },
-      { "verse": 3, "content": "Date cuenta de que tanto los medios como aquello de lo que se componen los sueños perversos no significan nada." },
-      { "verse": 4, "content": "En realidad, tu hermano y tú estáis unidos y no hay nada que se interponga entre vosotros." },
-      { "verse": 5, "content": "Puesto que Dios os lleva de la mano, ¿qué podría separar lo que Él ha unido Consigo Mismo como un solo Ser?" },
-      { "verse": 6, "content": "Es de tu Padre de Quien te quieres defender." },
-      { "verse": 7, "content": "Sin embargo, sigue siendo imposible excluir el Amor." },
-      { "verse": 8, "content": "Dios descansa contigo serenamente, sin defensas y en total mansedumbre, pues solo en esa quietud se encuentra la fuerza y el poder." },
-      { "verse": 9, "content": "Ahí la debilidad no tiene cabida porque ahí no hay ataque y, por ende, no hay ilusiones." },
-      { "verse": 10, "content": "El amor descansa en la certeza." },
-      { "verse": 11, "content": "Solo la incertidumbre se defiende." },
-      { "verse": 12, "content": "Y toda incertidumbre no es otra cosa que las dudas que tienes acerca de ti mismo." }
+      {
+        "verse": 1,
+        "content": "Sin embargo, ¿cómo iba a poder estar la paz tan fragmentada?"
+      },
+      {
+        "verse": 2,
+        "content": "La paz sigue aún intacta, pues no se le ha quitado nada."
+      },
+      {
+        "verse": 3,
+        "content": "Date cuenta de que tanto los medios como aquello de lo que se componen los sueños perversos no significan nada."
+      },
+      {
+        "verse": 4,
+        "content": "En realidad, tu hermano y tú estáis unidos y no hay nada que se interponga entre vosotros."
+      },
+      {
+        "verse": 5,
+        "content": "Puesto que Dios os lleva de la mano, ¿qué podría separar lo que Él ha unido Consigo Mismo como un solo Ser?"
+      },
+      {
+        "verse": 6,
+        "content": "Es de tu Padre de Quien te quieres defender."
+      },
+      {
+        "verse": 7,
+        "content": "Sin embargo, sigue siendo imposible excluir el Amor."
+      },
+      {
+        "verse": 8,
+        "content": "Dios descansa contigo serenamente, sin defensas y en total mansedumbre, pues solo en esa quietud se encuentra la fuerza y el poder."
+      },
+      {
+        "verse": 9,
+        "content": "Ahí la debilidad no tiene cabida porque ahí no hay ataque y, por ende, no hay ilusiones."
+      },
+      {
+        "verse": 10,
+        "content": "El amor descansa en la certeza."
+      },
+      {
+        "verse": 11,
+        "content": "Solo la incertidumbre se defiende."
+      },
+      {
+        "verse": 12,
+        "content": "Y toda incertidumbre no es otra cosa que las dudas que tienes acerca de ti mismo."
+      }
     ]
   },
   {
@@ -752,16 +1901,46 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "¡Cuán débil es el miedo!" },
-      { "verse": 2, "content": "¡Cuán insignificante ante la silenciosa fortaleza de aquellos a quienes el amor ha unido!" },
-      { "verse": 3, "content": "Tal es tu \"enemigo\": un ratoncillo asustado que pretende enfrentarse al universo." },
-      { "verse": 4, "content": "¿Qué probabilidades tiene de ganar?" },
-      { "verse": 5, "content": "¿Sería acaso difícil ignorar sus débiles chillidos que pregonan su omnipotencia y quieren ahogar el himno de alabanza al Creador que perpetuamente y cual una sola voz entonan todos los corazones del universo?" },
-      { "verse": 6, "content": "¿Qué es más fuerte," },
-      { "verse": 7, "content": "ese ratoncillo o todo lo que Dios creó?" },
-      { "verse": 8, "content": "No es ese ratón lo que te une a tu hermano, sino la Voluntad de Dios." },
-      { "verse": 9, "content": "¿Y podría un ratón traicionar a quienes Dios ha unido?" },
-      { "verse": "a", "content": "¡Cuán ínfimo e insensato!" }
+      {
+        "verse": 1,
+        "content": "¡Cuán débil es el miedo!"
+      },
+      {
+        "verse": "a",
+        "content": "¡Cuán ínfimo e insensato!"
+      },
+      {
+        "verse": 2,
+        "content": "¡Cuán insignificante ante la silenciosa fortaleza de aquellos a quienes el amor ha unido!"
+      },
+      {
+        "verse": 3,
+        "content": "Tal es tu \"enemigo\": un ratoncillo asustado que pretende enfrentarse al universo."
+      },
+      {
+        "verse": 4,
+        "content": "¿Qué probabilidades tiene de ganar?"
+      },
+      {
+        "verse": 5,
+        "content": "¿Sería acaso difícil ignorar sus débiles chillidos que pregonan su omnipotencia y quieren ahogar el himno de alabanza al Creador que perpetuamente y cual una sola voz entonan todos los corazones del universo?"
+      },
+      {
+        "verse": 6,
+        "content": "¿Qué es más fuerte,"
+      },
+      {
+        "verse": 7,
+        "content": "ese ratoncillo o todo lo que Dios creó?"
+      },
+      {
+        "verse": 8,
+        "content": "No es ese ratón lo que te une a tu hermano, sino la Voluntad de Dios."
+      },
+      {
+        "verse": 9,
+        "content": "¿Y podría un ratón traicionar a quienes Dios ha unido?"
+      }
     ]
   },
   {
@@ -769,13 +1948,34 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "¡Si tan solo reconocierais lo poco que se interpone entre vosotros y la conciencia de vuestra unión!" },
-      { "verse": 2, "content": "No os dejéis engañar por la ilusión de tamaño, espesor, peso, solidez y firmeza de cimientos que presenta." },
-      { "verse": 3, "content": "Es verdad que para los ojos físicos parece ser un cuerpo enorme y sólido, y tan inamovible como una montaña." },
-      { "verse": 4, "content": "Sin embargo, dentro de ti hay una Fuerza que ninguna ilusión puede resistir." },
-      { "verse": 5, "content": "Este cuerpo tan solo parece ser inamovible, pero esa Fuerza es realmente irresistible." },
-      { "verse": 6, "content": "¿Qué ocurre, entonces, cuando se encuentran?" },
-      { "verse": 7, "content": "¿Se puede seguir defendiendo la ilusión de inamovilidad por mucho más tiempo contra lo que calladamente la atraviesa y la pasa de largo?" }
+      {
+        "verse": 1,
+        "content": "¡Si tan solo reconocierais lo poco que se interpone entre vosotros y la conciencia de vuestra unión!"
+      },
+      {
+        "verse": 2,
+        "content": "No os dejéis engañar por la ilusión de tamaño, espesor, peso, solidez y firmeza de cimientos que presenta."
+      },
+      {
+        "verse": 3,
+        "content": "Es verdad que para los ojos físicos parece ser un cuerpo enorme y sólido, y tan inamovible como una montaña."
+      },
+      {
+        "verse": 4,
+        "content": "Sin embargo, dentro de ti hay una Fuerza que ninguna ilusión puede resistir."
+      },
+      {
+        "verse": 5,
+        "content": "Este cuerpo tan solo parece ser inamovible, pero esa Fuerza es realmente irresistible."
+      },
+      {
+        "verse": 6,
+        "content": "¿Qué ocurre, entonces, cuando se encuentran?"
+      },
+      {
+        "verse": 7,
+        "content": "¿Se puede seguir defendiendo la ilusión de inamovilidad por mucho más tiempo contra lo que calladamente la atraviesa y la pasa de largo?"
+      }
     ]
   },
   {
@@ -783,14 +1983,38 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Nunca te olvides de que cuando sientes surgir la necesidad de defenderte de algo es que te has identificado a ti mismo con una ilusión." },
-      { "verse": 2, "content": "Consecuentemente, crees ser débil porque estás solo." },
-      { "verse": 3, "content": "Ese es el costo de todas las ilusiones." },
-      { "verse": 4, "content": "No hay ninguna que no esté basada en la creencia de que estás separado;" },
-      { "verse": 5, "content": "ninguna que no parezca interponerse, densa, sólida e inamovible, entre tu hermano y tú;" },
-      { "verse": 6, "content": "ni ninguna que la verdad no pueda pasar por alto felizmente y con tal facilidad, que tienes que quedar convencido de que no es nada, a pesar de lo que pensabas que era." },
-      { "verse": 7, "content": "Si perdonas a tu hermano, esto es lo que _inevitablemente_ sucederá." },
-      { "verse": 8, "content": "Pues es tu renuencia a pasar por alto aquello que parece interponerse entre vosotros lo que hace que parezca impenetrable y lo que defiende la ilusión de su inamovilidad." }
+      {
+        "verse": 1,
+        "content": "Nunca te olvides de que cuando sientes surgir la necesidad de defenderte de algo es que te has identificado a ti mismo con una ilusión."
+      },
+      {
+        "verse": 2,
+        "content": "Consecuentemente, crees ser débil porque estás solo."
+      },
+      {
+        "verse": 3,
+        "content": "Ese es el costo de todas las ilusiones."
+      },
+      {
+        "verse": 4,
+        "content": "No hay ninguna que no esté basada en la creencia de que estás separado;"
+      },
+      {
+        "verse": 5,
+        "content": "ninguna que no parezca interponerse, densa, sólida e inamovible, entre tu hermano y tú;"
+      },
+      {
+        "verse": 6,
+        "content": "ni ninguna que la verdad no pueda pasar por alto felizmente y con tal facilidad, que tienes que quedar convencido de que no es nada, a pesar de lo que pensabas que era."
+      },
+      {
+        "verse": 7,
+        "content": "Si perdonas a tu hermano, esto es lo que _inevitablemente_ sucederá."
+      },
+      {
+        "verse": 8,
+        "content": "Pues es tu renuencia a pasar por alto aquello que parece interponerse entre vosotros lo que hace que parezca impenetrable y lo que defiende la ilusión de su inamovilidad."
+      }
     ]
   },
   {
@@ -803,16 +2027,46 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "¿Deseas la libertad del cuerpo o la de la mente?" },
-      { "verse": 2, "content": "Pues no puedes tener ambas." },
-      { "verse": 3, "content": "¿Qué valoras más, el cuerpo o la mente?" },
-      { "verse": 4, "content": "¿Cuál de ellos es tu objetivo?" },
-      { "verse": 5, "content": "Pues a uno de ellos lo ves como un medio; al otro como un fin." },
-      { "verse": 6, "content": "Y uno de ellos tiene que servir al otro y dejar que predomine, realzando su importancia al disminuir la suya propia." },
-      { "verse": 7, "content": "Los medios sirven al fin, y a medida que el fin se alcanza, el valor de los medios disminuye, quedando totalmente eclipsados cuando se reconoce que ya no tienen función alguna." },
-      { "verse": 8, "content": "Todo aquel que anhela la libertad tratará de encontrarla." },
-      { "verse": 9, "content": "Pero la buscará donde cree que está y donde cree que puede hallarla." },
-      { "verse": 10, "content": "Creerá que es igualmente posible alcanzar o bien la libertad de la mente o bien la del cuerpo, y elegirá a uno de ellos para que sirva al otro como medio para encontrarla." }
+      {
+        "verse": 1,
+        "content": "¿Deseas la libertad del cuerpo o la de la mente?"
+      },
+      {
+        "verse": 2,
+        "content": "Pues no puedes tener ambas."
+      },
+      {
+        "verse": 3,
+        "content": "¿Qué valoras más, el cuerpo o la mente?"
+      },
+      {
+        "verse": 4,
+        "content": "¿Cuál de ellos es tu objetivo?"
+      },
+      {
+        "verse": 5,
+        "content": "Pues a uno de ellos lo ves como un medio; al otro como un fin."
+      },
+      {
+        "verse": 6,
+        "content": "Y uno de ellos tiene que servir al otro y dejar que predomine, realzando su importancia al disminuir la suya propia."
+      },
+      {
+        "verse": 7,
+        "content": "Los medios sirven al fin, y a medida que el fin se alcanza, el valor de los medios disminuye, quedando totalmente eclipsados cuando se reconoce que ya no tienen función alguna."
+      },
+      {
+        "verse": 8,
+        "content": "Todo aquel que anhela la libertad tratará de encontrarla."
+      },
+      {
+        "verse": 9,
+        "content": "Pero la buscará donde cree que está y donde cree que puede hallarla."
+      },
+      {
+        "verse": 10,
+        "content": "Creerá que es igualmente posible alcanzar o bien la libertad de la mente o bien la del cuerpo, y elegirá a uno de ellos para que sirva al otro como medio para encontrarla."
+      }
     ]
   },
   {
@@ -820,11 +2074,26 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Cuando se ha elegido la libertad del cuerpo, la mente se usa como un medio cuyo valor reside en su habilidad de ingeniar medios para alcanzarla." },
-      { "verse": 2, "content": "Pero dado que liberar al cuerpo no tiene sentido, la mente se ha puesto al servicio de las ilusiones." },
-      { "verse": 3, "content": "Esta situación es tan contradictoria e imposible que cualquiera que la elija no tiene idea de lo que es valioso." },
-      { "verse": 4, "content": "Mas aun en esta confusión—tan profunda que es indescriptible—el Espíritu Santo espera pacientemente, tan seguro del resultado final como del Amor de Su Creador." },
-      { "verse": 5, "content": "Él sabe que esa decisión descabellada la tomó uno a quien Su Creador ama tanto como el Amor se ama a Sí Mismo." }
+      {
+        "verse": 1,
+        "content": "Cuando se ha elegido la libertad del cuerpo, la mente se usa como un medio cuyo valor reside en su habilidad de ingeniar medios para alcanzarla."
+      },
+      {
+        "verse": 2,
+        "content": "Pero dado que liberar al cuerpo no tiene sentido, la mente se ha puesto al servicio de las ilusiones."
+      },
+      {
+        "verse": 3,
+        "content": "Esta situación es tan contradictoria e imposible que cualquiera que la elija no tiene idea de lo que es valioso."
+      },
+      {
+        "verse": 4,
+        "content": "Mas aun en esta confusión—tan profunda que es indescriptible—el Espíritu Santo espera pacientemente, tan seguro del resultado final como del Amor de Su Creador."
+      },
+      {
+        "verse": 5,
+        "content": "Él sabe que esa decisión descabellada la tomó uno a quien Su Creador ama tanto como el Amor se ama a Sí Mismo."
+      }
     ]
   },
   {
@@ -832,13 +2101,34 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "No te intranquilices pensando cómo puede el Espíritu Santo intercambiar tan fácilmente los medios y el fin en aquellos que Dios ama y quiere que sean libres para siempre." },
-      { "verse": 2, "content": "En lugar de ello, siéntete agradecido de poder ser el medio para lograr Su objetivo." },
-      { "verse": 3, "content": "Este es el único servicio que conduce a la libertad." },
-      { "verse": 4, "content": "Para lograr este fin hay que percibir al cuerpo libre de pecado porque lo que se busca es la impecabilidad." },
-      { "verse": 5, "content": "La falta de contradicción permite que la transición de medios a fin sea tan fácil como lo es el intercambio del odio por la gratitud ante los ojos que perdonan." },
-      { "verse": 6, "content": "Os santificaréis el uno al otro al usar el cuerpo solo en beneficio de la impecabilidad." },
-      { "verse": 7, "content": "Y os será imposible odiar aquello que sirve a quien queréis sanar." }
+      {
+        "verse": 1,
+        "content": "No te intranquilices pensando cómo puede el Espíritu Santo intercambiar tan fácilmente los medios y el fin en aquellos que Dios ama y quiere que sean libres para siempre."
+      },
+      {
+        "verse": 2,
+        "content": "En lugar de ello, siéntete agradecido de poder ser el medio para lograr Su objetivo."
+      },
+      {
+        "verse": 3,
+        "content": "Este es el único servicio que conduce a la libertad."
+      },
+      {
+        "verse": 4,
+        "content": "Para lograr este fin hay que percibir al cuerpo libre de pecado porque lo que se busca es la impecabilidad."
+      },
+      {
+        "verse": 5,
+        "content": "La falta de contradicción permite que la transición de medios a fin sea tan fácil como lo es el intercambio del odio por la gratitud ante los ojos que perdonan."
+      },
+      {
+        "verse": 6,
+        "content": "Os santificaréis el uno al otro al usar el cuerpo solo en beneficio de la impecabilidad."
+      },
+      {
+        "verse": 7,
+        "content": "Y os será imposible odiar aquello que sirve a quien queréis sanar."
+      }
     ]
   },
   {
@@ -846,14 +2136,38 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "Esta relación santa, hermosa en su inocencia, llena de fortaleza, y resplandeciendo con una luz mucho más brillante que la del sol que alumbra el firmamento que ves, es la que tu Padre ha elegido como uno de los medios para llevar a cabo Su plan." },
-      { "verse": 2, "content": "Siéntete agradecido de que no sirva en absoluto para llevar a cabo el tuyo." },
-      { "verse": 3, "content": "No usará indebidamente nada que se le confíe ni dejará de usar nada que se le ofrezca." },
-      { "verse": 4, "content": "Esta santa relación tiene el poder de curar todo dolor, sea cual sea su forma." },
-      { "verse": 5, "content": "Ni tu hermano ni tú podéis ser útiles por separado en absoluto." },
-      { "verse": 6, "content": "Únicamente en vuestra voluntad conjunta radica la curación." },
-      { "verse": 7, "content": "Pues ahí es donde se encuentra vuestra curación y ahí es donde aceptaréis la Expiación." },
-      { "verse": 8, "content": "Y al sanar los dos, la Filiación queda sanada _porque_ vuestras voluntades se han unido." }
+      {
+        "verse": 1,
+        "content": "Esta relación santa, hermosa en su inocencia, llena de fortaleza, y resplandeciendo con una luz mucho más brillante que la del sol que alumbra el firmamento que ves, es la que tu Padre ha elegido como uno de los medios para llevar a cabo Su plan."
+      },
+      {
+        "verse": 2,
+        "content": "Siéntete agradecido de que no sirva en absoluto para llevar a cabo el tuyo."
+      },
+      {
+        "verse": 3,
+        "content": "No usará indebidamente nada que se le confíe ni dejará de usar nada que se le ofrezca."
+      },
+      {
+        "verse": 4,
+        "content": "Esta santa relación tiene el poder de curar todo dolor, sea cual sea su forma."
+      },
+      {
+        "verse": 5,
+        "content": "Ni tu hermano ni tú podéis ser útiles por separado en absoluto."
+      },
+      {
+        "verse": 6,
+        "content": "Únicamente en vuestra voluntad conjunta radica la curación."
+      },
+      {
+        "verse": 7,
+        "content": "Pues ahí es donde se encuentra vuestra curación y ahí es donde aceptaréis la Expiación."
+      },
+      {
+        "verse": 8,
+        "content": "Y al sanar los dos, la Filiación queda sanada _porque_ vuestras voluntades se han unido."
+      }
     ]
   },
   {
@@ -861,13 +2175,34 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "Ante una relación santa no hay pecado." },
-      { "verse": 2, "content": "Ya no se percibe ninguna forma de error, y la razón, unida al amor, contempla calladamente cualquier confusión y observa simplemente: \"Eso fue un error\"." },
-      { "verse": 3, "content": "Y luego, la misma Expiación que aceptaste en tu relación corrige el error y, allí donde este estaba, deposita una parte del Cielo." },
-      { "verse": 4, "content": "¡Cuán bendito eres tú que permites que este regalo se otorgue!" },
-      { "verse": 5, "content": "Cada parte del Cielo que restituyes se te da a ti." },
-      { "verse": 6, "content": "Y cada lugar vacío del Cielo que vuelves a llenar con la luz eterna que traes contigo, resplandece sobre ti." },
-      { "verse": 7, "content": "Los medios de la impecabilidad no conocen el miedo porque únicamente son portadores de amor." }
+      {
+        "verse": 1,
+        "content": "Ante una relación santa no hay pecado."
+      },
+      {
+        "verse": 2,
+        "content": "Ya no se percibe ninguna forma de error, y la razón, unida al amor, contempla calladamente cualquier confusión y observa simplemente: \"Eso fue un error\"."
+      },
+      {
+        "verse": 3,
+        "content": "Y luego, la misma Expiación que aceptaste en tu relación corrige el error y, allí donde este estaba, deposita una parte del Cielo."
+      },
+      {
+        "verse": 4,
+        "content": "¡Cuán bendito eres tú que permites que este regalo se otorgue!"
+      },
+      {
+        "verse": 5,
+        "content": "Cada parte del Cielo que restituyes se te da a ti."
+      },
+      {
+        "verse": 6,
+        "content": "Y cada lugar vacío del Cielo que vuelves a llenar con la luz eterna que traes contigo, resplandece sobre ti."
+      },
+      {
+        "verse": 7,
+        "content": "Los medios de la impecabilidad no conocen el miedo porque únicamente son portadores de amor."
+      }
     ]
   },
   {
@@ -875,15 +2210,42 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Criatura de la paz, la luz ha descendido sobre ti." },
-      { "verse": 2, "content": "No reconoces la luz que traes contigo, pero la recordarás." },
-      { "verse": 3, "content": "¿Quién podría negarse a sí mismo la visión que le brinda a los demás?" },
-      { "verse": 4, "content": "¿Y quién dejaría de reconocer el regalo que, por mediación suya, él permitió que se depositase en el Cielo?" },
-      { "verse": 5, "content": "El amoroso servicio que le prestas al Espíritu Santo te lo prestas a ti mismo." },
-      { "verse": 6, "content": "Tú que ahora eres Su medio tienes que amar todo lo que Él ama." },
-      { "verse": 7, "content": "Y lo que traes contigo es tu recuerdo de todo lo que es eterno." },
-      { "verse": 8, "content": "Ningún vestigio de lo temporal puede permanecer por mucho tiempo en la mente que sirve a lo intemporal." },
-      { "verse": 9, "content": "Y ninguna ilusión puede perturbar la paz de una relación que se ha convertido en el instrumento de la paz." }
+      {
+        "verse": 1,
+        "content": "Criatura de la paz, la luz ha descendido sobre ti."
+      },
+      {
+        "verse": 2,
+        "content": "No reconoces la luz que traes contigo, pero la recordarás."
+      },
+      {
+        "verse": 3,
+        "content": "¿Quién podría negarse a sí mismo la visión que le brinda a los demás?"
+      },
+      {
+        "verse": 4,
+        "content": "¿Y quién dejaría de reconocer el regalo que, por mediación suya, él permitió que se depositase en el Cielo?"
+      },
+      {
+        "verse": 5,
+        "content": "El amoroso servicio que le prestas al Espíritu Santo te lo prestas a ti mismo."
+      },
+      {
+        "verse": 6,
+        "content": "Tú que ahora eres Su medio tienes que amar todo lo que Él ama."
+      },
+      {
+        "verse": 7,
+        "content": "Y lo que traes contigo es tu recuerdo de todo lo que es eterno."
+      },
+      {
+        "verse": 8,
+        "content": "Ningún vestigio de lo temporal puede permanecer por mucho tiempo en la mente que sirve a lo intemporal."
+      },
+      {
+        "verse": 9,
+        "content": "Y ninguna ilusión puede perturbar la paz de una relación que se ha convertido en el instrumento de la paz."
+      }
     ]
   },
   {
@@ -891,12 +2253,30 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "Cuando hayas contemplado a tu hermano con absoluto perdón, del que no se haya excluido ningún error ni nada se mantiene oculto, ¿qué error podría haber en cualquier parte que tú no pudieras pasar por alto?" },
-      { "verse": 2, "content": "¿Qué tipo de sufrimiento podría nublar tu vista e impedirte ver más allá de él?" },
-      { "verse": 3, "content": "¿Y qué ilusión no ibas a reconocer como un error, como una sombra que puedes atravesar completamente impávido?" },
-      { "verse": 4, "content": "Dios no permite que nada sea un obstáculo para aquellos que hacen Su Voluntad, y estos reconocerán que sus voluntades son la Suya porque la sirven." },
-      { "verse": 5, "content": "Y la sirven de buen grado." },
-      { "verse": 6, "content": "¿Podrían, entonces, demorarse mucho en recordar lo que son?" }
+      {
+        "verse": 1,
+        "content": "Cuando hayas contemplado a tu hermano con absoluto perdón, del que no se haya excluido ningún error ni nada se mantiene oculto, ¿qué error podría haber en cualquier parte que tú no pudieras pasar por alto?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Qué tipo de sufrimiento podría nublar tu vista e impedirte ver más allá de él?"
+      },
+      {
+        "verse": 3,
+        "content": "¿Y qué ilusión no ibas a reconocer como un error, como una sombra que puedes atravesar completamente impávido?"
+      },
+      {
+        "verse": 4,
+        "content": "Dios no permite que nada sea un obstáculo para aquellos que hacen Su Voluntad, y estos reconocerán que sus voluntades son la Suya porque la sirven."
+      },
+      {
+        "verse": 5,
+        "content": "Y la sirven de buen grado."
+      },
+      {
+        "verse": 6,
+        "content": "¿Podrían, entonces, demorarse mucho en recordar lo que son?"
+      }
     ]
   },
   {
@@ -904,16 +2284,46 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "Verás tu valía a través de los ojos de tu hermano, y cada uno será liberado cuando vea a su salvador en el lugar donde antes pensó que había un agresor." },
-      { "verse": 2, "content": "Mediante esta liberación se libera el mundo." },
-      { "verse": 3, "content": "Este es tu papel en la consecución de la paz." },
-      { "verse": 4, "content": "Pues has preguntado cuál es tu función aquí, y se te ha contestado." },
-      { "verse": 5, "content": "No intentes cambiarla ni sustituirla por ninguna otra." },
-      { "verse": 6, "content": "Pues esa fue la única función que se te dio." },
-      { "verse": 7, "content": "Acepta solo esta función y sírvela de todo corazón, pues lo que el Espíritu Santo hace con los regalos que le das a tu hermano, a quién se los ofrece, dónde y cuándo, es cosa Suya." },
-      { "verse": 8, "content": "Los concederá allí donde han de ser recibidos y se les dé la bienvenida." },
-      { "verse": 9, "content": "Utilizará cada uno de ellos en beneficio de la paz." },
-      { "verse": 10, "content": "Y ni la más leve sonrisa o buena voluntad de alguien para pasar por alto la más diminuta equivocación le pasará desapercibida a Él." }
+      {
+        "verse": 1,
+        "content": "Verás tu valía a través de los ojos de tu hermano, y cada uno será liberado cuando vea a su salvador en el lugar donde antes pensó que había un agresor."
+      },
+      {
+        "verse": 2,
+        "content": "Mediante esta liberación se libera el mundo."
+      },
+      {
+        "verse": 3,
+        "content": "Este es tu papel en la consecución de la paz."
+      },
+      {
+        "verse": 4,
+        "content": "Pues has preguntado cuál es tu función aquí, y se te ha contestado."
+      },
+      {
+        "verse": 5,
+        "content": "No intentes cambiarla ni sustituirla por ninguna otra."
+      },
+      {
+        "verse": 6,
+        "content": "Pues esa fue la única función que se te dio."
+      },
+      {
+        "verse": 7,
+        "content": "Acepta solo esta función y sírvela de todo corazón, pues lo que el Espíritu Santo hace con los regalos que le das a tu hermano, a quién se los ofrece, dónde y cuándo, es cosa Suya."
+      },
+      {
+        "verse": 8,
+        "content": "Los concederá allí donde han de ser recibidos y se les dé la bienvenida."
+      },
+      {
+        "verse": 9,
+        "content": "Utilizará cada uno de ellos en beneficio de la paz."
+      },
+      {
+        "verse": 10,
+        "content": "Y ni la más leve sonrisa o buena voluntad de alguien para pasar por alto la más diminuta equivocación le pasará desapercibida a Él."
+      }
     ]
   },
   {
@@ -921,17 +2331,50 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "¿Qué otra cosa podría ser contemplar con caridad aquello que tu Padre ama sino una bendición universal?" },
-      { "verse": 2, "content": "Extender el perdón es la función del Espíritu Santo." },
-      { "verse": 3, "content": "Deja eso en Sus manos." },
-      { "verse": 4, "content": "Ocúpate únicamente de entregarle aquello que se puede extender." },
-      { "verse": 5, "content": "No guardes ningún secreto tenebroso que Él no pueda usar, antes bien, ofrécele los pequeños regalos que Él puede extender para siempre." },
-      { "verse": 6, "content": "Él aceptará cada uno de ellos y los convertirá en una fuerza potente en favor de la paz." },
-      { "verse": 7, "content": "El Espíritu Santo no dejará de bendecir ni uno solo de los regalos que le haces ni los limitará en forma alguna." },
-      { "verse": 8, "content": "Los infundirá de todo el poder que Dios le ha conferido a fin de hacer de cada uno de ellos un manantial de curación para todos." },
-      { "verse": 9, "content": "Cada pequeño regalo que le ofreces a tu hermano derrama luz sobre el mundo." },
-      { "verse": 10, "content": "No te preocupes por las tinieblas; más bien mira más allá de ellas y contempla a tu hermano." },
-      { "verse": 11, "content": "Y deja que las tinieblas sean disipadas por Aquel que conoce la luz y que tiernamente la deposita en cada una de las dulces sonrisas de fe y de confianza con las que lo bendices." }
+      {
+        "verse": 1,
+        "content": "¿Qué otra cosa podría ser contemplar con caridad aquello que tu Padre ama sino una bendición universal?"
+      },
+      {
+        "verse": 2,
+        "content": "Extender el perdón es la función del Espíritu Santo."
+      },
+      {
+        "verse": 3,
+        "content": "Deja eso en Sus manos."
+      },
+      {
+        "verse": 4,
+        "content": "Ocúpate únicamente de entregarle aquello que se puede extender."
+      },
+      {
+        "verse": 5,
+        "content": "No guardes ningún secreto tenebroso que Él no pueda usar, antes bien, ofrécele los pequeños regalos que Él puede extender para siempre."
+      },
+      {
+        "verse": 6,
+        "content": "Él aceptará cada uno de ellos y los convertirá en una fuerza potente en favor de la paz."
+      },
+      {
+        "verse": 7,
+        "content": "El Espíritu Santo no dejará de bendecir ni uno solo de los regalos que le haces ni los limitará en forma alguna."
+      },
+      {
+        "verse": 8,
+        "content": "Los infundirá de todo el poder que Dios le ha conferido a fin de hacer de cada uno de ellos un manantial de curación para todos."
+      },
+      {
+        "verse": 9,
+        "content": "Cada pequeño regalo que le ofreces a tu hermano derrama luz sobre el mundo."
+      },
+      {
+        "verse": 10,
+        "content": "No te preocupes por las tinieblas; más bien mira más allá de ellas y contempla a tu hermano."
+      },
+      {
+        "verse": 11,
+        "content": "Y deja que las tinieblas sean disipadas por Aquel que conoce la luz y que tiernamente la deposita en cada una de las dulces sonrisas de fe y de confianza con las que lo bendices."
+      }
     ]
   },
   {
@@ -939,14 +2382,38 @@
     "type": "text",
     "paragraph": 10,
     "sentences": [
-      { "verse": 1, "content": "De tu aprendizaje depende el bienestar del mundo." },
-      { "verse": 2, "content": "Y es solo la arrogancia lo que negaría el poder de tu voluntad." },
-      { "verse": 3, "content": "¿Crees acaso que la Voluntad de Dios es impotente?" },
-      { "verse": 4, "content": "¿Es a eso a lo que llamas humildad?" },
-      { "verse": 5, "content": "No te das cuenta de lo que esta creencia ha ocasionado." },
-      { "verse": 6, "content": "Te consideras a ti mismo vulnerable, débil, fácil de destruir y a merced de innumerables agresores mucho más fuertes que tú." },
-      { "verse": 7, "content": "Examinemos detenidamente cómo fue que surgió este error, pues en él yace enterrada la pesada ancla que parece mantener vigente, inamovible y sólido como una roca el temor a Dios." },
-      { "verse": 8, "content": "Y mientras esa creencia perdure, así parecerá ser." }
+      {
+        "verse": 1,
+        "content": "De tu aprendizaje depende el bienestar del mundo."
+      },
+      {
+        "verse": 2,
+        "content": "Y es solo la arrogancia lo que negaría el poder de tu voluntad."
+      },
+      {
+        "verse": 3,
+        "content": "¿Crees acaso que la Voluntad de Dios es impotente?"
+      },
+      {
+        "verse": 4,
+        "content": "¿Es a eso a lo que llamas humildad?"
+      },
+      {
+        "verse": 5,
+        "content": "No te das cuenta de lo que esta creencia ha ocasionado."
+      },
+      {
+        "verse": 6,
+        "content": "Te consideras a ti mismo vulnerable, débil, fácil de destruir y a merced de innumerables agresores mucho más fuertes que tú."
+      },
+      {
+        "verse": 7,
+        "content": "Examinemos detenidamente cómo fue que surgió este error, pues en él yace enterrada la pesada ancla que parece mantener vigente, inamovible y sólido como una roca el temor a Dios."
+      },
+      {
+        "verse": 8,
+        "content": "Y mientras esa creencia perdure, así parecerá ser."
+      }
     ]
   },
   {
@@ -954,13 +2421,34 @@
     "type": "text",
     "paragraph": 11,
     "sentences": [
-      { "verse": 1, "content": "¿Quién puede atacar al Hijo de Dios y no atacar a su Padre?" },
-      { "verse": 2, "content": "¿Cómo iba a ser el Hijo de Dios débil, frágil y fácil de destruir a menos que su Padre también lo fuese?" },
-      { "verse": 3, "content": "¿No te das cuenta de que cada pecado y cada condenación que percibes y justificas _es_ un ataque contra tu Padre?" },
-      { "verse": 4, "content": "Por eso es por lo que el ataque no ha tenido lugar ni puede ser real." },
-      { "verse": 5, "content": "No te percatas de que esa ha sido tu intención porque crees que el Padre y el Hijo están separados." },
-      { "verse": 6, "content": "Y no puedes sino pensar que están separados, debido al miedo." },
-      { "verse": 7, "content": "Pues parece menos arriesgado atacar a otro o atacarte a ti mismo que atacar al Gran Creador del universo, Cuyo Poder conoces." }
+      {
+        "verse": 1,
+        "content": "¿Quién puede atacar al Hijo de Dios y no atacar a su Padre?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Cómo iba a ser el Hijo de Dios débil, frágil y fácil de destruir a menos que su Padre también lo fuese?"
+      },
+      {
+        "verse": 3,
+        "content": "¿No te das cuenta de que cada pecado y cada condenación que percibes y justificas _es_ un ataque contra tu Padre?"
+      },
+      {
+        "verse": 4,
+        "content": "Por eso es por lo que el ataque no ha tenido lugar ni puede ser real."
+      },
+      {
+        "verse": 5,
+        "content": "No te percatas de que esa ha sido tu intención porque crees que el Padre y el Hijo están separados."
+      },
+      {
+        "verse": 6,
+        "content": "Y no puedes sino pensar que están separados, debido al miedo."
+      },
+      {
+        "verse": 7,
+        "content": "Pues parece menos arriesgado atacar a otro o atacarte a ti mismo que atacar al Gran Creador del universo, Cuyo Poder conoces."
+      }
     ]
   },
   {
@@ -968,18 +2456,54 @@
     "type": "text",
     "paragraph": 12,
     "sentences": [
-      { "verse": 1, "content": "Si fueras uno con Dios y reconocieras esa unidad, sabrías que Su Poder te pertenece." },
-      { "verse": 2, "content": "Mas no podrás recordar esto mientras creas que el ataque, de la clase que sea, tiene sentido." },
-      { "verse": 3, "content": "Ninguna clase de ataque está justificado porque no tiene sentido." },
-      { "verse": 4, "content": "De la única manera en que el ataque se podría justificar es si tú y tu hermano estuvierais realmente separados el uno del otro, y todo el mundo estuviera separado del Creador." },
-      { "verse": 5, "content": "Pues solo entonces sería posible atacar una parte de la Creación sin atacarla a toda Ella; atacar al Hijo sin atacar al Padre; atacar a otro sin atacarte a ti mismo o herirte a ti mismo sin que otro sienta dolor." },
-      { "verse": 6, "content": "Sin embargo, no te quieres deshacer de esa creencia." },
-      { "verse": 7, "content": "Mas ¿dónde reside su valor sino en el deseo de poder atacar impunemente?" },
-      { "verse": 8, "content": "El ataque no es ni peligroso ni inocuo." },
-      { "verse": 9, "content": "Sencillamente es imposible." },
-      { "verse": 10, "content": "Y esto es así porque el universo es uno." },
-      { "verse": 11, "content": "No elegirías atacar su realidad si no fuera porque para poder verlo separado de su hacedor es esencial atacar." },
-      { "verse": 12, "content": "Y así parece como si el amor pudiera atacar y volverse temible." }
+      {
+        "verse": 1,
+        "content": "Si fueras uno con Dios y reconocieras esa unidad, sabrías que Su Poder te pertenece."
+      },
+      {
+        "verse": 2,
+        "content": "Mas no podrás recordar esto mientras creas que el ataque, de la clase que sea, tiene sentido."
+      },
+      {
+        "verse": 3,
+        "content": "Ninguna clase de ataque está justificado porque no tiene sentido."
+      },
+      {
+        "verse": 4,
+        "content": "De la única manera en que el ataque se podría justificar es si tú y tu hermano estuvierais realmente separados el uno del otro, y todo el mundo estuviera separado del Creador."
+      },
+      {
+        "verse": 5,
+        "content": "Pues solo entonces sería posible atacar una parte de la Creación sin atacarla a toda Ella; atacar al Hijo sin atacar al Padre; atacar a otro sin atacarte a ti mismo o herirte a ti mismo sin que otro sienta dolor."
+      },
+      {
+        "verse": 6,
+        "content": "Sin embargo, no te quieres deshacer de esa creencia."
+      },
+      {
+        "verse": 7,
+        "content": "Mas ¿dónde reside su valor sino en el deseo de poder atacar impunemente?"
+      },
+      {
+        "verse": 8,
+        "content": "El ataque no es ni peligroso ni inocuo."
+      },
+      {
+        "verse": 9,
+        "content": "Sencillamente es imposible."
+      },
+      {
+        "verse": 10,
+        "content": "Y esto es así porque el universo es uno."
+      },
+      {
+        "verse": 11,
+        "content": "No elegirías atacar su realidad si no fuera porque para poder verlo separado de su hacedor es esencial atacar."
+      },
+      {
+        "verse": 12,
+        "content": "Y así parece como si el amor pudiera atacar y volverse temible."
+      }
     ]
   },
   {
@@ -987,16 +2511,46 @@
     "type": "text",
     "paragraph": 13,
     "sentences": [
-      { "verse": 1, "content": "Solo los que son diferentes pueden atacar." },
-      { "verse": 2, "content": "Y de ahí deduces que _porque_ puedes atacar, debes ser diferente de tu hermano." },
-      { "verse": 3, "content": "Sin embargo, el Espíritu Santo explica esto de otra manera." },
-      { "verse": 4, "content": "No puedes atacar _precisamente_ porque no eres diferente de tu hermano." },
-      { "verse": 5, "content": "Cualquiera de esas dos posturas es una conclusión lógica." },
-      { "verse": 6, "content": "Cualquiera de ellas puede ser aceptada, pero no ambas." },
-      { "verse": 7, "content": "La única pregunta que necesita contestarse a fin de decidir cuál de las dos es verdad, es si en realidad eres diferente de tu hermano." },
-      { "verse": 8, "content": "Desde el punto de vista de lo que entiendes parece que lo eres y, por lo tanto, que puedes atacar." },
-      { "verse": 9, "content": "De ambas alternativas, esta parece la más natural y la más afín a tu experiencia." },
-      { "verse": 10, "content": "Por eso es necesario que tengas otras experiencias más afines a la verdad, para enseñarte lo que en realidad _es_ natural y verdadero." }
+      {
+        "verse": 1,
+        "content": "Solo los que son diferentes pueden atacar."
+      },
+      {
+        "verse": 2,
+        "content": "Y de ahí deduces que _porque_ puedes atacar, debes ser diferente de tu hermano."
+      },
+      {
+        "verse": 3,
+        "content": "Sin embargo, el Espíritu Santo explica esto de otra manera."
+      },
+      {
+        "verse": 4,
+        "content": "No puedes atacar _precisamente_ porque no eres diferente de tu hermano."
+      },
+      {
+        "verse": 5,
+        "content": "Cualquiera de esas dos posturas es una conclusión lógica."
+      },
+      {
+        "verse": 6,
+        "content": "Cualquiera de ellas puede ser aceptada, pero no ambas."
+      },
+      {
+        "verse": 7,
+        "content": "La única pregunta que necesita contestarse a fin de decidir cuál de las dos es verdad, es si en realidad eres diferente de tu hermano."
+      },
+      {
+        "verse": 8,
+        "content": "Desde el punto de vista de lo que entiendes parece que lo eres y, por lo tanto, que puedes atacar."
+      },
+      {
+        "verse": 9,
+        "content": "De ambas alternativas, esta parece la más natural y la más afín a tu experiencia."
+      },
+      {
+        "verse": 10,
+        "content": "Por eso es necesario que tengas otras experiencias más afines a la verdad, para enseñarte lo que en realidad _es_ natural y verdadero."
+      }
     ]
   },
   {
@@ -1004,15 +2558,42 @@
     "type": "text",
     "paragraph": 14,
     "sentences": [
-      { "verse": 1, "content": "Esa es la función de tu relación santa." },
-      { "verse": 2, "content": "Pues lo que uno de vosotros piense, el otro lo experimentará con él." },
-      { "verse": 3, "content": "¿Qué puede querer decir esto sino que tu mente y la mente de tu hermano son una?" },
-      { "verse": 4, "content": "No veas con temor este feliz hecho ni pienses que con ello se te impone una pesada carga." },
-      { "verse": 5, "content": "Pues cuando lo hayas aceptado de buen grado, te darás cuenta de que vuestra relación es un reflejo de la unión que existe entre el Creador y Su Hijo." },
-      { "verse": 6, "content": "Entre las mentes amorosas _no hay_ separación." },
-      { "verse": 7, "content": "Y cada pensamiento que una de ellas tiene le brinda felicidad a la otra porque es la misma mente." },
-      { "verse": 8, "content": "La dicha es ilimitada porque cada pensamiento de amor radiante extiende su ser y crea más de sí mismo." },
-      { "verse": 9, "content": "En él no tienen cabida las diferencias, pues todo pensamiento es como él mismo." }
+      {
+        "verse": 1,
+        "content": "Esa es la función de tu relación santa."
+      },
+      {
+        "verse": 2,
+        "content": "Pues lo que uno de vosotros piense, el otro lo experimentará con él."
+      },
+      {
+        "verse": 3,
+        "content": "¿Qué puede querer decir esto sino que tu mente y la mente de tu hermano son una?"
+      },
+      {
+        "verse": 4,
+        "content": "No veas con temor este feliz hecho ni pienses que con ello se te impone una pesada carga."
+      },
+      {
+        "verse": 5,
+        "content": "Pues cuando lo hayas aceptado de buen grado, te darás cuenta de que vuestra relación es un reflejo de la unión que existe entre el Creador y Su Hijo."
+      },
+      {
+        "verse": 6,
+        "content": "Entre las mentes amorosas _no hay_ separación."
+      },
+      {
+        "verse": 7,
+        "content": "Y cada pensamiento que una de ellas tiene le brinda felicidad a la otra porque es la misma mente."
+      },
+      {
+        "verse": 8,
+        "content": "La dicha es ilimitada porque cada pensamiento de amor radiante extiende su ser y crea más de sí mismo."
+      },
+      {
+        "verse": 9,
+        "content": "En él no tienen cabida las diferencias, pues todo pensamiento es como él mismo."
+      }
     ]
   },
   {
@@ -1020,13 +2601,34 @@
     "type": "text",
     "paragraph": 15,
     "sentences": [
-      { "verse": 1, "content": "La luz que os une brilla a través del universo, y puesto que os une, hace que seáis uno con vuestro Creador." },
-      { "verse": 2, "content": "Y en Él converge toda la Creación." },
-      { "verse": 3, "content": "¿Lamentarías no poder sentir miedo solo, cuando tu relación te puede enseñar que el poder del amor reside en ella, haciendo así que el miedo sea imposible?" },
-      { "verse": 4, "content": "No intentes conservar un poco del ego junto con este regalo." },
-      { "verse": 5, "content": "Pues se te dio para que lo usaras, no para que lo ocultases." },
-      { "verse": 6, "content": "Aquello que te enseña que no os podéis separar niega al ego." },
-      { "verse": 7, "content": "Deja que la verdad decida si tú y tu hermano sois diferentes o iguales, y que te enseñe cuál de estas dos posibilidades es verdad." }
+      {
+        "verse": 1,
+        "content": "La luz que os une brilla a través del universo, y puesto que os une, hace que seáis uno con vuestro Creador."
+      },
+      {
+        "verse": 2,
+        "content": "Y en Él converge toda la Creación."
+      },
+      {
+        "verse": 3,
+        "content": "¿Lamentarías no poder sentir miedo solo, cuando tu relación te puede enseñar que el poder del amor reside en ella, haciendo así que el miedo sea imposible?"
+      },
+      {
+        "verse": 4,
+        "content": "No intentes conservar un poco del ego junto con este regalo."
+      },
+      {
+        "verse": 5,
+        "content": "Pues se te dio para que lo usaras, no para que lo ocultases."
+      },
+      {
+        "verse": 6,
+        "content": "Aquello que te enseña que no os podéis separar niega al ego."
+      },
+      {
+        "verse": 7,
+        "content": "Deja que la verdad decida si tú y tu hermano sois diferentes o iguales, y que te enseñe cuál de estas dos posibilidades es verdad."
+      }
     ]
   }
 ]

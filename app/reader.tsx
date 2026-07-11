@@ -2,7 +2,7 @@ import React, { useMemo, useRef, useCallback, useState, useEffect } from 'react'
 import { View, Text, ScrollView, StyleSheet, LayoutChangeEvent, useWindowDimensions, Pressable, Animated } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { router, useLocalSearchParams } from 'expo-router';
+import { router, useLocalSearchParams, useFocusEffect } from 'expo-router';
 import { BackIcon, HomeIcon } from '@/components/Icons';
 import { TertiaryButton } from '@/components/TertiaryButton';
 import { toTitleCase } from '@/utils/text';
@@ -57,7 +57,6 @@ const CONTENT: Record<string, ContentBlock[]> = {
   'theory-ch29': require('@/assets/content/theory/theory-ch29.json'),
   'theory-ch30': require('@/assets/content/theory/theory-ch30.json'),
   'theory-ch31': require('@/assets/content/theory/theory-ch31.json'),
-  'workbook-intro':                  require('@/assets/content/workbook/workbook-intro.json'),
   'workbook-part1-lessons1-50':      require('@/assets/content/workbook/workbook-part1-lessons1-50.json'),
   'workbook-part1-review1':          require('@/assets/content/workbook/workbook-part1-review1.json'),
   'workbook-part1-lessons61-80':     require('@/assets/content/workbook/workbook-part1-lessons61-80.json'),
@@ -212,7 +211,7 @@ function resolveContentKey(bookId: string, anchor: string): string {
     if (anchor === 'workbook-part2-final')                return 'workbook-part2-final';
     if (anchor === 'workbook-part2-final-intro')          return 'workbook-part2-final';
     if (anchor === 'workbook-epilogue')                   return 'workbook-epilogue';
-    return 'workbook-intro';
+    return 'workbook-part1-lessons1-50';
   }
   if (bookId === 'mft') {
     if (anchor?.startsWith('supplement-mft-clarification') || anchor === 'supplement-mft-epilogo') {
@@ -237,12 +236,30 @@ function getMarginTop(type: string, prevType: string | null, isFirst: boolean): 
 }
 
 export default function ReaderScreen() {
-  const { book: bookId, anchor } = useLocalSearchParams<{ book: string; anchor: string }>();
-  const { height: screenHeight } = useWindowDimensions();
+  const { book: bookId, anchor, paragraph: paragraphParam } = useLocalSearchParams<{ book: string; anchor: string; paragraph?: string }>();
+  const { height: screenHeight, width: screenWidth } = useWindowDimensions();
   const { isDark } = useTheme();
   const t = useThemeColors();
   const styles = useMemo(() => createStyles(t, isDark), [t, isDark]);
   const scrollRef = useRef<ScrollView>(null);
+  const [navigating, setNavigating] = useState(false);
+  const [loadBarVisible, setLoadBarVisible] = useState(false);
+  const loadBarAnim = useRef(new Animated.Value(0)).current;
+
+  const startLoadBar = useCallback(() => {
+    setLoadBarVisible(true);
+    loadBarAnim.setValue(0);
+    Animated.timing(loadBarAnim, { toValue: 1, duration: 500, useNativeDriver: true }).start();
+  }, [loadBarAnim]);
+
+  useFocusEffect(
+    useCallback(() => {
+      setNavigating(false);
+      setLoadBarVisible(false);
+      loadBarAnim.stopAnimation();
+      loadBarAnim.setValue(0);
+    }, [loadBarAnim])
+  );
   const hasScrolled = useRef(false);
   const chapterPositions = useRef<{ y: number; block: ContentBlock }[]>([]);
   const activeChapterRef = useRef<ContentBlock | null>(null);
@@ -380,6 +397,24 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
     return (CONTENT[key] ?? []) as ContentBlock[];
   }, [bookId, anchor]);
 
+  // When a search result links here with a paragraph number, scroll past the
+  // section/lesson heading straight to that paragraph's own text block —
+  // otherwise landing on the section start is only correct by coincidence.
+  const scrollTargetBlock = useMemo(() => {
+    if (!anchor) return null;
+    const anchorIdx = bookBlocks.findIndex(b => b.anchor === anchor);
+    if (anchorIdx < 0) return null;
+    const paragraphNum = paragraphParam ? Number(paragraphParam) : NaN;
+    if (!Number.isNaN(paragraphNum)) {
+      for (let i = anchorIdx + 1; i < bookBlocks.length; i++) {
+        const b = bookBlocks[i];
+        if (b.anchor != null) break; // next section/chapter/lesson boundary
+        if (b.type === 'text' && b.paragraph === paragraphNum) return b;
+      }
+    }
+    return bookBlocks[anchorIdx];
+  }, [bookBlocks, anchor, paragraphParam]);
+
   useEffect(() => {
     setScrolledChapterBlock(null);
     setScrolledSectionBlock(null);
@@ -432,7 +467,16 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
       }
       // Part II intro
       if (anchor === 'workbook-part2-intro') return 'Parte II';
+      // Workbook (Part I) overall intro
+      if (anchor === 'workbook-intro') return 'Parte I';
     }
+    // Workbook (Part I) overall intro stays "Parte I" regardless of scroll position —
+    // it isn't thematically part of the "Lecciones 1 al 50" group it happens to be bundled with.
+    if (scrolledChapterBlock?.anchor === 'workbook-intro') return 'Parte I';
+    // Part II intro stays "Parte II" regardless of scroll position — its file has no
+    // lesson-group-heading for the generic rule below to fall back on, so it would
+    // otherwise collapse to the raw chapter title ("Introducción").
+    if (scrolledChapterBlock?.anchor === 'workbook-part2-intro') return 'Parte II';
     // When user scrolls into "Introducción" in a Repaso file, keep group heading as title
     if (scrolledChapterBlock?.type === 'chapter-heading') {
       const group = bookBlocks.find(b => b.type === 'lesson-group-heading');
@@ -480,7 +524,12 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
     if (!scrolledChapterBlock) {
       if (/^workbook-part1-review\d+-intro$/.test(anchor ?? '')) return 'Introducción';
       if (anchor === 'workbook-part2-intro') return 'Introducción';
+      if (anchor === 'workbook-intro') return 'Introducción';
     }
+    // Workbook (Part I) overall intro — subtitle stays "Introducción" regardless of scroll position
+    if (scrolledChapterBlock?.anchor === 'workbook-intro') return 'Introducción';
+    // Part II intro — subtitle stays "Introducción" regardless of scroll position
+    if (scrolledChapterBlock?.anchor === 'workbook-part2-intro') return 'Introducción';
     // When scrolled into "Introducción" chapter in a Repaso file
     if (scrolledChapterBlock?.type === 'chapter-heading') {
       const group = bookBlocks.find(b => b.type === 'lesson-group-heading');
@@ -660,7 +709,7 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
         scrollEventThrottle={100}
       >
         {visibleBlocks.map(({ block, mt, key, numbered }) => {
-          const onLayout = block.anchor === anchor ? handleAnchorLayout : undefined;
+          const onLayout = block === scrollTargetBlock ? handleAnchorLayout : undefined;
           switch (block.type) {
 
             case 'book-heading':
@@ -680,7 +729,7 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
             case 'chapter-heading': {
               const chapterLayout = (e: LayoutChangeEvent) => {
                 recordChapterLayout(block, e);
-                if (block.anchor === anchor) handleAnchorLayout(e, block.anchor === rootChapterAnchor);
+                if (block === scrollTargetBlock) handleAnchorLayout(e, block.anchor === rootChapterAnchor);
               };
               const isSetIntro = /^workbook-part2-set\d+-intro$/.test(block.anchor ?? '');
               const fmt = (s: string) => bookId === 'mft' ? s : toTitleCase(s);
@@ -701,7 +750,7 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
             case 'section-heading': {
               const sectionLayout = (e: LayoutChangeEvent) => {
                 recordSectionLayout(block, e);
-                if (block.anchor === anchor) handleAnchorLayout(e);
+                if (block === scrollTargetBlock) handleAnchorLayout(e);
               };
               return (
                 <Text key={key} selectable style={[styles.sectionHeading, { marginTop: mt }]} onLayout={sectionLayout}>
@@ -712,7 +761,7 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
 
             case 'lesson-group-heading':
               return (
-                <Text key={key} selectable style={[styles.lessonTitle, { marginTop: mt }]} onLayout={block.anchor === anchor ? (e) => handleAnchorLayout(e, true) : undefined}>
+                <Text key={key} selectable style={[styles.lessonTitle, { marginTop: mt }]} onLayout={block === scrollTargetBlock ? (e) => handleAnchorLayout(e, true) : undefined}>
                   {block.title}
                 </Text>
               );
@@ -720,7 +769,7 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
             case 'lesson-set-heading': {
               const setLayout = (e: LayoutChangeEvent) => {
                 recordChapterLayout(block, e);
-                if (block.anchor === anchor) handleAnchorLayout(e, true);
+                if (block === scrollTargetBlock) handleAnchorLayout(e, true);
               };
               if (block.anchor === 'workbook-part2-final') {
                 return (
@@ -739,7 +788,7 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
             case 'lesson-heading': {
               const lessonLayout = (e: LayoutChangeEvent) => {
                 recordChapterLayout(block, e);
-                if (block.anchor === anchor) handleAnchorLayout(e);
+                if (block === scrollTargetBlock) handleAnchorLayout(e);
               };
               return (
                 <View key={key} style={{ marginTop: mt }} onLayout={lessonLayout}>
@@ -850,7 +899,12 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
           <View style={styles.nextChapterContainer}>
             <RipplePressable
               style={({ pressed }) => [styles.nextChapterBtn, pressed && styles.nextChapterBtnPressed]}
-              onPress={() => router.replace({ pathname: '/reader', params: { book: bookId, anchor: nextContentKey } })}
+              onPress={() => {
+                if (navigating) return;
+                setNavigating(true);
+                startLoadBar();
+                setTimeout(() => router.replace({ pathname: '/reader', params: { book: bookId, anchor: nextContentKey } }), 200);
+              }}
             >
               <Text style={styles.nextChapterLabel}>
                 {bookId === 'workbook' ? 'Siguiente lección'
@@ -862,6 +916,16 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
         )}
       </ScrollView>
       </SafeAreaView>
+
+      {loadBarVisible && (
+        <View style={[loadBarStyles.track, { backgroundColor: isDark ? 'transparent' : t.darkOutline }]}>
+          <Animated.View style={[
+            loadBarStyles.fill,
+            { backgroundColor: isDark ? t.darkerBackgroundColor : t.fontColorPrimary },
+            { transform: [{ translateX: loadBarAnim.interpolate({ inputRange: [0, 1], outputRange: [-screenWidth, 0] }) }] },
+          ]} />
+        </View>
+      )}
 
       {ntSheet && (
         <Pressable style={StyleSheet.absoluteFill} onPress={closeNtSheet}>
@@ -882,6 +946,11 @@ function renderInline(text: string, onNt?: (word: string, note: string) => void)
     </SafeAreaView>
   );
 }
+
+const loadBarStyles = StyleSheet.create({
+  track: { position: 'absolute', left: 0, right: 0, bottom: 0, height: 3, overflow: 'hidden' },
+  fill: { position: 'absolute', left: 0, right: 0, height: 3 },
+});
 
 function createStyles(t: ReturnType<typeof useThemeColors>, isDark: boolean) {
   return StyleSheet.create({

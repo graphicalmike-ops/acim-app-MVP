@@ -1,255 +1,751 @@
 [
-  { "anchor": "workbook-part2-set8", "type": "lesson-set-heading", "title": "(291-300)", "subtitle": "¿Qué es el mundo real?" },
   {
-    "anchor": null, "type": "text", "paragraph": 1,
+    "anchor": "workbook-part2-set8",
+    "type": "lesson-set-heading",
+    "title": "(291-300)",
+    "subtitle": "¿Qué es el mundo real?"
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "El mundo real es un símbolo, como todo lo demás que la percepción ofrece." },
-      { "verse": 2, "content": "No obstante, es lo opuesto a lo que tú fabricaste." },
-      { "verse": 3, "content": "Ves tu mundo a través de los ojos del miedo, lo cual te trae a la mente los testigos del terror." },
-      { "verse": 4, "content": "El mundo real solo lo pueden percibir los ojos que han sido bendecidos por el perdón, los cuales, por consiguiente, ven un mundo donde el terror es imposible y donde no se puede encontrar ningún testigo del miedo." }
+      {
+        "verse": 1,
+        "content": "El mundo real es un símbolo, como todo lo demás que la percepción ofrece."
+      },
+      {
+        "verse": 2,
+        "content": "No obstante, es lo opuesto a lo que tú fabricaste."
+      },
+      {
+        "verse": 3,
+        "content": "Ves tu mundo a través de los ojos del miedo, lo cual te trae a la mente los testigos del terror."
+      },
+      {
+        "verse": 4,
+        "content": "El mundo real solo lo pueden percibir los ojos que han sido bendecidos por el perdón, los cuales, por consiguiente, ven un mundo donde el terror es imposible y donde no se puede encontrar ningún testigo del miedo."
+      }
     ]
   },
   {
-    "anchor": null, "type": "text", "paragraph": 2,
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "El mundo real te ofrece una contrapartida para cada pensamiento de infelicidad que se ve reflejado en tu mundo, una corrección segura para las escenas de miedo y los clamores de batalla que lo pueblan." },
-      { "verse": 2, "content": "El mundo real muestra un mundo que se contempla de otra manera: a través de ojos serenos y de una mente en paz." },
-      { "verse": 3, "content": "Allí solo hay reposo." },
-      { "verse": 4, "content": "No se oyen gritos de dolor o de pesar, pues allí nada está excluido del perdón." },
-      { "verse": 5, "content": "Y las escenas que se ven son apacibles," },
-      { "verse": 6, "content": "puesto que solo escenas y sonidos felices pueden llegar hasta la mente que se ha perdonado a sí misma." }
+      {
+        "verse": 1,
+        "content": "El mundo real te ofrece una contrapartida para cada pensamiento de infelicidad que se ve reflejado en tu mundo, una corrección segura para las escenas de miedo y los clamores de batalla que lo pueblan."
+      },
+      {
+        "verse": 2,
+        "content": "El mundo real muestra un mundo que se contempla de otra manera: a través de ojos serenos y de una mente en paz."
+      },
+      {
+        "verse": 3,
+        "content": "Allí solo hay reposo."
+      },
+      {
+        "verse": 4,
+        "content": "No se oyen gritos de dolor o de pesar, pues allí nada está excluido del perdón."
+      },
+      {
+        "verse": 5,
+        "content": "Y las escenas que se ven son apacibles,"
+      },
+      {
+        "verse": 6,
+        "content": "puesto que solo escenas y sonidos felices pueden llegar hasta la mente que se ha perdonado a sí misma."
+      }
     ]
   },
   {
-    "anchor": null, "type": "text", "paragraph": 3,
+    "anchor": null,
+    "type": "text",
+    "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "¿Qué necesidad tiene dicha mente de pensamientos de muerte, asesinato o ataque?" },
-      { "verse": 2, "content": "¿De qué puede sentirse rodeada sino de seguridad, amor y dicha?" },
-      { "verse": 3, "content": "¿Qué podría haber que ella quisiese condenar?" },
-      { "verse": 4, "content": "El mundo que ve emana de una mente que está en paz consigo misma." },
-      { "verse": 5, "content": "No ve peligro en nada de lo que contempla, pues es bondadosa, y lo único que ve es bondad." },
-      { "verse": "a", "content": "¿Y contra qué querría juzgar?" }
+      {
+        "verse": 1,
+        "content": "¿Qué necesidad tiene dicha mente de pensamientos de muerte, asesinato o ataque?"
+      },
+      {
+        "verse": 2,
+        "content": "¿De qué puede sentirse rodeada sino de seguridad, amor y dicha?"
+      },
+      {
+        "verse": 3,
+        "content": "¿Qué podría haber que ella quisiese condenar?"
+      },
+      {
+        "verse": "a",
+        "content": "¿Y contra qué querría juzgar?"
+      },
+      {
+        "verse": 4,
+        "content": "El mundo que ve emana de una mente que está en paz consigo misma."
+      },
+      {
+        "verse": 5,
+        "content": "No ve peligro en nada de lo que contempla, pues es bondadosa, y lo único que ve es bondad."
+      }
     ]
   },
   {
-    "anchor": null, "type": "text", "paragraph": 4,
+    "anchor": null,
+    "type": "text",
+    "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "El mundo real es el símbolo de que al sueño de pecado y culpabilidad le ha llegado su fin y de que el Hijo de Dios ha despertado." },
-      { "verse": 2, "content": "Y sus ojos, abiertos ahora, perciben el inequívoco reflejo del Amor de su Padre, la infalible promesa de que ha sido redimido." },
-      { "verse": 3, "content": "El mundo real representa el final del tiempo, pues cuando se percibe, el tiempo no tiene razón de ser." }
+      {
+        "verse": 1,
+        "content": "El mundo real es el símbolo de que al sueño de pecado y culpabilidad le ha llegado su fin y de que el Hijo de Dios ha despertado."
+      },
+      {
+        "verse": 2,
+        "content": "Y sus ojos, abiertos ahora, perciben el inequívoco reflejo del Amor de su Padre, la infalible promesa de que ha sido redimido."
+      },
+      {
+        "verse": 3,
+        "content": "El mundo real representa el final del tiempo, pues cuando se percibe, el tiempo no tiene razón de ser."
+      }
     ]
   },
   {
-    "anchor": null, "type": "text", "paragraph": 5,
+    "anchor": null,
+    "type": "text",
+    "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "El Espíritu Santo no tiene necesidad del tiempo una vez que este ha servido el propósito que Él le había asignado." },
-      { "verse": 2, "content": "Ahora espera un solo instante más para que Dios dé el paso final y el tiempo desaparezca llevándose consigo la percepción y dejando solamente a la verdad para que sea tal como es." },
-      { "verse": 3, "content": "Ese instante es nuestro objetivo, pues en él yace el recuerdo de Dios." },
-      { "verse": 4, "content": "Y según contemplamos un mundo perdonado, Él es Quien nos llama y nos viene a buscar para llevarnos a casa, recordándonos nuestra Identidad, la cual nos ha sido restaurada mediante nuestro perdón." }
-    ]
-  },
-  { "anchor": "workbook-l291", "type": "lesson-heading", "title": "Lección 291", "subtitle": "Este es un día de sosiego y de paz." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "Hoy la visión de Cristo contempla todo a través de mí." },
-      { "verse": 2, "content": "Su vista me muestra que todas las cosas han sido perdonadas y que se encuentran en paz, y le ofrece esa misma visión al mundo." },
-      { "verse": 3, "content": "En Su Nombre acepto esta visión para mí, así como para el mundo." },
-      { "verse": 4, "content": "¡Cuánta hermosura contemplamos en este día!" },
-      { "verse": 5, "content": "¡Cuánta santidad vemos a nuestro alrededor!" },
-      { "verse": 6, "content": "Y se nos concede reconocer que es una santidad que compartimos, pues es la Santidad de Dios Mismo." }
-    ]
-  },
-  {
-    "anchor": null, "type": "text", "paragraph": 2,
-    "sentences": [
-      { "verse": 1, "content": "Padre, mi mente se aquieta hoy para recibir los Pensamientos que Tú me ofreces.", "italic": true },
-      { "verse": 2, "content": "Y acepto lo que viene de Ti en lugar de lo que procede de mí.", "italic": true },
-      { "verse": 3, "content": "No conozco el camino que conduce a Ti,", "italic": true },
-      { "verse": 4, "content": "pero Tú lo conoces perfectamente.", "italic": true },
-      { "verse": 5, "content": "Guía a Tu Hijo por el tranquilo sendero que lo lleva hasta Ti.", "italic": true },
-      { "verse": 6, "content": "Haz que mi perdón sea total y completo y que Tu recuerdo retorne a mí.", "italic": true }
-    ]
-  },
-  { "anchor": "workbook-l292", "type": "lesson-heading", "title": "Lección 292", "subtitle": "Todo tendrá un desenlace feliz." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "Las promesas de Dios no hacen excepciones." },
-      { "verse": 2, "content": "Y Él garantiza que la dicha será el desenlace final de todas las cosas." },
-      { "verse": 3, "content": "De nosotros depende, no obstante, cuándo habrá de lograrse eso: hasta cuándo vamos a permitir que una voluntad ajena parezca oponerse a la Suya." },
-      { "verse": 4, "content": "Pues mientras pensemos que esa voluntad es real, no hallaremos el final que Él ha dispuesto sea el desenlace de todos los problemas que percibimos, de todas las tribulaciones que vemos y de todas las situaciones a que nos enfrentamos." },
-      { "verse": 5, "content": "Mas ese final es seguro." },
-      { "verse": 6, "content": "Pues la Voluntad de Dios se hace en la tierra, así como en el Cielo." },
-      { "verse": 7, "content": "Lo buscaremos y lo hallaremos, tal como dispone Su Voluntad, la Cual garantiza que nuestra voluntad se hace." }
+      {
+        "verse": 1,
+        "content": "El Espíritu Santo no tiene necesidad del tiempo una vez que este ha servido el propósito que Él le había asignado."
+      },
+      {
+        "verse": 2,
+        "content": "Ahora espera un solo instante más para que Dios dé el paso final y el tiempo desaparezca llevándose consigo la percepción y dejando solamente a la verdad para que sea tal como es."
+      },
+      {
+        "verse": 3,
+        "content": "Ese instante es nuestro objetivo, pues en él yace el recuerdo de Dios."
+      },
+      {
+        "verse": 4,
+        "content": "Y según contemplamos un mundo perdonado, Él es Quien nos llama y nos viene a buscar para llevarnos a casa, recordándonos nuestra Identidad, la cual nos ha sido restaurada mediante nuestro perdón."
+      }
     ]
   },
   {
-    "anchor": null, "type": "text", "paragraph": 2,
-    "sentences": [
-      { "verse": 1, "content": "Te damos gracias, Padre, por Tu garantía de que al final todo tendrá un desenlace feliz.", "italic": true },
-      { "verse": 2, "content": "Ayúdanos a no interferir y demorar así el feliz desenlace que nos has prometido para cada problema que podamos percibir y para cada prueba por la que todavía creemos que tenemos que pasar.", "italic": true }
-    ]
-  },
-  { "anchor": "workbook-l293", "type": "lesson-heading", "title": "Lección 293", "subtitle": "El miedo ya se acabó y lo único que hay aquí es amor." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "El miedo ya se acabó porque su fuente ha desaparecido y, junto con ella, todos sus pensamientos desaparecieron también." },
-      { "verse": 2, "content": "El amor sigue siendo el único estado presente, cuya Fuente está aquí por siempre y para siempre." },
-      { "verse": 3, "content": "¿Cómo iba a parecerme el mundo claro y diáfano, seguro y acogedor, cuando todos mis errores pasados lo oprimen y me muestran manifestaciones distorsionadas de miedo?" },
-      { "verse": 4, "content": "Mas en el presente el amor es obvio y sus efectos evidentes." },
-      { "verse": 5, "content": "El mundo entero resplandece en el reflejo de su santa luz y por fin percibo un mundo perdonado." }
-    ]
+    "anchor": "workbook-l291",
+    "type": "lesson-heading",
+    "title": "Lección 291",
+    "subtitle": "Este es un día de sosiego y de paz."
   },
   {
-    "anchor": null, "type": "text", "paragraph": 2,
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "Padre, que Tu santo mundo no me pase desapercibido hoy", "italic": true },
-      { "verse": 2, "content": "ni que mis oídos sean sordos a todos los himnos de gratitud que el mundo entona bajo los sonidos del miedo.", "italic": true },
-      { "verse": 3, "content": "Hay un mundo real que el presente mantiene a salvo de todos los errores del pasado.", "italic": true },
-      { "verse": 4, "content": "Y este es el único mundo que quiero tener ante mis ojos hoy.", "italic": true }
-    ]
-  },
-  { "anchor": "workbook-l294", "type": "lesson-heading", "title": "Lección 294", "subtitle": "Mi cuerpo es algo completamente neutro." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "Soy un Hijo de Dios." },
-      { "verse": 2, "content": "¿Cómo iba a poder ser también otra cosa?" },
-      { "verse": 3, "content": "¿Acaso creó Dios lo mortal y lo corruptible?" },
-      { "verse": 4, "content": "¿De qué le sirve al bienamado Hijo de Dios lo que ha de morir?" },
-      { "verse": 5, "content": "Sin embargo, lo que es neutro no puede ver la muerte, pues allí no se han depositado pensamientos de miedo ni se ha hecho de ello una parodia del amor." },
-      { "verse": 6, "content": "La neutralidad del cuerpo lo protege mientras siga siendo útil." },
-      { "verse": 7, "content": "Una vez que no tenga ningún propósito, se dejará a un lado." },
-      { "verse": 8, "content": "No es que haya enfermado, esté viejo o lesionado." },
-      { "verse": 9, "content": "Es que simplemente no tiene ninguna función, es innecesario y, por consiguiente, se le desecha." },
-      { "verse": 10, "content": "Que hoy no vea en él más que esto: algo que es útil por un tiempo y apto para servir, que se conserva mientras pueda ser de provecho, y luego es reemplazado por algo mejor." }
+      {
+        "verse": 1,
+        "content": "Hoy la visión de Cristo contempla todo a través de mí."
+      },
+      {
+        "verse": 2,
+        "content": "Su vista me muestra que todas las cosas han sido perdonadas y que se encuentran en paz, y le ofrece esa misma visión al mundo."
+      },
+      {
+        "verse": 3,
+        "content": "En Su Nombre acepto esta visión para mí, así como para el mundo."
+      },
+      {
+        "verse": 4,
+        "content": "¡Cuánta hermosura contemplamos en este día!"
+      },
+      {
+        "verse": 5,
+        "content": "¡Cuánta santidad vemos a nuestro alrededor!"
+      },
+      {
+        "verse": 6,
+        "content": "Y se nos concede reconocer que es una santidad que compartimos, pues es la Santidad de Dios Mismo."
+      }
     ]
   },
   {
-    "anchor": null, "type": "text", "paragraph": 2,
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Mi cuerpo, Padre, no puede ser Tu Hijo.", "italic": true },
-      { "verse": 2, "content": "Y lo que no ha sido creado no puede ser ni pecaminoso ni inocente; ni bueno ni malo.", "italic": true },
-      { "verse": 3, "content": "Que me valga, pues, de este sueño para poder ser de ayuda en Tu plan de que despertemos de todos los sueños que urdimos.", "italic": true }
-    ]
-  },
-  { "anchor": "workbook-l295", "type": "lesson-heading", "title": "Lección 295", "subtitle": "El Espíritu Santo ve hoy a través de mí." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "Hoy Cristo pide valerse de mis ojos para así redimir al mundo." },
-      { "verse": 2, "content": "Me pide este regalo para poder ofrecerme paz mental y eliminar todo terror y todo pesar." },
-      { "verse": 3, "content": "Y a medida que se me libra de estos, los sueños que parecían estar firmemente afianzados en el mundo desaparecen." },
-      { "verse": 4, "content": "La redención es una." },
-      { "verse": 5, "content": "Al salvarme yo, el mundo se salva conmigo." },
-      { "verse": 6, "content": "Pues todos tenemos que ser redimidos juntos." },
-      { "verse": 7, "content": "El miedo se presenta en múltiples formas, pero el amor es uno." }
-    ]
-  },
-  {
-    "anchor": null, "type": "text", "paragraph": 2,
-    "sentences": [
-      { "verse": 1, "content": "Padre mío, Cristo me ha pedido un regalo, que doy para que me sea dado.", "italic": true },
-      { "verse": 2, "content": "Ayúdame a usar los ojos de Cristo hoy, y así permitir que el Amor del Espíritu Santo bendiga todo cuanto contemple, de modo que la compasión de Su Amor pueda descender sobre mí.", "italic": true }
-    ]
-  },
-  { "anchor": "workbook-l296", "type": "lesson-heading", "title": "Lección 296", "subtitle": "El Espíritu Santo habla hoy a través de mí." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "El Espíritu Santo necesita hoy mi voz para que todo el mundo pueda escuchar Tu Voz y oír Tu Palabra a través de mí.", "italic": true },
-      { "verse": 2, "content": "Estoy decidido a dejar que hables por medio de mí, pues no quiero usar otras palabras que las Tuyas ni tener pensamientos aparte de los Tuyos, pues solo Estos son verdaderos.", "italic": true },
-      { "verse": 3, "content": "Quiero ser el salvador del mundo que fabriqué.", "italic": true },
-      { "verse": 4, "content": "Pues ya que lo condené, quiero liberarlo, de manera que pueda escapar y oír la Palabra que Tu santa Voz ha de comunicarme hoy.", "italic": true }
-    ]
-  },
-  {
-    "anchor": null, "type": "text", "paragraph": 2,
-    "sentences": [
-      { "verse": 1, "content": "Hoy solo enseñaremos lo que queremos aprender y nada más." },
-      { "verse": 2, "content": "De este modo, nuestra meta de aprendizaje se convierte en un objetivo libre de conflictos, lo cual nos permite alcanzarlo con facilidad y rapidez." },
-      { "verse": 3, "content": "¡Cuán gustosamente viene el Espíritu Santo a rescatarnos del infierno cuando permitimos que por medio de nosotros Sus enseñanzas persuadan al mundo para que busque y halle el fácil sendero que conduce a Dios!" }
-    ]
-  },
-  { "anchor": "workbook-l297", "type": "lesson-heading", "title": "Lección 297", "subtitle": "El perdón es el único regalo que doy." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "El perdón es el único regalo que doy, ya que es el único regalo que deseo." },
-      { "verse": 2, "content": "Y todo lo que doy, es a mí mismo a quien se lo doy." },
-      { "verse": 3, "content": "Esta es la sencilla fórmula de la salvación." },
-      { "verse": 4, "content": "Y yo, que quiero salvarme, la adoptaré para regir mi vida por ella en un mundo que tiene necesidad de salvación y que se salvará al yo aceptar la Expiación para mí mismo." }
+      {
+        "verse": 1,
+        "content": "Padre, mi mente se aquieta hoy para recibir los Pensamientos que Tú me ofreces.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Y acepto lo que viene de Ti en lugar de lo que procede de mí.",
+        "italic": true
+      },
+      {
+        "verse": 3,
+        "content": "No conozco el camino que conduce a Ti,",
+        "italic": true
+      },
+      {
+        "verse": 4,
+        "content": "pero Tú lo conoces perfectamente.",
+        "italic": true
+      },
+      {
+        "verse": 5,
+        "content": "Guía a Tu Hijo por el tranquilo sendero que lo lleva hasta Ti.",
+        "italic": true
+      },
+      {
+        "verse": 6,
+        "content": "Haz que mi perdón sea total y completo y que Tu recuerdo retorne a mí.",
+        "italic": true
+      }
     ]
   },
   {
-    "anchor": null, "type": "text", "paragraph": 2,
-    "sentences": [
-      { "verse": 1, "content": "Padre, ¡cuán certeros son Tus caminos; cuán seguro su desenlace final y cuán fielmente se ha trazado y logrado cada paso de mi salvación mediante Tu Gracia!", "italic": true },
-      { "verse": 2, "content": "Gracias a Ti por Tus eternos dones, y gracias a Ti también por mi Identidad.", "italic": true }
-    ]
-  },
-  { "anchor": "workbook-l298", "type": "lesson-heading", "title": "Lección 298", "subtitle": "Te amo, Padre, y también amo a Tu Hijo." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "Mi gratitud hace posible que mi amor sea aceptado sin miedo." },
-      { "verse": 2, "content": "Y de esta manera, se me restituye por fin mi realidad." },
-      { "verse": 3, "content": "El perdón elimina todo cuanto se interponía en mi santa visión." },
-      { "verse": 4, "content": "Y me aproximo al final de todas las jornadas absurdas, las carreras locas y los valores artificiales." },
-      { "verse": 5, "content": "En su lugar, acepto lo que Dios establece como mío, seguro de que solo mediante ello me puedo salvar y de que atravieso el miedo para encontrarme con mi Amor." }
-    ]
+    "anchor": "workbook-l292",
+    "type": "lesson-heading",
+    "title": "Lección 292",
+    "subtitle": "Todo tendrá un desenlace feliz."
   },
   {
-    "anchor": null, "type": "text", "paragraph": 2,
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "Padre, hoy vengo a Ti porque no quiero seguir otro camino que no sea el Tuyo.", "italic": true },
-      { "verse": 2, "content": "Estás a mi lado.", "italic": true },
-      { "verse": 3, "content": "Tu camino es seguro.", "italic": true },
-      { "verse": 4, "content": "Y me siento agradecido por Tus santos regalos: un santuario seguro y la escapatoria de todo lo que menoscabaría mi amor por Dios mi Padre y por Su santo Hijo.", "italic": true }
-    ]
-  },
-  { "anchor": "workbook-l299", "type": "lesson-heading", "title": "Lección 299", "subtitle": "La santidad eterna mora en mí." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "Mi santidad está mucho más allá de mi capacidad de comprender o saber lo que es." },
-      { "verse": 2, "content": "No obstante, Dios, mi Padre, Quien la creó, reconoce que mi santidad es la Suya." },
-      { "verse": 3, "content": "Nuestra Voluntad conjunta comprende lo que es." },
-      { "verse": 4, "content": "Y nuestra Voluntad conjunta sabe que así es." }
-    ]
-  },
-  {
-    "anchor": null, "type": "text", "paragraph": 2,
-    "sentences": [
-      { "verse": 1, "content": "Padre, mi santidad no proviene de mí.", "italic": true },
-      { "verse": 2, "content": "No es mía para dejar que el pecado la destruya.", "italic": true },
-      { "verse": 3, "content": "No es mía para dejar que sea el blanco del ataque.", "italic": true },
-      { "verse": 4, "content": "Las ilusiones pueden ocultarla, pero no pueden extinguir su fulgor ni atenuar su luz.", "italic": true },
-      { "verse": 5, "content": "Se yergue por siempre perfecta e intacta.", "italic": true },
-      { "verse": 6, "content": "En ella todas las cosas sanan, pues siguen siendo tal como Tú las creaste.", "italic": true },
-      { "verse": 7, "content": "Y puedo conocer mi santidad,", "italic": true },
-      { "verse": 8, "content": "pues fui creado por la Santidad Misma, y puedo conocer mi Fuente porque Tu Voluntad es que se Te conozca.", "italic": true }
-    ]
-  },
-  { "anchor": "workbook-l300", "type": "lesson-heading", "title": "Lección 300", "subtitle": "Este mundo dura tan solo un instante." },
-  {
-    "anchor": null, "type": "text", "paragraph": 1,
-    "sentences": [
-      { "verse": 1, "content": "Este pensamiento se puede utilizar para expresar que la muerte y el pesar es lo que le espera a todo aquel que viene aquí, pues sus alegrías desaparecen antes de que las pueda disfrutar o incluso tener a su alcance." },
-      { "verse": 2, "content": "Mas es también la idea que no permite que ninguna percepción falsa nos mantenga en su yugo ni represente más que una nube pasajera en un firmamento eternamente despejado." },
-      { "verse": 3, "content": "Y es esta calma, clara, obvia y segura, lo que buscamos hoy." }
+      {
+        "verse": 1,
+        "content": "Las promesas de Dios no hacen excepciones."
+      },
+      {
+        "verse": 2,
+        "content": "Y Él garantiza que la dicha será el desenlace final de todas las cosas."
+      },
+      {
+        "verse": 3,
+        "content": "De nosotros depende, no obstante, cuándo habrá de lograrse eso: hasta cuándo vamos a permitir que una voluntad ajena parezca oponerse a la Suya."
+      },
+      {
+        "verse": 4,
+        "content": "Pues mientras pensemos que esa voluntad es real, no hallaremos el final que Él ha dispuesto sea el desenlace de todos los problemas que percibimos, de todas las tribulaciones que vemos y de todas las situaciones a que nos enfrentamos."
+      },
+      {
+        "verse": 5,
+        "content": "Mas ese final es seguro."
+      },
+      {
+        "verse": 6,
+        "content": "Pues la Voluntad de Dios se hace en la tierra, así como en el Cielo."
+      },
+      {
+        "verse": 7,
+        "content": "Lo buscaremos y lo hallaremos, tal como dispone Su Voluntad, la Cual garantiza que nuestra voluntad se hace."
+      }
     ]
   },
   {
-    "anchor": null, "type": "text", "paragraph": 2,
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Hoy vamos en busca de Tu mundo santo.", "italic": true },
-      { "verse": 2, "content": "Pues nosotros, Tus amorosos Hijos, perdimos el rumbo por un momento.", "italic": true },
-      { "verse": 3, "content": "Mas al haber escuchado Tu Voz hemos aprendido exactamente lo que tenemos que hacer para que se nos restituya el Cielo y nuestra verdadera identidad.", "italic": true },
-      { "verse": 4, "content": "Y damos gracias hoy de que el mundo dure tan solo un instante.", "italic": true },
-      { "verse": 5, "content": "Queremos ir más allá de ese ínfimo instante y llegar a la eternidad.", "italic": true }
+      {
+        "verse": 1,
+        "content": "Te damos gracias, Padre, por Tu garantía de que al final todo tendrá un desenlace feliz.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Ayúdanos a no interferir y demorar así el feliz desenlace que nos has prometido para cada problema que podamos percibir y para cada prueba por la que todavía creemos que tenemos que pasar.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l293",
+    "type": "lesson-heading",
+    "title": "Lección 293",
+    "subtitle": "El miedo ya se acabó y lo único que hay aquí es amor."
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El miedo ya se acabó porque su fuente ha desaparecido y, junto con ella, todos sus pensamientos desaparecieron también."
+      },
+      {
+        "verse": 2,
+        "content": "El amor sigue siendo el único estado presente, cuya Fuente está aquí por siempre y para siempre."
+      },
+      {
+        "verse": 3,
+        "content": "¿Cómo iba a parecerme el mundo claro y diáfano, seguro y acogedor, cuando todos mis errores pasados lo oprimen y me muestran manifestaciones distorsionadas de miedo?"
+      },
+      {
+        "verse": 4,
+        "content": "Mas en el presente el amor es obvio y sus efectos evidentes."
+      },
+      {
+        "verse": 5,
+        "content": "El mundo entero resplandece en el reflejo de su santa luz y por fin percibo un mundo perdonado."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Padre, que Tu santo mundo no me pase desapercibido hoy",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "ni que mis oídos sean sordos a todos los himnos de gratitud que el mundo entona bajo los sonidos del miedo.",
+        "italic": true
+      },
+      {
+        "verse": 3,
+        "content": "Hay un mundo real que el presente mantiene a salvo de todos los errores del pasado.",
+        "italic": true
+      },
+      {
+        "verse": 4,
+        "content": "Y este es el único mundo que quiero tener ante mis ojos hoy.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l294",
+    "type": "lesson-heading",
+    "title": "Lección 294",
+    "subtitle": "Mi cuerpo es algo completamente neutro."
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Soy un Hijo de Dios."
+      },
+      {
+        "verse": 2,
+        "content": "¿Cómo iba a poder ser también otra cosa?"
+      },
+      {
+        "verse": 3,
+        "content": "¿Acaso creó Dios lo mortal y lo corruptible?"
+      },
+      {
+        "verse": 4,
+        "content": "¿De qué le sirve al bienamado Hijo de Dios lo que ha de morir?"
+      },
+      {
+        "verse": 5,
+        "content": "Sin embargo, lo que es neutro no puede ver la muerte, pues allí no se han depositado pensamientos de miedo ni se ha hecho de ello una parodia del amor."
+      },
+      {
+        "verse": 6,
+        "content": "La neutralidad del cuerpo lo protege mientras siga siendo útil."
+      },
+      {
+        "verse": 7,
+        "content": "Una vez que no tenga ningún propósito, se dejará a un lado."
+      },
+      {
+        "verse": 8,
+        "content": "No es que haya enfermado, esté viejo o lesionado."
+      },
+      {
+        "verse": 9,
+        "content": "Es que simplemente no tiene ninguna función, es innecesario y, por consiguiente, se le desecha."
+      },
+      {
+        "verse": 10,
+        "content": "Que hoy no vea en él más que esto: algo que es útil por un tiempo y apto para servir, que se conserva mientras pueda ser de provecho, y luego es reemplazado por algo mejor."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Mi cuerpo, Padre, no puede ser Tu Hijo.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Y lo que no ha sido creado no puede ser ni pecaminoso ni inocente; ni bueno ni malo.",
+        "italic": true
+      },
+      {
+        "verse": 3,
+        "content": "Que me valga, pues, de este sueño para poder ser de ayuda en Tu plan de que despertemos de todos los sueños que urdimos.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l295",
+    "type": "lesson-heading",
+    "title": "Lección 295",
+    "subtitle": "El Espíritu Santo ve hoy a través de mí."
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Hoy Cristo pide valerse de mis ojos para así redimir al mundo."
+      },
+      {
+        "verse": 2,
+        "content": "Me pide este regalo para poder ofrecerme paz mental y eliminar todo terror y todo pesar."
+      },
+      {
+        "verse": 3,
+        "content": "Y a medida que se me libra de estos, los sueños que parecían estar firmemente afianzados en el mundo desaparecen."
+      },
+      {
+        "verse": 4,
+        "content": "La redención es una."
+      },
+      {
+        "verse": 5,
+        "content": "Al salvarme yo, el mundo se salva conmigo."
+      },
+      {
+        "verse": 6,
+        "content": "Pues todos tenemos que ser redimidos juntos."
+      },
+      {
+        "verse": 7,
+        "content": "El miedo se presenta en múltiples formas, pero el amor es uno."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Padre mío, Cristo me ha pedido un regalo, que doy para que me sea dado.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Ayúdame a usar los ojos de Cristo hoy, y así permitir que el Amor del Espíritu Santo bendiga todo cuanto contemple, de modo que la compasión de Su Amor pueda descender sobre mí.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l296",
+    "type": "lesson-heading",
+    "title": "Lección 296",
+    "subtitle": "El Espíritu Santo habla hoy a través de mí."
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El Espíritu Santo necesita hoy mi voz para que todo el mundo pueda escuchar Tu Voz y oír Tu Palabra a través de mí.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Estoy decidido a dejar que hables por medio de mí, pues no quiero usar otras palabras que las Tuyas ni tener pensamientos aparte de los Tuyos, pues solo Estos son verdaderos.",
+        "italic": true
+      },
+      {
+        "verse": 3,
+        "content": "Quiero ser el salvador del mundo que fabriqué.",
+        "italic": true
+      },
+      {
+        "verse": 4,
+        "content": "Pues ya que lo condené, quiero liberarlo, de manera que pueda escapar y oír la Palabra que Tu santa Voz ha de comunicarme hoy.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Hoy solo enseñaremos lo que queremos aprender y nada más."
+      },
+      {
+        "verse": 2,
+        "content": "De este modo, nuestra meta de aprendizaje se convierte en un objetivo libre de conflictos, lo cual nos permite alcanzarlo con facilidad y rapidez."
+      },
+      {
+        "verse": 3,
+        "content": "¡Cuán gustosamente viene el Espíritu Santo a rescatarnos del infierno cuando permitimos que por medio de nosotros Sus enseñanzas persuadan al mundo para que busque y halle el fácil sendero que conduce a Dios!"
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l297",
+    "type": "lesson-heading",
+    "title": "Lección 297",
+    "subtitle": "El perdón es el único regalo que doy."
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "El perdón es el único regalo que doy, ya que es el único regalo que deseo."
+      },
+      {
+        "verse": 2,
+        "content": "Y todo lo que doy, es a mí mismo a quien se lo doy."
+      },
+      {
+        "verse": 3,
+        "content": "Esta es la sencilla fórmula de la salvación."
+      },
+      {
+        "verse": 4,
+        "content": "Y yo, que quiero salvarme, la adoptaré para regir mi vida por ella en un mundo que tiene necesidad de salvación y que se salvará al yo aceptar la Expiación para mí mismo."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Padre, ¡cuán certeros son Tus caminos; cuán seguro su desenlace final y cuán fielmente se ha trazado y logrado cada paso de mi salvación mediante Tu Gracia!",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Gracias a Ti por Tus eternos dones, y gracias a Ti también por mi Identidad.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l298",
+    "type": "lesson-heading",
+    "title": "Lección 298",
+    "subtitle": "Te amo, Padre, y también amo a Tu Hijo."
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Mi gratitud hace posible que mi amor sea aceptado sin miedo."
+      },
+      {
+        "verse": 2,
+        "content": "Y de esta manera, se me restituye por fin mi realidad."
+      },
+      {
+        "verse": 3,
+        "content": "El perdón elimina todo cuanto se interponía en mi santa visión."
+      },
+      {
+        "verse": 4,
+        "content": "Y me aproximo al final de todas las jornadas absurdas, las carreras locas y los valores artificiales."
+      },
+      {
+        "verse": 5,
+        "content": "En su lugar, acepto lo que Dios establece como mío, seguro de que solo mediante ello me puedo salvar y de que atravieso el miedo para encontrarme con mi Amor."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Padre, hoy vengo a Ti porque no quiero seguir otro camino que no sea el Tuyo.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Estás a mi lado.",
+        "italic": true
+      },
+      {
+        "verse": 3,
+        "content": "Tu camino es seguro.",
+        "italic": true
+      },
+      {
+        "verse": 4,
+        "content": "Y me siento agradecido por Tus santos regalos: un santuario seguro y la escapatoria de todo lo que menoscabaría mi amor por Dios mi Padre y por Su santo Hijo.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l299",
+    "type": "lesson-heading",
+    "title": "Lección 299",
+    "subtitle": "La santidad eterna mora en mí."
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Mi santidad está mucho más allá de mi capacidad de comprender o saber lo que es."
+      },
+      {
+        "verse": 2,
+        "content": "No obstante, Dios, mi Padre, Quien la creó, reconoce que mi santidad es la Suya."
+      },
+      {
+        "verse": 3,
+        "content": "Nuestra Voluntad conjunta comprende lo que es."
+      },
+      {
+        "verse": 4,
+        "content": "Y nuestra Voluntad conjunta sabe que así es."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Padre, mi santidad no proviene de mí.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "No es mía para dejar que el pecado la destruya.",
+        "italic": true
+      },
+      {
+        "verse": 3,
+        "content": "No es mía para dejar que sea el blanco del ataque.",
+        "italic": true
+      },
+      {
+        "verse": 4,
+        "content": "Las ilusiones pueden ocultarla, pero no pueden extinguir su fulgor ni atenuar su luz.",
+        "italic": true
+      },
+      {
+        "verse": 5,
+        "content": "Se yergue por siempre perfecta e intacta.",
+        "italic": true
+      },
+      {
+        "verse": 6,
+        "content": "En ella todas las cosas sanan, pues siguen siendo tal como Tú las creaste.",
+        "italic": true
+      },
+      {
+        "verse": 7,
+        "content": "Y puedo conocer mi santidad,",
+        "italic": true
+      },
+      {
+        "verse": 8,
+        "content": "pues fui creado por la Santidad Misma, y puedo conocer mi Fuente porque Tu Voluntad es que se Te conozca.",
+        "italic": true
+      }
+    ]
+  },
+  {
+    "anchor": "workbook-l300",
+    "type": "lesson-heading",
+    "title": "Lección 300",
+    "subtitle": "Este mundo dura tan solo un instante."
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 1,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Este pensamiento se puede utilizar para expresar que la muerte y el pesar es lo que le espera a todo aquel que viene aquí, pues sus alegrías desaparecen antes de que las pueda disfrutar o incluso tener a su alcance."
+      },
+      {
+        "verse": 2,
+        "content": "Mas es también la idea que no permite que ninguna percepción falsa nos mantenga en su yugo ni represente más que una nube pasajera en un firmamento eternamente despejado."
+      },
+      {
+        "verse": 3,
+        "content": "Y es esta calma, clara, obvia y segura, lo que buscamos hoy."
+      }
+    ]
+  },
+  {
+    "anchor": null,
+    "type": "text",
+    "paragraph": 2,
+    "sentences": [
+      {
+        "verse": 1,
+        "content": "Hoy vamos en busca de Tu mundo santo.",
+        "italic": true
+      },
+      {
+        "verse": 2,
+        "content": "Pues nosotros, Tus amorosos Hijos, perdimos el rumbo por un momento.",
+        "italic": true
+      },
+      {
+        "verse": 3,
+        "content": "Mas al haber escuchado Tu Voz hemos aprendido exactamente lo que tenemos que hacer para que se nos restituya el Cielo y nuestra verdadera identidad.",
+        "italic": true
+      },
+      {
+        "verse": 4,
+        "content": "Y damos gracias hoy de que el mundo dure tan solo un instante.",
+        "italic": true
+      },
+      {
+        "verse": 5,
+        "content": "Queremos ir más allá de ese ínfimo instante y llegar a la eternidad.",
+        "italic": true
+      }
     ]
   }
 ]

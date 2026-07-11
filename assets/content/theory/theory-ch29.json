@@ -15,15 +15,42 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "No hay tiempo, lugar ni estado del que Dios esté ausente." },
-      { "verse": 2, "content": "No hay nada que temer." },
-      { "verse": 3, "content": "Es imposible que se pudiera concebir una brecha en la Plenitud de Dios." },
-      { "verse": 4, "content": "La transigencia que la más insignificante y diminuta de las brechas representaría en Su Amor eterno es completamente imposible." },
-      { "verse": 5, "content": "Pues querría decir que Su Amor puede albergar una sombra de odio, que Su Bondad puede a veces trocarse en ataque y que en ocasiones podría perder Su infinita Paciencia." },
-      { "verse": 6, "content": "Esto es lo que crees cuando percibes una brecha entre tu hermano y tú." },
-      { "verse": 7, "content": "¿Cómo ibas a poder, entonces, confiar en Dios?" },
-      { "verse": 8, "content": "\"Pues Su Amor debe ser un engaño." },
-      { "verse": 9, "content": "Sé precavido entonces; no dejes que se te acerque demasiado y mantén una brecha entre Su Amor y tú a través de la cual te puedas escapar en caso de que tengas necesidad de huir.\"" }
+      {
+        "verse": 1,
+        "content": "No hay tiempo, lugar ni estado del que Dios esté ausente."
+      },
+      {
+        "verse": 2,
+        "content": "No hay nada que temer."
+      },
+      {
+        "verse": 3,
+        "content": "Es imposible que se pudiera concebir una brecha en la Plenitud de Dios."
+      },
+      {
+        "verse": 4,
+        "content": "La transigencia que la más insignificante y diminuta de las brechas representaría en Su Amor eterno es completamente imposible."
+      },
+      {
+        "verse": 5,
+        "content": "Pues querría decir que Su Amor puede albergar una sombra de odio, que Su Bondad puede a veces trocarse en ataque y que en ocasiones podría perder Su infinita Paciencia."
+      },
+      {
+        "verse": 6,
+        "content": "Esto es lo que crees cuando percibes una brecha entre tu hermano y tú."
+      },
+      {
+        "verse": 7,
+        "content": "¿Cómo ibas a poder, entonces, confiar en Dios?"
+      },
+      {
+        "verse": 8,
+        "content": "\"Pues Su Amor debe ser un engaño."
+      },
+      {
+        "verse": 9,
+        "content": "Sé precavido entonces; no dejes que se te acerque demasiado y mantén una brecha entre Su Amor y tú a través de la cual te puedas escapar en caso de que tengas necesidad de huir.\""
+      }
     ]
   },
   {
@@ -31,12 +58,30 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "He aquí donde más claramente se puede ver el temor a Dios." },
-      { "verse": 2, "content": "Pues el amor _es_ traicionero para aquellos que tienen miedo, ya que el miedo y el odio van siempre de la mano." },
-      { "verse": 3, "content": "Todo aquel que odia tiene miedo del amor y, por ende, no puede sino tener miedo de Dios." },
-      { "verse": 4, "content": "Es indudable que no conoce el significado del amor." },
-      { "verse": 5, "content": "Teme amar y ama odiar y, así, piensa que el amor es temible y que el odio es amor." },
-      { "verse": 6, "content": "Esto es lo que inevitablemente les sucede a todos aquellos que tienen en gran estima a esta pequeña brecha, creyendo que es su salvación y esperanza." }
+      {
+        "verse": 1,
+        "content": "He aquí donde más claramente se puede ver el temor a Dios."
+      },
+      {
+        "verse": 2,
+        "content": "Pues el amor _es_ traicionero para aquellos que tienen miedo, ya que el miedo y el odio van siempre de la mano."
+      },
+      {
+        "verse": 3,
+        "content": "Todo aquel que odia tiene miedo del amor y, por ende, no puede sino tener miedo de Dios."
+      },
+      {
+        "verse": 4,
+        "content": "Es indudable que no conoce el significado del amor."
+      },
+      {
+        "verse": 5,
+        "content": "Teme amar y ama odiar y, así, piensa que el amor es temible y que el odio es amor."
+      },
+      {
+        "verse": 6,
+        "content": "Esto es lo que inevitablemente les sucede a todos aquellos que tienen en gran estima a esta pequeña brecha, creyendo que es su salvación y esperanza."
+      }
     ]
   },
   {
@@ -44,16 +89,46 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "¡El temor a Dios!" },
-      { "verse": 2, "content": "El mayor obstáculo que la paz tiene que salvar no ha desaparecido todavía." },
-      { "verse": 3, "content": "Los demás ya han desaparecido, pero este todavía sigue en pie, obstruyendo tu paso y haciendo que el camino hacia la luz parezca oscuro y temible, peligroso y sombrío." },
-      { "verse": 4, "content": "Has decidido que tu hermano es tu enemigo." },
-      { "verse": 5, "content": "Tal vez tu amigo en algunas ocasiones, siempre que vuestros diferentes intereses permitan vuestra amistad por algún tiempo." },
-      { "verse": 6, "content": "Pero no sin dejar una aparente brecha entre vosotros en caso de que se vuelva a convertir en tu enemigo." },
-      { "verse": 7, "content": "Deja que se te acerque, y te haces atrás; acércate a él, y él instantáneamente emprende la retirada." },
-      { "verse": 8, "content": "El acuerdo que establecisteis fue tener una amistad cautelosa y de limitado alcance, cuya intensidad estuviese cuidadosamente restringida." },
-      { "verse": 9, "content": "De modo que lo único que tú y tu hermano hicisteis fue establecer un pacto condicional en el que uno de sus puntos era una cláusula de separación que tanto tú como él acordasteis no violar." },
-      { "verse": 10, "content": "Y convinisteis que violarla sería una infracción del acuerdo de todo punto intolerable." }
+      {
+        "verse": 1,
+        "content": "¡El temor a Dios!"
+      },
+      {
+        "verse": 2,
+        "content": "El mayor obstáculo que la paz tiene que salvar no ha desaparecido todavía."
+      },
+      {
+        "verse": 3,
+        "content": "Los demás ya han desaparecido, pero este todavía sigue en pie, obstruyendo tu paso y haciendo que el camino hacia la luz parezca oscuro y temible, peligroso y sombrío."
+      },
+      {
+        "verse": 4,
+        "content": "Has decidido que tu hermano es tu enemigo."
+      },
+      {
+        "verse": 5,
+        "content": "Tal vez tu amigo en algunas ocasiones, siempre que vuestros diferentes intereses permitan vuestra amistad por algún tiempo."
+      },
+      {
+        "verse": 6,
+        "content": "Pero no sin dejar una aparente brecha entre vosotros en caso de que se vuelva a convertir en tu enemigo."
+      },
+      {
+        "verse": 7,
+        "content": "Deja que se te acerque, y te haces atrás; acércate a él, y él instantáneamente emprende la retirada."
+      },
+      {
+        "verse": 8,
+        "content": "El acuerdo que establecisteis fue tener una amistad cautelosa y de limitado alcance, cuya intensidad estuviese cuidadosamente restringida."
+      },
+      {
+        "verse": 9,
+        "content": "De modo que lo único que tú y tu hermano hicisteis fue establecer un pacto condicional en el que uno de sus puntos era una cláusula de separación que tanto tú como él acordasteis no violar."
+      },
+      {
+        "verse": 10,
+        "content": "Y convinisteis que violarla sería una infracción del acuerdo de todo punto intolerable."
+      }
     ]
   },
   {
@@ -61,13 +136,34 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "La brecha entre vosotros no es el espacio que hay entre vuestros cuerpos," },
-      { "verse": 2, "content": "pues ese espacio tan solo da la impresión de dividir vuestras mentes separadas." },
-      { "verse": 3, "content": "La brecha entre vosotros es el símbolo de una promesa que os habéis hecho de encontraros cuando os parezca, y luego separaros hasta que los dos decidáis encontraros de nuevo." },
-      { "verse": 4, "content": "Y entonces vuestros cuerpos parecerán ponerse en contacto y concertar un lugar de encuentro." },
-      { "verse": 5, "content": "Pero siempre es posible que cada uno siga su camino." },
-      { "verse": 6, "content": "Supeditado al \"derecho\" de separaros, acordáis reuniros de vez en cuando y mantener vuestra distancia con intervalos de separación que os protejan del \"sacrificio\" del amor." },
-      { "verse": 7, "content": "El cuerpo os salva, pues os aleja del sacrificio total y os da tiempo para reconstruir una vez más vuestros yos separados, que creéis que realmente menguan cuando os reunís." }
+      {
+        "verse": 1,
+        "content": "La brecha entre vosotros no es el espacio que hay entre vuestros cuerpos,"
+      },
+      {
+        "verse": 2,
+        "content": "pues ese espacio tan solo da la impresión de dividir vuestras mentes separadas."
+      },
+      {
+        "verse": 3,
+        "content": "La brecha entre vosotros es el símbolo de una promesa que os habéis hecho de encontraros cuando os parezca, y luego separaros hasta que los dos decidáis encontraros de nuevo."
+      },
+      {
+        "verse": 4,
+        "content": "Y entonces vuestros cuerpos parecerán ponerse en contacto y concertar un lugar de encuentro."
+      },
+      {
+        "verse": 5,
+        "content": "Pero siempre es posible que cada uno siga su camino."
+      },
+      {
+        "verse": 6,
+        "content": "Supeditado al \"derecho\" de separaros, acordáis reuniros de vez en cuando y mantener vuestra distancia con intervalos de separación que os protejan del \"sacrificio\" del amor."
+      },
+      {
+        "verse": 7,
+        "content": "El cuerpo os salva, pues os aleja del sacrificio total y os da tiempo para reconstruir una vez más vuestros yos separados, que creéis que realmente menguan cuando os reunís."
+      }
     ]
   },
   {
@@ -75,13 +171,34 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "El cuerpo no podría separar tu mente de la mente de tu hermano a menos que quisieras que fuese la causa de vuestra separación y distanciamiento." },
-      { "verse": 2, "content": "Por consiguiente, le atribuyes un poder que no posee." },
-      { "verse": 3, "content": "Esto es lo que hace que tenga poder sobre ti." },
-      { "verse": 4, "content": "Pues ahora piensas que el cuerpo determina cuándo debéis reuniros y limita vuestra capacidad de estar en comunión con la mente del otro." },
-      { "verse": 5, "content": "Y así, te dice adónde ir y cómo llegar hasta allí; lo que te es factible emprender y lo que no puedes hacer." },
-      { "verse": 6, "content": "Te dice también lo que su salud puede tolerar, así como lo que lo fatigará y enfermará." },
-      { "verse": 7, "content": "Sus \"inherentes\" debilidades establecen los límites de lo que puedes hacer y hacen que tu propósito sea débil y limitado." }
+      {
+        "verse": 1,
+        "content": "El cuerpo no podría separar tu mente de la mente de tu hermano a menos que quisieras que fuese la causa de vuestra separación y distanciamiento."
+      },
+      {
+        "verse": 2,
+        "content": "Por consiguiente, le atribuyes un poder que no posee."
+      },
+      {
+        "verse": 3,
+        "content": "Esto es lo que hace que tenga poder sobre ti."
+      },
+      {
+        "verse": 4,
+        "content": "Pues ahora piensas que el cuerpo determina cuándo debéis reuniros y limita vuestra capacidad de estar en comunión con la mente del otro."
+      },
+      {
+        "verse": 5,
+        "content": "Y así, te dice adónde ir y cómo llegar hasta allí; lo que te es factible emprender y lo que no puedes hacer."
+      },
+      {
+        "verse": 6,
+        "content": "Te dice también lo que su salud puede tolerar, así como lo que lo fatigará y enfermará."
+      },
+      {
+        "verse": 7,
+        "content": "Sus \"inherentes\" debilidades establecen los límites de lo que puedes hacer y hacen que tu propósito sea débil y limitado."
+      }
     ]
   },
   {
@@ -89,11 +206,26 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "El cuerpo se avendrá a todo esto, si ese es tu deseo." },
-      { "verse": 2, "content": "Permitirá solamente limitados desahogos de \"amor\", intercalados con intervalos de odio." },
-      { "verse": 3, "content": "Y se hará cargo de decidir cuándo puede \"amar\" y cuándo se debe refugiar en el miedo para mantenerse a salvo." },
-      { "verse": 4, "content": "Enfermará porque no sabes lo que es amar." },
-      { "verse": 5, "content": "De este modo, utilizarás indebidamente toda circunstancia y a todo aquel con quien te encuentres, y no podrás sino ver en ellos un propósito distinto del tuyo." }
+      {
+        "verse": 1,
+        "content": "El cuerpo se avendrá a todo esto, si ese es tu deseo."
+      },
+      {
+        "verse": 2,
+        "content": "Permitirá solamente limitados desahogos de \"amor\", intercalados con intervalos de odio."
+      },
+      {
+        "verse": 3,
+        "content": "Y se hará cargo de decidir cuándo puede \"amar\" y cuándo se debe refugiar en el miedo para mantenerse a salvo."
+      },
+      {
+        "verse": 4,
+        "content": "Enfermará porque no sabes lo que es amar."
+      },
+      {
+        "verse": 5,
+        "content": "De este modo, utilizarás indebidamente toda circunstancia y a todo aquel con quien te encuentres, y no podrás sino ver en ellos un propósito distinto del tuyo."
+      }
     ]
   },
   {
@@ -101,11 +233,26 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "El amor no exige sacrificios." },
-      { "verse": 2, "content": "Pero el miedo exige el sacrificio del amor, pues no puede subsistir en su presencia." },
-      { "verse": 3, "content": "Para perpetuar el odio, es preciso temerle al amor y limitar su presencia solo a algunas ocasiones, manteniéndolo alejado el resto del tiempo." },
-      { "verse": 4, "content": "De esta manera, se le tiene por traicionero porque parece ir y venir a su antojo y no ofrecerte ninguna estabilidad." },
-      { "verse": 5, "content": "No te das cuenta de cuán limitada y débil es tu lealtad, y de cuán a menudo le has exigido al amor que se aleje de ti y te deje solo y en \"paz\"." }
+      {
+        "verse": 1,
+        "content": "El amor no exige sacrificios."
+      },
+      {
+        "verse": 2,
+        "content": "Pero el miedo exige el sacrificio del amor, pues no puede subsistir en su presencia."
+      },
+      {
+        "verse": 3,
+        "content": "Para perpetuar el odio, es preciso temerle al amor y limitar su presencia solo a algunas ocasiones, manteniéndolo alejado el resto del tiempo."
+      },
+      {
+        "verse": 4,
+        "content": "De esta manera, se le tiene por traicionero porque parece ir y venir a su antojo y no ofrecerte ninguna estabilidad."
+      },
+      {
+        "verse": 5,
+        "content": "No te das cuenta de cuán limitada y débil es tu lealtad, y de cuán a menudo le has exigido al amor que se aleje de ti y te deje solo y en \"paz\"."
+      }
     ]
   },
   {
@@ -113,13 +260,34 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "El cuerpo, que de por sí no tiene ningún objetivo, es la excusa que tienes para las diversas metas que abrigas y que le obligas a perseguir." },
-      { "verse": 2, "content": "No es su debilidad lo que te asusta, sino su falta de fuerza _o_ de vigor." },
-      { "verse": 3, "content": "¿No te gustaría saber que nada se interpone entre tú y él?" },
-      { "verse": 4, "content": "¿No te gustaría saber que no hay brecha tras la que te puedas ocultar?" },
-      { "verse": 5, "content": "Los que descubren que su salvador ya no es su enemigo experimentan un sobresalto." },
-      { "verse": 6, "content": "Cuando se descubre que el cuerpo no es real se suscita una cierta aprensión" },
-      { "verse": 7, "content": "y se experimentan matices de aparente temor en torno al feliz mensaje de que \"Dios es Amor\"." }
+      {
+        "verse": 1,
+        "content": "El cuerpo, que de por sí no tiene ningún objetivo, es la excusa que tienes para las diversas metas que abrigas y que le obligas a perseguir."
+      },
+      {
+        "verse": 2,
+        "content": "No es su debilidad lo que te asusta, sino su falta de fuerza _o_ de vigor."
+      },
+      {
+        "verse": 3,
+        "content": "¿No te gustaría saber que nada se interpone entre tú y él?"
+      },
+      {
+        "verse": 4,
+        "content": "¿No te gustaría saber que no hay brecha tras la que te puedas ocultar?"
+      },
+      {
+        "verse": 5,
+        "content": "Los que descubren que su salvador ya no es su enemigo experimentan un sobresalto."
+      },
+      {
+        "verse": 6,
+        "content": "Cuando se descubre que el cuerpo no es real se suscita una cierta aprensión"
+      },
+      {
+        "verse": 7,
+        "content": "y se experimentan matices de aparente temor en torno al feliz mensaje de que \"Dios es Amor\"."
+      }
     ]
   },
   {
@@ -127,12 +295,30 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "Cuando la brecha desaparece, no obstante, lo único que se experimenta es paz eterna." },
-      { "verse": 2, "content": "Nada más que eso, pero tampoco menos." },
-      { "verse": 3, "content": "Si no tuvieras miedo de Dios, ¿qué podría inducirte a que Lo abandonases?" },
-      { "verse": 4, "content": "¿Qué juguetes o baratijas podría haber en la brecha que pudieran privarte por un solo instante de Su Amor?" },
-      { "verse": 5, "content": "¿Permitirías que el cuerpo dijese \"no\" a la Llamada del Cielo si no tuvieras miedo de perderte a ti mismo al encontrar a Dios?" },
-      { "verse": 6, "content": "Mas ¿cómo sería posible que perdieras tu Ser al hallarlo?" }
+      {
+        "verse": 1,
+        "content": "Cuando la brecha desaparece, no obstante, lo único que se experimenta es paz eterna."
+      },
+      {
+        "verse": 2,
+        "content": "Nada más que eso, pero tampoco menos."
+      },
+      {
+        "verse": 3,
+        "content": "Si no tuvieras miedo de Dios, ¿qué podría inducirte a que Lo abandonases?"
+      },
+      {
+        "verse": 4,
+        "content": "¿Qué juguetes o baratijas podría haber en la brecha que pudieran privarte por un solo instante de Su Amor?"
+      },
+      {
+        "verse": 5,
+        "content": "¿Permitirías que el cuerpo dijese \"no\" a la Llamada del Cielo si no tuvieras miedo de perderte a ti mismo al encontrar a Dios?"
+      },
+      {
+        "verse": 6,
+        "content": "Mas ¿cómo sería posible que perdieras tu Ser al hallarlo?"
+      }
     ]
   },
   {
@@ -145,14 +331,38 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "¿Cómo no ibas a percibir como una liberación del sufrimiento darte cuenta de que eres libre?" },
-      { "verse": 2, "content": "¿Por qué no habrías de aclamar a la verdad en vez de considerarla un enemigo?" },
-      { "verse": 3, "content": "¿Por qué razón te parece arduo, escabroso y demasiado difícil de seguir una senda que es fácil y que está tan claramente señalada que es imposible perderse?" },
-      { "verse": 4, "content": "¿No será acaso porque consideras que es el camino al infierno en vez de una manera sencilla, sin sacrificios ni pérdidas, de encontrarte en el Cielo y en Dios?" },
-      { "verse": 5, "content": "Mientras no te des cuenta de que no renuncias a nada y de que es imposible perder, habrá veces en que te arrepentirás de haber elegido este camino." },
-      { "verse": 6, "content": "Y no verás los muchos beneficios que tu decisión te ha aportado." },
-      { "verse": 7, "content": "No obstante, aunque no los veas, están ahí." },
-      { "verse": 8, "content": "Su causa ya los produjo, y los efectos tienen que estar allí donde su causa ha hecho acto de presencia." }
+      {
+        "verse": 1,
+        "content": "¿Cómo no ibas a percibir como una liberación del sufrimiento darte cuenta de que eres libre?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Por qué no habrías de aclamar a la verdad en vez de considerarla un enemigo?"
+      },
+      {
+        "verse": 3,
+        "content": "¿Por qué razón te parece arduo, escabroso y demasiado difícil de seguir una senda que es fácil y que está tan claramente señalada que es imposible perderse?"
+      },
+      {
+        "verse": 4,
+        "content": "¿No será acaso porque consideras que es el camino al infierno en vez de una manera sencilla, sin sacrificios ni pérdidas, de encontrarte en el Cielo y en Dios?"
+      },
+      {
+        "verse": 5,
+        "content": "Mientras no te des cuenta de que no renuncias a nada y de que es imposible perder, habrá veces en que te arrepentirás de haber elegido este camino."
+      },
+      {
+        "verse": 6,
+        "content": "Y no verás los muchos beneficios que tu decisión te ha aportado."
+      },
+      {
+        "verse": 7,
+        "content": "No obstante, aunque no los veas, están ahí."
+      },
+      {
+        "verse": 8,
+        "content": "Su causa ya los produjo, y los efectos tienen que estar allí donde su causa ha hecho acto de presencia."
+      }
     ]
   },
   {
@@ -160,15 +370,42 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Has aceptado la causa de la curación." },
-      { "verse": 2, "content": "Y al haber sanado, debes ahora también poseer el poder de sanar." },
-      { "verse": 3, "content": "El milagro no es un incidente aislado que ocurre de repente como si se tratara de un efecto sin causa." },
-      { "verse": 4, "content": "Ni tampoco es en sí una causa." },
-      { "verse": 5, "content": "Pero allí donde está su causa, allí tiene que estar el milagro." },
-      { "verse": 6, "content": "Ahora ha sido causado, aunque aún no se perciba." },
-      { "verse": 7, "content": "Y sus efectos se encuentran ahí, aunque aún no se vean." },
-      { "verse": 8, "content": "Mira dentro de ti ahora, y no verás motivo alguno para estar arrepentido, sino razones para sentir un gran regocijo y abrigar esperanzas de paz." },
-      { "verse": "a", "content": "Por lo tanto, debes haber sanado." }
+      {
+        "verse": 1,
+        "content": "Has aceptado la causa de la curación."
+      },
+      {
+        "verse": "a",
+        "content": "Por lo tanto, debes haber sanado."
+      },
+      {
+        "verse": 2,
+        "content": "Y al haber sanado, debes ahora también poseer el poder de sanar."
+      },
+      {
+        "verse": 3,
+        "content": "El milagro no es un incidente aislado que ocurre de repente como si se tratara de un efecto sin causa."
+      },
+      {
+        "verse": 4,
+        "content": "Ni tampoco es en sí una causa."
+      },
+      {
+        "verse": 5,
+        "content": "Pero allí donde está su causa, allí tiene que estar el milagro."
+      },
+      {
+        "verse": 6,
+        "content": "Ahora ha sido causado, aunque aún no se perciba."
+      },
+      {
+        "verse": 7,
+        "content": "Y sus efectos se encuentran ahí, aunque aún no se vean."
+      },
+      {
+        "verse": 8,
+        "content": "Mira dentro de ti ahora, y no verás motivo alguno para estar arrepentido, sino razones para sentir un gran regocijo y abrigar esperanzas de paz."
+      }
     ]
   },
   {
@@ -176,14 +413,38 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Todo esfuerzo de encontrar esperanzas de paz en un campo de batalla ha sido en vano." },
-      { "verse": 2, "content": "Ha sido fútil pedirle a lo que se concibió precisamente para que perpetuase el pecado y el dolor que te ayude a escapar de ellos." },
-      { "verse": 3, "content": "Pues el dolor y el pecado son la misma ilusión, tal como el odio y el miedo, el ataque y la culpa son uno." },
-      { "verse": 4, "content": "Allí donde no tienen causa, sus efectos desaparecen, y el amor llega dondequiera que ellos no estén." },
-      { "verse": 5, "content": "¿Por qué no estás contento?" },
-      { "verse": 6, "content": "Te has librado del dolor y de la enfermedad, de la aflicción y de la pérdida, así como de todos los efectos del odio y del ataque." },
-      { "verse": 7, "content": "El dolor ya no es tu amigo ni la culpa tu dios." },
-      { "verse": "a", "content": "Por lo tanto, dale la bienvenida a los efectos del amor." }
+      {
+        "verse": 1,
+        "content": "Todo esfuerzo de encontrar esperanzas de paz en un campo de batalla ha sido en vano."
+      },
+      {
+        "verse": 2,
+        "content": "Ha sido fútil pedirle a lo que se concibió precisamente para que perpetuase el pecado y el dolor que te ayude a escapar de ellos."
+      },
+      {
+        "verse": 3,
+        "content": "Pues el dolor y el pecado son la misma ilusión, tal como el odio y el miedo, el ataque y la culpa son uno."
+      },
+      {
+        "verse": 4,
+        "content": "Allí donde no tienen causa, sus efectos desaparecen, y el amor llega dondequiera que ellos no estén."
+      },
+      {
+        "verse": 5,
+        "content": "¿Por qué no estás contento?"
+      },
+      {
+        "verse": 6,
+        "content": "Te has librado del dolor y de la enfermedad, de la aflicción y de la pérdida, así como de todos los efectos del odio y del ataque."
+      },
+      {
+        "verse": 7,
+        "content": "El dolor ya no es tu amigo ni la culpa tu dios."
+      },
+      {
+        "verse": "a",
+        "content": "Por lo tanto, dale la bienvenida a los efectos del amor."
+      }
     ]
   },
   {
@@ -191,13 +452,34 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "Tu Invitado _ha_ llegado." },
-      { "verse": 2, "content": "Lo invitaste y Él vino." },
-      { "verse": 3, "content": "No lo oíste entrar porque la bienvenida que le diste no fue total." },
-      { "verse": 4, "content": "Sus dones, no obstante, llegaron con Él." },
-      { "verse": 5, "content": "Y los depositó a tus pies, y ahora te pide que los contemples y los consideres tuyos." },
-      { "verse": 6, "content": "Él necesita tu ayuda para dárselos a todos los que caminan por su cuenta, creyendo estar solos y separados." },
-      { "verse": 7, "content": "Ellos sanarán cuando tú aceptes tus dones, pues tu Invitado le dará la bienvenida a todo aquel cuyos pies hayan tocado la tierra santa que tú pisas y donde Él ha puesto Sus dones a su disposición." }
+      {
+        "verse": 1,
+        "content": "Tu Invitado _ha_ llegado."
+      },
+      {
+        "verse": 2,
+        "content": "Lo invitaste y Él vino."
+      },
+      {
+        "verse": 3,
+        "content": "No lo oíste entrar porque la bienvenida que le diste no fue total."
+      },
+      {
+        "verse": 4,
+        "content": "Sus dones, no obstante, llegaron con Él."
+      },
+      {
+        "verse": 5,
+        "content": "Y los depositó a tus pies, y ahora te pide que los contemples y los consideres tuyos."
+      },
+      {
+        "verse": 6,
+        "content": "Él necesita tu ayuda para dárselos a todos los que caminan por su cuenta, creyendo estar solos y separados."
+      },
+      {
+        "verse": 7,
+        "content": "Ellos sanarán cuando tú aceptes tus dones, pues tu Invitado le dará la bienvenida a todo aquel cuyos pies hayan tocado la tierra santa que tú pisas y donde Él ha puesto Sus dones a su disposición."
+      }
     ]
   },
   {
@@ -205,14 +487,38 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "No te das cuenta de cuánto puedes dar ahora como resultado de todo lo que has recibido." },
-      { "verse": 2, "content": "No obstante, Aquel que vino únicamente está a la espera de que vayas allí donde Lo invitaste." },
-      { "verse": 3, "content": "No hay ningún otro lugar donde Él pueda encontrarse con Su anfitrión o Su anfitrión con Él." },
-      { "verse": 4, "content": "Ni tampoco hay ningún otro lugar donde se puedan obtener Sus dones de paz y dicha, así como toda la felicidad que brinda Su Presencia." },
-      { "verse": 5, "content": "Pues Sus dones se hallan allí donde se encuentra Aquel que los trajo Consigo para concedértelos a ti." },
-      { "verse": 6, "content": "No puedes ver a tu Invitado, pero puedes ver los dones que trajo." },
-      { "verse": 7, "content": "Y cuando los contemples, aceptarás que Él debe estar ahí." },
-      { "verse": 8, "content": "Pues lo que ahora puedes hacer no podrías haberlo hecho sin el amor y la gracia que emanan de Su Presencia." }
+      {
+        "verse": 1,
+        "content": "No te das cuenta de cuánto puedes dar ahora como resultado de todo lo que has recibido."
+      },
+      {
+        "verse": 2,
+        "content": "No obstante, Aquel que vino únicamente está a la espera de que vayas allí donde Lo invitaste."
+      },
+      {
+        "verse": 3,
+        "content": "No hay ningún otro lugar donde Él pueda encontrarse con Su anfitrión o Su anfitrión con Él."
+      },
+      {
+        "verse": 4,
+        "content": "Ni tampoco hay ningún otro lugar donde se puedan obtener Sus dones de paz y dicha, así como toda la felicidad que brinda Su Presencia."
+      },
+      {
+        "verse": 5,
+        "content": "Pues Sus dones se hallan allí donde se encuentra Aquel que los trajo Consigo para concedértelos a ti."
+      },
+      {
+        "verse": 6,
+        "content": "No puedes ver a tu Invitado, pero puedes ver los dones que trajo."
+      },
+      {
+        "verse": 7,
+        "content": "Y cuando los contemples, aceptarás que Él debe estar ahí."
+      },
+      {
+        "verse": 8,
+        "content": "Pues lo que ahora puedes hacer no podrías haberlo hecho sin el amor y la gracia que emanan de Su Presencia."
+      }
     ]
   },
   {
@@ -220,12 +526,30 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Esta es la promesa del Dios viviente: que Su Hijo viva, que todo ser vivo forme parte de él y que nada más tenga vida." },
-      { "verse": 2, "content": "Aquello a lo que tú has dado \"vida\" no está vivo, y solo simboliza tu deseo de vivir separado de la vida, de estar vivo en la muerte, y de percibir a esta como si fuera la vida y al vivir como la muerte." },
-      { "verse": 3, "content": "Aquí las confusiones se suceden una tras otra, pues este mundo se basa en la confusión y en nada más." },
-      { "verse": 4, "content": "Su base es inmutable, si bien parece estar cambiando continuamente." },
-      { "verse": 5, "content": "Mas ¿qué podría ser eso sino lo que realmente es el estado de confusión?" },
-      { "verse": 6, "content": "Para los que están confundidos la estabilidad no tiene sentido, y la variación y el cambio se convierten en la ley por la que rigen sus vidas." }
+      {
+        "verse": 1,
+        "content": "Esta es la promesa del Dios viviente: que Su Hijo viva, que todo ser vivo forme parte de él y que nada más tenga vida."
+      },
+      {
+        "verse": 2,
+        "content": "Aquello a lo que tú has dado \"vida\" no está vivo, y solo simboliza tu deseo de vivir separado de la vida, de estar vivo en la muerte, y de percibir a esta como si fuera la vida y al vivir como la muerte."
+      },
+      {
+        "verse": 3,
+        "content": "Aquí las confusiones se suceden una tras otra, pues este mundo se basa en la confusión y en nada más."
+      },
+      {
+        "verse": 4,
+        "content": "Su base es inmutable, si bien parece estar cambiando continuamente."
+      },
+      {
+        "verse": 5,
+        "content": "Mas ¿qué podría ser eso sino lo que realmente es el estado de confusión?"
+      },
+      {
+        "verse": 6,
+        "content": "Para los que están confundidos la estabilidad no tiene sentido, y la variación y el cambio se convierten en la ley por la que rigen sus vidas."
+      }
     ]
   },
   {
@@ -233,14 +557,38 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "El cuerpo no cambia." },
-      { "verse": 2, "content": "Representa el sueño más amplio de que el cambio es posible." },
-      { "verse": 3, "content": "Cambiar es alcanzar un estado distinto de aquel en el que antes te encontrabas." },
-      { "verse": 4, "content": "En la inmortalidad no hay cambios y en el Cielo se desconocen." },
-      { "verse": 5, "content": "Aquí en la tierra, no obstante, los cambios tienen un doble propósito, pues se pueden utilizar para enseñar cosas contradictorias." },
-      { "verse": 6, "content": "Y esas cosas son un reflejo del maestro que las enseña." },
-      { "verse": 7, "content": "El cuerpo puede parecer cambiar con el tiempo, debido a las enfermedades o al estado de salud o a eventos que parecen alterarlo." },
-      { "verse": 8, "content": "Mas esto solo significa que la mente aún no ha cambiado de parecer con respecto a cuál es el propósito del cuerpo." }
+      {
+        "verse": 1,
+        "content": "El cuerpo no cambia."
+      },
+      {
+        "verse": 2,
+        "content": "Representa el sueño más amplio de que el cambio es posible."
+      },
+      {
+        "verse": 3,
+        "content": "Cambiar es alcanzar un estado distinto de aquel en el que antes te encontrabas."
+      },
+      {
+        "verse": 4,
+        "content": "En la inmortalidad no hay cambios y en el Cielo se desconocen."
+      },
+      {
+        "verse": 5,
+        "content": "Aquí en la tierra, no obstante, los cambios tienen un doble propósito, pues se pueden utilizar para enseñar cosas contradictorias."
+      },
+      {
+        "verse": 6,
+        "content": "Y esas cosas son un reflejo del maestro que las enseña."
+      },
+      {
+        "verse": 7,
+        "content": "El cuerpo puede parecer cambiar con el tiempo, debido a las enfermedades o al estado de salud o a eventos que parecen alterarlo."
+      },
+      {
+        "verse": 8,
+        "content": "Mas esto solo significa que la mente aún no ha cambiado de parecer con respecto a cuál es el propósito del cuerpo."
+      }
     ]
   },
   {
@@ -248,14 +596,38 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "La enfermedad es la exigencia de que el cuerpo sea lo que no es." },
-      { "verse": 2, "content": "Su insustancialidad, no obstante, garantiza que _no_ pueda enfermar." },
-      { "verse": 3, "content": "En tu exigencia de que sea más de lo que es radica la idea de la enfermedad." },
-      { "verse": 4, "content": "Pues dicha exigencia requiere que Dios sea menos de lo que es." },
-      { "verse": 5, "content": "¿Qué va a ser de ti, entonces, si es a ti a quien se le exige el sacrificio?" },
-      { "verse": 6, "content": "Pues a Dios se le informa que una parte de Él ya no le pertenece." },
-      { "verse": 7, "content": "Y a Él no le queda ahora otro remedio que sacrificar tu Ser y, como resultado de Su sacrificio, tú te engrandeces y Él se empequeñece al perderte a ti." },
-      { "verse": 8, "content": "Y lo que ya no Le pertenece se convierte en tu dios, y te impide ser parte de Él." }
+      {
+        "verse": 1,
+        "content": "La enfermedad es la exigencia de que el cuerpo sea lo que no es."
+      },
+      {
+        "verse": 2,
+        "content": "Su insustancialidad, no obstante, garantiza que _no_ pueda enfermar."
+      },
+      {
+        "verse": 3,
+        "content": "En tu exigencia de que sea más de lo que es radica la idea de la enfermedad."
+      },
+      {
+        "verse": 4,
+        "content": "Pues dicha exigencia requiere que Dios sea menos de lo que es."
+      },
+      {
+        "verse": 5,
+        "content": "¿Qué va a ser de ti, entonces, si es a ti a quien se le exige el sacrificio?"
+      },
+      {
+        "verse": 6,
+        "content": "Pues a Dios se le informa que una parte de Él ya no le pertenece."
+      },
+      {
+        "verse": 7,
+        "content": "Y a Él no le queda ahora otro remedio que sacrificar tu Ser y, como resultado de Su sacrificio, tú te engrandeces y Él se empequeñece al perderte a ti."
+      },
+      {
+        "verse": 8,
+        "content": "Y lo que ya no Le pertenece se convierte en tu dios, y te impide ser parte de Él."
+      }
     ]
   },
   {
@@ -263,12 +635,30 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "El cuerpo al que se le pide ser un dios es vulnerable al ataque, ya que su insustancialidad no se reconoce." },
-      { "verse": 2, "content": "Y así, parece ser algo con poder propio." },
-      { "verse": 3, "content": "Al ser algo, se puede percibir y también se puede pensar que siente y actúa y que te tiene prisionero en su puño." },
-      { "verse": 4, "content": "Y puede que no llegue a ser lo que le exigiste que fuera." },
-      { "verse": 5, "content": "Y lo odiarás por su insignificancia, sin darte cuenta de que el fracaso no se debe a que sea menos de lo que crees que debe ser, sino solo a que no te has dado cuenta de que no es nada." },
-      { "verse": 6, "content": "No obstante, en el hecho mismo de que no es nada reside tu salvación, de la cual quieres huir." }
+      {
+        "verse": 1,
+        "content": "El cuerpo al que se le pide ser un dios es vulnerable al ataque, ya que su insustancialidad no se reconoce."
+      },
+      {
+        "verse": 2,
+        "content": "Y así, parece ser algo con poder propio."
+      },
+      {
+        "verse": 3,
+        "content": "Al ser algo, se puede percibir y también se puede pensar que siente y actúa y que te tiene prisionero en su puño."
+      },
+      {
+        "verse": 4,
+        "content": "Y puede que no llegue a ser lo que le exigiste que fuera."
+      },
+      {
+        "verse": 5,
+        "content": "Y lo odiarás por su insignificancia, sin darte cuenta de que el fracaso no se debe a que sea menos de lo que crees que debe ser, sino solo a que no te has dado cuenta de que no es nada."
+      },
+      {
+        "verse": 6,
+        "content": "No obstante, en el hecho mismo de que no es nada reside tu salvación, de la cual quieres huir."
+      }
     ]
   },
   {
@@ -276,13 +666,34 @@
     "type": "text",
     "paragraph": 10,
     "sentences": [
-      { "verse": 1, "content": "En cuanto que \"algo\", se le pide al cuerpo que sea el enemigo de Dios y que reemplace lo que Él es con pequeñez, limitaciones y desesperanza." },
-      { "verse": 2, "content": "Es Su pérdida lo que celebras cuando consideras al cuerpo algo que amas o que odias." },
-      { "verse": 3, "content": "Pues si Dios es la suma de todo, entonces lo que no está en Él no existe, y en Su Compleción radica la insustancialidad del cuerpo." },
-      { "verse": 4, "content": "Tu salvador no ha muerto ni tampoco mora en lo que se edificó para ser un templo a la muerte." },
-      { "verse": 5, "content": "Él vive en Dios, y esto y solo esto es lo que lo convierte en tu salvador." },
-      { "verse": 6, "content": "La insustancialidad de su cuerpo libera al tuyo de la enfermedad y de la muerte." },
-      { "verse": 7, "content": "Pues lo que te pertenece a ti no puede ser ni más ni menos que lo que le pertenece a él." }
+      {
+        "verse": 1,
+        "content": "En cuanto que \"algo\", se le pide al cuerpo que sea el enemigo de Dios y que reemplace lo que Él es con pequeñez, limitaciones y desesperanza."
+      },
+      {
+        "verse": 2,
+        "content": "Es Su pérdida lo que celebras cuando consideras al cuerpo algo que amas o que odias."
+      },
+      {
+        "verse": 3,
+        "content": "Pues si Dios es la suma de todo, entonces lo que no está en Él no existe, y en Su Compleción radica la insustancialidad del cuerpo."
+      },
+      {
+        "verse": 4,
+        "content": "Tu salvador no ha muerto ni tampoco mora en lo que se edificó para ser un templo a la muerte."
+      },
+      {
+        "verse": 5,
+        "content": "Él vive en Dios, y esto y solo esto es lo que lo convierte en tu salvador."
+      },
+      {
+        "verse": 6,
+        "content": "La insustancialidad de su cuerpo libera al tuyo de la enfermedad y de la muerte."
+      },
+      {
+        "verse": 7,
+        "content": "Pues lo que te pertenece a ti no puede ser ni más ni menos que lo que le pertenece a él."
+      }
     ]
   },
   {
@@ -295,17 +706,50 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "No condenes a tu salvador porque él crea ser un cuerpo." },
-      { "verse": 2, "content": "Más allá de sus sueños se encuentra su realidad." },
-      { "verse": 3, "content": "Pero antes de que pueda recordar lo que es, tiene que aprender que es un salvador." },
-      { "verse": 4, "content": "Y tiene que salvar a todo aquel que quiera ser salvado." },
-      { "verse": 5, "content": "Su felicidad depende de que te salve a ti." },
-      { "verse": 6, "content": "Pues ¿quién puede ser un salvador sino aquel que brinda salvación?" },
-      { "verse": 7, "content": "De este modo aprende que la salvación es algo que él tiene que ofrecer." },
-      { "verse": 8, "content": "Pues a menos que se la conceda a otro no sabrá que dispone de ella, ya que dar es la prueba de que se tiene." },
-      { "verse": 9, "content": "Esto no lo pueden entender aquellos que creen que con su fuerza pueden menoscabar a Dios." },
-      { "verse": 10, "content": "Pues ¿quién podría dar lo que no tiene?" },
-      { "verse": "a", "content": "¿Y quién podría perder al dar aquello que, por el hecho de darlo, no puede sino incrementarse?" }
+      {
+        "verse": 1,
+        "content": "No condenes a tu salvador porque él crea ser un cuerpo."
+      },
+      {
+        "verse": 2,
+        "content": "Más allá de sus sueños se encuentra su realidad."
+      },
+      {
+        "verse": 3,
+        "content": "Pero antes de que pueda recordar lo que es, tiene que aprender que es un salvador."
+      },
+      {
+        "verse": 4,
+        "content": "Y tiene que salvar a todo aquel que quiera ser salvado."
+      },
+      {
+        "verse": 5,
+        "content": "Su felicidad depende de que te salve a ti."
+      },
+      {
+        "verse": 6,
+        "content": "Pues ¿quién puede ser un salvador sino aquel que brinda salvación?"
+      },
+      {
+        "verse": 7,
+        "content": "De este modo aprende que la salvación es algo que él tiene que ofrecer."
+      },
+      {
+        "verse": 8,
+        "content": "Pues a menos que se la conceda a otro no sabrá que dispone de ella, ya que dar es la prueba de que se tiene."
+      },
+      {
+        "verse": 9,
+        "content": "Esto no lo pueden entender aquellos que creen que con su fuerza pueden menoscabar a Dios."
+      },
+      {
+        "verse": 10,
+        "content": "Pues ¿quién podría dar lo que no tiene?"
+      },
+      {
+        "verse": "a",
+        "content": "¿Y quién podría perder al dar aquello que, por el hecho de darlo, no puede sino incrementarse?"
+      }
     ]
   },
   {
@@ -313,13 +757,34 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "¿Crees acaso que el Padre perdió Su Ser cuando te creó?" },
-      { "verse": 2, "content": "¿Crees que se debilitó por haber compartido Su Amor?" },
-      { "verse": 3, "content": "¿Se vio acaso menoscabada Su Plenitud debido a tu perfección?" },
-      { "verse": 4, "content": "¿O no eres tú acaso la prueba de Su Plenitud y Perfección?" },
-      { "verse": 5, "content": "No niegues Su testigo en el sueño que Su Hijo prefiere a su propia realidad." },
-      { "verse": 6, "content": "Su Hijo tiene que ser el salvador del sueño al que él mismo dio lugar para poder así liberarse de él." },
-      { "verse": 7, "content": "Tiene que ver a otro no como un cuerpo, sino como uno con él, sin la muralla que el mundo ha construido para mantener separados a todos los seres vivos que no saben que viven." }
+      {
+        "verse": 1,
+        "content": "¿Crees acaso que el Padre perdió Su Ser cuando te creó?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Crees que se debilitó por haber compartido Su Amor?"
+      },
+      {
+        "verse": 3,
+        "content": "¿Se vio acaso menoscabada Su Plenitud debido a tu perfección?"
+      },
+      {
+        "verse": 4,
+        "content": "¿O no eres tú acaso la prueba de Su Plenitud y Perfección?"
+      },
+      {
+        "verse": 5,
+        "content": "No niegues Su testigo en el sueño que Su Hijo prefiere a su propia realidad."
+      },
+      {
+        "verse": 6,
+        "content": "Su Hijo tiene que ser el salvador del sueño al que él mismo dio lugar para poder así liberarse de él."
+      },
+      {
+        "verse": 7,
+        "content": "Tiene que ver a otro no como un cuerpo, sino como uno con él, sin la muralla que el mundo ha construido para mantener separados a todos los seres vivos que no saben que viven."
+      }
     ]
   },
   {
@@ -327,19 +792,58 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "En el sueño de cuerpos y muerte aún puede vislumbrarse un atisbo de verdad que tal vez no sea más que una pequeña chispa, un espacio de luz creado en la oscuridad donde Dios todavía refulge." },
-      { "verse": 2, "content": "Tú no puedes despertarte a ti mismo." },
-      { "verse": 3, "content": "No obstante, puedes permitir que se te despierte." },
-      { "verse": 4, "content": "Puedes pasar por alto los sueños de tu hermano." },
-      { "verse": 5, "content": "Puedes perdonarle sus ilusiones tan perfectamente, que él se convierte en el que te salva a ti de tus sueños." },
-      { "verse": 6, "content": "Y al verlo brillar en el espacio de luz donde Dios mora dentro de la oscuridad, verás que Dios Mismo se encuentra allí donde está su cuerpo." },
-      { "verse": 7, "content": "Ante esta luz el cuerpo desaparece, de la misma manera en que las sombras densas ceden ante la luz." },
-      { "verse": 8, "content": "La oscuridad no puede disponer que el cuerpo siga presente." },
-      { "verse": 9, "content": "La llegada de la luz supone su desaparición." },
-      { "verse": 10, "content": "Verás entonces a tu hermano en la gloria y entenderás qué es lo que realmente llena la brecha que por tanto tiempo pensaste que os mantenía separados." },
-      { "verse": 11, "content": "Ahí, en lugar de ella, el testigo de Dios ha trazado el dulce camino de la bondad para que el Hijo de Dios lo recorra." },
-      { "verse": 12, "content": "A todo aquel que perdonas se le concede el poder de perdonarte a ti tus ilusiones." },
-      { "verse": 13, "content": "Mediante tu regalo de libertad te liberas tú." }
+      {
+        "verse": 1,
+        "content": "En el sueño de cuerpos y muerte aún puede vislumbrarse un atisbo de verdad que tal vez no sea más que una pequeña chispa, un espacio de luz creado en la oscuridad donde Dios todavía refulge."
+      },
+      {
+        "verse": 2,
+        "content": "Tú no puedes despertarte a ti mismo."
+      },
+      {
+        "verse": 3,
+        "content": "No obstante, puedes permitir que se te despierte."
+      },
+      {
+        "verse": 4,
+        "content": "Puedes pasar por alto los sueños de tu hermano."
+      },
+      {
+        "verse": 5,
+        "content": "Puedes perdonarle sus ilusiones tan perfectamente, que él se convierte en el que te salva a ti de tus sueños."
+      },
+      {
+        "verse": 6,
+        "content": "Y al verlo brillar en el espacio de luz donde Dios mora dentro de la oscuridad, verás que Dios Mismo se encuentra allí donde está su cuerpo."
+      },
+      {
+        "verse": 7,
+        "content": "Ante esta luz el cuerpo desaparece, de la misma manera en que las sombras densas ceden ante la luz."
+      },
+      {
+        "verse": 8,
+        "content": "La oscuridad no puede disponer que el cuerpo siga presente."
+      },
+      {
+        "verse": 9,
+        "content": "La llegada de la luz supone su desaparición."
+      },
+      {
+        "verse": 10,
+        "content": "Verás entonces a tu hermano en la gloria y entenderás qué es lo que realmente llena la brecha que por tanto tiempo pensaste que os mantenía separados."
+      },
+      {
+        "verse": 11,
+        "content": "Ahí, en lugar de ella, el testigo de Dios ha trazado el dulce camino de la bondad para que el Hijo de Dios lo recorra."
+      },
+      {
+        "verse": 12,
+        "content": "A todo aquel que perdonas se le concede el poder de perdonarte a ti tus ilusiones."
+      },
+      {
+        "verse": 13,
+        "content": "Mediante tu regalo de libertad te liberas tú."
+      }
     ]
   },
   {
@@ -347,10 +851,22 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "Hazte a un lado y deja pasar al amor, el cual tú no creaste, pero sí puedes extender." },
-      { "verse": 2, "content": "En la tierra eso quiere decir perdonar a tu hermano para que las tinieblas desaparezcan de tu mente." },
-      { "verse": 3, "content": "Una vez que la luz haya llegado hasta tu hermano a través de tu perdón, él no se olvidará de su salvador ni lo dejará sin absolver." },
-      { "verse": 4, "content": "Pues fue en tu rostro donde vio la luz que quiere mantener a su lado, a medida que camina a través de las tinieblas hacia la Luz eterna." }
+      {
+        "verse": 1,
+        "content": "Hazte a un lado y deja pasar al amor, el cual tú no creaste, pero sí puedes extender."
+      },
+      {
+        "verse": 2,
+        "content": "En la tierra eso quiere decir perdonar a tu hermano para que las tinieblas desaparezcan de tu mente."
+      },
+      {
+        "verse": 3,
+        "content": "Una vez que la luz haya llegado hasta tu hermano a través de tu perdón, él no se olvidará de su salvador ni lo dejará sin absolver."
+      },
+      {
+        "verse": 4,
+        "content": "Pues fue en tu rostro donde vio la luz que quiere mantener a su lado, a medida que camina a través de las tinieblas hacia la Luz eterna."
+      }
     ]
   },
   {
@@ -358,13 +874,34 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "¡Cuán santo debes ser para que el Hijo de Dios pueda ser tu salvador en medio de sueños de desolación y desastres!" },
-      { "verse": 2, "content": "Observa cuán deseoso llega, apartando las densas sombras que lo ocultaban, para poder brillar sobre ti lleno de gratitud y amor." },
-      { "verse": 3, "content": "Él es él mismo, pero no él mismo solo." },
-      { "verse": 4, "content": "Y de la misma manera en que su Padre no perdió parte de él al crearte a ti, así la luz en él es aún más brillante por tú haberle dado tu luz para salvarlo de las tinieblas." },
-      { "verse": 5, "content": "Y ahora la luz en ti tiene que ser tan brillante como la que refulge en él." },
-      { "verse": 6, "content": "Esta es la chispa que brilla en el sueño: que tú puedes ayudarle a despertar, y estar seguro de que sus ojos despiertos se posarán sobre ti." },
-      { "verse": 7, "content": "Y con su feliz salvación, te salvas tú." }
+      {
+        "verse": 1,
+        "content": "¡Cuán santo debes ser para que el Hijo de Dios pueda ser tu salvador en medio de sueños de desolación y desastres!"
+      },
+      {
+        "verse": 2,
+        "content": "Observa cuán deseoso llega, apartando las densas sombras que lo ocultaban, para poder brillar sobre ti lleno de gratitud y amor."
+      },
+      {
+        "verse": 3,
+        "content": "Él es él mismo, pero no él mismo solo."
+      },
+      {
+        "verse": 4,
+        "content": "Y de la misma manera en que su Padre no perdió parte de él al crearte a ti, así la luz en él es aún más brillante por tú haberle dado tu luz para salvarlo de las tinieblas."
+      },
+      {
+        "verse": 5,
+        "content": "Y ahora la luz en ti tiene que ser tan brillante como la que refulge en él."
+      },
+      {
+        "verse": 6,
+        "content": "Esta es la chispa que brilla en el sueño: que tú puedes ayudarle a despertar, y estar seguro de que sus ojos despiertos se posarán sobre ti."
+      },
+      {
+        "verse": 7,
+        "content": "Y con su feliz salvación, te salvas tú."
+      }
     ]
   },
   {
@@ -377,14 +914,38 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "¿Crees acaso que la verdad puede ser tan solo meras ilusiones?" },
-      { "verse": 2, "content": "Las ilusiones son sueños _precisamente_ porque no son verdad." },
-      { "verse": 3, "content": "El hecho de que la verdad esté ausente de todas ellas por igual es la base del milagro, lo cual quiere decir que has entendido que los sueños son sueños, y que escaparte de ellos depende, no del sueño en sí, sino de que despiertes." },
-      { "verse": 4, "content": "¿Cómo iba a ser posible conservar algunos sueños y despertar de otros?" },
-      { "verse": 5, "content": "La elección no es entre qué sueños conservar, sino solo si quieres vivir en sueños o despertar de ellos." },
-      { "verse": 6, "content": "De ahí que el milagro no excluya de su benéfica influencia algunos sueños." },
-      { "verse": 7, "content": "No puedes quedarte con algunos de ellos y despertar de otros, pues o bien estás dormido o bien despierto." },
-      { "verse": 8, "content": "Y soñar tiene que ver únicamente con una de estas dos posibilidades." }
+      {
+        "verse": 1,
+        "content": "¿Crees acaso que la verdad puede ser tan solo meras ilusiones?"
+      },
+      {
+        "verse": 2,
+        "content": "Las ilusiones son sueños _precisamente_ porque no son verdad."
+      },
+      {
+        "verse": 3,
+        "content": "El hecho de que la verdad esté ausente de todas ellas por igual es la base del milagro, lo cual quiere decir que has entendido que los sueños son sueños, y que escaparte de ellos depende, no del sueño en sí, sino de que despiertes."
+      },
+      {
+        "verse": 4,
+        "content": "¿Cómo iba a ser posible conservar algunos sueños y despertar de otros?"
+      },
+      {
+        "verse": 5,
+        "content": "La elección no es entre qué sueños conservar, sino solo si quieres vivir en sueños o despertar de ellos."
+      },
+      {
+        "verse": 6,
+        "content": "De ahí que el milagro no excluya de su benéfica influencia algunos sueños."
+      },
+      {
+        "verse": 7,
+        "content": "No puedes quedarte con algunos de ellos y despertar de otros, pues o bien estás dormido o bien despierto."
+      },
+      {
+        "verse": 8,
+        "content": "Y soñar tiene que ver únicamente con una de estas dos posibilidades."
+      }
     ]
   },
   {
@@ -392,14 +953,38 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "Los sueños que te parecen gratos te retrasarán tanto como aquellos en los que el miedo es evidente." },
-      { "verse": 2, "content": "Pues todos los sueños son sueños de miedo, no importa en qué forma parezcan manifestarse." },
-      { "verse": 3, "content": "El miedo se ve dentro o fuera, o en ambos sitios." },
-      { "verse": 4, "content": "O bien puede estar oculto tras formas placenteras." },
-      { "verse": 5, "content": "Pero nunca está ausente del sueño, pues el miedo es el elemento básico de todos los sueños." },
-      { "verse": 6, "content": "Puede que la forma en que estos se manifiestan cambie, pero es imposible que se compongan de ninguna otra cosa." },
-      { "verse": 7, "content": "El milagro sería ciertamente traicionero si te permitiera seguir estando amedrentado por no haber reconocido el miedo." },
-      { "verse": 8, "content": "Pues no estarías entonces dispuesto a despertar, que es para lo que el milagro allana el camino." }
+      {
+        "verse": 1,
+        "content": "Los sueños que te parecen gratos te retrasarán tanto como aquellos en los que el miedo es evidente."
+      },
+      {
+        "verse": 2,
+        "content": "Pues todos los sueños son sueños de miedo, no importa en qué forma parezcan manifestarse."
+      },
+      {
+        "verse": 3,
+        "content": "El miedo se ve dentro o fuera, o en ambos sitios."
+      },
+      {
+        "verse": 4,
+        "content": "O bien puede estar oculto tras formas placenteras."
+      },
+      {
+        "verse": 5,
+        "content": "Pero nunca está ausente del sueño, pues el miedo es el elemento básico de todos los sueños."
+      },
+      {
+        "verse": 6,
+        "content": "Puede que la forma en que estos se manifiestan cambie, pero es imposible que se compongan de ninguna otra cosa."
+      },
+      {
+        "verse": 7,
+        "content": "El milagro sería ciertamente traicionero si te permitiera seguir estando amedrentado por no haber reconocido el miedo."
+      },
+      {
+        "verse": 8,
+        "content": "Pues no estarías entonces dispuesto a despertar, que es para lo que el milagro allana el camino."
+      }
     ]
   },
   {
@@ -407,11 +992,26 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Dicho llanamente, el ataque es la respuesta a una función que no se ha llevado a cabo tal como tú la percibes." },
-      { "verse": 2, "content": "Puede que ello tenga que ver contigo o con otro; sin embargo, allí donde se perciba, allí se atacará." },
-      { "verse": 3, "content": "La depresión o el ataque no pueden sino ser los temas de todos los sueños, pues el miedo es el elemento del que se componen." },
-      { "verse": 4, "content": "El fino disfraz de placer y alegría en el que tal vez vayan envueltos apenas cubre el grueso bloque de miedo que constituye su médula." },
-      { "verse": 5, "content": "Y esto es lo que el milagro percibe y no las envolturas que lo cubren." }
+      {
+        "verse": 1,
+        "content": "Dicho llanamente, el ataque es la respuesta a una función que no se ha llevado a cabo tal como tú la percibes."
+      },
+      {
+        "verse": 2,
+        "content": "Puede que ello tenga que ver contigo o con otro; sin embargo, allí donde se perciba, allí se atacará."
+      },
+      {
+        "verse": 3,
+        "content": "La depresión o el ataque no pueden sino ser los temas de todos los sueños, pues el miedo es el elemento del que se componen."
+      },
+      {
+        "verse": 4,
+        "content": "El fino disfraz de placer y alegría en el que tal vez vayan envueltos apenas cubre el grueso bloque de miedo que constituye su médula."
+      },
+      {
+        "verse": 5,
+        "content": "Y esto es lo que el milagro percibe y no las envolturas que lo cubren."
+      }
     ]
   },
   {
@@ -419,17 +1019,50 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "Cuando te invade la ira, ¿no es acaso porque alguien no llevó a cabo la función que tú le habías asignado?" },
-      { "verse": 2, "content": "¿Y no se convierte esto en la \"razón\" que justifica tu ataque?" },
-      { "verse": 3, "content": "Los sueños que crees que te gustan son aquellos en los que las funciones que asignaste se cumplieron y las necesidades que te adscribiste fueron satisfechas." },
-      { "verse": 4, "content": "No importa si esas necesidades se satisfacen o si son simplemente algo que se desea." },
-      { "verse": 5, "content": "Es la idea de que existen lo que produce miedo." },
-      { "verse": 6, "content": "Los sueños no se desean en mayor o menor medida." },
-      { "verse": 7, "content": "Simplemente se desean o no se desean." },
-      { "verse": 8, "content": "Y cada uno representa alguna función que tú le has asignado a algo: algún objetivo que un acontecimiento, un cuerpo o una cosa _debe_ representar y alcanzar por ti." },
-      { "verse": 9, "content": "Si lo logra crees que el sueño te gusta." },
-      { "verse": 10, "content": "Si fracasa crees que es triste." },
-      { "verse": 11, "content": "Pero el que fracase o se logre no es lo que constituye su médula, sino simplemente su endeble envoltura." }
+      {
+        "verse": 1,
+        "content": "Cuando te invade la ira, ¿no es acaso porque alguien no llevó a cabo la función que tú le habías asignado?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Y no se convierte esto en la \"razón\" que justifica tu ataque?"
+      },
+      {
+        "verse": 3,
+        "content": "Los sueños que crees que te gustan son aquellos en los que las funciones que asignaste se cumplieron y las necesidades que te adscribiste fueron satisfechas."
+      },
+      {
+        "verse": 4,
+        "content": "No importa si esas necesidades se satisfacen o si son simplemente algo que se desea."
+      },
+      {
+        "verse": 5,
+        "content": "Es la idea de que existen lo que produce miedo."
+      },
+      {
+        "verse": 6,
+        "content": "Los sueños no se desean en mayor o menor medida."
+      },
+      {
+        "verse": 7,
+        "content": "Simplemente se desean o no se desean."
+      },
+      {
+        "verse": 8,
+        "content": "Y cada uno representa alguna función que tú le has asignado a algo: algún objetivo que un acontecimiento, un cuerpo o una cosa _debe_ representar y alcanzar por ti."
+      },
+      {
+        "verse": 9,
+        "content": "Si lo logra crees que el sueño te gusta."
+      },
+      {
+        "verse": 10,
+        "content": "Si fracasa crees que es triste."
+      },
+      {
+        "verse": 11,
+        "content": "Pero el que fracase o se logre no es lo que constituye su médula, sino simplemente su endeble envoltura."
+      }
     ]
   },
   {
@@ -437,13 +1070,34 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "¡Cuán felices serían tus sueños si no le asignaras a cada una de las figuras que aparecen en ellos el papel que \"debe\" representar!" },
-      { "verse": 2, "content": "Es únicamente la imagen que tienes de alguien lo que puede fracasar, y tener esa imagen es lo único que constituye una traición." },
-      { "verse": 3, "content": "La médula de los sueños que ofrece el Espíritu Santo no es nunca una de temor." },
-      { "verse": 4, "content": "Lo que los envuelve puede parecer ser lo mismo, pero su significado ha cambiado porque cubre otra cosa." },
-      { "verse": 5, "content": "Lo que determina toda percepción es su propósito, en el sentido de que aparenta ser aquello para lo que se considera que es." },
-      { "verse": 6, "content": "Una sombría figura que ataca se convierte en un hermano que te ofrece una oportunidad para prestar ayuda, si esto se volviese la función del sueño." },
-      { "verse": 7, "content": "Y de este modo, los sueños de tristeza se transformarían en sueños de alegría." }
+      {
+        "verse": 1,
+        "content": "¡Cuán felices serían tus sueños si no le asignaras a cada una de las figuras que aparecen en ellos el papel que \"debe\" representar!"
+      },
+      {
+        "verse": 2,
+        "content": "Es únicamente la imagen que tienes de alguien lo que puede fracasar, y tener esa imagen es lo único que constituye una traición."
+      },
+      {
+        "verse": 3,
+        "content": "La médula de los sueños que ofrece el Espíritu Santo no es nunca una de temor."
+      },
+      {
+        "verse": 4,
+        "content": "Lo que los envuelve puede parecer ser lo mismo, pero su significado ha cambiado porque cubre otra cosa."
+      },
+      {
+        "verse": 5,
+        "content": "Lo que determina toda percepción es su propósito, en el sentido de que aparenta ser aquello para lo que se considera que es."
+      },
+      {
+        "verse": 6,
+        "content": "Una sombría figura que ataca se convierte en un hermano que te ofrece una oportunidad para prestar ayuda, si esto se volviese la función del sueño."
+      },
+      {
+        "verse": 7,
+        "content": "Y de este modo, los sueños de tristeza se transformarían en sueños de alegría."
+      }
     ]
   },
   {
@@ -451,13 +1105,34 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "¿Para qué es tu hermano?" },
-      { "verse": 2, "content": "No lo sabes porque tu función aún no te resulta clara." },
-      { "verse": 3, "content": "No le asignes un papel que tú crees que te haría feliz a ti." },
-      { "verse": 4, "content": "Y no trates de herirle cuando él no cumpla el papel que le asignaste en el sueño que tienes de lo que debería ser tu vida." },
-      { "verse": 5, "content": "Él pide ayuda en cada uno de sus sueños, y tú puedes prestársela si ves la función del sueño tal como la percibe Aquel que puede utilizar todo sueño en beneficio de la función que se Le encomendó." },
-      { "verse": 6, "content": "Puesto que ama al soñador, y no al sueño, cada sueño se convierte en una ofrenda de amor." },
-      { "verse": 7, "content": "Pues en el centro de cada sueño se halla Su Amor por ti, iluminando amorosamente cualquier manifestación del sueño." }
+      {
+        "verse": 1,
+        "content": "¿Para qué es tu hermano?"
+      },
+      {
+        "verse": 2,
+        "content": "No lo sabes porque tu función aún no te resulta clara."
+      },
+      {
+        "verse": 3,
+        "content": "No le asignes un papel que tú crees que te haría feliz a ti."
+      },
+      {
+        "verse": 4,
+        "content": "Y no trates de herirle cuando él no cumpla el papel que le asignaste en el sueño que tienes de lo que debería ser tu vida."
+      },
+      {
+        "verse": 5,
+        "content": "Él pide ayuda en cada uno de sus sueños, y tú puedes prestársela si ves la función del sueño tal como la percibe Aquel que puede utilizar todo sueño en beneficio de la función que se Le encomendó."
+      },
+      {
+        "verse": 6,
+        "content": "Puesto que ama al soñador, y no al sueño, cada sueño se convierte en una ofrenda de amor."
+      },
+      {
+        "verse": 7,
+        "content": "Pues en el centro de cada sueño se halla Su Amor por ti, iluminando amorosamente cualquier manifestación del sueño."
+      }
     ]
   },
   {
@@ -470,11 +1145,26 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "Hay un lugar en ti en el que este mundo en su totalidad ha sido olvidado y en el que no quedan memorias de pecado ni de ilusiones." },
-      { "verse": 2, "content": "Hay un lugar en ti donde el tiempo ha desaparecido y donde se oyen ecos de la eternidad." },
-      { "verse": 3, "content": "Hay un lugar de descanso donde el silencio es tan absoluto que no se oye ningún sonido, excepto un himno que se eleva hasta el Cielo para brindar júbilo a Dios el Padre y al Hijo." },
-      { "verse": 4, "content": "Allí donde Ambos moran, allí Ambos son recordados." },
-      { "verse": 5, "content": "Y allí donde Ambos están, allí se encuentran el Cielo y la paz." }
+      {
+        "verse": 1,
+        "content": "Hay un lugar en ti en el que este mundo en su totalidad ha sido olvidado y en el que no quedan memorias de pecado ni de ilusiones."
+      },
+      {
+        "verse": 2,
+        "content": "Hay un lugar en ti donde el tiempo ha desaparecido y donde se oyen ecos de la eternidad."
+      },
+      {
+        "verse": 3,
+        "content": "Hay un lugar de descanso donde el silencio es tan absoluto que no se oye ningún sonido, excepto un himno que se eleva hasta el Cielo para brindar júbilo a Dios el Padre y al Hijo."
+      },
+      {
+        "verse": 4,
+        "content": "Allí donde Ambos moran, allí Ambos son recordados."
+      },
+      {
+        "verse": 5,
+        "content": "Y allí donde Ambos están, allí se encuentran el Cielo y la paz."
+      }
     ]
   },
   {
@@ -482,10 +1172,22 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "No creas que puedes cambiar el lugar donde Ellos moran." },
-      { "verse": 2, "content": "Pues tu Identidad reside en Ellos, y allí donde están, allí tienes que estar tú para siempre." },
-      { "verse": 3, "content": "La inmutabilidad del Cielo se encuentra tan profundamente dentro de ti, que todas las cosas de este mundo no hacen sino pasar de largo, sin notarse ni verse." },
-      { "verse": 4, "content": "La sosegada infinitud de la paz eterna te envuelve dulcemente en su tierno abrazo, tan fuerte y serena, tan tranquila en la omnipotencia de su Creador, que nada puede perturbar al sagrado Hijo de Dios que se encuentra en tu interior." }
+      {
+        "verse": 1,
+        "content": "No creas que puedes cambiar el lugar donde Ellos moran."
+      },
+      {
+        "verse": 2,
+        "content": "Pues tu Identidad reside en Ellos, y allí donde están, allí tienes que estar tú para siempre."
+      },
+      {
+        "verse": 3,
+        "content": "La inmutabilidad del Cielo se encuentra tan profundamente dentro de ti, que todas las cosas de este mundo no hacen sino pasar de largo, sin notarse ni verse."
+      },
+      {
+        "verse": 4,
+        "content": "La sosegada infinitud de la paz eterna te envuelve dulcemente en su tierno abrazo, tan fuerte y serena, tan tranquila en la omnipotencia de su Creador, que nada puede perturbar al sagrado Hijo de Dios que se encuentra en tu interior."
+      }
     ]
   },
   {
@@ -493,11 +1195,26 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "He aquí el papel que el Espíritu Santo te asigna a ti que sirves al Hijo de Dios y que quieres contemplar su despertar y regocijarte." },
-      { "verse": 2, "content": "Él forma parte de ti y tú de él porque es el Hijo de su Padre y no por ningún otro propósito que tú puedas ver en él." },
-      { "verse": 3, "content": "Lo único que se te pide es que aceptes lo inmutable y lo eterno en él, pues tu Identidad reside ahí." },
-      { "verse": 4, "content": "Solo en él puedes encontrar la paz que mora en ti." },
-      { "verse": 5, "content": "Y todo pensamiento de amor que le ofreces no hace sino acercarte más a tu despertar a la paz eterna y a la dicha infinita." }
+      {
+        "verse": 1,
+        "content": "He aquí el papel que el Espíritu Santo te asigna a ti que sirves al Hijo de Dios y que quieres contemplar su despertar y regocijarte."
+      },
+      {
+        "verse": 2,
+        "content": "Él forma parte de ti y tú de él porque es el Hijo de su Padre y no por ningún otro propósito que tú puedas ver en él."
+      },
+      {
+        "verse": 3,
+        "content": "Lo único que se te pide es que aceptes lo inmutable y lo eterno en él, pues tu Identidad reside ahí."
+      },
+      {
+        "verse": 4,
+        "content": "Solo en él puedes encontrar la paz que mora en ti."
+      },
+      {
+        "verse": 5,
+        "content": "Y todo pensamiento de amor que le ofreces no hace sino acercarte más a tu despertar a la paz eterna y a la dicha infinita."
+      }
     ]
   },
   {
@@ -505,9 +1222,18 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "Este sagrado Hijo de Dios es como tú: el reflejo del Amor de su Padre por ti, el tierno recordatorio del Amor de su Padre mediante el que fue creado, el cual todavía mora en él al igual que en ti." },
-      { "verse": 2, "content": "Permanece muy quedo y escucha la Voz de Dios en él, y deja que esa Voz te diga cuál es su función." },
-      { "verse": 3, "content": "Pues él fue creado para que tú fueras íntegro, pues solo lo que está completo puede ser parte de la Compleción de Dios, la cual te creó." }
+      {
+        "verse": 1,
+        "content": "Este sagrado Hijo de Dios es como tú: el reflejo del Amor de su Padre por ti, el tierno recordatorio del Amor de su Padre mediante el que fue creado, el cual todavía mora en él al igual que en ti."
+      },
+      {
+        "verse": 2,
+        "content": "Permanece muy quedo y escucha la Voz de Dios en él, y deja que esa Voz te diga cuál es su función."
+      },
+      {
+        "verse": 3,
+        "content": "Pues él fue creado para que tú fueras íntegro, pues solo lo que está completo puede ser parte de la Compleción de Dios, la cual te creó."
+      }
     ]
   },
   {
@@ -515,14 +1241,38 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "El único regalo que el Padre te pide es que no veas en la Creación más que la esplendorosa gloria del regalo que Él te hizo." },
-      { "verse": 2, "content": "Contempla a Su Hijo, Su regalo perfecto, en Quien su Padre refulge eternamente y a Quien toda la Creación le ha sido dada como propia." },
-      { "verse": 3, "content": "Y puesto que dispone de Ella se te da a ti." },
-      { "verse": 4, "content": "La calma que te rodea mora en él, y de esa quietud emanan los sueños felices en los que vuestras manos se unen candorosamente." },
-      { "verse": 5, "content": "Estas no son las manos usurpadoras de los sueños de dolor." },
-      { "verse": 6, "content": "No empuñan ninguna espada, pues han abandonado su apego a todas las vanas ilusiones del mundo." },
-      { "verse": 7, "content": "Y al estar vacías reciben en cambio la mano de un hermano en la que yace la plenitud." },
-      { "verse": "a", "content": "Por lo tanto, contempla tu paz allí donde la Creación se encuentra en él." }
+      {
+        "verse": 1,
+        "content": "El único regalo que el Padre te pide es que no veas en la Creación más que la esplendorosa gloria del regalo que Él te hizo."
+      },
+      {
+        "verse": 2,
+        "content": "Contempla a Su Hijo, Su regalo perfecto, en Quien su Padre refulge eternamente y a Quien toda la Creación le ha sido dada como propia."
+      },
+      {
+        "verse": 3,
+        "content": "Y puesto que dispone de Ella se te da a ti."
+      },
+      {
+        "verse": "a",
+        "content": "Por lo tanto, contempla tu paz allí donde la Creación se encuentra en él."
+      },
+      {
+        "verse": 4,
+        "content": "La calma que te rodea mora en él, y de esa quietud emanan los sueños felices en los que vuestras manos se unen candorosamente."
+      },
+      {
+        "verse": 5,
+        "content": "Estas no son las manos usurpadoras de los sueños de dolor."
+      },
+      {
+        "verse": 6,
+        "content": "No empuñan ninguna espada, pues han abandonado su apego a todas las vanas ilusiones del mundo."
+      },
+      {
+        "verse": 7,
+        "content": "Y al estar vacías reciben en cambio la mano de un hermano en la que yace la plenitud."
+      }
     ]
   },
   {
@@ -530,14 +1280,38 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Si supieras el glorioso objetivo que se halla más allá del perdón, no conservarías ningún pensamiento por muy leve que parezca ser su roce con la maldad." },
-      { "verse": 2, "content": "Pues entenderías cuán grande es el costo que supone conservar cualquier cosa que Dios no haya otorgado en las mentes que pueden en cambio dirigir las manos a bendecir y a conducir al Hijo de Dios a la morada de su Padre." },
-      { "verse": 3, "content": "¿No te gustaría ser amigo de aquel que fue creado para ser la morada de su Padre?" },
-      { "verse": 4, "content": "Si Dios lo considera digno de Sí Mismo, ¿lo atacarías tú con las manos del odio?" },
-      { "verse": 5, "content": "¿Quién que ponga sus ensangrentadas manos sobre el propio Cielo podría esperar encontrar la paz de este?" },
-      { "verse": 6, "content": "Tu hermano cree estar sujetando la mano de la muerte." },
-      { "verse": 7, "content": "Pero no le creas." },
-      { "verse": 8, "content": "Reconoce, en cambio, cuán bendito eres tú que lo puedes liberar solo con ofrecerle la tuya." }
+      {
+        "verse": 1,
+        "content": "Si supieras el glorioso objetivo que se halla más allá del perdón, no conservarías ningún pensamiento por muy leve que parezca ser su roce con la maldad."
+      },
+      {
+        "verse": 2,
+        "content": "Pues entenderías cuán grande es el costo que supone conservar cualquier cosa que Dios no haya otorgado en las mentes que pueden en cambio dirigir las manos a bendecir y a conducir al Hijo de Dios a la morada de su Padre."
+      },
+      {
+        "verse": 3,
+        "content": "¿No te gustaría ser amigo de aquel que fue creado para ser la morada de su Padre?"
+      },
+      {
+        "verse": 4,
+        "content": "Si Dios lo considera digno de Sí Mismo, ¿lo atacarías tú con las manos del odio?"
+      },
+      {
+        "verse": 5,
+        "content": "¿Quién que ponga sus ensangrentadas manos sobre el propio Cielo podría esperar encontrar la paz de este?"
+      },
+      {
+        "verse": 6,
+        "content": "Tu hermano cree estar sujetando la mano de la muerte."
+      },
+      {
+        "verse": 7,
+        "content": "Pero no le creas."
+      },
+      {
+        "verse": 8,
+        "content": "Reconoce, en cambio, cuán bendito eres tú que lo puedes liberar solo con ofrecerle la tuya."
+      }
     ]
   },
   {
@@ -545,12 +1319,30 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "Se te ofrece un sueño en el que tu hermano es tu salvador, no tu enemigo acérrimo." },
-      { "verse": 2, "content": "Se te ofrece un sueño en el que lo has perdonado por todos sus sueños de muerte: un sueño de esperanza que compartes con él, en vez de los sueños de odio y maldad que sueñas por tu cuenta." },
-      { "verse": 3, "content": "¿Por qué parece tan difícil compartir ese sueño?" },
-      { "verse": 4, "content": "Porque a menos que sea el Espíritu Santo Quien le otorgue al sueño la función que debe tener, este continuará estando al servicio de la muerte, ya que fue concebido para el odio." },
-      { "verse": 5, "content": "Cada forma que adopta es, de alguna manera, una invocación a la muerte." },
-      { "verse": 6, "content": "Y aquellos que sirven al señor de la muerte han venido a adorarlo en un mundo de separación—cada uno con su diminuta lanza y enmohecida espada—para cumplir su vieja promesa de morir." }
+      {
+        "verse": 1,
+        "content": "Se te ofrece un sueño en el que tu hermano es tu salvador, no tu enemigo acérrimo."
+      },
+      {
+        "verse": 2,
+        "content": "Se te ofrece un sueño en el que lo has perdonado por todos sus sueños de muerte: un sueño de esperanza que compartes con él, en vez de los sueños de odio y maldad que sueñas por tu cuenta."
+      },
+      {
+        "verse": 3,
+        "content": "¿Por qué parece tan difícil compartir ese sueño?"
+      },
+      {
+        "verse": 4,
+        "content": "Porque a menos que sea el Espíritu Santo Quien le otorgue al sueño la función que debe tener, este continuará estando al servicio de la muerte, ya que fue concebido para el odio."
+      },
+      {
+        "verse": 5,
+        "content": "Cada forma que adopta es, de alguna manera, una invocación a la muerte."
+      },
+      {
+        "verse": 6,
+        "content": "Y aquellos que sirven al señor de la muerte han venido a adorarlo en un mundo de separación—cada uno con su diminuta lanza y enmohecida espada—para cumplir su vieja promesa de morir."
+      }
     ]
   },
   {
@@ -558,12 +1350,30 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "Tal es la médula de miedo de cada sueño que no se le haya entregado a Aquel que otorga a los sueños una función distinta." },
-      { "verse": 2, "content": "Cuando los sueños se comparten, pierden la función de atacar y separar, si bien para esto fue para lo que se concibieron." },
-      { "verse": 3, "content": "En el mundo de los sueños, no obstante, no hay nada que esté exento de la esperanza de cambio y mejora, pues no es en él donde se encuentra la inmutabilidad." },
-      { "verse": 4, "content": "Alegrémonos en verdad de que esto sea así y no busquemos lo eterno en este mundo." },
-      { "verse": 5, "content": "Los sueños de perdón son medios para dejar de soñar con un mundo externo a ti." },
-      { "verse": 6, "content": "Y conducen finalmente más allá de todo sueño a la paz de la vida eterna." }
+      {
+        "verse": 1,
+        "content": "Tal es la médula de miedo de cada sueño que no se le haya entregado a Aquel que otorga a los sueños una función distinta."
+      },
+      {
+        "verse": 2,
+        "content": "Cuando los sueños se comparten, pierden la función de atacar y separar, si bien para esto fue para lo que se concibieron."
+      },
+      {
+        "verse": 3,
+        "content": "En el mundo de los sueños, no obstante, no hay nada que esté exento de la esperanza de cambio y mejora, pues no es en él donde se encuentra la inmutabilidad."
+      },
+      {
+        "verse": 4,
+        "content": "Alegrémonos en verdad de que esto sea así y no busquemos lo eterno en este mundo."
+      },
+      {
+        "verse": 5,
+        "content": "Los sueños de perdón son medios para dejar de soñar con un mundo externo a ti."
+      },
+      {
+        "verse": 6,
+        "content": "Y conducen finalmente más allá de todo sueño a la paz de la vida eterna."
+      }
     ]
   },
   {
@@ -576,11 +1386,26 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "¿Cuán dispuesto estás a perdonar a tu hermano?" },
-      { "verse": 2, "content": "¿Hasta qué punto deseas la paz en lugar de los conflictos interminables, el sufrimiento y el dolor?" },
-      { "verse": 3, "content": "Estas preguntas son en realidad la misma pregunta, aunque formuladas de manera diferente." },
-      { "verse": 4, "content": "En el perdón reside tu paz, pues en él radica el fin de la separación y del sueño de peligro y destrucción, de pecado y muerte, de locura y asesinato, así como de aflicción y pérdida." },
-      { "verse": 5, "content": "Este es el \"sacrificio\" que pide la salvación y, a cambio de todo ello, gustosamente ofrece la paz." }
+      {
+        "verse": 1,
+        "content": "¿Cuán dispuesto estás a perdonar a tu hermano?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Hasta qué punto deseas la paz en lugar de los conflictos interminables, el sufrimiento y el dolor?"
+      },
+      {
+        "verse": 3,
+        "content": "Estas preguntas son en realidad la misma pregunta, aunque formuladas de manera diferente."
+      },
+      {
+        "verse": 4,
+        "content": "En el perdón reside tu paz, pues en él radica el fin de la separación y del sueño de peligro y destrucción, de pecado y muerte, de locura y asesinato, así como de aflicción y pérdida."
+      },
+      {
+        "verse": 5,
+        "content": "Este es el \"sacrificio\" que pide la salvación y, a cambio de todo ello, gustosamente ofrece la paz."
+      }
     ]
   },
   {
@@ -588,20 +1413,62 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "¡No jures morir, santo Hijo de Dios!" },
-      { "verse": 2, "content": "Pues eso es hacer un trato que no puedes cumplir." },
-      { "verse": 3, "content": "Al Hijo de la Vida no se le puede destruir." },
-      { "verse": 4, "content": "Es inmortal como su Padre." },
-      { "verse": 5, "content": "Lo que él es no puede ser alterado." },
-      { "verse": 6, "content": "Él es lo único en todo el universo que necesariamente es uno." },
-      { "verse": 7, "content": "A todo lo que _parece_ eterno le llegará su fin." },
-      { "verse": 8, "content": "Las estrellas desaparecerán, y la noche y el día dejarán de ser." },
-      { "verse": 9, "content": "Todas las cosas que van y vienen, la marea, las estaciones del año y las vidas de los hombres; todas las cosas que cambian con el tiempo y que florecen y se marchitan se irán para no volver jamás." },
-      { "verse": 10, "content": "Lo eterno no se encuentra allí donde el tiempo ha fijado un final para todo." },
-      { "verse": 11, "content": "El Hijo de Dios jamás puede cambiar por razón de lo que los hombres han hecho de él." },
-      { "verse": 12, "content": "Será como siempre ha sido y como es, pues el tiempo no fijó su destino ni marcó la hora de su nacimiento ni la de su muerte." },
-      { "verse": 13, "content": "El perdón no lo cambiará." },
-      { "verse": 14, "content": "No obstante, el tiempo solo está a la espera del perdón para que las cosas del tiempo puedan desaparecer, ya que no son de ninguna utilidad." }
+      {
+        "verse": 1,
+        "content": "¡No jures morir, santo Hijo de Dios!"
+      },
+      {
+        "verse": 2,
+        "content": "Pues eso es hacer un trato que no puedes cumplir."
+      },
+      {
+        "verse": 3,
+        "content": "Al Hijo de la Vida no se le puede destruir."
+      },
+      {
+        "verse": 4,
+        "content": "Es inmortal como su Padre."
+      },
+      {
+        "verse": 5,
+        "content": "Lo que él es no puede ser alterado."
+      },
+      {
+        "verse": 6,
+        "content": "Él es lo único en todo el universo que necesariamente es uno."
+      },
+      {
+        "verse": 7,
+        "content": "A todo lo que _parece_ eterno le llegará su fin."
+      },
+      {
+        "verse": 8,
+        "content": "Las estrellas desaparecerán, y la noche y el día dejarán de ser."
+      },
+      {
+        "verse": 9,
+        "content": "Todas las cosas que van y vienen, la marea, las estaciones del año y las vidas de los hombres; todas las cosas que cambian con el tiempo y que florecen y se marchitan se irán para no volver jamás."
+      },
+      {
+        "verse": 10,
+        "content": "Lo eterno no se encuentra allí donde el tiempo ha fijado un final para todo."
+      },
+      {
+        "verse": 11,
+        "content": "El Hijo de Dios jamás puede cambiar por razón de lo que los hombres han hecho de él."
+      },
+      {
+        "verse": 12,
+        "content": "Será como siempre ha sido y como es, pues el tiempo no fijó su destino ni marcó la hora de su nacimiento ni la de su muerte."
+      },
+      {
+        "verse": 13,
+        "content": "El perdón no lo cambiará."
+      },
+      {
+        "verse": 14,
+        "content": "No obstante, el tiempo solo está a la espera del perdón para que las cosas del tiempo puedan desaparecer, ya que no son de ninguna utilidad."
+      }
     ]
   },
   {
@@ -609,12 +1476,30 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Nada sobrevive a su propósito." },
-      { "verse": 2, "content": "Si algo fue concebido para morir, morirá, a no ser que se niegue a aceptar ese propósito como propio." },
-      { "verse": 3, "content": "El cambio es lo único que se puede convertir en una bendición aquí, donde ningún propósito es fijo por muy inmutable que parezca ser." },
-      { "verse": 4, "content": "No creas que puedes fijar un objetivo que no concuerde con el propósito que Dios te encomendó, y hacer que sea inmutable y eterno." },
-      { "verse": 5, "content": "Puedes adjudicarte un propósito que no te corresponde," },
-      { "verse": 6, "content": "pero no puedes deshacerte del poder de cambiar de parecer y establecer otro propósito en tu mente." }
+      {
+        "verse": 1,
+        "content": "Nada sobrevive a su propósito."
+      },
+      {
+        "verse": 2,
+        "content": "Si algo fue concebido para morir, morirá, a no ser que se niegue a aceptar ese propósito como propio."
+      },
+      {
+        "verse": 3,
+        "content": "El cambio es lo único que se puede convertir en una bendición aquí, donde ningún propósito es fijo por muy inmutable que parezca ser."
+      },
+      {
+        "verse": 4,
+        "content": "No creas que puedes fijar un objetivo que no concuerde con el propósito que Dios te encomendó, y hacer que sea inmutable y eterno."
+      },
+      {
+        "verse": 5,
+        "content": "Puedes adjudicarte un propósito que no te corresponde,"
+      },
+      {
+        "verse": 6,
+        "content": "pero no puedes deshacerte del poder de cambiar de parecer y establecer otro propósito en tu mente."
+      }
     ]
   },
   {
@@ -622,17 +1507,50 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "Poder cambiar es el mayor regalo que Dios le dio a todo lo que tú quisieras hacer eterno, para asegurarse de que el Cielo fuera lo único que no desapareciese." },
-      { "verse": 2, "content": "No naciste para morir." },
-      { "verse": 3, "content": "Y no puedes cambiar, ya que tu función la fijó Dios." },
-      { "verse": 4, "content": "Todos los demás objetivos, excepto uno, operan en el tiempo y cambian de manera que este se pueda perpetuar." },
-      { "verse": 5, "content": "Pues el perdón no se propone conservar el tiempo, sino abolirlo una vez que deja de ser de utilidad." },
-      { "verse": 6, "content": "Y una vez que deja de ser útil, desaparece." },
-      { "verse": 7, "content": "Y ahí donde una vez parecía reinar, se restaura ahora a plena conciencia la función que Dios le encomendó a Su Hijo." },
-      { "verse": 8, "content": "El tiempo no puede fijar un final para el cumplimiento de esta función ni para su inmutabilidad." },
-      { "verse": 9, "content": "La muerte no existe porque todo lo que vive comparte la función que su Creador le asignó." },
-      { "verse": 10, "content": "La función de la vida no puede ser morir." },
-      { "verse": 11, "content": "Tiene que ser la extensión de la Vida, para que sea eternamente una para siempre y sin final." }
+      {
+        "verse": 1,
+        "content": "Poder cambiar es el mayor regalo que Dios le dio a todo lo que tú quisieras hacer eterno, para asegurarse de que el Cielo fuera lo único que no desapareciese."
+      },
+      {
+        "verse": 2,
+        "content": "No naciste para morir."
+      },
+      {
+        "verse": 3,
+        "content": "Y no puedes cambiar, ya que tu función la fijó Dios."
+      },
+      {
+        "verse": 4,
+        "content": "Todos los demás objetivos, excepto uno, operan en el tiempo y cambian de manera que este se pueda perpetuar."
+      },
+      {
+        "verse": 5,
+        "content": "Pues el perdón no se propone conservar el tiempo, sino abolirlo una vez que deja de ser de utilidad."
+      },
+      {
+        "verse": 6,
+        "content": "Y una vez que deja de ser útil, desaparece."
+      },
+      {
+        "verse": 7,
+        "content": "Y ahí donde una vez parecía reinar, se restaura ahora a plena conciencia la función que Dios le encomendó a Su Hijo."
+      },
+      {
+        "verse": 8,
+        "content": "El tiempo no puede fijar un final para el cumplimiento de esta función ni para su inmutabilidad."
+      },
+      {
+        "verse": 9,
+        "content": "La muerte no existe porque todo lo que vive comparte la función que su Creador le asignó."
+      },
+      {
+        "verse": 10,
+        "content": "La función de la vida no puede ser morir."
+      },
+      {
+        "verse": 11,
+        "content": "Tiene que ser la extensión de la Vida, para que sea eternamente una para siempre y sin final."
+      }
     ]
   },
   {
@@ -640,10 +1558,22 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "Este mundo te atará de pies y manos y destruirá tu cuerpo, únicamente si piensas que se construyó para crucificar al Hijo de Dios." },
-      { "verse": 2, "content": "Pues aunque el mundo sea un sueño de muerte, no tienes por qué dejar que sea eso para ti." },
-      { "verse": 3, "content": "Deja que _esto_ cambie y todas las cosas en el mundo no podrán sino cambiar también." },
-      { "verse": 4, "content": "Pues aquí todo se define en función del propósito que tú le asignas." }
+      {
+        "verse": 1,
+        "content": "Este mundo te atará de pies y manos y destruirá tu cuerpo, únicamente si piensas que se construyó para crucificar al Hijo de Dios."
+      },
+      {
+        "verse": 2,
+        "content": "Pues aunque el mundo sea un sueño de muerte, no tienes por qué dejar que sea eso para ti."
+      },
+      {
+        "verse": 3,
+        "content": "Deja que _esto_ cambie y todas las cosas en el mundo no podrán sino cambiar también."
+      },
+      {
+        "verse": 4,
+        "content": "Pues aquí todo se define en función del propósito que tú le asignas."
+      }
     ]
   },
   {
@@ -651,10 +1581,22 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "¡Qué bello es el mundo cuyo propósito es perdonar al Hijo de Dios!" },
-      { "verse": 2, "content": "¡Cuán libre de miedo está y cuán repleto de bendiciones y felicidad!" },
-      { "verse": 3, "content": "¡Y qué dicha es morar por un tiempo en un lugar tan feliz!" },
-      { "verse": 4, "content": "Mas no debemos olvidarnos de que en un mundo así no _transcurre_ mucho tiempo antes de que la intemporalidad venga calladamente a ocupar el lugar del tiempo." }
+      {
+        "verse": 1,
+        "content": "¡Qué bello es el mundo cuyo propósito es perdonar al Hijo de Dios!"
+      },
+      {
+        "verse": 2,
+        "content": "¡Cuán libre de miedo está y cuán repleto de bendiciones y felicidad!"
+      },
+      {
+        "verse": 3,
+        "content": "¡Y qué dicha es morar por un tiempo en un lugar tan feliz!"
+      },
+      {
+        "verse": 4,
+        "content": "Mas no debemos olvidarnos de que en un mundo así no _transcurre_ mucho tiempo antes de que la intemporalidad venga calladamente a ocupar el lugar del tiempo."
+      }
     ]
   },
   {
@@ -667,18 +1609,54 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "No busques fuera de ti mismo." },
-      { "verse": 2, "content": "Pues será en vano y llorarás cada vez que un ídolo se desmorone." },
-      { "verse": 3, "content": "El Cielo no se puede encontrar donde no está ni es posible hallar paz en ningún otro lugar excepto en él." },
-      { "verse": 4, "content": "Cuando clamas a Dios, ninguno de los ídolos que veneras te contestará en Su lugar." },
-      { "verse": 5, "content": "Ninguna otra respuesta que puedas utilizar como sustituto te proporcionará la felicidad que solo Su Respuesta brinda." },
-      { "verse": 6, "content": "No busques fuera de ti mismo." },
-      { "verse": 7, "content": "Pues todo tu dolor procede simplemente de buscar en vano lo que deseas y de insistir en que sabes dónde encontrarlo." },
-      { "verse": 8, "content": "¿Y qué pasaría si no estuviera allí?" },
-      { "verse": 9, "content": "¿Preferirías tener razón a ser feliz?" },
-      { "verse": 10, "content": "Alégrate de que se te diga dónde reside la felicidad y no la sigas buscando por más tiempo en ningún otro lugar," },
-      { "verse": 11, "content": "pues buscarás en vano." },
-      { "verse": 12, "content": "Mas se te ha concedido conocer la verdad y saber que no la debes buscar fuera de ti." }
+      {
+        "verse": 1,
+        "content": "No busques fuera de ti mismo."
+      },
+      {
+        "verse": 2,
+        "content": "Pues será en vano y llorarás cada vez que un ídolo se desmorone."
+      },
+      {
+        "verse": 3,
+        "content": "El Cielo no se puede encontrar donde no está ni es posible hallar paz en ningún otro lugar excepto en él."
+      },
+      {
+        "verse": 4,
+        "content": "Cuando clamas a Dios, ninguno de los ídolos que veneras te contestará en Su lugar."
+      },
+      {
+        "verse": 5,
+        "content": "Ninguna otra respuesta que puedas utilizar como sustituto te proporcionará la felicidad que solo Su Respuesta brinda."
+      },
+      {
+        "verse": 6,
+        "content": "No busques fuera de ti mismo."
+      },
+      {
+        "verse": 7,
+        "content": "Pues todo tu dolor procede simplemente de buscar en vano lo que deseas y de insistir en que sabes dónde encontrarlo."
+      },
+      {
+        "verse": 8,
+        "content": "¿Y qué pasaría si no estuviera allí?"
+      },
+      {
+        "verse": 9,
+        "content": "¿Preferirías tener razón a ser feliz?"
+      },
+      {
+        "verse": 10,
+        "content": "Alégrate de que se te diga dónde reside la felicidad y no la sigas buscando por más tiempo en ningún otro lugar,"
+      },
+      {
+        "verse": 11,
+        "content": "pues buscarás en vano."
+      },
+      {
+        "verse": 12,
+        "content": "Mas se te ha concedido conocer la verdad y saber que no la debes buscar fuera de ti."
+      }
     ]
   },
   {
@@ -686,11 +1664,26 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "No hay nadie que venga aquí que no abrigue alguna esperanza, alguna ilusión persistente o algún sueño de que hay algo fuera de sí mismo que le puede brindar paz y felicidad." },
-      { "verse": 2, "content": "Si todo se encuentra en él, eso no puede ser verdad." },
-      { "verse": 3, "content": "Y así, al venir a este mundo, niega su propia verdad y se dedica a buscar algo que sea más que lo que lo es todo, como si una parte de ese todo estuviera desligada y se encontrase donde el resto no está." },
-      { "verse": 4, "content": "Este es el propósito que le confiere al cuerpo: que busque lo que a él le falta y que le provea de lo que le restauraría su plenitud." },
-      { "verse": 5, "content": "Y así, vaga sin rumbo, creyendo ser lo que no es, en busca de algo que no puede encontrar." }
+      {
+        "verse": 1,
+        "content": "No hay nadie que venga aquí que no abrigue alguna esperanza, alguna ilusión persistente o algún sueño de que hay algo fuera de sí mismo que le puede brindar paz y felicidad."
+      },
+      {
+        "verse": 2,
+        "content": "Si todo se encuentra en él, eso no puede ser verdad."
+      },
+      {
+        "verse": 3,
+        "content": "Y así, al venir a este mundo, niega su propia verdad y se dedica a buscar algo que sea más que lo que lo es todo, como si una parte de ese todo estuviera desligada y se encontrase donde el resto no está."
+      },
+      {
+        "verse": 4,
+        "content": "Este es el propósito que le confiere al cuerpo: que busque lo que a él le falta y que le provea de lo que le restauraría su plenitud."
+      },
+      {
+        "verse": 5,
+        "content": "Y así, vaga sin rumbo, creyendo ser lo que no es, en busca de algo que no puede encontrar."
+      }
     ]
   },
   {
@@ -698,11 +1691,26 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Esta persistente ilusión le impulsará a buscar miles de ídolos, y más allá de estos, mil más." },
-      { "verse": 2, "content": "Y todos le fallarán, excepto uno: pues morirá y no se dará cuenta de que el ídolo que buscaba _era_ su muerte." },
-      { "verse": 3, "content": "La forma en que este ídolo se manifiesta parece ser algo externo a él." },
-      { "verse": 4, "content": "No obstante, su intención es destruir al Hijo de Dios que se encuentra en su interior y así probar que logró vencerlo." },
-      { "verse": 5, "content": "Este es el propósito de todo ídolo, pues ese es el papel que se le asignó y ese es el papel que no puede cumplir." }
+      {
+        "verse": 1,
+        "content": "Esta persistente ilusión le impulsará a buscar miles de ídolos, y más allá de estos, mil más."
+      },
+      {
+        "verse": 2,
+        "content": "Y todos le fallarán, excepto uno: pues morirá y no se dará cuenta de que el ídolo que buscaba _era_ su muerte."
+      },
+      {
+        "verse": 3,
+        "content": "La forma en que este ídolo se manifiesta parece ser algo externo a él."
+      },
+      {
+        "verse": 4,
+        "content": "No obstante, su intención es destruir al Hijo de Dios que se encuentra en su interior y así probar que logró vencerlo."
+      },
+      {
+        "verse": 5,
+        "content": "Este es el propósito de todo ídolo, pues ese es el papel que se le asignó y ese es el papel que no puede cumplir."
+      }
     ]
   },
   {
@@ -710,12 +1718,30 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "Siempre que tratas de alcanzar un objetivo en el que el mejoramiento del cuerpo es el beneficiario principal, estás buscando la muerte." },
-      { "verse": 2, "content": "Pues crees que puedes experimentar insuficiencia, y la insuficiencia _es_ la muerte." },
-      { "verse": 3, "content": "Sacrificarse es renunciar a algo y, consecuentemente, estar privado de ello y haber sufrido una pérdida." },
-      { "verse": 4, "content": "Y mediante esta renuncia se renuncia a la vida." },
-      { "verse": 5, "content": "No busques fuera de ti mismo." },
-      { "verse": 6, "content": "Esa búsqueda implica que te falta plenitud interna y que temes contemplar tu ruina, por lo que prefieres buscar lo que eres fuera de ti mismo." }
+      {
+        "verse": 1,
+        "content": "Siempre que tratas de alcanzar un objetivo en el que el mejoramiento del cuerpo es el beneficiario principal, estás buscando la muerte."
+      },
+      {
+        "verse": 2,
+        "content": "Pues crees que puedes experimentar insuficiencia, y la insuficiencia _es_ la muerte."
+      },
+      {
+        "verse": 3,
+        "content": "Sacrificarse es renunciar a algo y, consecuentemente, estar privado de ello y haber sufrido una pérdida."
+      },
+      {
+        "verse": 4,
+        "content": "Y mediante esta renuncia se renuncia a la vida."
+      },
+      {
+        "verse": 5,
+        "content": "No busques fuera de ti mismo."
+      },
+      {
+        "verse": 6,
+        "content": "Esa búsqueda implica que te falta plenitud interna y que temes contemplar tu ruina, por lo que prefieres buscar lo que eres fuera de ti mismo."
+      }
     ]
   },
   {
@@ -723,10 +1749,22 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "Los ídolos no pueden sino desmoronarse _precisamente porque_ no tienen vida, y lo que no tiene vida es un signo de muerte." },
-      { "verse": 2, "content": "Viniste a morir, por lo tanto, ¿qué puedes esperar sino percibir los signos de la muerte que buscas?" },
-      { "verse": 3, "content": "Ni la tristeza ni el sufrimiento proclaman otro mensaje que el de haber hallado un ídolo que representa una parodia de la vida, el cual, al no tener vida, es realmente la muerte, a la que se considera real y se le da forma viviente." },
-      { "verse": 4, "content": "No obstante, no hay ídolo que no haya de fracasar, desmoronarse y desintegrarse, pues ninguna forma de muerte puede ser vida y lo que se sacrifica no puede ser íntegro." }
+      {
+        "verse": 1,
+        "content": "Los ídolos no pueden sino desmoronarse _precisamente porque_ no tienen vida, y lo que no tiene vida es un signo de muerte."
+      },
+      {
+        "verse": 2,
+        "content": "Viniste a morir, por lo tanto, ¿qué puedes esperar sino percibir los signos de la muerte que buscas?"
+      },
+      {
+        "verse": 3,
+        "content": "Ni la tristeza ni el sufrimiento proclaman otro mensaje que el de haber hallado un ídolo que representa una parodia de la vida, el cual, al no tener vida, es realmente la muerte, a la que se considera real y se le da forma viviente."
+      },
+      {
+        "verse": 4,
+        "content": "No obstante, no hay ídolo que no haya de fracasar, desmoronarse y desintegrarse, pues ninguna forma de muerte puede ser vida y lo que se sacrifica no puede ser íntegro."
+      }
     ]
   },
   {
@@ -734,12 +1772,30 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Todos los ídolos de este mundo fueron concebidos para impedirte conocer la verdad que se encuentra en tu interior y para que le fueses leal al sueño de que para ser íntegro y feliz tienes que encontrar lo que está fuera de ti." },
-      { "verse": 2, "content": "Es inútil rendirle culto a los ídolos y esperar hallar paz." },
-      { "verse": 3, "content": "Dios mora en tu interior y tu plenitud reside en Él." },
-      { "verse": 4, "content": "Ningún ídolo puede ocupar Su lugar." },
-      { "verse": 5, "content": "No recurras a ídolos." },
-      { "verse": 6, "content": "No busques fuera de ti mismo." }
+      {
+        "verse": 1,
+        "content": "Todos los ídolos de este mundo fueron concebidos para impedirte conocer la verdad que se encuentra en tu interior y para que le fueses leal al sueño de que para ser íntegro y feliz tienes que encontrar lo que está fuera de ti."
+      },
+      {
+        "verse": 2,
+        "content": "Es inútil rendirle culto a los ídolos y esperar hallar paz."
+      },
+      {
+        "verse": 3,
+        "content": "Dios mora en tu interior y tu plenitud reside en Él."
+      },
+      {
+        "verse": 4,
+        "content": "Ningún ídolo puede ocupar Su lugar."
+      },
+      {
+        "verse": 5,
+        "content": "No recurras a ídolos."
+      },
+      {
+        "verse": 6,
+        "content": "No busques fuera de ti mismo."
+      }
     ]
   },
   {
@@ -747,8 +1803,14 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "Olvidémonos del propósito que el pasado le ha conferido al mundo." },
-      { "verse": 2, "content": "Pues, de otra manera, el futuro será como el pasado: una serie de sueños deprimentes, en los que todos los ídolos te irán fallando uno tras otro y donde verás muerte y desengaño por doquier." }
+      {
+        "verse": 1,
+        "content": "Olvidémonos del propósito que el pasado le ha conferido al mundo."
+      },
+      {
+        "verse": 2,
+        "content": "Pues, de otra manera, el futuro será como el pasado: una serie de sueños deprimentes, en los que todos los ídolos te irán fallando uno tras otro y donde verás muerte y desengaño por doquier."
+      }
     ]
   },
   {
@@ -756,12 +1818,30 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "Para cambiar todo esto y abrir un camino de esperanza y liberación en lo que aparenta ser un círculo interminable de desesperación, necesitas tan solo aceptar que no sabes cuál es el propósito del mundo." },
-      { "verse": 2, "content": "Le adjudicas objetivos que no tiene y, de esta forma, decides cuál es su propósito." },
-      { "verse": 3, "content": "Procuras ver en él un lugar de ídolos que se encuentran fuera de ti, capaces de completar lo que está dentro dividiendo lo que eres entre lo que está fuera y lo que está dentro." },
-      { "verse": 4, "content": "Eliges los sueños que tienes, pues son la representación de tus deseos, aunque se perciben como si vinieran de afuera." },
-      { "verse": 5, "content": "Tus ídolos hacen lo que tú quieres y tienen el poder que les adjudicas." },
-      { "verse": 6, "content": "Y los persigues fútilmente en el sueño porque deseas adueñarte de su poder." }
+      {
+        "verse": 1,
+        "content": "Para cambiar todo esto y abrir un camino de esperanza y liberación en lo que aparenta ser un círculo interminable de desesperación, necesitas tan solo aceptar que no sabes cuál es el propósito del mundo."
+      },
+      {
+        "verse": 2,
+        "content": "Le adjudicas objetivos que no tiene y, de esta forma, decides cuál es su propósito."
+      },
+      {
+        "verse": 3,
+        "content": "Procuras ver en él un lugar de ídolos que se encuentran fuera de ti, capaces de completar lo que está dentro dividiendo lo que eres entre lo que está fuera y lo que está dentro."
+      },
+      {
+        "verse": 4,
+        "content": "Eliges los sueños que tienes, pues son la representación de tus deseos, aunque se perciben como si vinieran de afuera."
+      },
+      {
+        "verse": 5,
+        "content": "Tus ídolos hacen lo que tú quieres y tienen el poder que les adjudicas."
+      },
+      {
+        "verse": 6,
+        "content": "Y los persigues fútilmente en el sueño porque deseas adueñarte de su poder."
+      }
     ]
   },
   {
@@ -769,16 +1849,46 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "No obstante, ¿dónde tienen lugar los sueños sino en una mente dormida?" },
-      { "verse": 2, "content": "¿Y podría acaso un sueño hacer que la imagen que proyecta fuera de sí mismo fuese real?" },
-      { "verse": 3, "content": "Ahorra tiempo, hermano mío, y aprende para qué sirve." },
-      { "verse": 4, "content": "Y haz que el final de los ídolos venga cuanto antes a un mundo entristecido y enfermo como consecuencia de los ídolos que se ven en él." },
-      { "verse": 5, "content": "Tu santa mente es el Altar a Dios, y donde Él está no puede haber ídolos." },
-      { "verse": 6, "content": "El temor a Dios no es el miedo de perder tu realidad," },
-      { "verse": 7, "content": "sino el miedo de perder tus ídolos." },
-      { "verse": 8, "content": "No obstante, has hecho de tu realidad un ídolo y ahora lo tienes que proteger contra la luz de la verdad." },
-      { "verse": 9, "content": "Y el mundo entero se convierte en el medio para salvar a ese ídolo." },
-      { "verse": 10, "content": "De esta manera, la salvación parece amenazar la vida y ofrecer la muerte." }
+      {
+        "verse": 1,
+        "content": "No obstante, ¿dónde tienen lugar los sueños sino en una mente dormida?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Y podría acaso un sueño hacer que la imagen que proyecta fuera de sí mismo fuese real?"
+      },
+      {
+        "verse": 3,
+        "content": "Ahorra tiempo, hermano mío, y aprende para qué sirve."
+      },
+      {
+        "verse": 4,
+        "content": "Y haz que el final de los ídolos venga cuanto antes a un mundo entristecido y enfermo como consecuencia de los ídolos que se ven en él."
+      },
+      {
+        "verse": 5,
+        "content": "Tu santa mente es el Altar a Dios, y donde Él está no puede haber ídolos."
+      },
+      {
+        "verse": 6,
+        "content": "El temor a Dios no es el miedo de perder tu realidad,"
+      },
+      {
+        "verse": 7,
+        "content": "sino el miedo de perder tus ídolos."
+      },
+      {
+        "verse": 8,
+        "content": "No obstante, has hecho de tu realidad un ídolo y ahora lo tienes que proteger contra la luz de la verdad."
+      },
+      {
+        "verse": 9,
+        "content": "Y el mundo entero se convierte en el medio para salvar a ese ídolo."
+      },
+      {
+        "verse": 10,
+        "content": "De esta manera, la salvación parece amenazar la vida y ofrecer la muerte."
+      }
     ]
   },
   {
@@ -786,13 +1896,34 @@
     "type": "text",
     "paragraph": 10,
     "sentences": [
-      { "verse": 1, "content": "Mas no es así." },
-      { "verse": 2, "content": "La salvación trata de probar que la muerte no existe y que lo único que existe es la vida." },
-      { "verse": 3, "content": "Sacrificar la muerte no supone pérdida alguna." },
-      { "verse": 4, "content": "Un ídolo no puede ocupar el lugar de Dios." },
-      { "verse": 5, "content": "Deja que Él te recuerde Su Amor por ti, y no trates de ahogar Su Voz con los cantos de profunda desesperación que les ofreces a los ídolos de ti mismo." },
-      { "verse": 6, "content": "No busques esperanzas más allá de tu Padre." },
-      { "verse": 7, "content": "Pues la esperanza de felicidad _no_ es la desesperación." }
+      {
+        "verse": 1,
+        "content": "Mas no es así."
+      },
+      {
+        "verse": 2,
+        "content": "La salvación trata de probar que la muerte no existe y que lo único que existe es la vida."
+      },
+      {
+        "verse": 3,
+        "content": "Sacrificar la muerte no supone pérdida alguna."
+      },
+      {
+        "verse": 4,
+        "content": "Un ídolo no puede ocupar el lugar de Dios."
+      },
+      {
+        "verse": 5,
+        "content": "Deja que Él te recuerde Su Amor por ti, y no trates de ahogar Su Voz con los cantos de profunda desesperación que les ofreces a los ídolos de ti mismo."
+      },
+      {
+        "verse": 6,
+        "content": "No busques esperanzas más allá de tu Padre."
+      },
+      {
+        "verse": 7,
+        "content": "Pues la esperanza de felicidad _no_ es la desesperación."
+      }
     ]
   },
   {
@@ -805,15 +1936,42 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "¿Qué es un ídolo?" },
-      { "verse": 2, "content": "¿Crees saberlo?" },
-      { "verse": 3, "content": "Pues los ídolos no se reconocen como tales y nunca se ven como realmente son." },
-      { "verse": 4, "content": "Ese es su único poder." },
-      { "verse": 5, "content": "Su propósito es turbio, y son a la vez temidos y venerados _precisamente porque_ no sabes para qué son ni para qué se concibieron." },
-      { "verse": 6, "content": "Un ídolo es una imagen de tu hermano a la que atribuyes más valor que a él." },
-      { "verse": 7, "content": "Sea cual sea la forma de los ídolos, los inventas para reemplazar a tu hermano." },
-      { "verse": 8, "content": "Y esto es lo que nunca se percibe o reconoce." },
-      { "verse": 9, "content": "Mas así es, trátese de un cuerpo o de una cosa; de un lugar o de una situación; de una circunstancia o de un objeto que se posea o se desee; de un derecho que se exija o de uno que ya se tenga." }
+      {
+        "verse": 1,
+        "content": "¿Qué es un ídolo?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Crees saberlo?"
+      },
+      {
+        "verse": 3,
+        "content": "Pues los ídolos no se reconocen como tales y nunca se ven como realmente son."
+      },
+      {
+        "verse": 4,
+        "content": "Ese es su único poder."
+      },
+      {
+        "verse": 5,
+        "content": "Su propósito es turbio, y son a la vez temidos y venerados _precisamente porque_ no sabes para qué son ni para qué se concibieron."
+      },
+      {
+        "verse": 6,
+        "content": "Un ídolo es una imagen de tu hermano a la que atribuyes más valor que a él."
+      },
+      {
+        "verse": 7,
+        "content": "Sea cual sea la forma de los ídolos, los inventas para reemplazar a tu hermano."
+      },
+      {
+        "verse": 8,
+        "content": "Y esto es lo que nunca se percibe o reconoce."
+      },
+      {
+        "verse": 9,
+        "content": "Mas así es, trátese de un cuerpo o de una cosa; de un lugar o de una situación; de una circunstancia o de un objeto que se posea o se desee; de un derecho que se exija o de uno que ya se tenga."
+      }
     ]
   },
   {
@@ -821,13 +1979,34 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "No dejes que las formas que adoptan te engañen," },
-      { "verse": 2, "content": "pues los ídolos no son sino sustitutos de tu realidad." },
-      { "verse": 3, "content": "De alguna manera crees que completan tu pequeño yo, ofreciéndote así seguridad en un mundo que percibes como peligroso, en el que hay fuerzas que se han aglutinado a fin de quebrantar tu confianza y destruir tu paz." },
-      { "verse": 4, "content": "Crees que los ídolos tienen el poder de remediar tus deficiencias y de proporcionarte la valía que no tienes." },
-      { "verse": 5, "content": "Todo aquel que cree en ellos se convierte en esclavo de la pequeñez y la pérdida." },
-      { "verse": 6, "content": "Y así, tiene que buscar más allá de su pequeño yo la fuerza necesaria para levantar la cabeza y emanciparse de todo el sufrimiento que el mundo refleja." },
-      { "verse": 7, "content": "Esta es la sanción que pagas por no buscar en tu interior la certeza y la tranquilidad que te liberan del mundo y que te permiten alzarte por encima de él, en quietud y en paz." }
+      {
+        "verse": 1,
+        "content": "No dejes que las formas que adoptan te engañen,"
+      },
+      {
+        "verse": 2,
+        "content": "pues los ídolos no son sino sustitutos de tu realidad."
+      },
+      {
+        "verse": 3,
+        "content": "De alguna manera crees que completan tu pequeño yo, ofreciéndote así seguridad en un mundo que percibes como peligroso, en el que hay fuerzas que se han aglutinado a fin de quebrantar tu confianza y destruir tu paz."
+      },
+      {
+        "verse": 4,
+        "content": "Crees que los ídolos tienen el poder de remediar tus deficiencias y de proporcionarte la valía que no tienes."
+      },
+      {
+        "verse": 5,
+        "content": "Todo aquel que cree en ellos se convierte en esclavo de la pequeñez y la pérdida."
+      },
+      {
+        "verse": 6,
+        "content": "Y así, tiene que buscar más allá de su pequeño yo la fuerza necesaria para levantar la cabeza y emanciparse de todo el sufrimiento que el mundo refleja."
+      },
+      {
+        "verse": 7,
+        "content": "Esta es la sanción que pagas por no buscar en tu interior la certeza y la tranquilidad que te liberan del mundo y que te permiten alzarte por encima de él, en quietud y en paz."
+      }
     ]
   },
   {
@@ -835,15 +2014,42 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Un ídolo es una falsa impresión o una creencia falsa; alguna forma de anti-Cristo que constituye una brecha entre el Cristo y lo que tú ves." },
-      { "verse": 2, "content": "Un ídolo es un deseo hecho tangible al que se le ha dado forma, que se percibe entonces como real y se ve como algo externo a la mente." },
-      { "verse": 3, "content": "No obstante, sigue siendo un pensamiento y no puede abandonar la mente de la que procede." },
-      { "verse": 4, "content": "Ni tampoco su forma es algo separado de la idea que representa." },
-      { "verse": 5, "content": "Toda forma de anti-Cristo se opone a Cristo." },
-      { "verse": 6, "content": "Y pende ante Su faz como un oscuro velo que parece separarte de Él, dejándote solo y desamparado en las tinieblas." },
-      { "verse": 7, "content": "La luz, sin embargo, está ahí." },
-      { "verse": 8, "content": "Una nube no puede apagar el sol." },
-      { "verse": 9, "content": "Ni un velo puede hacer desaparecer lo que aparenta separar ni atenuar la luz en lo más mínimo." }
+      {
+        "verse": 1,
+        "content": "Un ídolo es una falsa impresión o una creencia falsa; alguna forma de anti-Cristo que constituye una brecha entre el Cristo y lo que tú ves."
+      },
+      {
+        "verse": 2,
+        "content": "Un ídolo es un deseo hecho tangible al que se le ha dado forma, que se percibe entonces como real y se ve como algo externo a la mente."
+      },
+      {
+        "verse": 3,
+        "content": "No obstante, sigue siendo un pensamiento y no puede abandonar la mente de la que procede."
+      },
+      {
+        "verse": 4,
+        "content": "Ni tampoco su forma es algo separado de la idea que representa."
+      },
+      {
+        "verse": 5,
+        "content": "Toda forma de anti-Cristo se opone a Cristo."
+      },
+      {
+        "verse": 6,
+        "content": "Y pende ante Su faz como un oscuro velo que parece separarte de Él, dejándote solo y desamparado en las tinieblas."
+      },
+      {
+        "verse": 7,
+        "content": "La luz, sin embargo, está ahí."
+      },
+      {
+        "verse": 8,
+        "content": "Una nube no puede apagar el sol."
+      },
+      {
+        "verse": 9,
+        "content": "Ni un velo puede hacer desaparecer lo que aparenta separar ni atenuar la luz en lo más mínimo."
+      }
     ]
   },
   {
@@ -851,15 +2057,42 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "Este mundo de ídolos _es_ un velo que cubre la faz de Cristo porque su propósito es separarte de tu hermano." },
-      { "verse": 2, "content": "Es un propósito tenebroso y temible y, sin embargo, es un pensamiento que ni siquiera tiene el poder de cambiar una brizna de hierba de algo vivo a un signo de muerte." },
-      { "verse": 3, "content": "Su forma no está en ninguna parte, pues su fuente está en aquella parte de tu mente de la que Dios está ausente." },
-      { "verse": 4, "content": "¿Dónde se encuentra este lugar del que se ha excluido y mantenido aislado lo que está en todas partes?" },
-      { "verse": 5, "content": "¿Qué mano podría alzarse y obstruir los designios de Dios?" },
-      { "verse": 6, "content": "¿De quién es la voz que podría exigir que Él no entrase?" },
-      { "verse": 7, "content": "Lo que se cree \"más-que-todo\" no es algo que deba hacerte temblar o acobardarte." },
-      { "verse": 8, "content": "El enemigo de Cristo no está en ninguna parte." },
-      { "verse": 9, "content": "Y nunca podrá adoptar una forma en la que sea real." }
+      {
+        "verse": 1,
+        "content": "Este mundo de ídolos _es_ un velo que cubre la faz de Cristo porque su propósito es separarte de tu hermano."
+      },
+      {
+        "verse": 2,
+        "content": "Es un propósito tenebroso y temible y, sin embargo, es un pensamiento que ni siquiera tiene el poder de cambiar una brizna de hierba de algo vivo a un signo de muerte."
+      },
+      {
+        "verse": 3,
+        "content": "Su forma no está en ninguna parte, pues su fuente está en aquella parte de tu mente de la que Dios está ausente."
+      },
+      {
+        "verse": 4,
+        "content": "¿Dónde se encuentra este lugar del que se ha excluido y mantenido aislado lo que está en todas partes?"
+      },
+      {
+        "verse": 5,
+        "content": "¿Qué mano podría alzarse y obstruir los designios de Dios?"
+      },
+      {
+        "verse": 6,
+        "content": "¿De quién es la voz que podría exigir que Él no entrase?"
+      },
+      {
+        "verse": 7,
+        "content": "Lo que se cree \"más-que-todo\" no es algo que deba hacerte temblar o acobardarte."
+      },
+      {
+        "verse": 8,
+        "content": "El enemigo de Cristo no está en ninguna parte."
+      },
+      {
+        "verse": 9,
+        "content": "Y nunca podrá adoptar una forma en la que sea real."
+      }
     ]
   },
   {
@@ -867,13 +2100,34 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "¿Qué es un ídolo?" },
-      { "verse": 2, "content": "¡Un ídolo no es nada!" },
-      { "verse": 3, "content": "Se necesita creer en él para que parezca cobrar vida y se le tiene que dotar de poder para que pueda ser temido." },
-      { "verse": 4, "content": "Su vida y su poder son el regalo que le da el que cree en él, y esto es lo que el milagro restituye a lo que _sí_ tiene vida y poder dignos del don del Cielo y de la paz eterna." },
-      { "verse": 5, "content": "El milagro no restaura la verdad, que es la luz que el velo no pudo apagar." },
-      { "verse": 6, "content": "Simplemente descorre el velo y deja que la verdad brille libremente, al ser lo que es." },
-      { "verse": 7, "content": "La verdad no necesita que se crea en ella para ser lo que es, pues ha sido creada y, por lo tanto, _es._" }
+      {
+        "verse": 1,
+        "content": "¿Qué es un ídolo?"
+      },
+      {
+        "verse": 2,
+        "content": "¡Un ídolo no es nada!"
+      },
+      {
+        "verse": 3,
+        "content": "Se necesita creer en él para que parezca cobrar vida y se le tiene que dotar de poder para que pueda ser temido."
+      },
+      {
+        "verse": 4,
+        "content": "Su vida y su poder son el regalo que le da el que cree en él, y esto es lo que el milagro restituye a lo que _sí_ tiene vida y poder dignos del don del Cielo y de la paz eterna."
+      },
+      {
+        "verse": 5,
+        "content": "El milagro no restaura la verdad, que es la luz que el velo no pudo apagar."
+      },
+      {
+        "verse": 6,
+        "content": "Simplemente descorre el velo y deja que la verdad brille libremente, al ser lo que es."
+      },
+      {
+        "verse": 7,
+        "content": "La verdad no necesita que se crea en ella para ser lo que es, pues ha sido creada y, por lo tanto, _es._"
+      }
     ]
   },
   {
@@ -881,12 +2135,30 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Un ídolo se establece creyendo en él, pero cuando la creencia se abandona, el ídolo \"muere\"." },
-      { "verse": 2, "content": "Esto es lo que es el anti-Cristo: la extraña idea de que hay un poder más allá de la omnipotencia, un lugar más allá del infinito y un tiempo que trasciende lo eterno." },
-      { "verse": 3, "content": "Ahí el mundo de los ídolos ha sido establecido por la idea de que ese poder, lugar y tiempo tienen forma y de que configuran el mundo en el que lo imposible ha ocurrido." },
-      { "verse": 4, "content": "Ahí lo inmortal viene a morir, lo que abarca todo a sufrir pérdidas y lo eterno a convertirse en esclavo del tiempo." },
-      { "verse": 5, "content": "Ahí lo inmutable cambia, y la Paz de Dios que Él otorgó para siempre a todo ser vivo, da paso al caos." },
-      { "verse": 6, "content": "Y el Hijo de Dios, tan perfecto, {NT:impecable} y amoroso como su Padre viene a odiar por un tiempo, a padecer y finalmente a morir." }
+      {
+        "verse": 1,
+        "content": "Un ídolo se establece creyendo en él, pero cuando la creencia se abandona, el ídolo \"muere\"."
+      },
+      {
+        "verse": 2,
+        "content": "Esto es lo que es el anti-Cristo: la extraña idea de que hay un poder más allá de la omnipotencia, un lugar más allá del infinito y un tiempo que trasciende lo eterno."
+      },
+      {
+        "verse": 3,
+        "content": "Ahí el mundo de los ídolos ha sido establecido por la idea de que ese poder, lugar y tiempo tienen forma y de que configuran el mundo en el que lo imposible ha ocurrido."
+      },
+      {
+        "verse": 4,
+        "content": "Ahí lo inmortal viene a morir, lo que abarca todo a sufrir pérdidas y lo eterno a convertirse en esclavo del tiempo."
+      },
+      {
+        "verse": 5,
+        "content": "Ahí lo inmutable cambia, y la Paz de Dios que Él otorgó para siempre a todo ser vivo, da paso al caos."
+      },
+      {
+        "verse": 6,
+        "content": "Y el Hijo de Dios, tan perfecto, {NT:impecable} y amoroso como su Padre viene a odiar por un tiempo, a padecer y finalmente a morir."
+      }
     ]
   },
   {
@@ -894,13 +2166,34 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "¿Dónde están los ídolos?" },
-      { "verse": 2, "content": "¡En ninguna parte!" },
-      { "verse": 3, "content": "¿Podría haber una brecha en lo que es infinito?" },
-      { "verse": 4, "content": "Un paraje de oscuridad allí donde todo es luz o un sombrío nicho dentro de lo que es infinito, no _tienen_ un lugar donde poder existir." },
-      { "verse": 5, "content": "Los ídolos están más allá de donde Dios ha establecido todas las cosas para siempre y donde no dejó cabida para nada más, excepto Su Voluntad." },
-      { "verse": 6, "content": "Un ídolo no es nada ni se encuentra en ninguna parte, mientras que Dios lo es todo y se encuentra en todas partes." },
-      { "verse": "a", "content": "¿Podría haber un lugar en el que el tiempo pudiera interrumpir la eternidad?" }
+      {
+        "verse": 1,
+        "content": "¿Dónde están los ídolos?"
+      },
+      {
+        "verse": 2,
+        "content": "¡En ninguna parte!"
+      },
+      {
+        "verse": 3,
+        "content": "¿Podría haber una brecha en lo que es infinito?"
+      },
+      {
+        "verse": "a",
+        "content": "¿Podría haber un lugar en el que el tiempo pudiera interrumpir la eternidad?"
+      },
+      {
+        "verse": 4,
+        "content": "Un paraje de oscuridad allí donde todo es luz o un sombrío nicho dentro de lo que es infinito, no _tienen_ un lugar donde poder existir."
+      },
+      {
+        "verse": 5,
+        "content": "Los ídolos están más allá de donde Dios ha establecido todas las cosas para siempre y donde no dejó cabida para nada más, excepto Su Voluntad."
+      },
+      {
+        "verse": 6,
+        "content": "Un ídolo no es nada ni se encuentra en ninguna parte, mientras que Dios lo es todo y se encuentra en todas partes."
+      }
     ]
   },
   {
@@ -908,19 +2201,58 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "¿Cuál es, entonces, el propósito de los ídolos?" },
-      { "verse": 2, "content": "¿Cuál es su finalidad?" },
-      { "verse": 3, "content": "Esta es la única pregunta para la que hay muchas respuestas, dependiendo de a quién se le haya preguntado." },
-      { "verse": 4, "content": "El mundo cree en ídolos." },
-      { "verse": 5, "content": "Nadie viene a él a menos que los haya venerado y trate todavía de buscar uno que aún le pueda ofrecer un regalo que la realidad no posee." },
-      { "verse": 6, "content": "Todo idólatra abriga la esperanza de que sus deidades especiales le han de dar más de lo que otras personas poseen." },
-      { "verse": 7, "content": "Tiene que ser más." },
-      { "verse": 8, "content": "No importa realmente de qué se trate: más belleza, más inteligencia, más riqueza o incluso más aflicción o dolor." },
-      { "verse": 9, "content": "Pero para eso es un ídolo, para darte más de algo." },
-      { "verse": 10, "content": "Y cuando uno falla otro viene a ocupar su lugar, y tú esperas que te pueda conseguir más de alguna otra cosa." },
-      { "verse": 11, "content": "No te dejes engañar por las formas en que esa \"otra cosa\" se manifiesta." },
-      { "verse": 12, "content": "Un ídolo es un medio para obtener más de algo." },
-      { "verse": 13, "content": "Y eso es lo que va en contra de la Voluntad de Dios." }
+      {
+        "verse": 1,
+        "content": "¿Cuál es, entonces, el propósito de los ídolos?"
+      },
+      {
+        "verse": 2,
+        "content": "¿Cuál es su finalidad?"
+      },
+      {
+        "verse": 3,
+        "content": "Esta es la única pregunta para la que hay muchas respuestas, dependiendo de a quién se le haya preguntado."
+      },
+      {
+        "verse": 4,
+        "content": "El mundo cree en ídolos."
+      },
+      {
+        "verse": 5,
+        "content": "Nadie viene a él a menos que los haya venerado y trate todavía de buscar uno que aún le pueda ofrecer un regalo que la realidad no posee."
+      },
+      {
+        "verse": 6,
+        "content": "Todo idólatra abriga la esperanza de que sus deidades especiales le han de dar más de lo que otras personas poseen."
+      },
+      {
+        "verse": 7,
+        "content": "Tiene que ser más."
+      },
+      {
+        "verse": 8,
+        "content": "No importa realmente de qué se trate: más belleza, más inteligencia, más riqueza o incluso más aflicción o dolor."
+      },
+      {
+        "verse": 9,
+        "content": "Pero para eso es un ídolo, para darte más de algo."
+      },
+      {
+        "verse": 10,
+        "content": "Y cuando uno falla otro viene a ocupar su lugar, y tú esperas que te pueda conseguir más de alguna otra cosa."
+      },
+      {
+        "verse": 11,
+        "content": "No te dejes engañar por las formas en que esa \"otra cosa\" se manifiesta."
+      },
+      {
+        "verse": 12,
+        "content": "Un ídolo es un medio para obtener más de algo."
+      },
+      {
+        "verse": 13,
+        "content": "Y eso es lo que va en contra de la Voluntad de Dios."
+      }
     ]
   },
   {
@@ -928,17 +2260,50 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "Dios no tiene muchos hijos, sino Uno solo." },
-      { "verse": 2, "content": "¿Quién podría tener más y a quién se le daría menos?" },
-      { "verse": 3, "content": "En el Cielo el Hijo de Dios no podría por menos que reírse de la idea de que un ídolo pudiese interrumpir su paz." },
-      { "verse": 4, "content": "El Espíritu Santo habla en nombre de ese Hijo y te dice que los ídolos no tienen ningún propósito aquí." },
-      { "verse": 5, "content": "Pues más que el Cielo jamás podrás tener." },
-      { "verse": 6, "content": "Y si el Cielo se encuentra en ti, ¿por qué ir en pos de ídolos que lo menoscabarían, creyendo que te van a dar más de lo que Dios os otorgó a tu hermano y a ti, en cuanto que uno con Él?" },
-      { "verse": 7, "content": "Dios te dio todo lo que existe." },
-      { "verse": 8, "content": "Y para asegurarse de que no lo pudieras perder, se lo dio también a todo ser vivo." },
-      { "verse": 9, "content": "Por consiguiente, todo ser vivo es parte de ti, así como de Él." },
-      { "verse": 10, "content": "Ningún ídolo puede hacer que seas más que Dios." },
-      { "verse": 11, "content": "Mas nunca estarás satisfecho siendo menos." }
+      {
+        "verse": 1,
+        "content": "Dios no tiene muchos hijos, sino Uno solo."
+      },
+      {
+        "verse": 2,
+        "content": "¿Quién podría tener más y a quién se le daría menos?"
+      },
+      {
+        "verse": 3,
+        "content": "En el Cielo el Hijo de Dios no podría por menos que reírse de la idea de que un ídolo pudiese interrumpir su paz."
+      },
+      {
+        "verse": 4,
+        "content": "El Espíritu Santo habla en nombre de ese Hijo y te dice que los ídolos no tienen ningún propósito aquí."
+      },
+      {
+        "verse": 5,
+        "content": "Pues más que el Cielo jamás podrás tener."
+      },
+      {
+        "verse": 6,
+        "content": "Y si el Cielo se encuentra en ti, ¿por qué ir en pos de ídolos que lo menoscabarían, creyendo que te van a dar más de lo que Dios os otorgó a tu hermano y a ti, en cuanto que uno con Él?"
+      },
+      {
+        "verse": 7,
+        "content": "Dios te dio todo lo que existe."
+      },
+      {
+        "verse": 8,
+        "content": "Y para asegurarse de que no lo pudieras perder, se lo dio también a todo ser vivo."
+      },
+      {
+        "verse": 9,
+        "content": "Por consiguiente, todo ser vivo es parte de ti, así como de Él."
+      },
+      {
+        "verse": 10,
+        "content": "Ningún ídolo puede hacer que seas más que Dios."
+      },
+      {
+        "verse": 11,
+        "content": "Mas nunca estarás satisfecho siendo menos."
+      }
     ]
   },
   {
@@ -951,10 +2316,22 @@
     "type": "text",
     "paragraph": 1,
     "sentences": [
-      { "verse": 1, "content": "El que es esclavo de ídolos lo es porque está dispuesto a serlo." },
-      { "verse": 2, "content": "Y dispuesto tiene que estar para poderse postrar en adoración ante lo que no tiene vida y buscar poder en lo que es impotente." },
-      { "verse": 3, "content": "¿Qué le sucedió al santo Hijo de Dios para que su deseo fuera dejarse caer más bajo que las piedras del suelo y esperar que los ídolos lo elevasen?" },
-      { "verse": 4, "content": "Escucha, pues, tu historia en el sueño que tejiste y pregúntate si no es verdad que no crees que sea un sueño." }
+      {
+        "verse": 1,
+        "content": "El que es esclavo de ídolos lo es porque está dispuesto a serlo."
+      },
+      {
+        "verse": 2,
+        "content": "Y dispuesto tiene que estar para poderse postrar en adoración ante lo que no tiene vida y buscar poder en lo que es impotente."
+      },
+      {
+        "verse": 3,
+        "content": "¿Qué le sucedió al santo Hijo de Dios para que su deseo fuera dejarse caer más bajo que las piedras del suelo y esperar que los ídolos lo elevasen?"
+      },
+      {
+        "verse": 4,
+        "content": "Escucha, pues, tu historia en el sueño que tejiste y pregúntate si no es verdad que no crees que sea un sueño."
+      }
     ]
   },
   {
@@ -962,15 +2339,42 @@
     "type": "text",
     "paragraph": 2,
     "sentences": [
-      { "verse": 1, "content": "En la mente que Dios creó perfecta como Él Mismo se adentró un sueño de juicios." },
-      { "verse": 2, "content": "Y en ese sueño el Cielo se trocó en infierno y Dios se convirtió en el enemigo de Su Hijo." },
-      { "verse": 3, "content": "¿Cómo puede despertar el Hijo de Dios de este sueño?" },
-      { "verse": 4, "content": "Es un sueño de juicios." },
-      { "verse": 5, "content": "Para despertar, por lo tanto, tiene que dejar de juzgar." },
-      { "verse": 6, "content": "Pues el sueño parecerá prolongarse mientras él forme parte de él." },
-      { "verse": 7, "content": "No juzgues, pues el que juzga tiene necesidad de ídolos para evitar que sus juicios recaigan sobre sí mismo." },
-      { "verse": 8, "content": "Tampoco puede conocer al Ser al que ha condenado." },
-      { "verse": 9, "content": "No juzgues, pues si lo haces, pasas a formar parte de sueños malvados en los que los ídolos se convierten en tu \"verdadera\" identidad, así como en la salvación del juicio que, lleno de terror y culpabilidad, emitiste acerca de ti mismo." }
+      {
+        "verse": 1,
+        "content": "En la mente que Dios creó perfecta como Él Mismo se adentró un sueño de juicios."
+      },
+      {
+        "verse": 2,
+        "content": "Y en ese sueño el Cielo se trocó en infierno y Dios se convirtió en el enemigo de Su Hijo."
+      },
+      {
+        "verse": 3,
+        "content": "¿Cómo puede despertar el Hijo de Dios de este sueño?"
+      },
+      {
+        "verse": 4,
+        "content": "Es un sueño de juicios."
+      },
+      {
+        "verse": 5,
+        "content": "Para despertar, por lo tanto, tiene que dejar de juzgar."
+      },
+      {
+        "verse": 6,
+        "content": "Pues el sueño parecerá prolongarse mientras él forme parte de él."
+      },
+      {
+        "verse": 7,
+        "content": "No juzgues, pues el que juzga tiene necesidad de ídolos para evitar que sus juicios recaigan sobre sí mismo."
+      },
+      {
+        "verse": 8,
+        "content": "Tampoco puede conocer al Ser al que ha condenado."
+      },
+      {
+        "verse": 9,
+        "content": "No juzgues, pues si lo haces, pasas a formar parte de sueños malvados en los que los ídolos se convierten en tu \"verdadera\" identidad, así como en la salvación del juicio que, lleno de terror y culpabilidad, emitiste acerca de ti mismo."
+      }
     ]
   },
   {
@@ -978,14 +2382,38 @@
     "type": "text",
     "paragraph": 3,
     "sentences": [
-      { "verse": 1, "content": "Todas las figuras del sueño son ídolos, concebidos para que te salven del sueño." },
-      { "verse": 2, "content": "No obstante, fueron concebidos para salvarte de _aquello_ de lo que forman parte." },
-      { "verse": 3, "content": "De esta manera, el ídolo mantiene el sueño vivo y temible, pues, ¿quién podría desear un ídolo a no ser que estuviera aterrorizado y lleno de desesperación?" },
-      { "verse": 4, "content": "Esto es lo que el ídolo representa." },
-      { "verse": 5, "content": "Todo juicio es una injusticia contra el Hijo de Dios, \"por lo que _es_ justo que el que le juzgue no eluda la pena que se impuso a sí mismo dentro del sueño que forjó\"." },
-      { "verse": 6, "content": "Dios sabe de justicia, no de castigos." },
-      { "verse": 7, "content": "Pero en el sueño de juicios tú atacas y te condenas a ti mismo; y deseas ser el esclavo de ídolos que se interponen entre tus juicios y la pena que estos conllevan." },
-      { "verse": "a", "content": "Venerarlo, por lo tanto, es venerar la desesperación y el terror, así como el sueño de donde estos proceden." }
+      {
+        "verse": 1,
+        "content": "Todas las figuras del sueño son ídolos, concebidos para que te salven del sueño."
+      },
+      {
+        "verse": 2,
+        "content": "No obstante, fueron concebidos para salvarte de _aquello_ de lo que forman parte."
+      },
+      {
+        "verse": 3,
+        "content": "De esta manera, el ídolo mantiene el sueño vivo y temible, pues, ¿quién podría desear un ídolo a no ser que estuviera aterrorizado y lleno de desesperación?"
+      },
+      {
+        "verse": 4,
+        "content": "Esto es lo que el ídolo representa."
+      },
+      {
+        "verse": "a",
+        "content": "Venerarlo, por lo tanto, es venerar la desesperación y el terror, así como el sueño de donde estos proceden."
+      },
+      {
+        "verse": 5,
+        "content": "Todo juicio es una injusticia contra el Hijo de Dios, \"por lo que _es_ justo que el que le juzgue no eluda la pena que se impuso a sí mismo dentro del sueño que forjó\"."
+      },
+      {
+        "verse": 6,
+        "content": "Dios sabe de justicia, no de castigos."
+      },
+      {
+        "verse": 7,
+        "content": "Pero en el sueño de juicios tú atacas y te condenas a ti mismo; y deseas ser el esclavo de ídolos que se interponen entre tus juicios y la pena que estos conllevan."
+      }
     ]
   },
   {
@@ -993,14 +2421,38 @@
     "type": "text",
     "paragraph": 4,
     "sentences": [
-      { "verse": 1, "content": "No puede haber salvación en el sueño tal como lo estás soñando." },
-      { "verse": 2, "content": "Pues los ídolos no pueden sino ser parte de él, para salvarte de lo que crees haber hecho y de lo que crees que hiciste para volverte un pecador y extinguir la luz interna." },
-      { "verse": 3, "content": "Criatura de Dios, la luz aún se encuentra en ti." },
-      { "verse": 4, "content": "No estás sino soñando, y los ídolos son los juguetes con los que sueñas que juegas." },
-      { "verse": 5, "content": "¿Quiénes, sino los niños, tienen necesidad de juguetes?" },
-      { "verse": 6, "content": "Los niños juegan a gobernar el mundo, y le otorgan a sus juguetes el poder de moverse, hablar, pensar, sentir y comunicarse por ellos." },
-      { "verse": 7, "content": "Sin embargo, todo lo que los juguetes parecen hacer solo tiene lugar en las mentes de los que juegan con ellos." },
-      { "verse": 8, "content": "No obstante, ansían olvidarse de que ellos mismos son los autores del sueño en el que los juguetes son reales, y no quieren reconocer que los deseos de estos son en realidad los suyos propios." }
+      {
+        "verse": 1,
+        "content": "No puede haber salvación en el sueño tal como lo estás soñando."
+      },
+      {
+        "verse": 2,
+        "content": "Pues los ídolos no pueden sino ser parte de él, para salvarte de lo que crees haber hecho y de lo que crees que hiciste para volverte un pecador y extinguir la luz interna."
+      },
+      {
+        "verse": 3,
+        "content": "Criatura de Dios, la luz aún se encuentra en ti."
+      },
+      {
+        "verse": 4,
+        "content": "No estás sino soñando, y los ídolos son los juguetes con los que sueñas que juegas."
+      },
+      {
+        "verse": 5,
+        "content": "¿Quiénes, sino los niños, tienen necesidad de juguetes?"
+      },
+      {
+        "verse": 6,
+        "content": "Los niños juegan a gobernar el mundo, y le otorgan a sus juguetes el poder de moverse, hablar, pensar, sentir y comunicarse por ellos."
+      },
+      {
+        "verse": 7,
+        "content": "Sin embargo, todo lo que los juguetes parecen hacer solo tiene lugar en las mentes de los que juegan con ellos."
+      },
+      {
+        "verse": 8,
+        "content": "No obstante, ansían olvidarse de que ellos mismos son los autores del sueño en el que los juguetes son reales, y no quieren reconocer que los deseos de estos son en realidad los suyos propios."
+      }
     ]
   },
   {
@@ -1008,15 +2460,42 @@
     "type": "text",
     "paragraph": 5,
     "sentences": [
-      { "verse": 1, "content": "Las pesadillas son sueños pueriles." },
-      { "verse": 2, "content": "En ellos los juguetes se han vuelto contra el niño que pensó haberles otorgado realidad." },
-      { "verse": 3, "content": "Mas ¿tiene acaso un sueño el poder de atacar?" },
-      { "verse": 4, "content": "¿Podría un juguete volverse enorme y peligroso, feroz y salvaje?" },
-      { "verse": 5, "content": "Esto es lo que el niño cree, pues tiene miedo de sus pensamientos y se los atribuye a los juguetes." },
-      { "verse": 6, "content": "Y la realidad de estos se convierte en la suya propia porque los juguetes parecen salvarlo de sus pensamientos." },
-      { "verse": 7, "content": "Sin embargo, los juguetes mantienen sus pensamientos vivos y reales, pero él los ve fuera de sí mismo, desde donde pueden volverse contra él puesto que los traicionó." },
-      { "verse": 8, "content": "El niño cree que necesita los juguetes para poder escapar de sus pensamientos porque cree que sus pensamientos son reales." },
-      { "verse": 9, "content": "Y así, convierte todo en un juguete para hacer que su mundo siga siendo algo externo a él, y pretender que él no es más que una parte de ese mundo." }
+      {
+        "verse": 1,
+        "content": "Las pesadillas son sueños pueriles."
+      },
+      {
+        "verse": 2,
+        "content": "En ellos los juguetes se han vuelto contra el niño que pensó haberles otorgado realidad."
+      },
+      {
+        "verse": 3,
+        "content": "Mas ¿tiene acaso un sueño el poder de atacar?"
+      },
+      {
+        "verse": 4,
+        "content": "¿Podría un juguete volverse enorme y peligroso, feroz y salvaje?"
+      },
+      {
+        "verse": 5,
+        "content": "Esto es lo que el niño cree, pues tiene miedo de sus pensamientos y se los atribuye a los juguetes."
+      },
+      {
+        "verse": 6,
+        "content": "Y la realidad de estos se convierte en la suya propia porque los juguetes parecen salvarlo de sus pensamientos."
+      },
+      {
+        "verse": 7,
+        "content": "Sin embargo, los juguetes mantienen sus pensamientos vivos y reales, pero él los ve fuera de sí mismo, desde donde pueden volverse contra él puesto que los traicionó."
+      },
+      {
+        "verse": 8,
+        "content": "El niño cree que necesita los juguetes para poder escapar de sus pensamientos porque cree que sus pensamientos son reales."
+      },
+      {
+        "verse": 9,
+        "content": "Y así, convierte todo en un juguete para hacer que su mundo siga siendo algo externo a él, y pretender que él no es más que una parte de ese mundo."
+      }
     ]
   },
   {
@@ -1024,15 +2503,42 @@
     "type": "text",
     "paragraph": 6,
     "sentences": [
-      { "verse": 1, "content": "Llega un momento en que la infancia debería dejarse atrás para siempre." },
-      { "verse": 2, "content": "No sigas aferrándote a los juguetes de la niñez." },
-      { "verse": 3, "content": "Deséchalos, pues ya no tienes necesidad de ellos." },
-      { "verse": 4, "content": "El sueño de juicios no es más que un juego de niños, en el que el niño se convierte en un padre poderoso, pero con la limitada sabiduría de un niño." },
-      { "verse": 5, "content": "Lo que le hiere es destruido; lo que le ayuda, bendecido." },
-      { "verse": 6, "content": "Excepto que juzga con el criterio de un niño que no sabe distinguir entre lo que le hace daño y lo que le sanaría." },
-      { "verse": 7, "content": "Cosas adversas parecen acontecerle, y tiene miedo del caos que ve en un mundo que cree gobernado por las leyes que él mismo promulgó." },
-      { "verse": 8, "content": "El mundo real, no obstante, no se ve afectado por el mundo que él cree real" },
-      { "verse": 9, "content": "ni sus leyes han cambiado porque él no las entienda." }
+      {
+        "verse": 1,
+        "content": "Llega un momento en que la infancia debería dejarse atrás para siempre."
+      },
+      {
+        "verse": 2,
+        "content": "No sigas aferrándote a los juguetes de la niñez."
+      },
+      {
+        "verse": 3,
+        "content": "Deséchalos, pues ya no tienes necesidad de ellos."
+      },
+      {
+        "verse": 4,
+        "content": "El sueño de juicios no es más que un juego de niños, en el que el niño se convierte en un padre poderoso, pero con la limitada sabiduría de un niño."
+      },
+      {
+        "verse": 5,
+        "content": "Lo que le hiere es destruido; lo que le ayuda, bendecido."
+      },
+      {
+        "verse": 6,
+        "content": "Excepto que juzga con el criterio de un niño que no sabe distinguir entre lo que le hace daño y lo que le sanaría."
+      },
+      {
+        "verse": 7,
+        "content": "Cosas adversas parecen acontecerle, y tiene miedo del caos que ve en un mundo que cree gobernado por las leyes que él mismo promulgó."
+      },
+      {
+        "verse": 8,
+        "content": "El mundo real, no obstante, no se ve afectado por el mundo que él cree real"
+      },
+      {
+        "verse": 9,
+        "content": "ni sus leyes han cambiado porque él no las entienda."
+      }
     ]
   },
   {
@@ -1040,14 +2546,38 @@
     "type": "text",
     "paragraph": 7,
     "sentences": [
-      { "verse": 1, "content": "El mundo real es también un sueño." },
-      { "verse": 2, "content": "Excepto que en él los personajes han cambiado" },
-      { "verse": 3, "content": "y no se ven como ídolos traicioneros." },
-      { "verse": 4, "content": "El mundo real es un sueño en el que no se usa a nadie para que sea el sustituto de otra cosa ni tampoco se le interpone entre los pensamientos que la mente concibe y lo que ve." },
-      { "verse": 5, "content": "No se usa a nadie para lo que no es, pues las cosas infantiles hace mucho que se dejaron atrás." },
-      { "verse": 6, "content": "Y lo que una vez fue un sueño de juicios se ha convertido ahora en un sueño donde todo es dicha porque ese es su propósito." },
-      { "verse": 7, "content": "Ahí solo pueden tener lugar sueños de perdón, pues el tiempo está a punto de finalizar." },
-      { "verse": 8, "content": "Y las figuras que entran a formar parte del sueño se perciben ahora como hermanos, a los que ya no se juzga, sino que se les ama." }
+      {
+        "verse": 1,
+        "content": "El mundo real es también un sueño."
+      },
+      {
+        "verse": 2,
+        "content": "Excepto que en él los personajes han cambiado"
+      },
+      {
+        "verse": 3,
+        "content": "y no se ven como ídolos traicioneros."
+      },
+      {
+        "verse": 4,
+        "content": "El mundo real es un sueño en el que no se usa a nadie para que sea el sustituto de otra cosa ni tampoco se le interpone entre los pensamientos que la mente concibe y lo que ve."
+      },
+      {
+        "verse": 5,
+        "content": "No se usa a nadie para lo que no es, pues las cosas infantiles hace mucho que se dejaron atrás."
+      },
+      {
+        "verse": 6,
+        "content": "Y lo que una vez fue un sueño de juicios se ha convertido ahora en un sueño donde todo es dicha porque ese es su propósito."
+      },
+      {
+        "verse": 7,
+        "content": "Ahí solo pueden tener lugar sueños de perdón, pues el tiempo está a punto de finalizar."
+      },
+      {
+        "verse": 8,
+        "content": "Y las figuras que entran a formar parte del sueño se perciben ahora como hermanos, a los que ya no se juzga, sino que se les ama."
+      }
     ]
   },
   {
@@ -1055,13 +2585,34 @@
     "type": "text",
     "paragraph": 8,
     "sentences": [
-      { "verse": 1, "content": "No es necesario que los sueños de perdón sean de larga duración." },
-      { "verse": 2, "content": "No se concibieron para separar a la mente de sus pensamientos" },
-      { "verse": 3, "content": "ni intentan probar que el sueño lo está soñando otro." },
-      { "verse": 4, "content": "En ellos se puede oír una melodía que todos recuerdan, si bien no la han oído desde antes de los orígenes del tiempo." },
-      { "verse": 5, "content": "El perdón, una vez que es total, hace que la intemporalidad esté tan cerca que entonces se puede oír el himno del Cielo, no con los oídos, sino con la santidad que nunca se ausentó del altar que se encuentra eternamente en lo más profundo del Hijo de Dios." },
-      { "verse": 6, "content": "Y cuando este vuelve a oír este himno, se da cuenta de que nunca había dejado de escucharlo." },
-      { "verse": 7, "content": "¿Y adónde va a parar el tiempo una vez que se han abandonado los sueños de juicios?" }
+      {
+        "verse": 1,
+        "content": "No es necesario que los sueños de perdón sean de larga duración."
+      },
+      {
+        "verse": 2,
+        "content": "No se concibieron para separar a la mente de sus pensamientos"
+      },
+      {
+        "verse": 3,
+        "content": "ni intentan probar que el sueño lo está soñando otro."
+      },
+      {
+        "verse": 4,
+        "content": "En ellos se puede oír una melodía que todos recuerdan, si bien no la han oído desde antes de los orígenes del tiempo."
+      },
+      {
+        "verse": 5,
+        "content": "El perdón, una vez que es total, hace que la intemporalidad esté tan cerca que entonces se puede oír el himno del Cielo, no con los oídos, sino con la santidad que nunca se ausentó del altar que se encuentra eternamente en lo más profundo del Hijo de Dios."
+      },
+      {
+        "verse": 6,
+        "content": "Y cuando este vuelve a oír este himno, se da cuenta de que nunca había dejado de escucharlo."
+      },
+      {
+        "verse": 7,
+        "content": "¿Y adónde va a parar el tiempo una vez que se han abandonado los sueños de juicios?"
+      }
     ]
   },
   {
@@ -1069,9 +2620,18 @@
     "type": "text",
     "paragraph": 9,
     "sentences": [
-      { "verse": 1, "content": "Siempre que tienes miedo, de la clase que sea—y _tienes_ miedo si no estás experimentando una profunda felicidad, certeza de que dispones de ayuda y una serena confianza de que el Cielo te acompaña—ten por seguro que has forjado un ídolo que crees que te va a traicionar." },
-      { "verse": 2, "content": "Pues bajo tus esperanzas de que el ídolo te salve, yace la culpa y el dolor de la autotraición y de la incertidumbre, tan profundos y amargos, que el sueño no puede ocultar completamente tu sensación de fracaso." },
-      { "verse": 3, "content": "El resultado de tu autotraición tiene que ser el miedo, pues el miedo _es_ un juicio que inevitablemente conduce a la frenética búsqueda de ídolos y de la muerte." }
+      {
+        "verse": 1,
+        "content": "Siempre que tienes miedo, de la clase que sea—y _tienes_ miedo si no estás experimentando una profunda felicidad, certeza de que dispones de ayuda y una serena confianza de que el Cielo te acompaña—ten por seguro que has forjado un ídolo que crees que te va a traicionar."
+      },
+      {
+        "verse": 2,
+        "content": "Pues bajo tus esperanzas de que el ídolo te salve, yace la culpa y el dolor de la autotraición y de la incertidumbre, tan profundos y amargos, que el sueño no puede ocultar completamente tu sensación de fracaso."
+      },
+      {
+        "verse": 3,
+        "content": "El resultado de tu autotraición tiene que ser el miedo, pues el miedo _es_ un juicio que inevitablemente conduce a la frenética búsqueda de ídolos y de la muerte."
+      }
     ]
   },
   {
@@ -1079,12 +2639,30 @@
     "type": "text",
     "paragraph": 10,
     "sentences": [
-      { "verse": 1, "content": "Los sueños de perdón te recuerdan que estás a salvo y que no te has atacado a ti mismo." },
-      { "verse": 2, "content": "De esta manera, tus terrores infantiles desaparecen y los sueños se convierten en la señal de que has comenzado de nuevo y no de que has tratado una vez más de venerar ídolos y de perpetuar el ataque." },
-      { "verse": 3, "content": "Los sueños de perdón son benévolos con todo aquel que forma parte de ellos." },
-      { "verse": 4, "content": "Y así, liberan completamente al soñador de los sueños de miedo." },
-      { "verse": 5, "content": "Él deja entonces de tener miedo de sus propios juicios, pues no ha juzgado a nadie ni ha intentado liberarse mediante juicios de lo que los propios juicios imponen." },
-      { "verse": 6, "content": "Y ahora recuerda continuamente lo que había olvidado cuando los juicios parecían ser la manera de salvarle de la sanción que ellos mismos imponen." }
+      {
+        "verse": 1,
+        "content": "Los sueños de perdón te recuerdan que estás a salvo y que no te has atacado a ti mismo."
+      },
+      {
+        "verse": 2,
+        "content": "De esta manera, tus terrores infantiles desaparecen y los sueños se convierten en la señal de que has comenzado de nuevo y no de que has tratado una vez más de venerar ídolos y de perpetuar el ataque."
+      },
+      {
+        "verse": 3,
+        "content": "Los sueños de perdón son benévolos con todo aquel que forma parte de ellos."
+      },
+      {
+        "verse": 4,
+        "content": "Y así, liberan completamente al soñador de los sueños de miedo."
+      },
+      {
+        "verse": 5,
+        "content": "Él deja entonces de tener miedo de sus propios juicios, pues no ha juzgado a nadie ni ha intentado liberarse mediante juicios de lo que los propios juicios imponen."
+      },
+      {
+        "verse": 6,
+        "content": "Y ahora recuerda continuamente lo que había olvidado cuando los juicios parecían ser la manera de salvarle de la sanción que ellos mismos imponen."
+      }
     ]
   }
 ]

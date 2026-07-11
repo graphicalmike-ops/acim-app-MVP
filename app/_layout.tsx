@@ -61,6 +61,7 @@ export default function RootLayout() {
         <Stack.Screen name="index" options={{ animation: 'none' }} />
         <Stack.Screen name="home" options={{ animation: 'fade', animationTypeForReplace: 'push' }} />
         <Stack.Screen name="contents" options={{ animation: 'fade' }} />
+        <Stack.Screen name="search" options={{ animation: 'fade' }} />
         <Stack.Screen name="reader" options={{ animation: 'fade' }} />
       </Stack>
       <StatusBar style="dark" backgroundColor={Colors.darkerBackgroundColor} />

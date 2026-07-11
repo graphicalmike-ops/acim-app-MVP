@@ -4,9 +4,9 @@
 export const Colors = {
   backgroundColor: '#F7F3F0',         // Figma: background-color
   darkerBackgroundColor: '#EDE3DD',   // Figma: darker-background-color
-  backgroundColorDark: '#333',         // Figma: background-color-dark
+  backgroundColorDark: '#29264D',      // Figma: background-color-dark
   primaryButtonBg: '#FFFFFF',         // Figma: primary-button-bg
-  primaryButtonBgDark: '#73655C',     // Figma: primary-button-bg-dark
+  primaryButtonBgDark: '#99794D',     // Figma: primary-button-bg-dark
   primaryButtonPressed: '#EBE8E6',    // Figma: primary-button-pressed
   fontColorPrimary: '#333333',        // Figma: font-color-primary
   fontColorSecondary: '#F7F3F0',      // Figma: font-color-secondary

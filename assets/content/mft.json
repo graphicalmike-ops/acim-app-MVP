@@ -3347,6 +3347,10 @@
         "content": "no tomar decisiones por su cuenta."
       },
       {
+        "verse": "a",
+        "content": "En lugar de ello, le pide a su Maestro Su respuesta y es esta la que sigue como guía para sus acciones."
+      },
+      {
         "verse": 3,
         "content": "Esto le resulta cada vez más fácil, a medida que aprende a abandonar sus propios juicios."
       },
@@ -3365,10 +3369,6 @@
       {
         "verse": 7,
         "content": "Nuestro programa enseña que abandonar todo juicio es la condición necesaria para la salvación."
-      },
-      {
-        "verse": "a",
-        "content": "En lugar de ello, le pide a su Maestro Su respuesta y es esta la que sigue como guía para sus acciones."
       }
     ]
   },
@@ -4058,6 +4058,10 @@
         "content": "Cuando deja de ser útil, se deja a un lado."
       },
       {
+        "verse": "a",
+        "content": "Eso es todo."
+      },
+      {
         "verse": 7,
         "content": "La mente toma esta decisión, así como todas las que son responsables de la condición del cuerpo."
       },
@@ -4080,10 +4084,6 @@
       {
         "verse": 12,
         "content": "Ahora es imposible que pueda enfermar."
-      },
-      {
-        "verse": "a",
-        "content": "Eso es todo."
       }
     ]
   },

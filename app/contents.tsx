@@ -51,6 +51,17 @@ function buildAllItems(books: any[]): FlatItem[] {
   return items;
 }
 
+// Section ids encode nesting depth in their suffix: "-s4" (section), "-s4a"
+// (lettered subsection), "-s4a-i" (lowercase-roman sub-subsection) — see
+// theory-ch19's four obstacles to peace for the deepest real example.
+function getChildIndentLevel(id: string): number {
+  const m = id.match(/-s\d+([a-z]*)(-[a-z]+)?$/);
+  if (!m) return 0;
+  if (m[2]) return 2;
+  if (m[1]) return 1;
+  return 0;
+}
+
 function buildItem(node: any, bookId: string): FlatItem | null {
   if (!node || node._comment) return null;
   if (node.component === 'accordion') {
@@ -189,10 +200,10 @@ export default function ContentsScreen() {
                       key={child.id}
                       style={[styles.item, { backgroundColor: t.darkerBackgroundColor }]}
                       rippleColor={t.backgroundColor}
-                      onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); const anchor = childIndex === 0 && child.bookId === 'theory' ? item.id : (child.anchor ?? child.id); setTimeout(() => router.push(`/reader?book=${child.bookId}&anchor=${anchor}`), 100); }}
+                      onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); const anchor = childIndex === 0 && child.bookId === 'theory' ? item.id : (child.anchor ?? child.id); setTimeout(() => router.push(`/reader?book=${child.bookId}&anchor=${anchor}`), 200); }}
                     >
                       <>
-                        <View style={[styles.itemRow, styles.accordionChildRow]}>
+                        <View style={[styles.itemRow, styles.accordionChildRow, { paddingLeft: 24 + getChildIndentLevel(child.id) * 24 }]}>
                           <View style={styles.itemText}>
                             <Text style={[styles.itemLabel, { color: t.fontColorPrimary }]}>{child.label}</Text>
                             {child.subtitle && (
@@ -213,7 +224,7 @@ export default function ContentsScreen() {
                 key={item.id}
                 style={styles.item}
                 rippleColor={t.darkerBackgroundColor}
-                onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); setTimeout(() => router.push(`/reader?book=${item.bookId}&anchor=${item.anchor ?? item.id}`), 100); }}
+                onPress={() => { if (navigating) return; setNavigating(true); startLoadBar(); setTimeout(() => router.push(`/reader?book=${item.bookId}&anchor=${item.anchor ?? item.id}`), 200); }}
               >
                 {() => (
                   <>
@@ -233,10 +244,10 @@ export default function ContentsScreen() {
           })}
         </ScrollView>
         {loadBarVisible && (
-          <View style={[styles.loadBarTrack, { backgroundColor: t.darkOutline }]}>
+          <View style={[styles.loadBarTrack, { backgroundColor: isDark ? 'transparent' : t.darkOutline }]}>
             <Animated.View style={[
               styles.loadBarFill,
-              { backgroundColor: t.fontColorPrimary },
+              { backgroundColor: isDark ? t.darkerBackgroundColor : t.fontColorPrimary },
               { transform: [{ translateX: loadBarAnim.interpolate({ inputRange: [0, 1], outputRange: [-screenWidth, 0] }) }] },
             ]} />
           </View>
