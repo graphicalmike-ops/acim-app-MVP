@@ -10,11 +10,12 @@ type Props = {
   onPress?: () => void;
   color?: string;
   rippleColor?: string;
-  instant?: boolean;
   children?: (pressed: boolean) => React.ReactNode;
 };
 
-export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.fontColorPrimary, rippleColor = Colors.backgroundColor, instant, children }: Props) {
+// Icon buttons fill/clear their ripple instantly (no grow/fade animation) —
+// only the pressed-state color/fill swap remains, no motion.
+export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.fontColorPrimary, rippleColor = Colors.backgroundColor, children }: Props) {
   const containerSize = hitSize ?? (size === 'md' ? 24 : 40);
 
   return (
@@ -29,7 +30,7 @@ export function TertiaryButton({ size = 'md', hitSize, onPress, color = Colors.f
         justifyContent: 'center',
       }}
       rippleColor={rippleColor}
-      instant={instant}
+      instant
       onPress={onPress}
     >
       {({ pressed }) =>

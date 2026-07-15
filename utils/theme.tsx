@@ -1,8 +1,6 @@
-import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import AsyncStorage from '@react-native-async-storage/async-storage';
+import { createContext, useContext, useState, ReactNode } from 'react';
+import { useColorScheme } from 'react-native';
 import { Colors } from '@/constants/Colors';
-
-const KEY = 'acim_theme';
 
 interface ThemeContextValue {
   isDark: boolean;
@@ -12,21 +10,15 @@ interface ThemeContextValue {
 const ThemeContext = createContext<ThemeContextValue>({ isDark: false, toggleTheme: () => {} });
 
 export function ThemeProvider({ children }: { children: ReactNode }) {
-  const [isDark, setIsDark] = useState(false);
+  const systemScheme = useColorScheme();
 
-  useEffect(() => {
-    AsyncStorage.getItem(KEY).then(val => {
-      if (val === 'dark') setIsDark(true);
-    });
-  }, []);
+  // Theme follows the OS setting by default and re-derives from it on every
+  // fresh launch — toggleTheme() only sets a session-only override (never
+  // persisted), so a manual choice doesn't survive a restart on purpose.
+  const [manualOverride, setManualOverride] = useState<boolean | null>(null);
+  const isDark = manualOverride ?? systemScheme === 'dark';
 
-  const toggleTheme = () => {
-    setIsDark(prev => {
-      const next = !prev;
-      AsyncStorage.setItem(KEY, next ? 'dark' : 'light');
-      return next;
-    });
-  };
+  const toggleTheme = () => setManualOverride(!isDark);
 
   return (
     <ThemeContext.Provider value={{ isDark, toggleTheme }}>
@@ -49,6 +41,7 @@ const LIGHT_COLORS = {
   overlay: Colors.overlay,
   ntWordColor: Colors.textHighlight,
   pressedIconColor: Colors.fontColorPrimary,
+  savedHighlight: Colors.savedHighlight,
 };
 
 const DARK_COLORS = {
@@ -61,6 +54,7 @@ const DARK_COLORS = {
   overlay: Colors.overlay,
   ntWordColor: Colors.fontColorWhite,
   pressedIconColor: Colors.primaryButtonBgDark,
+  savedHighlight: Colors.savedHighlightDark,
 };
 
 export function useThemeColors() {

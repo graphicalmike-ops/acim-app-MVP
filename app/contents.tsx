@@ -4,10 +4,13 @@ import { RipplePressable } from '@/components/RipplePressable';
 import { StatusBar } from 'expo-status-bar';
 import { BackIcon, HomeIcon, PlusIcon, MinusIcon } from '@/components/Icons';
 import { TertiaryButton } from '@/components/TertiaryButton';
+import { BookSectionHeading } from '@/components/BookSectionHeading';
+import { AppScrollView } from '@/components/AppScrollView';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { router, useLocalSearchParams, useFocusEffect } from 'expo-router';
 import { toTitleCase } from '@/utils/text';
 import { useTheme, useThemeColors } from '@/utils/theme';
+import { UIFonts } from '@/constants/Typography';
 
 const INDEX_FILES = {
   theory:     require('@/assets/content/theory-index.json'),
@@ -150,13 +153,11 @@ export default function ContentsScreen() {
           </View>
         </View>
 
-        <ScrollView
+        <AppScrollView
           ref={scrollRef}
           contentContainerStyle={styles.content}
-          showsVerticalScrollIndicator={false}
           style={[styles.scrollView, { backgroundColor: t.backgroundColor }]}
           onScroll={(e) => { scrollY.current = e.nativeEvent.contentOffset.y; }}
-          scrollEventThrottle={16}
         >
           {items.map((item) => {
             if (item.type === 'Title-L1') {
@@ -164,11 +165,7 @@ export default function ContentsScreen() {
             }
 
             if (item.type === 'Title-L2') {
-              return (
-                <View key={item.id} style={[styles.titleL1Item, { backgroundColor: t.backgroundColor }]}>
-                  <Text style={[styles.titleL1, { color: t.fontColorGray }]}>{toTitleCase(item.label)}</Text>
-                </View>
-              );
+              return <BookSectionHeading key={item.id} label={toTitleCase(item.label)} />;
             }
 
             if (item.type === 'Accordion') {
@@ -184,7 +181,7 @@ export default function ContentsScreen() {
                       <>
                         <View style={styles.itemRow}>
                           <View style={styles.itemText}>
-                            <Text style={[styles.itemLabelBold, { color: t.fontColorPrimary }]}>{item.bookId === 'mft' ? item.label : toTitleCase(item.label)}</Text>
+                            <Text style={[isOpen ? styles.itemLabelBold : styles.itemLabel, { color: t.fontColorPrimary }]}>{item.bookId === 'mft' ? item.label : toTitleCase(item.label)}</Text>
                             {item.subtitle && (
                               <Text style={[styles.itemSubtitle, { color: t.fontColorGray }]}>{item.bookId === 'mft' ? item.subtitle : toTitleCase(item.subtitle)}</Text>
                             )}
@@ -242,7 +239,7 @@ export default function ContentsScreen() {
               </RipplePressable>
             );
           })}
-        </ScrollView>
+        </AppScrollView>
         {loadBarVisible && (
           <View style={[styles.loadBarTrack, { backgroundColor: isDark ? 'transparent' : t.darkOutline }]}>
             <Animated.View style={[
@@ -281,8 +278,8 @@ const styles = StyleSheet.create({
   },
   navTitle: {
     flex: 1,
-    fontFamily: 'MerriweatherSans_700Bold',
-    fontSize: 14,
+    fontFamily: UIFonts.bodySRegular.fontFamily,
+    fontSize: UIFonts.bodySRegular.fontSize,
   },
   scrollView: {
     flex: 1,
@@ -310,29 +307,19 @@ const styles = StyleSheet.create({
     gap: 2,
   },
   itemLabel: {
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'NotoSans_500Medium',
     fontSize: 14,
   },
   itemLabelBold: {
-    fontFamily: 'MerriweatherSans_700Bold',
+    fontFamily: 'NotoSans_700Bold',
     fontSize: 14,
   },
   accordionChildRow: {
     paddingLeft: 24,
   },
   itemSubtitle: {
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'NotoSans_500Medium',
     fontSize: 12,
-  },
-  titleL1Item: {
-    paddingTop: 32,
-    paddingBottom: 12,
-    paddingHorizontal: 24,
-  },
-  titleL1: {
-    fontFamily: 'MerriweatherSans_700Bold',
-    fontSize: 14,
-    textTransform: 'uppercase',
   },
   loadBarTrack: {
     height: 3,

@@ -225,11 +225,23 @@ function getDb(): Promise<SQLite.SQLiteDatabase> {
 const HIGHLIGHT_START = '';
 const HIGHLIGHT_END = '';
 
+/** Splits a raw query into individual terms (whitespace-separated, trimmed, non-empty). */
+export function splitQueryTerms(query: string): string[] {
+  return query.trim().split(/\s+/).filter(Boolean);
+}
+
+/**
+ * Case- and accent-insensitive form of a term, matching the FTS5
+ * `unicode61 remove_diacritics 2` tokenizer's own normalization — used by
+ * reader.tsx to highlight matches consistently with what search actually
+ * matched (e.g. "oracion" must highlight "oración").
+ */
+export function normalizeForMatch(s: string): string {
+  return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+}
+
 function toMatchQuery(query: string): string | null {
-  const terms = query
-    .trim()
-    .split(/\s+/)
-    .filter(Boolean)
+  const terms = splitQueryTerms(query)
     // Escape FTS5 special characters and treat each term as a prefix match.
     .map((term) => `"${term.replace(/"/g, '""')}"*`);
   return terms.length ? terms.join(' ') : null;

@@ -17,6 +17,8 @@ export const Colors = {
 
   // Custom — not yet in Figma
   divider: '#EDE5D8',
+  savedHighlight: 'rgba(255, 224, 102, 0.32)',      // translucent highlighter yellow (light mode)
+  savedHighlightDark: 'rgba(255, 224, 102, 0.32)',  // translucent highlighter yellow (dark mode, keeps white text legible)
 
   // Utility
   white: '#FFFFFF',

@@ -5,13 +5,18 @@ import { StatusBar } from 'expo-status-bar';
 import * as NavigationBar from 'expo-navigation-bar';
 import { Colors } from '@/constants/Colors';
 import { HeroLogo } from '@/components/HeroLogo';
+import { useTheme } from '@/utils/theme';
+
+const heroSourceLight = require('@/assets/images/splash-bg-alt.jpg');
+const heroSourceDark = require('@/assets/images/splash-bg-dark-alt.jpg');
 
 export default function SplashScreen() {
+  const { isDark } = useTheme();
   const opacity = useRef(new Animated.Value(0)).current;
 
   useEffect(() => {
-    NavigationBar.setStyle('dark');
-  }, []);
+    NavigationBar.setStyle(isDark ? 'dark' : 'light');
+  }, [isDark]);
 
   useEffect(() => {
     Animated.timing(opacity, {
@@ -26,7 +31,7 @@ export default function SplashScreen() {
 
   return (
     <ImageBackground
-      source={require('@/assets/images/splash-bg.jpg')}
+      source={isDark ? heroSourceDark : heroSourceLight}
       style={styles.container}
       resizeMode="cover"
     >

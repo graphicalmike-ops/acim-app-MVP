@@ -9,8 +9,8 @@ export const FontFamily = {
   serifMedium:   'Lora_500Medium',
   serifSemibold: 'Lora_600SemiBold',
   serifBold:     'Lora_700Bold',
-  sans:          'MerriweatherSans_400Regular',
-  sansBold:      'MerriweatherSans_700Bold',
+  sans:          'NotoSans_500Medium',
+  sansBold:      'NotoSans_700Bold',
 };
 
 // Figma font sizes (px)
@@ -44,17 +44,17 @@ export const BookFonts = {
 // UI fonts (Merriweather Sans) — for navigation, labels, and UI chrome
 // Mirrors Figma: UI fonts/*
 export const UIFonts = {
-  bodyMdBold:     { fontFamily: 'MerriweatherSans_700Bold',    fontSize: 18 },
-  bodySBold:      { fontFamily: 'MerriweatherSans_700Bold',    fontSize: 16 },
-  bodySRegular:   { fontFamily: 'MerriweatherSans_400Regular', fontSize: 16 },
-  bodyXsBold:     { fontFamily: 'MerriweatherSans_700Bold',    fontSize: 14 },
-  bodyXsRegular:  { fontFamily: 'MerriweatherSans_400Regular', fontSize: 14 },
-  body2xsBold:    { fontFamily: 'MerriweatherSans_700Bold',    fontSize: 12 },
-  body2xsRegular: { fontFamily: 'MerriweatherSans_400Regular', fontSize: 12 },
-  body3xsRegular: { fontFamily: 'MerriweatherSans_400Regular', fontSize: 11 },
+  bodyMdBold:     { fontFamily: 'NotoSans_700Bold',    fontSize: 18 },
+  bodySBold:      { fontFamily: 'NotoSans_700Bold',    fontSize: 16 },
+  bodySRegular:   { fontFamily: 'NotoSans_500Medium', fontSize: 16 },
+  bodyXsBold:     { fontFamily: 'NotoSans_700Bold',    fontSize: 14 },
+  bodyXsRegular:  { fontFamily: 'NotoSans_500Medium', fontSize: 14 },
+  body2xsBold:    { fontFamily: 'NotoSans_700Bold',    fontSize: 12 },
+  body2xsRegular: { fontFamily: 'NotoSans_500Medium', fontSize: 12 },
+  body3xsRegular: { fontFamily: 'NotoSans_500Medium', fontSize: 11 },
   // Figma: UI fonts / caps-body-xs-* — small caps variants (approximated with uppercase)
-  capsBodyXsBold:    { fontFamily: 'MerriweatherSans_700Bold',    fontSize: 14, textTransform: 'uppercase' as const },
-  capsBodyXsRegular: { fontFamily: 'MerriweatherSans_400Regular', fontSize: 14, textTransform: 'uppercase' as const },
+  capsBodyXsBold:    { fontFamily: 'NotoSans_700Bold',    fontSize: 14, textTransform: 'uppercase' as const },
+  capsBodyXsRegular: { fontFamily: 'NotoSans_500Medium', fontSize: 14, textTransform: 'uppercase' as const },
 } as const;
 
 // Semantic typography — used throughout app screens
@@ -101,15 +101,15 @@ export const Typography = {
   } as TextStyle,
 
   // Figma: UI fonts / body-s-regular
-  bodyMedium: {
-    fontFamily: 'MerriweatherSans_400Regular',
+  bodySmall: {
+    fontFamily: 'NotoSans_500Medium',
     fontSize: 16,
     lineHeight: 24,
   } as TextStyle,
 
   // Figma: UI fonts / body-s-bold
   labelLarge: {
-    fontFamily: 'MerriweatherSans_700Bold',
+    fontFamily: 'NotoSans_700Bold',
     fontSize: 16,
     lineHeight: 24,
     letterSpacing: 0.3,
@@ -117,14 +117,14 @@ export const Typography = {
 
   // Figma: UI fonts / body-xs-regular
   labelMedium: {
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'NotoSans_500Medium',
     fontSize: 14,
     lineHeight: 20,
   } as TextStyle,
 
   // Figma: UI fonts / body-3xs-regular (bold variant for overline labels)
   overline: {
-    fontFamily: 'MerriweatherSans_700Bold',
+    fontFamily: 'NotoSans_700Bold',
     fontSize: 11,
     lineHeight: 16,
     letterSpacing: 2,

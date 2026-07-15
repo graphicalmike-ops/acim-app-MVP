@@ -5,6 +5,7 @@ import { StatusBar } from 'expo-status-bar';
 import { Colors } from '@/constants/Colors';
 import { useFonts } from 'expo-font';
 import { ThemeProvider, useTheme } from '@/utils/theme';
+import { BookmarksProvider } from '@/utils/bookmarks';
 import {
   Lora_400Regular,
   Lora_400Regular_Italic,
@@ -14,9 +15,9 @@ import {
   Lora_700Bold_Italic,
 } from '@expo-google-fonts/lora';
 import {
-  MerriweatherSans_400Regular,
-  MerriweatherSans_700Bold,
-} from '@expo-google-fonts/merriweather-sans';
+  NotoSans_500Medium,
+  NotoSans_700Bold,
+} from '@expo-google-fonts/noto-sans';
 import * as SplashScreen from 'expo-splash-screen';
 
 SplashScreen.preventAutoHideAsync();
@@ -40,8 +41,8 @@ export default function RootLayout() {
     Lora_600SemiBold,
     Lora_700Bold,
     Lora_700Bold_Italic,
-    MerriweatherSans_400Regular,
-    MerriweatherSans_700Bold,
+    NotoSans_500Medium,
+    NotoSans_700Bold,
   });
 
   useEffect(() => {
@@ -56,15 +57,18 @@ export default function RootLayout() {
 
   return (
     <ThemeProvider>
-      <NavigationBarSync />
-      <Stack screenOptions={{ headerShown: false }}>
-        <Stack.Screen name="index" options={{ animation: 'none' }} />
-        <Stack.Screen name="home" options={{ animation: 'fade', animationTypeForReplace: 'push' }} />
-        <Stack.Screen name="contents" options={{ animation: 'fade' }} />
-        <Stack.Screen name="search" options={{ animation: 'fade' }} />
-        <Stack.Screen name="reader" options={{ animation: 'fade' }} />
-      </Stack>
-      <StatusBar style="dark" backgroundColor={Colors.darkerBackgroundColor} />
+      <BookmarksProvider>
+        <NavigationBarSync />
+        <Stack screenOptions={{ headerShown: false }}>
+          <Stack.Screen name="index" options={{ animation: 'none' }} />
+          <Stack.Screen name="home" options={{ animation: 'fade', animationTypeForReplace: 'push' }} />
+          <Stack.Screen name="contents" options={{ animation: 'fade' }} />
+          <Stack.Screen name="bookmarks" options={{ animation: 'fade' }} />
+          <Stack.Screen name="search" options={{ animation: 'fade' }} />
+          <Stack.Screen name="reader" options={{ animation: 'fade' }} />
+        </Stack>
+        <StatusBar style="dark" backgroundColor={Colors.darkerBackgroundColor} />
+      </BookmarksProvider>
     </ThemeProvider>
   );
 }

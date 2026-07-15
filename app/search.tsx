@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
-import { View, Text, ScrollView, StyleSheet, Animated, useWindowDimensions } from 'react-native';
+import { View, Text, StyleSheet, Animated, useWindowDimensions } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { StatusBar } from 'expo-status-bar';
 import { router, useFocusEffect } from 'expo-router';
@@ -7,7 +7,10 @@ import { RipplePressable } from '@/components/RipplePressable';
 import { TertiaryButton } from '@/components/TertiaryButton';
 import { SearchBar } from '@/components/SearchBar';
 import { BackIcon } from '@/components/Icons';
+import { BookSectionHeading } from '@/components/BookSectionHeading';
+import { AppScrollView } from '@/components/AppScrollView';
 import { useTheme, useThemeColors } from '@/utils/theme';
+import { UIFonts } from '@/constants/Typography';
 import { searchContent, formatRouteId, splitSnippet, truncateSnippetSegments, SearchResult } from '@/utils/search';
 
 // No pagination — every match is fetched in one query. The corpus is only
@@ -110,8 +113,9 @@ export default function SearchScreen() {
     startLoadBar();
     const anchor = result.anchor ?? result.chapterAnchor ?? result.lessonAnchor;
     const paragraphParam = result.paragraph != null ? `&paragraph=${result.paragraph}` : '';
-    setTimeout(() => router.push(`/reader?book=${result.book}&anchor=${anchor}${paragraphParam}`), 200);
-  }, [navigating, startLoadBar]);
+    const queryParam = submittedQuery ? `&q=${encodeURIComponent(submittedQuery)}` : '';
+    setTimeout(() => router.push(`/reader?book=${result.book}&anchor=${anchor}${paragraphParam}${queryParam}`), 200);
+  }, [navigating, startLoadBar, submittedQuery]);
 
   const groups = groupByBook(results);
 
@@ -121,33 +125,28 @@ export default function SearchScreen() {
         <StatusBar style={isDark ? 'light' : 'dark'} backgroundColor={t.darkerBackgroundColor} />
         <View style={[styles.navBar, { backgroundColor: t.darkerBackgroundColor }]}>
           <View style={styles.navRow}>
-            <View style={styles.navLeft}>
-              <TertiaryButton hitSize={40} onPress={() => router.back()}>
-                {(pressed) => <BackIcon size={16} color={pressed ? t.pressedIconColor : t.fontColorPrimary} />}
-              </TertiaryButton>
-              <Text style={[styles.navTitle, { color: t.fontColorPrimary }]}>Búsqueda</Text>
+            <TertiaryButton hitSize={40} onPress={() => router.back()}>
+              {(pressed) => <BackIcon size={16} color={pressed ? t.pressedIconColor : t.fontColorPrimary} />}
+            </TertiaryButton>
+            <View style={styles.navSearchBar}>
+              <SearchBar
+                value={query}
+                onChangeText={setQuery}
+                onSubmit={handleSearch}
+                onClear={handleClearSearch}
+                searched={submittedQuery.length > 0 && query === submittedQuery}
+                placeholder="Buscar"
+                autoFocus
+              />
             </View>
           </View>
         </View>
 
-        <ScrollView
+        <AppScrollView
           contentContainerStyle={styles.content}
-          showsVerticalScrollIndicator={false}
           style={[styles.scrollView, { backgroundColor: t.backgroundColor }, searching ? { pointerEvents: 'none' } : null]}
           keyboardShouldPersistTaps="handled"
         >
-          <View style={styles.searchBarWrap}>
-            <SearchBar
-              value={query}
-              onChangeText={setQuery}
-              onSubmit={handleSearch}
-              onClear={handleClearSearch}
-              searched={submittedQuery.length > 0 && query === submittedQuery}
-              placeholder="Buscar"
-              autoFocus
-            />
-          </View>
-
           {submittedQuery.length > 0 && (
             <View style={styles.headerItem}>
               <Text style={[styles.titleL1, { color: t.fontColorGray }]}>
@@ -164,9 +163,7 @@ export default function SearchScreen() {
 
           {!searching && groups.map((group) => (
             <View key={group.book}>
-              <View style={styles.headerItem}>
-                <Text style={[styles.titleL1, { color: t.fontColorGray }]}>{group.title}</Text>
-              </View>
+              <BookSectionHeading label={group.title} />
               {group.items.map((result, idx) => {
                 const segments = truncateSnippetSegments(splitSnippet(result.snippet), EXCERPT_MAX_CHARS);
                 return (
@@ -198,7 +195,7 @@ export default function SearchScreen() {
               })}
             </View>
           ))}
-        </ScrollView>
+        </AppScrollView>
 
         {loadBarVisible && (
           <View style={[styles.loadBarTrack, { backgroundColor: isDark ? 'transparent' : t.darkOutline }]}>
@@ -219,21 +216,19 @@ const styles = StyleSheet.create({
   container: { flex: 1 },
   navBar: { paddingHorizontal: 24, paddingVertical: 10 },
   navRow: { flexDirection: 'row', alignItems: 'center', gap: 16 },
-  navLeft: { flex: 1, flexDirection: 'row', alignItems: 'center', gap: 16 },
-  navTitle: { flex: 1, fontFamily: 'MerriweatherSans_700Bold', fontSize: 14 },
+  navSearchBar: { flex: 1 },
   scrollView: { flex: 1 },
   content: { paddingBottom: 40 },
-  searchBarWrap: { paddingHorizontal: 24, paddingTop: 24, paddingBottom: 10 },
   headerItem: { paddingTop: 24, paddingBottom: 12, paddingHorizontal: 24 },
-  titleL1: { fontFamily: 'MerriweatherSans_700Bold', fontSize: 14, textTransform: 'uppercase' },
+  titleL1: UIFonts.capsBodyXsRegular,
   emptyState: { paddingHorizontal: 24, paddingTop: 12 },
-  emptyText: { fontFamily: 'MerriweatherSans_400Regular', fontSize: 14 },
+  emptyText: { fontFamily: 'NotoSans_500Medium', fontSize: 14 },
   item: { overflow: 'hidden', paddingLeft: 24, paddingRight: 24, paddingTop: 14, gap: 14 },
   itemRow: { flexDirection: 'row', alignItems: 'center', gap: 14 },
   itemText: { flex: 1, gap: 2 },
-  itemLabel: { fontFamily: 'MerriweatherSans_400Regular', fontSize: 14 },
-  itemSubtitle: { fontFamily: 'MerriweatherSans_400Regular', fontSize: 12 },
-  itemSubtitleBold: { fontFamily: 'MerriweatherSans_700Bold' },
+  itemLabel: { fontFamily: 'NotoSans_500Medium', fontSize: 14 },
+  itemSubtitle: { fontFamily: 'NotoSans_500Medium', fontSize: 12 },
+  itemSubtitleBold: { fontFamily: 'NotoSans_700Bold' },
   divider: { height: 2 },
   loadBarTrack: { height: 3, overflow: 'hidden' },
   loadBarFill: { position: 'absolute', left: 0, right: 0, height: 3 },

@@ -1,15 +1,16 @@
-import { useState, useCallback, useRef } from 'react';
-import { View, Text, StyleSheet, Pressable, Image, ScrollView, Animated, useWindowDimensions } from 'react-native';
+import { useState, useCallback, useRef, useEffect } from 'react';
+import { View, Text, StyleSheet, Pressable, Image, ScrollView, Animated, useWindowDimensions, Alert } from 'react-native';
 import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { router, useFocusEffect } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
 import { Colors } from '@/constants/Colors';
-import { TheoryIcon, ExercizesIcon, TeacherIcon, SupplementalIcon, TipSolidIcon, LightModeIcon, DarkModeIcon, SearchIcon, BookmarkIcon, HighlighterIcon } from '@/components/Icons';
+import { TheoryIcon, ExercizesIcon, TeacherIcon, SupplementalIcon, TipSolidIcon, LightModeIcon, DarkModeIcon, SearchIcon, BookmarkIcon, NotesIcon } from '@/components/Icons';
 import { TertiaryButton } from '@/components/TertiaryButton';
 import { HeroLogo } from '@/components/HeroLogo';
 import { loadLastRead, clearLastRead, LastReadState } from '@/utils/lastRead';
 import { RipplePressable } from '@/components/RipplePressable';
 import { useTheme } from '@/utils/theme';
+import { useBookmarks } from '@/utils/bookmarks';
 
 const BUTTONS = [
   { Icon: TheoryIcon,       label: 'Libro de Texto',         anchor: 'theory'     },
@@ -18,11 +19,20 @@ const BUTTONS = [
   { Icon: SupplementalIcon, label: 'Suplementos',            anchor: 'supplement' },
 ];
 
-const heroSource = require('@/assets/images/splash-bg.jpg');
+const heroSourceLight = require('@/assets/images/splash-bg-alt.jpg');
+const heroSourceDark = require('@/assets/images/splash-bg-dark-alt.jpg');
 
 export default function HomeScreen() {
   const { isDark, toggleTheme } = useTheme();
   const { bottom: bottomInset } = useSafeAreaInsets();
+
+  // Crossfades the hero image on every theme change, not just the first —
+  // both images stay mounted (no source swap) so there's nothing to
+  // decode/load mid-transition, just an opacity animation on top.
+  const heroFadeAnim = useRef(new Animated.Value(isDark ? 1 : 0)).current;
+  useEffect(() => {
+    Animated.timing(heroFadeAnim, { toValue: isDark ? 1 : 0, duration: 350, useNativeDriver: true }).start();
+  }, [isDark, heroFadeAnim]);
 
   const t = isDark ? {
     pageBg:          Colors.backgroundColorDark,
@@ -45,9 +55,29 @@ export default function HomeScreen() {
     btnLabelColor:   Colors.fontColorPrimary,
     btnRipple:       Colors.primaryButtonPressed,
   };
+  const { clearAllBookmarks } = useBookmarks();
   const [lastRead, setLastRead] = useState<LastReadState | null>(null);
   const [navigating, setNavigating] = useState(false);
   const [loadBarVisible, setLoadBarVisible] = useState(false);
+
+  const handleResetAll = useCallback(() => {
+    Alert.alert(
+      '¿Restablecer todo?',
+      'Se borrará el último capítulo leído y todos los versos guardados junto con sus notas. Esta acción no se puede deshacer.',
+      [
+        { text: 'Cancelar', style: 'cancel' },
+        {
+          text: 'Restablecer',
+          style: 'destructive',
+          onPress: async () => {
+            await clearLastRead();
+            setLastRead(null);
+            clearAllBookmarks();
+          },
+        },
+      ]
+    );
+  }, [clearAllBookmarks]);
   const loadBarAnim = useRef(new Animated.Value(0)).current;
   const { width: screenWidth } = useWindowDimensions();
 
@@ -89,22 +119,25 @@ export default function HomeScreen() {
         {/* Hero card */}
         <View style={[styles.heroCard, { borderColor: isDark ? Colors.darkOutline : 'transparent' }]}>
           <Image
-            source={heroSource}
+            source={heroSourceLight}
             style={[StyleSheet.absoluteFill, { width: '100%', height: '100%' }]}
+            resizeMode="cover"
+          />
+          <Animated.Image
+            source={heroSourceDark}
+            style={[StyleSheet.absoluteFill, { width: '100%', height: '100%', opacity: heroFadeAnim }]}
             resizeMode="cover"
           />
           <View style={[StyleSheet.absoluteFill, styles.heroOverlay]} />
 
-          {/* Donation icon hidden — may be restored later
           <View style={styles.heroTipButton}>
-            <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} instant onPress={async () => { await clearLastRead(); setLastRead(null); }}>
+            <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} onPress={handleResetAll}>
               {(pressed) => <TipSolidIcon size={24} color={pressed ? (isDark ? Colors.fontColorWhite : Colors.fontColorPrimary) : Colors.fontColorWhite} />}
             </TertiaryButton>
           </View>
-          */}
 
           <View style={styles.heroThemeToggle}>
-            <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} instant onPress={toggleTheme}>
+            <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} onPress={toggleTheme}>
               {(pressed) => isDark
                 ? <LightModeIcon size={20} color={pressed ? Colors.fontColorWhite : t.topBarIconColor} />
                 : <DarkModeIcon size={20} color={pressed ? Colors.fontColorPrimary : Colors.fontColorSecondary} />
@@ -121,15 +154,15 @@ export default function HomeScreen() {
             {/* Highlighted item — continue reading / welcome */}
             <View style={styles.highlighted}>
               <View style={styles.highlightPlaceholders}>
-                <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} instant onPress={() => router.push('/search')}>
+                <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} onPress={() => router.push('/search')}>
                   {(pressed) => <SearchIcon size={20} color={pressed ? (isDark ? Colors.fontColorWhite : Colors.fontColorPrimary) : Colors.fontColorSecondary} />}
                 </TertiaryButton>
-                {/* Bookmark and highlighter icons hidden — may be restored later
-                <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} instant onPress={() => {}}>
+                <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} onPress={() => router.push('/bookmarks')}>
                   {(pressed) => <BookmarkIcon size={20} color={pressed ? (isDark ? Colors.fontColorWhite : Colors.fontColorPrimary) : Colors.fontColorSecondary} />}
                 </TertiaryButton>
-                <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} instant onPress={() => {}}>
-                  {(pressed) => <HighlighterIcon size={20} color={pressed ? (isDark ? Colors.fontColorWhite : Colors.fontColorPrimary) : Colors.fontColorSecondary} />}
+                {/* Notes icon hidden — may be restored later
+                <TertiaryButton hitSize={40} rippleColor={t.topBarRipple} onPress={() => {}}>
+                  {(pressed) => <NotesIcon size={20} color={pressed ? (isDark ? Colors.fontColorWhite : Colors.fontColorPrimary) : Colors.fontColorSecondary} />}
                 </TertiaryButton>
                 */}
               </View>
@@ -264,22 +297,24 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     gap: 0,
     zIndex: 1,
+    paddingTop: 2,
+    paddingRight: 2,
   },
   highlightMeta: {
     gap: 8,
   },
   highlightLabel: {
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'NotoSans_500Medium',
     fontSize: 12,
     color: Colors.fontColorSecondary,
   },
   highlightChapter: {
-    fontFamily: 'MerriweatherSans_700Bold',
+    fontFamily: 'NotoSans_700Bold',
     fontSize: 12,
     color: Colors.fontColorSecondary,
   },
   highlightQuote: {
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'NotoSans_500Medium',
     fontSize: 16,
     color: Colors.fontColorSecondary,
     marginTop: 16,
@@ -295,7 +330,7 @@ const styles = StyleSheet.create({
   },
   sigueBtnPressed: {},
   sigueBtnText: {
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'NotoSans_500Medium',
     fontSize: 14,
     color: Colors.fontColorSecondary,
   },
@@ -334,7 +369,7 @@ const styles = StyleSheet.create({
   },
   primaryBtnLabel: {
     flex: 1,
-    fontFamily: 'MerriweatherSans_400Regular',
+    fontFamily: 'NotoSans_500Medium',
     fontSize: 16,
   },
 });
