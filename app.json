@@ -50,7 +50,8 @@
       ],
       "expo-font",
       "expo-sqlite",
-      "expo-asset"
+      "expo-asset",
+      "./plugins/withAndroidBackupRules.js"
     ],
     "experiments": {
       "typedRoutes": true,
