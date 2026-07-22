@@ -1,5 +1,6 @@
 import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { colorScheme } from 'nativewind';
 import { Colors } from '@/constants/Colors';
 
 const THEME_KEY = 'acim_theme';
@@ -22,6 +23,12 @@ export function ThemeProvider({ children }: { children: ReactNode }) {
       if (value === 'dark') setIsDark(true);
     });
   }, []);
+
+  // Drives NativeWind's `dark:` variants off the same manual, persisted
+  // isDark source of truth — never NativeWind's own OS-linked default.
+  useEffect(() => {
+    colorScheme.set(isDark ? 'dark' : 'light');
+  }, [isDark]);
 
   const toggleTheme = () => {
     setIsDark((prev) => {

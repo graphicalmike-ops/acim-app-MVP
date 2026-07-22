@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* OLD SCHEME — mirrors utils/theme.tsx's LIGHT_COLORS / DARK_COLORS, which
+   derive from constants/Colors.ts. constants/Colors.ts + utils/theme.tsx
+   remain the source of truth — these variables are a mirror for
+   NativeWind's `dark:` variants, kept in sync with the app's manual,
+   persisted isDark toggle (see the colorScheme.set() bridge in
+   utils/theme.tsx).
+   Prefixed `old-` so it never collides with the new semantic token set
+   being defined in Figma. Delete this whole block (+ the matching
+   tailwind.config.js keys + constants/Colors.ts old palette) once no
+   screen references an `old-*` class anymore. */
+@layer base {
+  :root {
+    --old-background-color: #F7F3F0;
+    --old-darker-background-color: #EDE3DD;
+    --old-font-color-primary: #333333;
+    --old-font-color-gray: #666666;
+    --old-dark-outline: #DED5CE;
+    --old-primary-button-bg: #FFFFFF;
+    --old-overlay: rgba(51, 51, 51, 0.6);
+    --old-nt-word-color: #803000;
+    --old-pressed-icon-color: #333333;
+    --old-saved-highlight: rgba(255, 224, 102, 0.32);
+  }
+
+  .dark:root {
+    --old-background-color: #29264D;
+    --old-darker-background-color: #99794D;
+    --old-font-color-primary: #FFFFFF;
+    --old-font-color-gray: #F7F3F0;
+    --old-dark-outline: #DED5CE;
+    --old-primary-button-bg: #FFFFFF;
+    --old-overlay: rgba(51, 51, 51, 0.6);
+    --old-nt-word-color: #FFFFFF;
+    --old-pressed-icon-color: #99794D;
+    --old-saved-highlight: rgba(255, 224, 102, 0.32);
+  }
+
+  /* RNR/shadcn placeholder slot vars — react-native-reusables primitives
+     (Button, Input, Text, and future ones) are hardcoded to this generic
+     vocabulary (bg-primary, text-foreground, etc.), not our own token
+     names. These just alias the OLD scheme so pulled-in components render
+     correctly against the current look out of the box. They're scaffolding:
+     expect them to get re-pointed at the new semantic tokens (or overridden
+     per-instance) as screens get redesigned in Step 4, then deleted
+     alongside the old-* block once nothing needs the old look anymore.
+     `--destructive` has no old-scheme equivalent (the app has no destructive
+     actions today) — it's a plain placeholder red, not sourced from Figma. */
+  :root {
+    --background: var(--old-background-color);
+    --foreground: var(--old-font-color-primary);
+    --primary: var(--old-primary-button-bg);
+    --primary-foreground: var(--old-font-color-primary);
+    --secondary: var(--old-darker-background-color);
+    --secondary-foreground: var(--old-font-color-primary);
+    --muted: var(--old-darker-background-color);
+    --muted-foreground: var(--old-font-color-gray);
+    --accent: var(--old-darker-background-color);
+    --accent-foreground: var(--old-font-color-primary);
+    --border: var(--old-dark-outline);
+    --input: var(--old-dark-outline);
+    --ring: var(--old-dark-outline);
+    --destructive: #DC2626;
+  }
+}

@@ -1,3 +1,4 @@
+import '../global.css';
 import { useEffect } from 'react';
 import { Stack, usePathname } from 'expo-router';
 import * as NavigationBar from 'expo-navigation-bar';

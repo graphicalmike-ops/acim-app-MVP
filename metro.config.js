@@ -1,5 +1,6 @@
 // Learn more https://docs.expo.dev/guides/monorepos/#metro-configuration
 const { getDefaultConfig } = require('expo/metro-config');
+const { withNativeWind } = require('nativewind/metro');
 
 const config = getDefaultConfig(__dirname);
 
@@ -12,4 +13,4 @@ config.resolver.assetExts.push('db');
 // this only matters for the web preview).
 config.resolver.assetExts.push('wasm');
 
-module.exports = config;
+module.exports = withNativeWind(config, { input: './global.css' });
