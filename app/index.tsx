@@ -15,8 +15,12 @@ export default function SplashScreen() {
   const opacity = useRef(new Animated.Value(0)).current;
 
   useEffect(() => {
-    NavigationBar.setStyle(isDark ? 'dark' : 'light');
-  }, [isDark]);
+    // Always white/light icons here — the splash background is always a busy
+    // photographic image (sunset or night sky), never a flat theme color, so
+    // icon contrast shouldn't follow the app's light/dark theme (matches the
+    // hardcoded <StatusBar style="light" /> below for the same reason).
+    NavigationBar.setStyle('dark');
+  }, []);
 
   useEffect(() => {
     Animated.timing(opacity, {
